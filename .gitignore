@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Training outputs (large)
+models/geologix-general-lora/
+models/geologix-legal-lora/
+models/geologix-general-merged/
+models/geologix-legal-merged/
+models/legal_vault/
+
+# Generated datasets (rebuilt by 01_prepare_data.py)
+data/zasca_formatted.json
+
+# Hugging Face / torch caches
+.cache/
+*.bin
+*.safetensors
+*.gguf
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
