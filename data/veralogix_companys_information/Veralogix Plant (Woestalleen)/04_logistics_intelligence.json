@@ -1,0 +1,54 @@
+﻿{
+    "_section":  "logistics_intelligence",
+    "_company":  "Veralogix Plant (Woestalleen)",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "key_rail_routes":  [
+                                         {
+                                             "corridor":  "TFR Coal Line â€” Mpumalanga to Richards Bay Coal Terminal (RBCT)",
+                                             "description":  "The primary export coal rail corridor in South Africa; second-largest coal railway in the world. Runs from the Witbank/eMalahleni coalfields through to Richards Bay, KwaZulu-Natal. Woestalleen is positioned along or adjacent to this corridor.",
+                                             "current_capacity":  "Approximately 1.17 million tonnes/week as of April 2026 (annualised ~60.8 Mtpa); target 77 Mtpa after infrastructure investment programme",
+                                             "planned_closure":  "21 July â€“ 1 August 2026 (12-day annual maintenance window; both single-line and double-line closures)",
+                                             "investment":  "R21.9 billion approved for five major coal corridor infrastructure projects through the Budget Facility for Infrastructure"
+                                         },
+                                         {
+                                             "corridor":  "North Corridor (Mpumalanga to Maputo/Matola, Mozambique)",
+                                             "description":  "Alternative export route serving coal mines in the northern Mpumalanga and Limpopo regions. Provides access to Matola Coal Terminal (MCT) and Maputo Port as an alternative to RBCT. Rail sidings along this corridor offer a secondary market for toll-washed coal.",
+                                             "current_capacity":  "Constrained; lower volumes than coal line but recovering with TFR investment",
+                                             "key_sidings":  "Watervalboven, Kaapmuiden area sidings relevant for northern Mpumalanga operators"
+                                         }
+                                     ],
+                 "rail_siding_relevance":  "A plant with its own rail siding (like Veralogix Plant at Woestalleen) holds a significant competitive advantage over road-only processors. Rail-siding access reduces trucking costs, allows direct loading to export trains, and makes the facility attractive to mine operators who want door-to-export-terminal throughput via a single service provider.",
+                 "how_rail_affects_toll_washing_demand":  [
+                                                              "When TFR rail slots are allocated and throughput increases, demand for toll washing rises because more coal is viable for export â€” but only if it meets RB1/RB2 quality spec, requiring DMS processing.",
+                                                              "During TFR maintenance closures (e.g., the July 2026 window), stockpile buildup at plant level creates throughput pressure; mines continue to produce ROM coal that needs processing even when rail is offline.",
+                                                              "Rail liberalisation discussions (third-party rail access policy under review) may open new opportunities for toll washing plants with private siding infrastructure to offer integrated siding-to-RBCT services under future access regimes."
+                                                          ],
+                 "monitoring_sources":  [
+                                            {
+                                                "name":  "Transnet Freight Rail â€” Coal Business Unit Overview",
+                                                "url":  "https://www.transnetfreightrail-tfr.net/BU/Coal/Pages/Overview.aspx"
+                                            },
+                                            {
+                                                "name":  "S\u0026P Global â€” RBCT and Transnet coal corridor reporting",
+                                                "url":  "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+                                            },
+                                            {
+                                                "name":  "Railways Africa â€” TFR policy and investment news",
+                                                "url":  "https://www.railwaysafrica.com"
+                                            },
+                                            {
+                                                "name":  "Freight News SA â€” logistics and port/rail disruptions",
+                                                "url":  "https://www.freightnews.co.za"
+                                            },
+                                            {
+                                                "name":  "Mpumalanga Province Freight Data Bank â€” rail overview",
+                                                "url":  "http://safiri.co.za/mpfdb/rail-overview.html"
+                                            },
+                                            {
+                                                "name":  "Daily Maverick â€” Transnet recovery and logistics",
+                                                "url":  "https://www.dailymaverick.co.za"
+                                            }
+                                        ]
+             }
+}

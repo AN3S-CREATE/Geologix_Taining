@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "title": "Geologix Vanguard Group — Tender Monitoring Intelligence",
+    "description": "Comprehensive tender portal landscape for SA industrial group covering mining services, logistics, energy, equipment rental, security, IT, and construction",
+    "compiled_date": "2026-06-25",
+    "compiled_by": "Claude Code (Anthropic) — automated market intelligence"
+  },
+
+  "national_portals": [
+    {
+      "portal_name": "National Treasury eTenders Publication Portal",
+      "url": "https://www.etenders.gov.za",
+      "transparency_portal_url": "https://data.etenders.gov.za",
+      "ocds_api_url": "https://ocds-api.etenders.gov.za",
+      "swagger_ui": "https://ocds-api.etenders.gov.za/swagger/index.html",
+      "update_frequency": "Real-time — procurement plans, advertisements, awards, and contracts published automatically once captured by government departments",
+      "registration_required": "No registration needed to browse; CSD registration (https://secure.csd.gov.za) mandatory to submit bids",
+      "data_format": ["HTML", "JSON (OCDS REST API)", "CSV (bulk download)", "XLSX (bulk download)"],
+      "api_available": true,
+      "api_standard": "OCDS (Open Contracting Data Standard) v1 — licensed Creative Commons BY 4.0",
+      "bulk_download": "Monthly XLSX/CSV/JSON files available from May 2021 at https://data.etenders.gov.za/Home/ReleasesFiles",
+      "data_status": "Public beta",
+      "collection_method": "API preferred; bulk download fallback",
+      "veralogix_sectors_served": [
+        "Veramani IT Division",
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals",
+        "Coal Processors International",
+        "Security Services",
+        "Construction"
+      ],
+      "notes": "Primary national procurement gazette. All national and provincial departments publish here. Municipal RFQs below R500k may not appear — use ProTenders for municipal coverage."
+    },
+    {
+      "portal_name": "CIDB (Construction Industry Development Board)",
+      "url": "https://www.cidb.org.za",
+      "register_of_contractors_url": "https://registers.cidb.org.za",
+      "portal_url": "https://portal.cidb.org.za",
+      "update_frequency": "Varies; tender notices tied to project registration updates",
+      "registration_required": "Mandatory CIDB grading (Grades 1–9) for all contractors bidding on public construction work. Registration via cidb.org.za.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — no public API or bulk download",
+      "veralogix_sectors_served": [
+        "Endeto Project Services",
+        "Construction",
+        "Veralogix Rentals (plant hire on CIDB-graded projects)"
+      ],
+      "cidb_grading_required": true,
+      "notes": "Mandatory for any company bidding on government construction work. Contractors must hold the correct CIDB grade matching contract value. Registration documents must include award letters and certificates of completion on client letterhead."
+    },
+    {
+      "portal_name": "Eskom Tender Bulletin",
+      "url": "https://tenderbulletin.eskom.co.za",
+      "procurement_page": "https://www.eskom.co.za/procurement/",
+      "tenders_page": "https://www.eskom.co.za/tenders/",
+      "update_frequency": "Weekly bulletin; individual tenders posted on rolling basis",
+      "registration_required": "CSD registration mandatory first. Then vendor registration via Eskom's vendor portal (4–6 week processing time). Requirements: Company Registration Certificate, Tax Clearance Certificate, B-BBEE Certificate, Business Profile, ISO 9001 or equivalent SHEQ policy.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — tender search interface at tenderbulletin.eskom.co.za/search",
+      "annual_procurement_spend": "Eskom is the largest public procurer in South Africa — thousands of tenders annually",
+      "veralogix_sectors_served": [
+        "Veramani IT Division",
+        "Endeto Project Services (engineering/maintenance)",
+        "Veralogix Rentals (heavy equipment for construction/maintenance)",
+        "Mining Safety Services (contractor safety compliance)",
+        "Energy/Solar"
+      ],
+      "notes": "Eskom requires CSD registration before vendor portal registration. High-value engineering, plant maintenance, and infrastructure tenders. Watch for IPP (Independent Power Producer) related procurement."
+    },
+    {
+      "portal_name": "Transnet eSupplier Portal",
+      "url": "https://www.transnet.net/TransnetTenders",
+      "port_terminals_rfq": "https://www.transnetportterminals.net/Supplier/Pages/procurement_RFQs.aspx",
+      "freight_rail_tenders": "https://www.transnetfreightrail-tfr.net/Supplier/Pages/Tenders.aspx",
+      "vendor_registration": "https://www.transnetengineering.net/doing-business-with-us/supply-management/vendor-registration-process/",
+      "update_frequency": "Continuous; new tenders posted as required by operating divisions",
+      "registration_required": "CSD registration mandatory. Then register on Transnet eSupplier Portal. Upload: B-BBEE certificate, tax clearance, company registration. Select commodity categories.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — unified portal covers Transnet SOC, Port Terminals, Freight Rail, Pipelines, Properties",
+      "annual_procurement_spend": "R50 billion+ annual procurement — one of SA's largest tender sources",
+      "veralogix_sectors_served": [
+        "Veralogix Rentals (heavy equipment, rail maintenance)",
+        "Endeto Project Services (engineering, fabrication, maintenance)",
+        "Veramani IT Division (ICT infrastructure)",
+        "Coal Processors International (coal logistics, port operations)"
+      ],
+      "notes": "All Transnet operating divisions now unified under the eSupplier Portal for digital submission. Critical for logistics-adjacent services."
+    },
+    {
+      "portal_name": "DMPR (Department of Mineral Resources and Petroleum)",
+      "url": "https://www.dmpr.gov.za",
+      "legacy_url": "https://www.dmre.gov.za/tenders",
+      "update_frequency": "Ad hoc — tenders published on rolling basis per procurement cycle",
+      "registration_required": "Submit to Procurement Officer, Private Bag X59, Arcadia 0007. Online submission where available.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — monitor dmpr.gov.za and aggregators (tenderalerts.co.za, easytenders.co.za)",
+      "veralogix_sectors_served": [
+        "Mining Safety Services (MHSA-linked procurement)",
+        "Veramani IT Division",
+        "Endeto Project Services"
+      ],
+      "notes": "Department rebranded from DMRE to DMPR (Department of Mineral Resources and Petroleum). Legacy URLs still redirect. Watch for regulatory compliance services tenders — high relevance for Mining Safety Services."
+    },
+    {
+      "portal_name": "Armscor (Armaments Corporation of South Africa)",
+      "url": "https://www.armscor.co.za",
+      "tenders_url": "https://www.armscor.co.za/tenders/",
+      "active_tenders": "https://apps.armscor.co.za/Tenders/Tenders.asp?TStatus=2",
+      "supplier_registration": "https://www.armscor.co.za/register-as-supplier/",
+      "update_frequency": "Ad hoc per defence procurement cycle",
+      "registration_required": "Electronic supplier AND security registration mandatory. Facility Security Clearance (FSC) required for classified contracts — vetting takes 4+ months. Register early.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only",
+      "veralogix_sectors_served": [
+        "Security Services (guarding, surveillance for defence facilities)",
+        "Veramani IT Division (ICT for defence/government)"
+      ],
+      "notes": "Primarily relevant for Security Services division. Requires Facility Security Clearance before any classified contract eligibility. Non-classified tenders (IT, logistics support) do not require FSC."
+    },
+    {
+      "portal_name": "Department of Public Works & Infrastructure (DPWI)",
+      "url": "http://www.publicworks.gov.za/tenders.html",
+      "update_frequency": "Weekly via Government Gazette and online publication",
+      "registration_required": "CIDB grading for construction; CSD registration for all",
+      "data_format": ["HTML", "PDF", "Government Gazette (PDF)"],
+      "api_available": false,
+      "collection_method": "Scrape-only",
+      "veralogix_sectors_served": [
+        "Endeto Project Services",
+        "Construction",
+        "Veralogix Rentals",
+        "Security Services"
+      ],
+      "notes": "Major source of infrastructure construction and facility management tenders. Also manages leases of state-owned buildings — relevant for security guarding contracts."
+    },
+    {
+      "portal_name": "AEMFC (African Exploration Mining and Finance Corporation) — Open Tenders",
+      "url": "https://www.aemfc.co.za/procurement/open-tenders",
+      "update_frequency": "Ad hoc",
+      "registration_required": "CSD registration",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only",
+      "veralogix_sectors_served": [
+        "Coal Processors International",
+        "Mining Safety Services",
+        "Veralogix Rentals"
+      ],
+      "notes": "State-owned mining company — coal-specific. Relevant for Coal Processors International and equipment rental."
+    },
+    {
+      "portal_name": "SANRAL (South African National Roads Agency) — Open Tenders",
+      "url": "https://www.nra.co.za/sanral-tenders/list/open-tenders",
+      "smme_portal": "https://sanralesdd.co.za",
+      "second_tier_tenders": "https://www.nra.co.za/sanral-tenders/list/received-tenders",
+      "update_frequency": "Continuous — tenders posted as advertised per SANRAL procurement cycle",
+      "registration_required": "CSD registration mandatory. CIDB grading required for road construction (CE class). Register on SANRAL eSDD for SMME 2nd-tier subcontracting opportunities.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — nra.co.za/sanral-tenders/list/open-tenders or via eTenders OCDS API (SANRAL also publishes to eTenders)",
+      "veralogix_sectors_served": [
+        "Endeto Project Services (civil and structural engineering, bridge fabrication)",
+        "Veralogix Rentals (plant and equipment hire on road projects)",
+        "Construction"
+      ],
+      "notes": "SANRAL manages the national road network (R millions per contract). Road construction, routine maintenance, professional services, and toll management tenders. 2nd-tier/SMME subcontracting available through SANRAL eSDD without going through full main-contractor tender process."
+    },
+    {
+      "portal_name": "PRASA (Passenger Rail Agency of South Africa) — Procurement",
+      "url": "https://www.prasa.com/tenders",
+      "update_frequency": "Ad hoc — per PRASA capital and maintenance procurement cycles",
+      "registration_required": "CSD registration mandatory. CIDB grading for construction works. Compulsory briefing sessions required before most PRASA tenders.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — monitor prasa.com/tenders and eTenders portal (PRASA publishes via eTenders for larger contracts)",
+      "veralogix_sectors_served": [
+        "Endeto Project Services (rail infrastructure, steel fabrication for rolling stock maintenance facilities)",
+        "Security Services (station and corridor security)",
+        "Veramani IT Division (passenger information and ICT systems)",
+        "Veralogix Rentals (construction equipment on station upgrades)"
+      ],
+      "notes": "PRASA manages intercity rail (Shosholoza Meyl) and commuter rail (Metrorail). Massive station upgrade and rolling stock maintenance programme. Security tenders at stations are large multi-year contracts. Strict documentation and compulsory briefings — factor in lead time."
+    },
+    {
+      "portal_name": "ACSA (Airports Company South Africa) — Procurement",
+      "url": "https://www.airports.co.za/business-and-procurement",
+      "update_frequency": "Ad hoc",
+      "registration_required": "CSD registration. Vendor registration via ACSA procurement portal.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — also captured on eTenders for formal tenders",
+      "veralogix_sectors_served": [
+        "Security Services (airport security guarding and access control)",
+        "Veramani IT Division (aviation ICT infrastructure)",
+        "Endeto Project Services (terminal construction and maintenance)",
+        "Veralogix Rentals (airfield and terminal construction equipment)"
+      ],
+      "notes": "ACSA manages OR Tambo, Cape Town, King Shaka, and six smaller airports. Facilities management, security guarding, ICT, and construction tenders. Airport-specific PSIRA licensing required for security guarding."
+    },
+    {
+      "portal_name": "DBSA (Development Bank of Southern Africa) — Tenders",
+      "url": "https://www.dbsa.org/procurement-process",
+      "rfp_rfq_url": "https://www.dbsa.org/EN/TenderInfo/Pages/default.aspx",
+      "update_frequency": "Ad hoc per project financing cycle",
+      "registration_required": "CSD registration. Register on DBSA Central Supplier Database via dbsa.org/central-supplier-database.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — also published in national newspapers and eTenders",
+      "veralogix_sectors_served": [
+        "Energy/Solar (renewable energy project finance and EPC tendering)",
+        "Construction (infrastructure project delivery)",
+        "Veramani IT Division (project management systems)",
+        "Endeto Project Services (engineering services on DBSA-funded infrastructure)"
+      ],
+      "notes": "DBSA finances municipal infrastructure (water, energy, transport, housing) and often procures engineering and construction services directly for projects it implements. Strong renewable energy and water infrastructure pipeline. Check DBSA separately — not all tenders appear on eTenders."
+    },
+    {
+      "portal_name": "IDC (Industrial Development Corporation) — Tenders",
+      "url": "https://www.idc.co.za/tenders/",
+      "update_frequency": "Ad hoc",
+      "registration_required": "CSD registration. IDC does not maintain a separate supplier database — direct tender submission to IDC procurement team.",
+      "data_format": ["HTML", "PDF"],
+      "api_available": false,
+      "collection_method": "Scrape-only — monitor idc.co.za/tenders/ and eTenders portal",
+      "veralogix_sectors_served": [
+        "Veramani IT Division (ICT services for financial institution)",
+        "Energy/Solar (green energy project procurement)",
+        "Security Services (facility security)"
+      ],
+      "notes": "IDC provides development finance and also procures services directly. Lower volume than DBSA but relevant for green economy and mining beneficiation project services. IDC also funds Veralogix Group companies — dual relationship opportunity."
+    }
+  ],
+
+  "mining_house_portals": [
+    {
+      "company_name": "Anglo American South Africa",
+      "supplier_portal_url": "https://southafrica.angloamerican.com/suppliers",
+      "registration_url": "https://s1-eu.ariba.com/Sourcing/Main/ad/selfRegistration?realm=AngloAmerican",
+      "platform": "SAP Ariba (Ariba Network + Supplier Lifecycle & Performance module)",
+      "support_email": "Supplier.EMEA@angloamerican.com",
+      "registration_process": "1. Register on SAP Ariba Network. 2. Complete Supplier Lifecycle & Performance (SLP) profile. 3. Submit B-BBEE certificate, tax clearance, company registration. 4. Anglo American reviews and approves vendor.",
+      "commodities": ["Platinum Group Metals (Amplats)", "Iron Ore (Kumba)", "Coal", "Diamonds (De Beers)"],
+      "veralogix_companies_applicable": [
+        "Endeto Project Services (engineering, fabrication, maintenance shutdowns)",
+        "Mining Safety Services (contractor safety management, MHSA compliance)",
+        "Veralogix Rentals (heavy equipment hire)",
+        "Coal Processors International (coal plant operations)",
+        "Veramani IT Division (ICT, connectivity)"
+      ],
+      "notes": "Inclusive procurement policy targets black-, female-, youth-owned businesses. Operates Zimele enterprise development programme with hubs near operations."
+    },
+    {
+      "company_name": "Anglo American — Kumba Iron Ore",
+      "supplier_portal_url": "https://www.angloamericankumba.com/suppliers",
+      "registration_url": "https://www.angloamericankumba.com/suppliers",
+      "platform": "SAP Ariba (shared Anglo American group platform)",
+      "registration_process": "Register via Anglo American group Ariba portal. Kumba-specific commodity categories for iron ore operations (Sishen, Kolomela mines in Northern Cape).",
+      "commodities": ["Iron Ore"],
+      "key_operations": "Sishen Mine (Northern Cape), Kolomela Mine (Northern Cape)",
+      "veralogix_companies_applicable": [
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals"
+      ],
+      "notes": "Iron ore only. Two flagship mines in Northern Cape. Maintenance shutdowns and plant services are significant procurement categories."
+    },
+    {
+      "company_name": "Implats (Impala Platinum Holdings)",
+      "supplier_portal_url": "https://www.implats.co.za/south-african-prospective-supplier.php",
+      "platform": "SAP Ariba",
+      "registration_process": "Register online at implats.co.za. Ariba-based supplier lifecycle management. Linked to Enterprise and Supplier Development (ESD) department and Business Development Centre at Marula Operations.",
+      "commodities": ["Platinum Group Metals", "Palladium", "Rhodium"],
+      "key_operations": "Impala Rustenburg, Marula (Limpopo), Two Rivers (Mpumalanga), Zimplats (Zimbabwe)",
+      "veralogix_companies_applicable": [
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals",
+        "Veramani IT Division"
+      ],
+      "notes": "Economic Inclusion Centre at Impala Rustenburg supports local SMME supplier development."
+    },
+    {
+      "company_name": "Sibanye-Stillwater",
+      "supplier_portal_url": "https://www.sibanyestillwater.com/suppliers/south-africa/",
+      "registration_url": "https://www.sibanyestillwater.com/suppliers/south-africa/register-login/",
+      "coupa_registration": "https://www.sibanyestillwater.com/sibanyesupply/",
+      "platform": "Coupa Supplier Portal",
+      "registration_process": "1. Complete online supplier registration form at sibanyestillwater.com/suppliers/south-africa/. 2. Attach B-BBEE and Tax Clearance Certificates. 3. Submit all required profile data. Support: portalsupport@sibanyestillwater.com / 011 278 9600.",
+      "commodities": ["Gold", "Platinum Group Metals", "Uranium"],
+      "key_operations": "Kloof, Driefontein, Beatrix (gold, Gauteng/FS), Rustenburg Platinum Mines, Marikana (Cooke), Kroondal",
+      "veralogix_companies_applicable": [
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals",
+        "Coal Processors International (uranium/gold plant services)"
+      ],
+      "notes": "Largest gold producer in SA and significant PGM player. High volume of maintenance, safety, and equipment rental procurement."
+    },
+    {
+      "company_name": "Glencore South Africa",
+      "supplier_portal_url": "https://www.glencore.com/south-africa/suppliers",
+      "platform": "Glencore proprietary portal (separate portals for Coal and Ferroalloys operations)",
+      "registration_process": "Register online at glencore.com/south-africa/suppliers. Separate portals for Coal operations (Mpumalanga/KZN) and Ferroalloys (Limpopo). Preference for local, black-owned businesses near operations.",
+      "commodities": ["Thermal Coal", "Ferrochrome", "Ferroalloys", "Manganese"],
+      "key_operations": "Mpumalanga coal mines (Tweefontein, Impunzi, Goedgevonden), Merafe Ferrochrome JV (Limpopo), Lydenburg Smelters",
+      "veralogix_companies_applicable": [
+        "Coal Processors International",
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals"
+      ],
+      "notes": "One of SA's largest coal exporters. Proximity-based preference — operations concentrated in Mpumalanga/Limpopo."
+    },
+    {
+      "company_name": "Gold Fields South Africa",
+      "supplier_portal_url": "https://www.goldfields.com/supplier-registration.php",
+      "platform": "Gold Fields proprietary supplier registration system",
+      "registration_process": "Register via goldfields.com/supplier-registration.php. Submit company details, B-BBEE certificate, tax clearance.",
+      "commodities": ["Gold"],
+      "key_operations": "South Deep Mine (Westonaria, Gauteng — world's second deepest mine)",
+      "veralogix_companies_applicable": [
+        "Endeto Project Services",
+        "Mining Safety Services",
+        "Veralogix Rentals",
+        "Veramani IT Division"
+      ],
+      "notes": "SA operations currently limited to South Deep (Gold Fields exited other SA mines). Deep-level mining requires specialist safety and engineering services."
+    },
+    {
+      "company_name": "Harmony Gold Mining Company",
+      "supplier_portal_url": "https://www.harmonyprocure.com/SCNMembership/SMMERegistration.aspx",
+      "procurement_policy": "https://www.harmony.co.za/policy/south-african-preferential-procurement-policy/",
+      "platform": "Harmony Procurement Portal (harmonyprocure.com)",
+      "registration_process": "Register as SMME supplier via harmonyprocure.com. Preferential procurement policy with targets for local and HDI suppliers.",
+      "commodities": ["Gold", "Uranium"],
+      "key_operations": "Moab Khotsong, Doornkop, Kusasalethu, Masimong, Tshepong (Free State, Gauteng), Hidden Valley (Papua New Guinea)",
+      "veralogix_companies_applicable": [
+        "Mining Safety Services",
+        "Endeto Project Services",
+        "Veralogix Rentals",
+        "Coal Processors International (uranium byproduct)"
+      ],
+      "notes": "SA's largest gold producer by volume (underground). Strong SMME focus — accessible entry point for group companies."
+    },
+    {
+      "company_name": "Sasol (Mining & Energy)",
+      "supplier_portal_url": "https://www.sasol.com/suppliers",
+      "existing_supplier_portal": "https://www.sasol.com/suppliers/existing-supplier-portal",
+      "platform": "Sasol SAP-based supplier management",
+      "registration_process": "CSD registration required first. Then register via Sasol's supplier portal. Sasol uses integrated CSD data for supplier verification.",
+      "commodities": ["Thermal Coal (Secunda, Mpumalanga)", "Natural Gas", "Synthetic Fuels", "Chemicals"],
+      "key_operations": "Sasol Mining (Mpumalanga coal mines), Secunda Synfuels (world's largest coal-to-liquid plant), Natref Refinery",
+      "veralogix_companies_applicable": [
+        "Coal Processors International (coal supply, plant operations)",
+        "Endeto Project Services (shutdown maintenance at Secunda)",
+        "Mining Safety Services",
+        "Veralogix Rentals",
+        "Veramani IT Division"
+      ],
+      "notes": "Secunda is one of SA's largest single industrial procurement sites. Plant shutdown contracts are high-value. Coal supply chain services directly relevant to Coal Processors International."
+    },
+    {
+      "company_name": "Northam Platinum",
+      "supplier_portal_url": "https://www.northam.co.za/procurement/",
+      "platform": "Northam proprietary supplier database",
+      "registration_process": "Submit supplier registration application via northam.co.za. Procurement team reviews and approves qualified suppliers.",
+      "commodities": ["Platinum Group Metals", "Palladium", "Rhodium"],
+      "key_operations": "Zondereinde Mine (Limpopo — deepest platinum mine), Booysendal (Limpopo/Mpumalanga)",
+      "veralogix_companies_applicable": [
+        "Mining Safety Services",
+        "Endeto Project Services",
+        "Veralogix Rentals"
+      ],
+      "notes": "Significant PGM producer. Zondereinde is deepest platinum mine — specialist safety and vertical transport requirements."
+    },
+    {
+      "company_name": "African Rainbow Minerals (ARM)",
+      "supplier_portal_url": "https://www.arm.co.za/suppliers",
+      "platform": "ARM proprietary supplier registration",
+      "registration_process": "Register via arm.co.za. ARM operates through joint ventures — supplier registration may need to be done at JV level (e.g., Assmang).",
+      "commodities": ["Manganese", "Iron Ore", "Chrome", "Coal", "Platinum Group Metals"],
+      "key_operations": "Modikwa Platinum (Limpopo), Two Rivers Platinum (Mpumalanga), Khumani Iron Ore (Northern Cape), Beeshoek Iron Ore, Nkomati Nickel (Mpumalanga), Gloria/Goedgevonden Coal (Mpumalanga)",
+      "veralogix_companies_applicable": [
+        "Coal Processors International",
+        "Mining Safety Services",
+        "Endeto Project Services",
+        "Veralogix Rentals"
+      ],
+      "notes": "Diversified miner across multiple commodities. Manganese and chrome operations in Northern Cape and Limpopo offer equipment rental and maintenance opportunities."
+    },
+    {
+      "company_name": "Exxaro Resources",
+      "supplier_portal_url": "https://www.exxaro.com/suppliers/",
+      "supplier_guide_url": "https://www.exxaro.com/suppliers/supplier-guide/",
+      "csrm_portal": "https://exxaro.microsoftcrmportals.com/",
+      "platform": "Exxaro Common Supplier Portal (CSP) via Microsoft CRM portal — invitation required to register",
+      "registration_process": "1. Request invitation via exxaro.com/suppliers. 2. Complete Common Supplier Portal (CSP) registration with B-BBEE certificate, company registration, tax clearance, banking details. 3. Select commodity categories relevant to your business. 4. Await approval.",
+      "commodities": ["Thermal Coal"],
+      "key_operations": "Grootegeluk (Lephalale, Limpopo — largest coal mine in SA), Matimba and Medupi power station supply, Belfast (Mpumalanga), Mafube JV (Mpumalanga), ECC (Thabametsi future project)",
+      "veralogix_companies_applicable": [
+        "Coal Processors International (coal processing plant operations and management)",
+        "Mining Safety Services (MHSA compliance at large surface coal operations)",
+        "Endeto Project Services (plant fabrication and maintenance at Grootegeluk)",
+        "Veralogix Rentals (heavy equipment at open-cast coal mine)",
+        "Veramani IT Division (ICT infrastructure at remote mine sites)"
+      ],
+      "notes": "Exxaro is SA's largest pure-play coal producer. Grootegeluk is the country's largest coal mine by output. Very high-volume procurement programme. Strong BEE and ESD focus with preference for local suppliers near operations."
+    },
+    {
+      "company_name": "South32",
+      "supplier_portal_url": "https://www.south32.net/suppliers",
+      "platform": "South32 proprietary supplier portal",
+      "registration_process": "Register via south32.net/suppliers. Complete supplier profile with B-BBEE certificate, tax clearance, CIDB registration (where applicable), company registration.",
+      "commodities": ["Manganese", "Aluminium", "Chrome", "Coal (South Africa Energy Coal — transferred to Seriti Resources)"],
+      "key_operations": "Hillside Aluminium Smelter (Richards Bay, KZN), Mozal Aluminium (Mozambique), Samancor Chrome / Merafe Chrome JV, Metalloys Manganese Smelter (Johannesburg South)",
+      "veralogix_companies_applicable": [
+        "Endeto Project Services (smelter fabrication and maintenance, furnace rebuilds at Hillside and Metalloys)",
+        "Mining Safety Services (MHSA compliance for smelter and processing plant)",
+        "Veralogix Rentals (heavy equipment and crane hire for smelter maintenance)",
+        "Veramani IT Division (ICT for remote smelter and aluminium plant operations)"
+      ],
+      "notes": "South32's aluminium and manganese smelter operations require frequent scheduled maintenance and furnace rebuilds — high-value fabrication and maintenance scope. Richards Bay (Hillside) and Johannesburg South (Metalloys) are primary SA locations."
+    }
+  ],
+
+  "municipal_portals": [
+    {
+      "rank": 1,
+      "municipality_name": "City of Johannesburg Metropolitan Municipality",
+      "province": "Gauteng",
+      "tender_portal_url": "https://joburg.org.za/work_/Pages/Work%20in%20Joburg/Tenders%20and%20Quotations/Tenders-and-Quotations.aspx",
+      "update_frequency": "Continuous — new tenders and RFQs posted as advertised",
+      "relevant_categories": ["Security services", "ICT", "Facility management", "Construction", "Equipment hire"],
+      "notes": "Largest metro by GDP. High volume of tenders across all service categories. JDA (Johannesburg Development Agency) publishes separately at jda.org.za."
+    },
+    {
+      "rank": 2,
+      "municipality_name": "City of Tshwane Metropolitan Municipality",
+      "province": "Gauteng",
+      "tender_portal_url": "https://www.tshwane.gov.za/?page_id=16229",
+      "update_frequency": "Continuous",
+      "relevant_categories": ["Security services", "ICT infrastructure", "Solar installation", "Construction", "Equipment rental"],
+      "notes": "National capital — high concentration of government procurement. Municipal entities (TshwaneAgri, TRT) have separate procurement."
+    },
+    {
+      "rank": 3,
+      "municipality_name": "City of Cape Town Metropolitan Municipality",
+      "province": "Western Cape",
+      "tender_portal_url": "https://web1.capetown.gov.za/web1/tenderportal/Tender",
+      "procurement_guide": "https://resource.capetown.gov.za/documentcentre/Documents/Procedures,%20guidelines%20and%20regulations/CCT_Tender_Process_Guide_Booklet.pdf",
+      "update_frequency": "Continuous — registration required to view RFQs under R200k",
+      "relevant_categories": ["Security services", "Connectivity", "Solar/energy", "Construction", "Equipment hire", "Waste management"],
+      "notes": "Cape Town has sophisticated online portal. RFQs below R200k require supplier registration. Strong solar and renewable energy pipeline."
+    },
+    {
+      "rank": 4,
+      "municipality_name": "eThekwini Metropolitan Municipality",
+      "province": "KwaZulu-Natal",
+      "tender_portal_url": "https://www.durban.gov.za/pages/business/procurement",
+      "update_frequency": "Continuous",
+      "relevant_categories": ["Port-related logistics", "Security services", "Infrastructure construction", "ICT", "Equipment hire"],
+      "notes": "Home to Africa's busiest port. High construction and infrastructure procurement pipeline. MBDA (Mandela Bay Development Agency equivalent for Durban is EDTEA) has separate tenders."
+    },
+    {
+      "rank": 5,
+      "municipality_name": "Ekurhuleni Metropolitan Municipality",
+      "province": "Gauteng",
+      "tender_portal_url": "https://www.ekurhuleni.gov.za/tenders",
+      "update_frequency": "Continuous",
+      "relevant_categories": ["Industrial zone services", "Security", "Solar installation", "Construction", "Equipment hire"],
+      "notes": "East Rand industrial heartland — largest concentration of manufacturing in Africa. High demand for industrial security, ICT and construction services."
+    },
+    {
+      "rank": 6,
+      "municipality_name": "Nelson Mandela Bay Metropolitan Municipality",
+      "province": "Eastern Cape",
+      "tender_portal_url": "https://www.nelsonmandelabay.gov.za/tenders",
+      "mbda_tenders": "https://www.mbda.co.za/Tenders/Current",
+      "update_frequency": "Weekly/continuous",
+      "relevant_categories": ["Port services", "Security", "Construction", "ICT", "Equipment hire"],
+      "notes": "Port Elizabeth and Gqeberha — automotive and port city. MBDA publishes additional development agency tenders."
+    },
+    {
+      "rank": 7,
+      "municipality_name": "Mangaung Metropolitan Municipality",
+      "province": "Free State",
+      "tender_portal_url": "https://www.mangaung.co.za/tenders-and-notices/",
+      "update_frequency": "Weekly PDF summary of quotes and tenders",
+      "relevant_categories": ["Security services", "Construction", "Equipment hire", "ICT"],
+      "notes": "Bloemfontein metro. Gateway to Northern Cape and Free State mining regions. Weekly PDF tender summary published."
+    },
+    {
+      "rank": 8,
+      "municipality_name": "Buffalo City Metropolitan Municipality",
+      "province": "Eastern Cape",
+      "tender_portal_url": "https://www.buffalocity.gov.za/procurement/",
+      "update_frequency": "Continuous — formal tenders, RFQs, tender openings and awards published",
+      "relevant_categories": ["Construction", "Security services", "ICT", "Equipment hire"],
+      "notes": "East London/King William's Town metro. Industrial zone and IDZ (Industrial Development Zone) procurement."
+    },
+    {
+      "rank": 9,
+      "municipality_name": "Steve Tshwete Local Municipality (Emalahleni / Witbank)",
+      "province": "Mpumalanga",
+      "tender_portal_url": "https://www.stevetshwete.gov.za/tenders",
+      "update_frequency": "Ad hoc",
+      "relevant_categories": ["Mining-adjacent services", "Equipment hire", "Security", "Construction"],
+      "notes": "Witbank/eMalahleni is the coal mining capital of SA — overlaps directly with Coal Processors International and Veralogix Rentals target market. High municipal infrastructure procurement driven by mining economy."
+    },
+    {
+      "rank": 10,
+      "municipality_name": "Rustenburg Local Municipality",
+      "province": "North West",
+      "tender_portal_url": "https://www.rustenburg.gov.za/tenders",
+      "update_frequency": "Ad hoc",
+      "relevant_categories": ["Platinum mining-adjacent services", "Security", "Construction", "Equipment hire"],
+      "notes": "Platinum hub — Impala, Anglo Platinum, Sibanye-Stillwater all operate nearby. Significant municipal infrastructure investment driven by mining royalties."
+    },
+    {
+      "rank": 11,
+      "municipality_name": "Polokwane Local Municipality",
+      "province": "Limpopo",
+      "tender_portal_url": "https://www.polokwane.gov.za/tenders",
+      "update_frequency": "Ad hoc",
+      "relevant_categories": ["Security services", "Construction", "ICT", "Solar"],
+      "notes": "Limpopo capital — gateway to platinum and chrome mining belt. Growing municipal infrastructure pipeline."
+    },
+    {
+      "rank": 12,
+      "municipality_name": "Emfuleni Local Municipality",
+      "province": "Gauteng",
+      "tender_portal_url": "https://www.emfuleni.gov.za/tenders",
+      "update_frequency": "Ad hoc",
+      "relevant_categories": ["Steel/industrial adjacent services", "Security", "Construction"],
+      "notes": "Vereeniging/Vanderbijlpark — steel and heavy industry zone. ArcelorMittal SA proximity creates demand for industrial services."
+    },
+    {
+      "rank": 13,
+      "municipality_name": "Sol Plaatje Local Municipality",
+      "province": "Northern Cape",
+      "tender_portal_url": "https://www.solplaatje.org.za/tenders",
+      "update_frequency": "Ad hoc",
+      "relevant_categories": ["Mining-adjacent services", "Security", "Construction", "Equipment hire"],
+      "notes": "Kimberley — diamond mining and Northern Cape hub. Proximity to Kumba iron ore operations (Sishen/Kolomela). Growing solar/renewable energy procurement."
+    },
+    {
+      "rank": 14,
+      "municipality_name": "Msunduzi Local Municipality (Pietermaritzburg)",
+      "province": "KwaZulu-Natal",
+      "tender_portal_url": "https://www.msunduzi.gov.za/tenders",
+      "update_frequency": "Continuous",
+      "relevant_categories": ["Security services", "ICT", "Construction", "Equipment hire"],
+      "notes": "KZN provincial capital. Significant municipal infrastructure spend. Gateway to midlands logistics and coal trucking corridor."
+    },
+    {
+      "rank": 15,
+      "municipality_name": "Drakenstein Local Municipality (Paarl/Wellington)",
+      "province": "Western Cape",
+      "tender_portal_url": "https://www.drakenstein.gov.za/tenders",
+      "update_frequency": "Ad hoc to weekly",
+      "relevant_categories": ["Solar installation", "Construction", "Security", "ICT"],
+      "notes": "Fast-growing Western Cape municipality. Strong renewable energy and solar installation pipeline. Part of Cape Winelands and agro-industrial corridor."
+    }
+  ],
+
+  "aggregators": [
+    {
+      "service_name": "ProTenders",
+      "url": "https://www.protenders.co.za",
+      "cost_model": "Free",
+      "coverage": "48,000+ active tenders — National Treasury, all 9 provinces, 257 municipalities",
+      "features": [
+        "AI-based tender matching and alerts",
+        "Funding discovery",
+        "Payment analytics",
+        "Municipality-level filtering",
+        "Sector and keyword search"
+      ],
+      "sector_coverage": ["Government", "Municipal", "Mining", "Construction", "Energy", "ICT"],
+      "update_frequency": "Real-time aggregation",
+      "data_format": "HTML portal with search interface",
+      "api_available": false,
+      "recommended_for": "Veralogix Group primary free monitoring tool — broadest coverage, no cost",
+      "notes": "Currently the largest SA tender database. Comparison guide at protenders.co.za/tender-portals-south-africa."
+    },
+    {
+      "service_name": "EasyTenders",
+      "url": "https://easytenders.co.za",
+      "cost_model": "Paid subscription",
+      "coverage": "~8,000 active tenders — all government levels",
+      "features": [
+        "Email notification service",
+        "Business lead listings",
+        "Keyword filtering"
+      ],
+      "sector_coverage": ["Government", "Municipal", "Parastatals"],
+      "update_frequency": "Regular",
+      "data_format": "HTML portal",
+      "api_available": false,
+      "recommended_for": "Secondary monitoring for email-alert workflow"
+    },
+    {
+      "service_name": "TenderBulletins",
+      "url": "https://tenderbulletins.co.za",
+      "cost_model": "Free browsing; paid email alert subscription",
+      "coverage": "~5,000 tenders — SA government, state departments, state-owned companies",
+      "features": [
+        "Sector categorisation",
+        "Issuer filtering",
+        "Location filtering",
+        "Paid email notification service"
+      ],
+      "sector_coverage": ["Government", "Mining support services", "Construction", "Energy"],
+      "mining_specific_url": "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+      "update_frequency": "Regular",
+      "data_format": "HTML portal",
+      "api_available": false,
+      "recommended_for": "Mining sector-specific monitoring (mining support service activities category)"
+    },
+    {
+      "service_name": "TendersOnTime",
+      "url": "https://www.tendersontime.com",
+      "sa_mining_url": "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+      "cost_model": "Free basic registration; paid premium plans",
+      "coverage": "140,000+ global notices including SA — sourced from government gazettes, procurement boards, development banks",
+      "features": [
+        "Sector and keyword alerts",
+        "Past tender and contract award data",
+        "Pricing trend analysis",
+        "SA mining-specific category",
+        "SA mining machinery category"
+      ],
+      "sector_coverage": ["Mining", "Construction", "Government", "Energy — global and SA"],
+      "update_frequency": "Daily",
+      "data_format": "HTML portal with email alerts",
+      "api_available": false,
+      "recommended_for": "Mining-sector monitoring — especially Veralogix Rentals and Coal Processors International; also useful for benchmarking past contract awards"
+    },
+    {
+      "service_name": "TenderAlerts",
+      "url": "https://tenderalerts.co.za",
+      "cost_model": "Paid subscription (daily email alerts)",
+      "coverage": "1,000+ new tenders and RFQs added weekly; national and provincial coverage",
+      "features": [
+        "Daily email delivery",
+        "Sector filtering",
+        "Issuer-specific alerts (e.g., per municipality or department)"
+      ],
+      "sector_coverage": ["Government", "Municipal", "Parastatals"],
+      "update_frequency": "Daily email digest",
+      "data_format": "HTML portal plus email delivery",
+      "api_available": false,
+      "recommended_for": "Departmental and municipal-level granular monitoring"
+    },
+    {
+      "service_name": "SA-Tenders",
+      "url": "https://sa-tenders.co.za",
+      "cost_model": "Free",
+      "coverage": "South African government tenders across all levels",
+      "features": ["Tender notifications", "Basic keyword search"],
+      "sector_coverage": ["Government", "Municipal"],
+      "update_frequency": "Regular",
+      "data_format": "HTML portal",
+      "api_available": false,
+      "recommended_for": "Free supplementary monitoring"
+    },
+    {
+      "service_name": "OnlineTenders",
+      "url": "https://www.onlinetenders.co.za",
+      "pricing_url": "https://www.onlinetenders.co.za/pricing-and-plans.aspx",
+      "cost_model": "Paid subscription (tiered plans)",
+      "coverage": "SA government tenders — national, provincial, municipal",
+      "features": [
+        "Email delivery to inbox",
+        "Municipality and department filtering",
+        "Tiered subscription plans"
+      ],
+      "sector_coverage": ["Government", "Municipal", "Construction"],
+      "update_frequency": "Daily",
+      "data_format": "Email + HTML portal",
+      "api_available": false,
+      "recommended_for": "Inbox-based workflow for field staff with limited time for portal browsing"
+    },
+    {
+      "service_name": "GlobalTenders (South Africa)",
+      "url": "https://www.globaltenders.com/south-africa-minerals-mining-tenders",
+      "cost_model": "Paid subscription",
+      "coverage": "Global + SA-specific; mining and minerals sector category",
+      "features": ["Global procurement intelligence", "SA mining-specific category", "Organisation-level search"],
+      "sector_coverage": ["Mining", "Construction", "Government — global"],
+      "update_frequency": "Daily",
+      "data_format": "HTML portal",
+      "api_available": false,
+      "recommended_for": "Exporting divisions or international tender monitoring; secondary to ProTenders for domestic SA use"
+    }
+  ],
+
+  "data_format_assessment": {
+    "summary": "Only the National Treasury eTenders portal exposes a true programmatic API. All other portals require HTML scraping or manual monitoring.",
+    "collection_strategy_recommendation": "Build a hybrid system: (1) Pull eTenders data via OCDS API for national government tenders; (2) Subscribe to ProTenders and TendersOnTime for aggregated municipal and mining tenders; (3) Scrape Eskom Tender Bulletin and Transnet portal weekly; (4) Monitor mining house portals via manual quarterly review plus Ariba/Coupa notification emails.",
+    "portals": [
+      {
+        "portal": "National Treasury eTenders",
+        "url": "https://www.etenders.gov.za",
+        "data_format": "JSON (OCDS REST API), CSV, XLSX, HTML",
+        "api_available": true,
+        "api_url": "https://ocds-api.etenders.gov.za",
+        "bulk_download": true,
+        "rss_available": false,
+        "collection_method": "API (preferred) or monthly bulk download",
+        "automation_feasibility": "High — structured JSON via OCDS standard"
+      },
+      {
+        "portal": "CIDB",
+        "url": "https://www.cidb.org.za",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only",
+        "automation_feasibility": "Medium — HTML scraping of contractor register and tender listings"
+      },
+      {
+        "portal": "Eskom Tender Bulletin",
+        "url": "https://tenderbulletin.eskom.co.za",
+        "data_format": "HTML (searchable portal)",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only — search interface at tenderbulletin.eskom.co.za/search",
+        "automation_feasibility": "Medium — structured HTML table scraped via headless browser"
+      },
+      {
+        "portal": "Transnet eSupplier Portal",
+        "url": "https://www.transnet.net/TransnetTenders",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only",
+        "automation_feasibility": "Medium — HTML scraping; login may be required for full tender access"
+      },
+      {
+        "portal": "DMPR Tenders",
+        "url": "https://www.dmpr.gov.za",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only — supplemented by eTenders API",
+        "automation_feasibility": "Low-Medium — monitor via eTenders API (DMPR uploads here too) plus direct site scrape"
+      },
+      {
+        "portal": "Armscor",
+        "url": "https://apps.armscor.co.za/Tenders/Tenders.asp?TStatus=2",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only",
+        "automation_feasibility": "Low — some tender detail requires FSC-registered supplier login"
+      },
+      {
+        "portal": "DPWI Tenders",
+        "url": "http://www.publicworks.gov.za/tenders.html",
+        "data_format": "HTML, PDF, Government Gazette",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only; also captured via eTenders API",
+        "automation_feasibility": "Medium — via eTenders API for gazette-published tenders"
+      },
+      {
+        "portal": "Anglo American (SAP Ariba)",
+        "url": "https://s1-eu.ariba.com/Sourcing/Main/ad/selfRegistration?realm=AngloAmerican",
+        "data_format": "HTML (Ariba portal)",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Manual monitoring — Ariba sends email notifications to registered suppliers",
+        "automation_feasibility": "Low — requires SAP Ariba registered supplier account; opportunity alerts via email"
+      },
+      {
+        "portal": "Sibanye-Stillwater (Coupa)",
+        "url": "https://www.sibanyestillwater.com/suppliers/south-africa/",
+        "data_format": "HTML (Coupa portal)",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Manual monitoring — Coupa sends email notifications to registered suppliers",
+        "automation_feasibility": "Low — requires Coupa registered supplier account"
+      },
+      {
+        "portal": "City of Johannesburg",
+        "url": "https://joburg.org.za",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only or via ProTenders/TenderAlerts aggregator",
+        "automation_feasibility": "Medium — scraped by aggregators; use ProTenders for monitoring"
+      },
+      {
+        "portal": "City of Cape Town",
+        "url": "https://web1.capetown.gov.za/web1/tenderportal/Tender",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only — registration required for RFQs below R200k",
+        "automation_feasibility": "Medium — public tenders scrapeable; register portal account to access full RFQ list"
+      },
+      {
+        "portal": "eThekwini Municipality",
+        "url": "https://www.durban.gov.za/pages/business/procurement",
+        "data_format": "HTML, PDF",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Scrape-only or via aggregators",
+        "automation_feasibility": "Medium"
+      },
+      {
+        "portal": "ProTenders (aggregator)",
+        "url": "https://www.protenders.co.za",
+        "data_format": "HTML (aggregated from 257+ sources)",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Manual monitoring via portal/alerts; no public API",
+        "automation_feasibility": "High for human-driven workflow — use AI alert feature"
+      },
+      {
+        "portal": "TendersOnTime (aggregator)",
+        "url": "https://www.tendersontime.com",
+        "data_format": "HTML + email delivery",
+        "api_available": false,
+        "bulk_download": false,
+        "rss_available": false,
+        "collection_method": "Email subscription; no public API",
+        "automation_feasibility": "High for email-to-database workflow"
+      }
+    ]
+  }
+}

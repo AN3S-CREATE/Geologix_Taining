@@ -1,0 +1,170 @@
+{
+  "as_of": "2026-07-14",
+  "source": "data/veralogix_companys_information/CROSS-PORTFOLIO/index.json",
+  "description": "Cross-company and cross-group market intelligence, tender monitoring signals, and strategic routing rules for the full Geologix Vanguard portfolio.",
+  "purpose": "AI agents should read this folder when performing cross-portfolio analysis, tender opportunity mapping, or strategic signal routing across multiple companies simultaneously.",
+  "triggers": [
+    {
+      "event": "New mine opening — Mpumalanga/Limpopo",
+      "triggered_companies": [
+        "Veralogix Rentals",
+        "Veralogix Diesel",
+        "Veralogix Drilling & Blasting",
+        "Aiguille Security",
+        "Bioniq (ISP)",
+        "Treadstone Logistics",
+        "Coal Processors International"
+      ]
+    },
+    {
+      "event": "Major mine expansion or strip ratio increase",
+      "triggered_companies": [
+        "Veralogix Rentals",
+        "Veralogix Mining (Pty) Ltd",
+        "Veralogix Drilling & Blasting",
+        "Veralift",
+        "Endeto Project Services"
+      ]
+    },
+    {
+      "event": "Transnet Freight Rail failure / rail overflow",
+      "triggered_companies": [
+        "Treadstone Logistics",
+        "CG Transport",
+        "Treadstone CPM",
+        "Vera-Commodities"
+      ]
+    },
+    {
+      "event": "Contractor changeout at mining house",
+      "triggered_companies": [
+        "Veralogix Mining (Pty) Ltd",
+        "Veralogix Rentals",
+        "Salaria Mining Services",
+        "Mining Safety Services"
+      ]
+    },
+    {
+      "event": "Load-shedding escalation",
+      "triggered_companies": [
+        "IO Green",
+        "Veralogix Diesel",
+        "Ritz International",
+        "Bioniq (ISP)",
+        "Aiguille Security"
+      ]
+    },
+    {
+      "event": "POPIA enforcement action / cyber incident",
+      "triggered_companies": [
+        "YAL.ai",
+        "Veramani IT",
+        "Bioniq (ISP)"
+      ]
+    },
+    {
+      "event": "New township / peri-urban development",
+      "triggered_companies": [
+        "Vcom",
+        "Bioniq (ISP)",
+        "IO Green"
+      ]
+    }
+  ],
+  "process_templates": [
+    {
+      "process_id": "PROC-XPORT",
+      "event": "New mine opening — Mpumalanga/Limpopo",
+      "lead_subsidiary": "Veralogix Rentals",
+      "supporting_subsidiaries": [
+        "Veralogix Diesel",
+        "Veralogix Drilling & Blasting",
+        "Aiguille Security",
+        "Bioniq (ISP)",
+        "Treadstone Logistics",
+        "Coal Processors International"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'New mine opening — Mpumalanga/Limpopo'.",
+      "output_guidance": "Lead: Veralogix Rentals. Engage: Veralogix Rentals, Veralogix Diesel, Veralogix Drilling & Blasting, Aiguille Security, Bioniq (ISP), Treadstone Logistics, Coal Processors International. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Major mine expansion or strip ratio increase",
+      "lead_subsidiary": "Veralogix Rentals",
+      "supporting_subsidiaries": [
+        "Veralogix Mining (Pty) Ltd",
+        "Veralogix Drilling & Blasting",
+        "Veralift",
+        "Endeto Project Services"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Major mine expansion or strip ratio increase'.",
+      "output_guidance": "Lead: Veralogix Rentals. Engage: Veralogix Rentals, Veralogix Mining (Pty) Ltd, Veralogix Drilling & Blasting, Veralift, Endeto Project Services. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Transnet Freight Rail failure / rail overflow",
+      "lead_subsidiary": "Treadstone Logistics",
+      "supporting_subsidiaries": [
+        "CG Transport",
+        "Treadstone CPM",
+        "Vera-Commodities"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Transnet Freight Rail failure / rail overflow'.",
+      "output_guidance": "Lead: Treadstone Logistics. Engage: Treadstone Logistics, CG Transport, Treadstone CPM, Vera-Commodities. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Contractor changeout at mining house",
+      "lead_subsidiary": "Veralogix Mining (Pty) Ltd",
+      "supporting_subsidiaries": [
+        "Veralogix Rentals",
+        "Salaria Mining Services",
+        "Mining Safety Services"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Contractor changeout at mining house'.",
+      "output_guidance": "Lead: Veralogix Mining (Pty) Ltd. Engage: Veralogix Mining (Pty) Ltd, Veralogix Rentals, Salaria Mining Services, Mining Safety Services. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Load-shedding escalation",
+      "lead_subsidiary": "IO Green",
+      "supporting_subsidiaries": [
+        "Veralogix Diesel",
+        "Ritz International",
+        "Bioniq (ISP)",
+        "Aiguille Security"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Load-shedding escalation'.",
+      "output_guidance": "Lead: IO Green. Engage: IO Green, Veralogix Diesel, Ritz International, Bioniq (ISP), Aiguille Security. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "POPIA enforcement action / cyber incident",
+      "lead_subsidiary": "YAL.ai",
+      "supporting_subsidiaries": [
+        "Veramani IT",
+        "Bioniq (ISP)"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'POPIA enforcement action / cyber incident'.",
+      "output_guidance": "Lead: YAL.ai. Engage: YAL.ai, Veramani IT, Bioniq (ISP). Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "New township / peri-urban development",
+      "lead_subsidiary": "Vcom",
+      "supporting_subsidiaries": [
+        "Bioniq (ISP)",
+        "IO Green"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'New township / peri-urban development'.",
+      "output_guidance": "Lead: Vcom. Engage: Vcom, Bioniq (ISP), IO Green. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    }
+  ]
+}

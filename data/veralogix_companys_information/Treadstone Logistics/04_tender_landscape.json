@@ -1,0 +1,138 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Treadstone Logistics",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "tender_portals":  [
+                                        {
+                                            "name":  "National Treasury eTenders Portal",
+                                            "url":  "https://www.etenders.gov.za",
+                                            "description":  "Primary government procurement portal listing public sector transport and logistics tenders including state-owned mining entities. Use Advanced Search to filter by transport/logistics category."
+                                        },
+                                        {
+                                            "name":  "Tender Bulletins â€” Transportation \u0026 Mining",
+                                            "url":  "https://tenderbulletins.co.za",
+                                            "description":  "Aggregates SA government and SOE tenders across transportation/storage and mining/coal categories. Covers tenders issued by government departments, provinces, and state-owned companies."
+                                        },
+                                        {
+                                            "name":  "TendersOnTime â€” SA Mining Tenders",
+                                            "url":  "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+                                            "description":  "Aggregated portal covering South Africa and Southern Africa mining tenders including bulk haulage and transport procurement."
+                                        },
+                                        {
+                                            "name":  "AEMFC (African Exploration Mining and Finance Corporation) Tenders",
+                                            "url":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                            "description":  "State-owned mining entity open tenders including transport-related procurement."
+                                        },
+                                        {
+                                            "name":  "Sibanye-Stillwater Supplier Portal",
+                                            "url":  "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders/",
+                                            "description":  "Sibanye-Stillwater invites local community suppliers to express interest in available tenders, including transport and logistics."
+                                        },
+                                        {
+                                            "name":  "Exxaro Digital Sourcing (Coupa)",
+                                            "url":  "https://www.exxaro.com/suppliers/",
+                                            "description":  "Exxaro\u0027s cloud-based procurement platform for supplier registration and tender participation. Exxaro is a major coal producer awarding three-year bulk transport contracts through open competitive tender."
+                                        },
+                                        {
+                                            "name":  "Anglo American / Kumba Iron Ore Supplier Portal",
+                                            "url":  "https://www.angloamericankumba.com/suppliers/local-procurement",
+                                            "description":  "Kumba Iron Ore local procurement portal. Kumba is a leading supplier of high-quality iron ore and a major procurer of road transport on Northern Cape routes."
+                                        },
+                                        {
+                                            "name":  "DMRE Tenders",
+                                            "url":  "https://www.dmre.gov.za/tenders",
+                                            "description":  "Department of Mineral Resources and Energy tender listings relevant to state mining activities."
+                                        }
+                                    ],
+                 "major_procurers":  [
+                                         {
+                                             "company":  "Exxaro Resources",
+                                             "commodity":  "coal",
+                                             "notes":  "Major coal producer in Mpumalanga and Limpopo (Waterberg). Awards three-year coal transport contracts through open tender. Over 363 companies invited per tender round. Awards split across multiple carriers with BBBEE and local empowerment criteria. Transitioning procurement to Coupa digital sourcing platform.",
+                                             "supplier_portal":  "https://www.exxaro.com/suppliers/"
+                                         },
+                                         {
+                                             "company":  "Anglo American / Kumba Iron Ore",
+                                             "commodity":  "iron ore",
+                                             "notes":  "Kumba Iron Ore (Sishen mine, Northern Cape) primarily uses Transnet\u0027s Sishen-Saldanha rail line but procures road transport for secondary logistics. Anglo American also holds coal assets through Mafube JV with Exxaro.",
+                                             "supplier_portal":  "https://www.angloamericankumba.com/suppliers/local-procurement"
+                                         },
+                                         {
+                                             "company":  "Glencore (Coal South Africa)",
+                                             "commodity":  "coal",
+                                             "notes":  "Glencore operates multiple coal mines in Mpumalanga and is one of the largest coal exporters through Richards Bay. Glencore-Merafe joint venture is a major chrome producer. Significant road transport procurement for both coal and chrome operations.",
+                                             "supplier_portal":  "https://www.glencore.com/what-we-do/coal"
+                                         },
+                                         {
+                                             "company":  "South32",
+                                             "commodity":  "chrome, manganese",
+                                             "notes":  "Operates Metalloys (manganese) and chrome-adjacent operations. Procures bulk road transport for mine-to-plant and plant-to-port movements.",
+                                             "supplier_portal":  "https://www.south32.net"
+                                         },
+                                         {
+                                             "company":  "Samancor Chrome",
+                                             "commodity":  "chrome",
+                                             "notes":  "One of the world\u0027s largest chrome ore producers. Operations in Western Limb (North West) and Eastern Limb (Limpopo). Major procurer of road transport from mine to ferrochrome smelters and export terminals.",
+                                             "supplier_portal":  "https://www.samancor.com"
+                                         },
+                                         {
+                                             "company":  "Tronox / Sefateng / Merafe Resources",
+                                             "commodity":  "chrome, mineral sands",
+                                             "notes":  "Chrome operations in Limpopo region. Merafe Resources is Glencore\u0027s joint venture partner in ferrochrome. Both procure road transport for ore movement.",
+                                             "supplier_portal":  "https://sefateng.co.za"
+                                         }
+                                     ],
+                 "cpa_structures":  {
+                                        "description":  "Contract Price Adjustment (CPA) formulas in South African bulk haulage contracts are typically structured around three variable cost indices that are regularly rebased to protect both operator and client from cost volatility.",
+                                        "standard_components":  [
+                                                                    {
+                                                                        "component":  "Fuel (Diesel)",
+                                                                        "weight_in_formula":  "35â€“55% of total CPA adjustment",
+                                                                        "index_source":  "Department of Energy (DoE) monthly retail diesel price (wholesale inland 500ppm)",
+                                                                        "monitoring_url":  "https://fuelsindustry.org.za/consumer-information/fuel-prices-current-past/",
+                                                                        "notes":  "Largest single cost driver. March 2026 diesel increased R10.34/litre (56% shock). Most contracts adjust monthly or quarterly against DoE published prices. Road Freight Association benchmarks: fuel accounts for 35â€“55% of daily operating cost per vehicle type."
+                                                                    },
+                                                                    {
+                                                                        "component":  "Labour / Drivers",
+                                                                        "weight_in_formula":  "20â€“30% of total CPA adjustment",
+                                                                        "index_source":  "Stats SA PPI (Producer Price Index) for Road Freight; NBCRFLI (National Bargaining Council for the Road Freight and Logistics Industry) sectoral determinations",
+                                                                        "monitoring_url":  "https://www.statssa.gov.za",
+                                                                        "notes":  "Annual wage increases negotiated through the NBCRFLI. Driver wage rates are regulated sector-wide. Escalation typically applied annually in line with NBCRFLI agreements or CPI."
+                                                                    },
+                                                                    {
+                                                                        "component":  "Tyres \u0026 Maintenance",
+                                                                        "weight_in_formula":  "10â€“20% of total CPA adjustment",
+                                                                        "index_source":  "Stats SA PPI sub-index for rubber products and vehicle parts",
+                                                                        "monitoring_url":  "https://www.statssa.gov.za",
+                                                                        "notes":  "Tyre costs are route-sensitive (gravel roads accelerate wear). Some contracts price tyres separately as a per-kilometre cost rather than via CPA formula."
+                                                                    },
+                                                                    {
+                                                                        "component":  "Fixed Costs (capital, insurance, overheads)",
+                                                                        "weight_in_formula":  "Typically fixed or CPI-linked for contract duration",
+                                                                        "index_source":  "Stats SA Consumer Price Index (CPI) or Producer Price Index (PPI)",
+                                                                        "monitoring_url":  "https://www.statssa.gov.za",
+                                                                        "notes":  "Capital component (vehicle depreciation, finance costs) usually fixed for contract term or adjusted annually at CPI. Insurance escalated annually."
+                                                                    }
+                                                                ],
+                                        "common_contract_structures":  [
+                                                                           "Rate-per-tonne-kilometre (R/tkm) with monthly fuel adjustment rider",
+                                                                           "Rate-per-load with quarterly CPA review",
+                                                                           "Fixed monthly retainer plus variable rate per tonne (used where mine guarantees minimum volumes)",
+                                                                           "3-year term with annual CPA review and open-book fuel cost pass-through"
+                                                                       ],
+                                        "cpa_reference_frameworks":  [
+                                                                         {
+                                                                             "name":  "SAFCEC CPAF (Contract Price Adjustment Formula)",
+                                                                             "url":  "https://www.safcec.org.za/page/cpaf",
+                                                                             "notes":  "Published for civil engineering construction but coefficients (labour, material, plant, fuel) are frequently adapted for heavy haulage contracts"
+                                                                         },
+                                                                         {
+                                                                             "name":  "Stats SA Price Indices for Escalation",
+                                                                             "url":  "https://www.statssa.gov.za/cpi/documents/priceindicesforescalation.pdf",
+                                                                             "notes":  "Official guide for applying CPI/PPI indices in contract escalation"
+                                                                         }
+                                                                     ]
+                                    }
+             }
+}

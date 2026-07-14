@@ -1,0 +1,119 @@
+﻿{
+    "_section":  "fleet_intelligence",
+    "_company":  "Veralift",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "capacity_demand_analysis":  {
+                                                  "50t_to_100t":  {
+                                                                      "demand_level":  "Very High â€“ daily hire market",
+                                                                      "primary_uses":  "General construction, machine moves, industrial maintenance, steel erection",
+                                                                      "notes":  "Most common category in the South African hire market; highest hire frequency; price competitive; strong utilisation rates year-round"
+                                                                  },
+                                                  "100t_to_200t":  {
+                                                                       "demand_level":  "High â€“ project and shutdown driven",
+                                                                       "primary_uses":  "Mining plant installations, industrial shutdowns, bridge construction, large steel erection",
+                                                                       "notes":  "Strong demand from mining modernisation (~25% of new crane demand) and infrastructure projects; adequate supply currently"
+                                                                   },
+                                                  "200t_to_500t":  {
+                                                                       "demand_level":  "High and supply-constrained",
+                                                                       "primary_uses":  "Wind turbine erection, large modular lifts, offshore support, heavy plant relocation",
+                                                                       "notes":  "Renewable energy boom (35% of new deployment) is consuming this class; wind turbine nacelles (\u003e100t) and blades require 200â€“400t cranes; lead times of 4â€“8 weeks common for scheduling; highest revenue-per-day category"
+                                                                   },
+                                                  "500t_plus":  {
+                                                                    "demand_level":  "Specialist â€“ very limited supply",
+                                                                    "primary_uses":  "Major infrastructure, port crane installations, petrochemical vessel installations, offshore support",
+                                                                    "notes":  "Very few South African operators have true 500t+ capability: JCH (800t), Concord (750t), CC Crane (1,200t), Marlboro (1,200t); high day-rates; usually requires advance booking of 4â€“12 weeks"
+                                                                }
+                                              },
+                 "oem_brand_dominance":  {
+                                             "Liebherr":  {
+                                                              "market_position":  "Dominant in high-capacity segment",
+                                                              "evidence":  "Babcock operates Liebherr LG1550 lattice boom for wind farms; Transnet signed major STS/RTG deal with Liebherr (Oct 2025); preferred OEM for 200t+ all-terrain and lattice boom cranes",
+                                                              "segments":  [
+                                                                               "200t+ all-terrain",
+                                                                               "Lattice boom",
+                                                                               "Tower cranes"
+                                                                           ]
+                                                          },
+                                             "Grove_Manitowoc":  {
+                                                                     "market_position":  "Strong in mid-range (70â€“200t)",
+                                                                     "evidence":  "Grove AT 990 (80t) available for hire at R2,200/hour; common in Gauteng industrial market",
+                                                                     "segments":  [
+                                                                                      "50tâ€“200t all-terrain",
+                                                                                      "Rough-terrain"
+                                                                                  ]
+                                                                 },
+                                             "Tadano":  {
+                                                            "market_position":  "Growing presence, particularly in 50â€“160t range",
+                                                            "evidence":  "Cited in 2025 market trend reports as gaining share with digital telematics and energy-efficient models",
+                                                            "segments":  [
+                                                                             "50tâ€“160t all-terrain",
+                                                                             "Truck-mounted"
+                                                                         ]
+                                                        },
+                                             "Terex":  {
+                                                           "market_position":  "Present but declining market share",
+                                                           "evidence":  "Mentioned in available fleet listings; losing ground to Liebherr and Tadano on new acquisitions",
+                                                           "segments":  [
+                                                                            "40tâ€“100t all-terrain",
+                                                                            "Rough-terrain"
+                                                                        ]
+                                                       },
+                                             "Zoomlion":  {
+                                                              "market_position":  "Emerging â€“ price-competitive entrant",
+                                                              "evidence":  "Mentioned in 2025 market reports as gaining traction with digital control systems and fleet management telematics at lower price points than European OEMs",
+                                                              "segments":  [
+                                                                               "50tâ€“200t all-terrain",
+                                                                               "Tower cranes"
+                                                                           ]
+                                                          }
+                                         },
+                 "day_rate_benchmarks":  {
+                                             "notes":  "Rates are indicative market benchmarks for South Africa as of 2025-2026. Actual rates depend on duration, mobilisation, region, operator inclusion, and project complexity. Emergency and after-hours premiums of 25â€“50% apply.",
+                                             "small_crane_truck_5t_20t":  {
+                                                                              "hourly_rate_ZAR":  "R850â€“R1,500",
+                                                                              "daily_rate_ZAR":  "R4,000â€“R8,000",
+                                                                              "source":  "cranehire.co.za; trucks4hire.co.za"
+                                                                          },
+                                             "mid_range_50t_100t":  {
+                                                                        "hourly_rate_ZAR":  "R1,800â€“R2,500",
+                                                                        "daily_rate_ZAR":  "R12,000â€“R18,000",
+                                                                        "example":  "Grove AT 990 (80t) quoted at R2,200/hour (plantindex.co.za)"
+                                                                    },
+                                             "large_100t_200t":  {
+                                                                     "hourly_rate_ZAR":  "R2,500â€“R4,500",
+                                                                     "daily_rate_ZAR":  "R18,000â€“R32,000",
+                                                                     "notes":  "Rates include certified operator; mobilisation charged separately or at prevailing travel rates"
+                                                                 },
+                                             "heavy_200t_500t":  {
+                                                                     "daily_rate_ZAR":  "R35,000â€“R80,000+",
+                                                                     "notes":  "Highly variable; negotiated project rates common; lattice boom cranes command premium; rigging engineer and LMI costs additional"
+                                                                 },
+                                             "super_heavy_500t_plus":  {
+                                                                           "daily_rate_ZAR":  "R80,000â€“R200,000+",
+                                                                           "notes":  "Specialist project-by-project pricing; typically bundled with engineering, rigging, and transport as a turnkey package"
+                                                                       }
+                                         },
+                 "supply_demand_balance_200t_plus":  {
+                                                         "current_status":  "Supply-constrained relative to demand",
+                                                         "key_drivers":  [
+                                                                             "Renewable energy boom: wind turbine erection requires 200â€“500t cranes; SA surpassed 7 GW of operational renewable capacity by mid-2026",
+                                                                             "REIPPPP pipeline continues: 34 GW wind and 25 GW solar targeted by 2039 â€“ decade of sustained large-crane demand",
+                                                                             "Capital cost of 200t+ cranes limits new market entrants",
+                                                                             "Transnet port infrastructure upgrades (2025â€“2026) absorbing heavy crane capacity in Durban and Cape Town"
+                                                                         ],
+                                                         "implications_for_veralift":  [
+                                                                                           "Operators with 200t+ capacity command premium rates and lower idle time",
+                                                                                           "Advance fleet booking for wind farm contracts provides revenue certainty",
+                                                                                           "Lead times for 200t+ crane availability: typically 4â€“8 weeks for scheduling; emergency premiums apply for shorter notice",
+                                                                                           "Partnership or subcontracting arrangement with 500t+ operators (JCH, Concord, CC Crane) can extend service offering without capital commitment"
+                                                                                       ],
+                                                         "market_size":  {
+                                                                             "2024_USD_million":  240.4,
+                                                                             "2033_projected_USD_million":  336.28,
+                                                                             "cagr_percent":  3.8,
+                                                                             "source":  "IMARC Group South Africa Crane Market Report"
+                                                                         }
+                                                     }
+             }
+}

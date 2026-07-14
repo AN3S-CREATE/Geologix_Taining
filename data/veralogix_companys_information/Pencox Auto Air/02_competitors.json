@@ -1,0 +1,71 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Pencox Auto Air",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Harrack Automotive Airconditioning (Pty) Ltd",
+                     "website":  "https://www.harrack.co.za",
+                     "service_focus":  "Automotive A/C only",
+                     "fleet_vs_retail":  "Both fleet/industrial and retail; largest Africa-based automotive aircon specialist since 1974",
+                     "geographic_coverage":  "National â€“ head office Johannesburg; distribution centres in Durban, Nelspruit, and Windhoek (Namibia)",
+                     "notes":  "Covers cars, trucks, buses, and earthmoving equipment; 12-month warranty across SA network; MIWA and RMI accredited"
+                 },
+                 {
+                     "name":  "Trysome Auto Electrical Engineering (Pty) Ltd",
+                     "website":  "https://www.trysome.co.za",
+                     "service_focus":  "Auto electrical only (heavy-duty focus)",
+                     "fleet_vs_retail":  "Heavy industrial/fleet; positioned as largest single-source heavy-duty auto electrical supplier in Southern Africa",
+                     "geographic_coverage":  "Southern Africa-wide",
+                     "notes":  "Specialises in heavy-duty auto electrical components and collision avoidance systems; primary supplier channel rather than workshop service"
+                 },
+                 {
+                     "name":  "Auto Magneto",
+                     "website":  "https://www.automagneto.co.za",
+                     "service_focus":  "Both A/C and auto electrical",
+                     "fleet_vs_retail":  "Strong fleet focus via \u0027Auto Magneto Connect\u0027 national fleet and roadside assistance network (24/7/365)",
+                     "geographic_coverage":  "National network; head office Cape Town",
+                     "notes":  "MIWA/RMI accredited; 100+ years combined experience; wholesale and retail divisions; fleet reciprocal partner network"
+                 },
+                 {
+                     "name":  "Motolek",
+                     "website":  "https://motolek.co.za",
+                     "service_focus":  "Both A/C and auto electrical",
+                     "fleet_vs_retail":  "Primarily retail and SME fleets through franchise network",
+                     "geographic_coverage":  "National â€“ over 60 franchise workshops across South Africa",
+                     "notes":  "Franchise model ensures standardised workmanship; Galaxy Motolek is an affiliated entity; covers auto electrical and automotive aircon services"
+                 },
+                 {
+                     "name":  "Diesel-Electric (Climate Control Division)",
+                     "website":  "https://de.co.za/climate-control/",
+                     "service_focus":  "Both A/C and auto electrical; also major parts distributor",
+                     "fleet_vs_retail":  "Fleet and industrial focus; serves mining, transport, and earthmoving sectors",
+                     "geographic_coverage":  "National branches",
+                     "notes":  "Stocks full range of R134a and R1234yf refrigerants, compressors, condensers, evaporators, expansion valves; dual role as service provider and parts wholesaler"
+                 },
+                 {
+                     "name":  "All Auto Electrical",
+                     "website":  "https://www.allautoelectrical.co.za",
+                     "service_focus":  "Both A/C and auto electrical",
+                     "fleet_vs_retail":  "Primarily retail; some fleet clients",
+                     "geographic_coverage":  "Cape Town metropolitan area",
+                     "notes":  "Offers AC evaporator supply and fitment, aircon regas and service; local competitor in Western Cape"
+                 },
+                 {
+                     "name":  "Electro City",
+                     "website":  "https://electro-city.co.za",
+                     "service_focus":  "Auto electrical (parts supply and service)",
+                     "fleet_vs_retail":  "Mixed â€“ parts supply and workshop services; fleet of 25 delivery vehicles",
+                     "geographic_coverage":  "Johannesburg, Pretoria, Cape Town, Durban, Bloemfontein",
+                     "notes":  "Key parts distribution competitor; strong logistics capability for fleet maintenance supply chains"
+                 },
+                 {
+                     "name":  "Car Cooling Consultants",
+                     "website":  "https://carcooling.co.za",
+                     "service_focus":  "Automotive A/C parts and service",
+                     "fleet_vs_retail":  "Both â€“ supplies earthmoving and automotive cooling components",
+                     "geographic_coverage":  "National supply; based in South Africa",
+                     "notes":  "Stocks fans, condensers, compressors, and refrigerant gases; specialist in automotive and earthmoving A/C supply"
+                 }
+             ]
+}

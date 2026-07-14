@@ -1,0 +1,42 @@
+﻿{
+    "company":  "CG Transport",
+    "display_name":  "CG Transport",
+    "group":  "Treadstone Group",
+    "sector":  "Bulk Commodity Road Transport",
+    "hq":  "Mpumalanga",
+    "description":  "CG Transport provides bulk commodity road haulage using side-tipper and end-tipper trucks. Related entity CG Auto Transport may provide vehicle delivery and fleet logistics support services.",
+    "data_status":  "chunked_from_docs",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Treadstone Logistics",
+                              "Treadstone CPM"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  false,
+                         "has_prompt":  true,
+                         "chunk_files_count":  30,
+                         "research_doc_count":  1,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_segments",
+                                                    "market_trends",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

@@ -1,0 +1,102 @@
+﻿{
+    "_section":  "technology_intelligence",
+    "_company":  "Vcom",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "aerial_fibre_methods":  [
+                                              {
+                                                  "method":  "ADSS (All-Dielectric Self-Supporting)",
+                                                  "description":  "Self-supporting cable between poles â€” no messenger wire needed. Preferred for long spans. Common in South African township deployments.",
+                                                  "advantage":  "No earthing required; easier installation; lower theft risk (no metal)"
+                                              },
+                                              {
+                                                  "method":  "Figure-8 / Figure-8 Lashed",
+                                                  "description":  "Fibre with integrated messenger wire. Used where poles are closely spaced.",
+                                                  "advantage":  "Lower cost cable; faster deployment in dense pole environments"
+                                              },
+                                              {
+                                                  "method":  "Span-Clamp / Festoon",
+                                                  "description":  "Fibre lashed to existing infrastructure (power lines, street lamp cables).",
+                                                  "advantage":  "Leverages existing infrastructure; lowest civil cost"
+                                              },
+                                              {
+                                                  "method":  "Micro-trenching",
+                                                  "description":  "Shallow cutting in tar or pavement for fibre placement. Used where aerial is not viable.",
+                                                  "advantage":  "Less disruptive than full trenching; faster than underground"
+                                              }
+                                          ],
+                 "cost_benchmarks":  {
+                                         "township_aerial_cost_per_home_passed_zar":  "R800â€“R1,800",
+                                         "suburban_aerial_cost_per_home_passed_zar":  "R1,500â€“R3,500",
+                                         "underground_cost_per_home_passed_zar":  "R4,000â€“R8,000",
+                                         "notes":  "Township costs are lower due to dense housing, shorter spans, and existing pole infrastructure. Underground is 3â€“5x more expensive."
+                                     },
+                 "dominant_oem_brands":  [
+                                             {
+                                                 "brand":  "Huawei",
+                                                 "role":  "OLT (Optical Line Terminal) and ONT/ONU equipment â€” dominant in South African FNO deployments"
+                                             },
+                                             {
+                                                 "brand":  "ZTE",
+                                                 "role":  "OLT and access network equipment â€” common alternative to Huawei"
+                                             },
+                                             {
+                                                 "brand":  "Nokia (formerly Alcatel-Lucent)",
+                                                 "role":  "Backbone and aggregation equipment; less common at township access layer"
+                                             },
+                                             {
+                                                 "brand":  "Corning / Prysmian / Hengtong",
+                                                 "role":  "Aerial fibre cable manufacturers â€” commonly specified in South African deployments"
+                                             }
+                                         ],
+                 "key_township_challenges":  [
+                                                 {
+                                                     "challenge":  "Cable theft and vandalism",
+                                                     "description":  "Aerial fibre cables in townships are vulnerable to theft (particularly metallic messenger wire) and deliberate cutting. ADSS cables (no metal) reduce theft risk significantly.",
+                                                     "mitigation":  "Use of all-dielectric ADSS cables; community engagement; SLA maintenance contracts with rapid response"
+                                                 },
+                                                 {
+                                                     "challenge":  "Illegal connections",
+                                                     "description":  "Unauthorized splicing into the network by community members or ISPs is common in townships.",
+                                                     "mitigation":  "OTDR monitoring; sealed splice enclosures; GPS-tagged infrastructure"
+                                                 },
+                                                 {
+                                                     "challenge":  "Pole infrastructure quality",
+                                                     "description":  "Existing power poles in townships are often owned by Eskom or municipalities with varying access rights and structural integrity.",
+                                                     "mitigation":  "Pole access agreements; structural load assessments; self-owned pole deployment where needed"
+                                                 },
+                                                 {
+                                                     "challenge":  "Payment and affordability",
+                                                     "description":  "Low-income households struggle with monthly subscription models.",
+                                                     "mitigation":  "Prepaid, daily-rate, and pay-as-you-go ISP models enabled by the infrastructure layer"
+                                                 },
+                                                 {
+                                                     "challenge":  "Load-shedding impact on active equipment",
+                                                     "description":  "Power outages affect active network equipment (ONTs, Wi-Fi APs). Battery backup required.",
+                                                     "mitigation":  "UPS/battery backup on active nodes; solar-powered cabinets in off-grid areas"
+                                                 }
+                                             ],
+                 "noc_and_monitoring_solutions":  [
+                                                      {
+                                                          "solution":  "PRTG Network Monitor",
+                                                          "use":  "Network performance monitoring and alerting"
+                                                      },
+                                                      {
+                                                          "solution":  "Zabbix",
+                                                          "use":  "Open-source infrastructure monitoring â€” common among mid-size FNOs"
+                                                      },
+                                                      {
+                                                          "solution":  "Calix Cloud",
+                                                          "use":  "Subscriber experience and network management â€” used by broadband operators"
+                                                      },
+                                                      {
+                                                          "solution":  "OTDR (Optical Time-Domain Reflectometer)",
+                                                          "use":  "Fibre fault detection and location â€” essential for rapid maintenance response"
+                                                      },
+                                                      {
+                                                          "solution":  "OSS/BSS platforms (Amdocs, Netcracker, local custom)",
+                                                          "use":  "Order management, provisioning, and billing integration"
+                                                      }
+                                                  ]
+             }
+}

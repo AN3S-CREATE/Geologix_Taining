@@ -1,0 +1,54 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Vcom",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "key_portals":  [
+                                     {
+                                         "portal":  "National Treasury eTenders Portal",
+                                         "url":  "https://www.etenders.gov.za",
+                                         "description":  "Primary portal for all South African government tenders including fibre, broadband, and connectivity infrastructure."
+                                     },
+                                     {
+                                         "portal":  "SITA gCommerce",
+                                         "url":  "https://ww1.gcommerce.gov.za",
+                                         "description":  "SITA\u0027s electronic procurement portal for government ICT tenders including Wi-Fi, networking, and connectivity."
+                                     },
+                                     {
+                                         "portal":  "USAASA Tender Bulletin",
+                                         "url":  "https://www.usaasa.org.za/tenders",
+                                         "description":  "Agency-specific connectivity project tenders for underserved areas."
+                                     },
+                                     {
+                                         "portal":  "DBSA (Development Bank of SA)",
+                                         "url":  "https://www.dbsa.org",
+                                         "description":  "Infrastructure funding tenders and project finance for broadband and connectivity projects."
+                                     },
+                                     {
+                                         "portal":  "Municipal IDP Portals",
+                                         "url":  "Various per municipality",
+                                         "description":  "Integrated Development Plans published by municipalities often include broadband and smart city infrastructure procurement."
+                                     }
+                                 ],
+                 "typical_contract_structures":  [
+                                                     "Build-Operate-Transfer (BOT) for government-funded networks",
+                                                     "Infrastructure-as-a-Service (IaaS) â€” monthly access fee per home passed",
+                                                     "Revenue-share models with ISP partners",
+                                                     "OPEX-based maintenance SLA contracts (1â€“3 year terms)",
+                                                     "Open-access wholesale agreements with multiple ISPs"
+                                                 ],
+                 "major_government_procurers":  [
+                                                    "SITA (on behalf of all government departments)",
+                                                    "USAASA/USAF (universal access fund projects)",
+                                                    "Department of Basic Education (school connectivity)",
+                                                    "Department of Health (clinic connectivity)",
+                                                    "Smart city municipalities: Johannesburg, Tshwane, eThekwini, Cape Town, Ekurhuleni"
+                                                ],
+                 "required_registrations":  [
+                                                "Valid ICASA ECNS Licence",
+                                                "Central Supplier Database (CSD) registration",
+                                                "CIDB registration (Grade 5+ for major civil/infrastructure works if trenching involved)",
+                                                "BBBEE certificate (minimum Level 4 for most government tenders)"
+                                            ]
+             }
+}

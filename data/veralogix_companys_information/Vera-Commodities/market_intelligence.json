@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "company": "Vera-Commodities",
+    "report_date": "2026-06-24",
+    "scope": "South Africa bulk commodity trading — competitive and market intelligence",
+    "commodities_covered": ["coal", "chrome ore", "ferrochrome", "iron ore", "manganese"]
+  },
+
+  "competitors": [
+    {
+      "name": "Glencore",
+      "website": "https://www.glencore.com",
+      "commodity_focus": ["coal", "chrome ore", "ferrochrome", "iron ore", "manganese"],
+      "entity_type": "Integrated producer and trader",
+      "sa_presence": "Major SA coal producer (Optimum, Goedgevonden); one of the world's largest third-party iron ore traders (70M+ tons/yr); active in chrome/ferrochrome through Merafe JV",
+      "notable_activity": "Glencore's metals trading division recorded record adjusted EBIT of $1.57 billion in H1 2025; active bidder for SA coal assets including Optimum Coal mines"
+    },
+    {
+      "name": "Trafigura",
+      "website": "https://www.trafigura.com",
+      "commodity_focus": ["coal", "iron ore", "base metals"],
+      "entity_type": "International commodity trading house",
+      "sa_presence": "Active trader of SA thermal coal through Richards Bay Coal Terminal; entered bidding for Optimum Coal (Gupta-linked mines); non-ferrous metals traders recorded record profits in FY2025",
+      "notable_activity": "Exploring SA coal mine acquisitions; expanding metals trading footprint to compete with Glencore"
+    },
+    {
+      "name": "Vitol / Noble Resources",
+      "website": "https://www.vitol.com",
+      "commodity_focus": ["coal", "iron ore", "industrial raw materials"],
+      "entity_type": "International commodity trading house",
+      "sa_presence": "Bidder for SA Optimum Coal; acquired Singapore-based Noble Resources (energy and industrial raw materials trader) to expand hard commodities desk",
+      "notable_activity": "Hired ex-Glencore and Trafigura iron ore traders in 2024 to build out metals trading; actively growing SA market presence"
+    },
+    {
+      "name": "SMJ SA",
+      "website": "https://smjsa.co.za",
+      "commodity_focus": ["chrome ore", "thermal coal", "agricultural commodities"],
+      "entity_type": "Trader / broker",
+      "sa_presence": "SA-based; connects mines and producers in South Africa, Botswana, and Zimbabwe to international buyers; develops offtake agreements with bulk commodity producers",
+      "notable_activity": "Active pit-to-port facilitation for chrome and coal; focus on Southern African cross-border supply chains"
+    },
+    {
+      "name": "CSA Commodities",
+      "website": "https://www.csacommodities.com",
+      "commodity_focus": ["thermal coal", "metals"],
+      "entity_type": "Trader",
+      "sa_presence": "SA-based; trades thermal coal and metals both domestically and internationally; provides integrated pit-to-port management and vessel top-ups for coal exports",
+      "notable_activity": "Specialises in export logistics coordination alongside commodity trading; active at Richards Bay Coal Terminal"
+    },
+    {
+      "name": "AfriResources",
+      "website": "https://afri-resources.co.za",
+      "commodity_focus": ["coal", "chrome ore", "manganese"],
+      "entity_type": "Trader / broker",
+      "sa_presence": "100% Black-owned SA bulk commodity trading company; exports coal, chrome, and manganese; serves both export and domestic markets",
+      "notable_activity": "BBBEE-compliant trader appealing to transformation-sensitive buyers and state-linked procurement; growing export footprint"
+    },
+    {
+      "name": "Meidos Mining Group",
+      "website": "https://www.meidosmining.com",
+      "commodity_focus": ["chrome ore", "coal", "manganese"],
+      "entity_type": "Trader / exporter",
+      "sa_presence": "One of Africa's leading exporters of chrome, coal, and manganese; operates 3 wash plants in SA; exported 588,000 metric tons in 2023",
+      "notable_activity": "Vertically integrated processing capability (wash plants); growing export volumes year-on-year"
+    },
+    {
+      "name": "Makhoba Commodities",
+      "website": "https://www.makhobacommodities.com",
+      "commodity_focus": ["chrome ore", "coal", "manganese", "iron ore"],
+      "entity_type": "Trader / broker",
+      "sa_presence": "SA-based bulk commodity sourcing and trading; sources from SA mines and connects to domestic and export buyers",
+      "notable_activity": "Active in multiple bulk mineral categories; positions as a sourcing and logistics bridge for international buyers"
+    }
+  ],
+
+  "price_signal_sources": {
+    "coal": [
+      {
+        "source": "McCloskey by OPIS (Dow Jones)",
+        "url": "https://coal.opis.com/coal-metals-mining-news",
+        "data_provided": "Thermal coal spot and forward prices; Richards Bay FOB export price index (RB1, RB3 grades); global coal market news and supply/demand analysis",
+        "frequency": "Daily / weekly"
+      },
+      {
+        "source": "Argus Media — Argus/McCloskey Coal Price Index",
+        "url": "https://www.argusmedia.com/en/coal",
+        "data_provided": "SA thermal coal FOB Richards Bay benchmark prices (API4 index); coking coal and PCI price assessments; freight and logistics cost overlays",
+        "frequency": "Daily assessments; weekly reports"
+      },
+      {
+        "source": "Trading Economics — Coal",
+        "url": "https://tradingeconomics.com/commodity/coal",
+        "data_provided": "Global coal spot price chart; historical data; consensus forecasts; free access to recent price trend",
+        "frequency": "Real-time / daily"
+      }
+    ],
+    "chrome_ore_and_ferrochrome": [
+      {
+        "source": "Mining-Bulletin",
+        "url": "https://www.mining-bulletin.com/index.php/product_2.html",
+        "data_provided": "South Africa chrome ore export prices (updated regularly); ferrochrome price benchmarks; global minerals and metals price data including SA-specific export price quotations",
+        "frequency": "Weekly price updates"
+      },
+      {
+        "source": "Fastmarkets (formerly Metal Bulletin)",
+        "url": "https://www.fastmarkets.com",
+        "data_provided": "Ferrochrome quarterly benchmark price (European high-carbon ferrochrome benchmark — e.g., Q2 2026: 161 cents/lb Cr); chrome ore spot price assessments; market analysis and forecasts",
+        "frequency": "Quarterly benchmark; daily spot assessments"
+      },
+      {
+        "source": "Asian Metal",
+        "url": "https://www.asianmetal.com",
+        "data_provided": "Chrome ore import/export data; Chinese import prices for SA chrome ore; ferrochrome price trends in Asian markets",
+        "frequency": "Daily / weekly"
+      }
+    ],
+    "iron_ore": [
+      {
+        "source": "OEC — South Africa Iron Ore Trade Profile",
+        "url": "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/zaf",
+        "data_provided": "SA iron ore export volumes and values by destination country; trade flow analysis; historical trend data; free access",
+        "frequency": "Annual / quarterly updates"
+      },
+      {
+        "source": "Trading Economics — Iron Ore",
+        "url": "https://tradingeconomics.com/commodity/iron-ore",
+        "data_provided": "Iron ore spot price (62% Fe CFR China benchmark); historical chart; global production and demand data; free access",
+        "frequency": "Real-time / daily"
+      },
+      {
+        "source": "S&P Global Commodity Insights",
+        "url": "https://www.spglobal.com/commodities/en/industries/metals/iron-ore",
+        "data_provided": "Platts iron ore indices (IODEX 62% Fe); seaborne trade data; SA export terminal and logistics reporting (including Richards Bay and Saldanha Bay)",
+        "frequency": "Daily price assessments; weekly analysis"
+      }
+    ],
+    "manganese": [
+      {
+        "source": "Mining-Bulletin — Manganese",
+        "url": "https://www.mining-bulletin.com/index.php/product_5.html",
+        "data_provided": "South Africa manganese ore export prices; regular price updates; global manganese ore price comparisons",
+        "frequency": "Weekly"
+      },
+      {
+        "source": "Trading Economics — Manganese",
+        "url": "https://tradingeconomics.com/commodity/manganese",
+        "data_provided": "Manganese ore spot price chart; historical data going back decades; forecasts; free access",
+        "frequency": "Real-time / daily"
+      },
+      {
+        "source": "Ferroalloynet",
+        "url": "http://www.ferroalloynet.com",
+        "data_provided": "SA manganese ore export volumes by destination country (e.g., May 2025 country breakdown); Chinese import prices for SA manganese; ferroalloy price data",
+        "frequency": "Monthly export breakdowns; daily price data"
+      }
+    ]
+  },
+
+  "buyer_intelligence": {
+    "export_destinations_by_commodity": {
+      "thermal_coal": {
+        "primary_buyers": ["India", "China", "Japan", "South Korea", "Netherlands (ARA hub for European distribution)"],
+        "notes": "Richards Bay Coal Terminal (RBCT) is the primary export gateway; shipped 57.66M tonnes in 2025, targeting 60–65M tonnes in 2026. India has emerged as the largest growth market for SA thermal coal as China reduced volumes."
+      },
+      "chrome_ore": {
+        "primary_buyers": ["China (dominant — >70% of SA chrome exports)", "India", "Japan", "Kazakhstan"],
+        "notes": "South Africa holds ~72% of global chrome reserves. Chinese buyers (SinoSteel, Tsingshan, Xinganglian) are dominant offtakers; ferrochrome smelting in SA supplies stainless steel producers globally."
+      },
+      "iron_ore": {
+        "primary_buyers": ["China", "Japan", "South Korea", "Germany", "UAE"],
+        "notes": "Kumba Iron Ore (Anglo American subsidiary) is the dominant SA iron ore exporter via Saldanha Bay terminal. Chinese steel mills are the primary destination. OEC data confirms China as the #1 destination by volume."
+      },
+      "manganese": {
+        "primary_buyers": ["China (dominant)", "India", "Japan", "South Korea"],
+        "notes": "South Africa is the world's largest manganese producer (7.4M tonnes in 2024). India's import volumes rose 56.78% MoM in Jan 2025 and 74.25% YoY in Feb 2025. Japan showed 92% MoM import growth in Feb 2025."
+      }
+    },
+    "major_domestic_buyers": [
+      {
+        "name": "Sasol",
+        "commodity": "Thermal coal",
+        "role": "End-user (coal-to-liquids / chemicals feedstock)",
+        "notes": "Sasol's Secunda plant is one of the world's largest coal-to-liquids operations; large domestic thermal coal buyer"
+      },
+      {
+        "name": "Eskom",
+        "commodity": "Thermal coal",
+        "role": "End-user (power generation)",
+        "notes": "Historically the largest domestic coal buyer in SA; procurement volumes are declining as ageing coal plants are decommissioned, but still a significant offtaker"
+      },
+      {
+        "name": "ArcelorMittal South Africa",
+        "commodity": "Iron ore, coking coal, manganese",
+        "role": "End-user (steel manufacturing)",
+        "notes": "Largest SA steel producer; sources iron ore (primarily from Kumba/Sishen), coking coal, and manganese for steelmaking"
+      },
+      {
+        "name": "Samancor Chrome",
+        "commodity": "Chrome ore",
+        "role": "Producer / integrated buyer for ferrochrome smelting",
+        "notes": "Joint venture between South32 and Kermas Group; one of the world's largest integrated chrome ore miners and ferrochrome producers; a price-setting benchmark entity"
+      }
+    ],
+    "active_international_trading_houses": [
+      {
+        "name": "Glencore",
+        "commodities": ["coal", "chrome/ferrochrome", "iron ore", "manganese"],
+        "sa_role": "Producer and major third-party trader; trades 70M+ tonnes/yr of iron ore; controls large SA coal production"
+      },
+      {
+        "name": "Trafigura",
+        "commodities": ["coal", "iron ore", "base metals"],
+        "sa_role": "Major SA coal exporter via RBCT; expanding metals trading; bidder for SA coal mining assets"
+      },
+      {
+        "name": "Vitol / Noble Resources",
+        "commodities": ["coal", "iron ore", "industrial raw materials"],
+        "sa_role": "Growing SA metals presence via Noble Resources acquisition; hiring iron ore traders; bidder for SA coal assets"
+      },
+      {
+        "name": "Louis Dreyfus Company",
+        "commodities": ["coal", "metals"],
+        "sa_role": "International trading house with SA commodity exposure; active in bulk material flows through Southern Africa"
+      }
+    ],
+    "buying_tenders_and_offtake_calls": [
+      {
+        "entity": "Eskom",
+        "type": "Coal supply tenders",
+        "source": "Eskom Procurement — eskom.co.za/procurement",
+        "notes": "Eskom issues periodic coal supply tenders for its power stations; tender notices published on the Eskom website and National Treasury eTender portal"
+      },
+      {
+        "entity": "National Treasury eTender Portal",
+        "type": "Government and parastatal commodity procurement",
+        "source": "https://www.etenders.gov.za",
+        "notes": "Central portal for all South African public sector tenders including commodity procurement by Eskom, Transnet, and other state entities"
+      },
+      {
+        "entity": "Transnet",
+        "type": "Rail and port logistics tenders (indirectly impacts offtake economics)",
+        "source": "https://www.transnet.net/BusinessWithUs/Pages/Tenders.aspx",
+        "notes": "Transnet publishes logistics and service tenders; rail allocation agreements are critical for coal and iron ore offtake viability"
+      }
+    ]
+  },
+
+  "risk_signals": [
+    {
+      "risk": "Transnet port and rail capacity constraints",
+      "description": "Richards Bay Coal Terminal (RBCT) operates at ~62% of nameplate capacity (91Mt/yr); 2025 throughput was 57.66Mt. Risks include locomotive shortages, infrastructure gaps, cable theft, power supply failures. Annual maintenance closure runs 21 July–1 August 2026.",
+      "monitoring_sources": [
+        {
+          "name": "S&P Global — Richards Bay / Transnet reporting",
+          "url": "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+        },
+        {
+          "name": "Daily Maverick — Transnet and logistics coverage",
+          "url": "https://www.dailymaverick.co.za"
+        },
+        {
+          "name": "Freight News SA",
+          "url": "https://www.freightnews.co.za"
+        },
+        {
+          "name": "Richards Bay Coal Terminal official data",
+          "url": "https://www.rbct.co.za"
+        }
+      ]
+    },
+    {
+      "risk": "ZAR/USD exchange rate volatility",
+      "description": "USDZAR has traded in a 16.00–17.25 range in 2026; consensus forecasts cluster around 17.0. SA's commodity-heavy export economy means the rand is highly sensitive to Chinese demand, global risk appetite, Fed policy, and commodity price swings. A weakening rand improves export USD revenues but raises import costs.",
+      "monitoring_sources": [
+        {
+          "name": "Investec Rand Note (weekly analysis)",
+          "url": "https://www.investec.com/en_za/focus/economy/rand-note.html"
+        },
+        {
+          "name": "South African Reserve Bank (SARB) — policy decisions",
+          "url": "https://www.resbank.co.za"
+        },
+        {
+          "name": "TradingView — USDZAR live chart",
+          "url": "https://www.tradingview.com/symbols/USDZAR/"
+        },
+        {
+          "name": "FocusEconomics — SA exchange rate consensus forecasts",
+          "url": "https://www.focus-economics.com/country-indicator/south-africa/exchange-rate/"
+        }
+      ]
+    },
+    {
+      "risk": "Chinese steel and energy demand signals",
+      "description": "China is the dominant buyer of SA chrome, manganese, iron ore, and increasingly thermal coal. Steel production volumes, property sector health, and China's energy mix decisions directly set the floor and ceiling for SA commodity prices and export demand. Slowdown in Chinese steel output immediately compresses SA export prices.",
+      "monitoring_sources": [
+        {
+          "name": "World Steel Association — monthly crude steel production",
+          "url": "https://www.worldsteel.org/steel-by-topic/statistics.html"
+        },
+        {
+          "name": "National Bureau of Statistics China",
+          "url": "https://www.stats.gov.cn/english/"
+        },
+        {
+          "name": "Asian Metal — Chinese import/demand data",
+          "url": "https://www.asianmetal.com"
+        },
+        {
+          "name": "S&P Global Commodity Insights — China steel and energy",
+          "url": "https://www.spglobal.com/commodities/en"
+        }
+      ]
+    },
+    {
+      "risk": "South African mining production disruptions",
+      "description": "Load-shedding (Eskom power cuts), labour disputes, safety stoppages (Section 54 orders), and geological events can halt mine production. Mining output grew 2.5% YoY in March 2026, with mineral sales surging 30.2% YoY — but disruptions remain a recurring risk. Water and tailings management failures are an emerging operational risk.",
+      "monitoring_sources": [
+        {
+          "name": "Minerals Council South Africa — monthly production and safety data",
+          "url": "https://www.mineralscouncil.org.za"
+        },
+        {
+          "name": "DMRE (Department of Mineral Resources and Energy) — mineral economics data",
+          "url": "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/mineral-economics"
+        },
+        {
+          "name": "Mining Weekly — production disruption news",
+          "url": "https://www.miningweekly.com"
+        },
+        {
+          "name": "Stats SA — mining production and sales monthly report",
+          "url": "https://www.statssa.gov.za"
+        }
+      ]
+    },
+    {
+      "risk": "Regulatory and export policy changes",
+      "description": "The Draft Mineral Resources Development Amendment Bill (published May 2025, comment period closed August 2025) proposes local beneficiation obligations, amended mineral rights allocation, and formalisation of artisanal mining. A Forced Beneficiation policy for chrome is under active debate in 2026. The Critical Minerals and Metals Strategy (2025) seeks to restrict raw ore exports in favour of value-added processing. These policies could constrain raw chrome and manganese export volumes.",
+      "key_risks": [
+        "Chrome and manganese raw ore export restrictions in favour of local smelting",
+        "New beneficiation conditions attached to mineral rights allocation",
+        "US tariff impacts on SA critical mineral exports",
+        "Chinese dominance concerns reshaping bilateral mineral supply terms"
+      ],
+      "monitoring_sources": [
+        {
+          "name": "DMRE — policy and legislation updates",
+          "url": "https://www.dmre.gov.za"
+        },
+        {
+          "name": "Minerals Council SA — industry response to legislation",
+          "url": "https://www.mineralscouncil.org.za"
+        },
+        {
+          "name": "Mining Review Africa — regulatory analysis",
+          "url": "https://www.miningreview.com"
+        },
+        {
+          "name": "Cliffe Dekker Hofmeyr — mining law alerts",
+          "url": "https://www.cliffedekkerhofmeyr.com/en/news/publications"
+        },
+        {
+          "name": "White & Case — SA mining law overhaul analysis",
+          "url": "https://www.whitecase.com/insight-alert/proposed-overhaul-south-african-mining-law-regime"
+        }
+      ]
+    }
+  ],
+
+  "trade_intelligence_sources": [
+    {
+      "name": "Mining Weekly",
+      "url": "https://www.miningweekly.com",
+      "publisher": "Creamer Media",
+      "intelligence_type": "Weekly SA and African mining news; project developments; commodity price signals; company announcements; infrastructure updates (Transnet, port capacity). Free access to most articles.",
+      "recommended_cadence": "Weekly"
+    },
+    {
+      "name": "Argus Media",
+      "url": "https://www.argusmedia.com/en",
+      "publisher": "Argus Media Ltd",
+      "intelligence_type": "Subscription-based price intelligence for coal (API4/RB FOB), ferrochrome, iron ore, and manganese; freight rates; trade flow analysis; South Africa-specific coal price assessments are industry benchmark (API4 index). Free news summaries available.",
+      "recommended_cadence": "Daily price checks; weekly digest"
+    },
+    {
+      "name": "Fastmarkets",
+      "url": "https://www.fastmarkets.com",
+      "publisher": "Fastmarkets (formerly Metal Bulletin / Industrial Minerals)",
+      "intelligence_type": "Ferrochrome quarterly benchmark price (market-making publication); chrome ore spot assessments; iron ore and manganese price data; South Africa critical minerals policy coverage. Some free insights; full price data requires subscription.",
+      "recommended_cadence": "Weekly; quarterly for ferrochrome benchmark"
+    },
+    {
+      "name": "Mining-Bulletin",
+      "url": "https://www.mining-bulletin.com",
+      "publisher": "Global Minerals and Metals Information Center",
+      "intelligence_type": "Free-access SA chrome ore and manganese ore export price updates; global metals and minerals pricing; particularly useful for monitoring week-on-week SA export price movements for chrome and manganese without a subscription.",
+      "recommended_cadence": "Weekly"
+    },
+    {
+      "name": "Daily Maverick — Business and Mines",
+      "url": "https://www.dailymaverick.co.za",
+      "publisher": "Daily Maverick (South Africa)",
+      "intelligence_type": "Free SA investigative and business journalism covering Transnet logistics, mining regulatory developments, labour disputes, and political risk affecting the mining sector. Strong on Eskom and infrastructure intelligence relevant to commodity logistics.",
+      "recommended_cadence": "Daily / as breaking news emerges"
+    },
+    {
+      "name": "OEC — South Africa Trade Profile",
+      "url": "https://oec.world/en/profile/country/zaf",
+      "publisher": "Observatory of Economic Complexity (MIT / Harvard)",
+      "intelligence_type": "Free trade flow data showing SA export volumes and values by commodity and destination country; useful for understanding market share shifts in iron ore, chrome, manganese, and coal across buyer countries on a quarterly/annual basis.",
+      "recommended_cadence": "Monthly for updated export data"
+    }
+  ]
+}

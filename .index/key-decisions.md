@@ -20,3 +20,8 @@
 
 - **Decision:** Point `origin` at `AN3S-CREATE/Geologix_Taining` and `veralogix` at `VeralogixCatalyst/geologix_taining`; rename GitHub repos to match.
 - **Rationale:** User requested Geologix branding on both remotes.
+
+## 2026-07-14 — Company context process before new soul pairs
+
+- **Decision:** Use `data/veralogix_companys_information/` as Geologix AI company knowledge source; define P0–P6 in `docs/geologix-ai-company-context-process.md` and materialise packs via `scripts/00_ingest_company_context.py` before expanding training JSON or retraining.
+- **Rationale:** User asked to populate context from that folder and generate learning/training processes only for this step.

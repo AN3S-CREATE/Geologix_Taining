@@ -1,0 +1,33 @@
+﻿{
+    "_section":  "metadata",
+    "_company":  "IO Green",
+    "_source":  "doc_cf247c.json",
+    "data":  {
+                 "research_date":  "2026-06-24",
+                 "target_company":  "IO Green",
+                 "target_company_description":  "Electrical supply and installation services; solar supply and installation services; industrial, commercial, and mining clients in South Africa",
+                 "sources_used":  [
+                                      "https://solarafrica.com",
+                                      "https://www.juwi.co.za",
+                                      "https://greenyellowsa.co.za",
+                                      "https://alumo.co.za",
+                                      "https://www.voltalia.com",
+                                      "https://www.esi-africa.com",
+                                      "https://sapvia.co.za",
+                                      "https://www.sseg.org.za",
+                                      "https://etenders.treasury.gov.za",
+                                      "https://tenderbulletin.eskom.co.za",
+                                      "https://www.cidb.org.za",
+                                      "https://ecb.org.za",
+                                      "https://www.sars.gov.za",
+                                      "https://cleantechnica.com/2025/12/03/ncp-chlorchem-terra-firma-roll-out-one-of-south-africas-largest-behind-the-meter-industrial-solar-installations/",
+                                      "https://cleantechnica.com/2025/02/07/juwi-to-build-340mwp-solar-projects-for-south-african-mining-energy-data-center-leaders-in-2025/",
+                                      "https://solarquarter.com/2026/04/08/eca-sa-warns-against-unqualified-solar-installations-urges-strict-safety-compliance-in-south-africa/",
+                                      "https://energybee.co.za/guides/section-12b-solar-tax-deduction-south-africa",
+                                      "https://grantza.org.za/energy/12b-tax",
+                                      "https://techcentral.co.za/south-africa-marks-a-full-year-without-load-shedding/281384/",
+                                      "https://www.lopiletech.co.za/post/nersa-s-new-net-billing-rules-are-a-game-changer-for-south-africa-s-energy-landscape"
+                                  ],
+                 "disclaimer":  "This report is based on publicly available information as of June 2026. Competitor data, costs, and regulatory details should be independently verified before use in strategic decisions. Some competitor websites are flagged \u0027(verify before use)\u0027 where the URL was not confirmed directly in source material."
+             }
+}

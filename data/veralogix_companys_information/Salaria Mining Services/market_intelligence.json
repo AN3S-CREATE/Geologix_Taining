@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "subject": "Salaria Mining Services — Market & Competitive Intelligence",
+    "generated": "2026-06-24",
+    "scope": "South Africa mineral resource management, mine planning, rock engineering, geotechnical analysis, reserve statements, feasibility studies, exploration services"
+  },
+
+  "competitors": [
+    {
+      "company_name": "Minxcon Group",
+      "website": "https://www.minxcon.co.za",
+      "core_services_overlap": [
+        "Mineral Resource estimation and SAMREC-compliant reporting",
+        "Competent Person Reports (CPR)",
+        "Mine planning and design",
+        "Reserve statements and annual reporting",
+        "Resource audits and due diligence",
+        "Mineral economics and mine financial valuation",
+        "Feasibility and pre-feasibility studies"
+      ],
+      "approximate_size": "medium",
+      "known_client_types_and_sectors": [
+        "JSE-listed mining companies",
+        "ASX and AIM-listed juniors",
+        "Gold, platinum, coal, base metals, uranium sectors"
+      ],
+      "recent_notable": "Reports accepted globally across JSE, ASX, AIM, TSE and NYSE jurisdictions; active CPR signatories for multiple listed entities."
+    },
+    {
+      "company_name": "SRK Consulting (South Africa)",
+      "website": "https://www.srk.com/en/contact-us/south-africa",
+      "core_services_overlap": [
+        "Mineral Resource and Reserve estimation",
+        "Competent/Qualified Person reports",
+        "Geotechnical and rock engineering assessments",
+        "Feasibility and engineering studies",
+        "Exploration due diligence",
+        "Tailings and waste management",
+        "Environmental and social impact assessments"
+      ],
+      "approximate_size": "large",
+      "known_client_types_and_sectors": [
+        "Major and mid-tier miners globally",
+        "Gold, PGM, coal, iron ore, base metals",
+        "Project developers and financiers"
+      ],
+      "recent_notable": "One of the largest independent mining consultancies globally with a well-established Johannesburg office; regularly appointed by JSE-listed companies for independent resource reporting."
+    },
+    {
+      "company_name": "Middindi Consulting",
+      "website": "https://www.middindiconsulting.com",
+      "core_services_overlap": [
+        "Rock engineering and stope stability analysis",
+        "Geotechnical investigation and design",
+        "Geological services to the mining industry"
+      ],
+      "approximate_size": "small",
+      "known_client_types_and_sectors": [
+        "Underground hard rock mines",
+        "Gold, platinum and base metals"
+      ],
+      "recent_notable": "Independent specialist boutique; recognised for rock engineering expertise in Southern Africa."
+    },
+    {
+      "company_name": "VBKOM Consulting Engineers",
+      "website": "https://www.vbkom.com",
+      "core_services_overlap": [
+        "Mining geology and Mineral Resource estimation",
+        "Geotechnical consulting",
+        "Mine planning and design",
+        "Metallurgy",
+        "Industrial engineering and simulation",
+        "Project risk and finance"
+      ],
+      "approximate_size": "medium",
+      "known_client_types_and_sectors": [
+        "Coal, gold, PGM and base metal mining companies",
+        "South African and broader African projects"
+      ],
+      "recent_notable": "Multi-disciplinary mining consultancy offering one-stop service from exploration through to closure."
+    },
+    {
+      "company_name": "SLR Consulting (Africa)",
+      "website": "https://www.slrconsulting.com/afr/sectors/mining-minerals/",
+      "core_services_overlap": [
+        "Mining advisory across full project lifecycle",
+        "Resource and reserve reporting",
+        "Geotechnical and hydrogeological assessments",
+        "Environmental and social due diligence",
+        "Feasibility studies"
+      ],
+      "approximate_size": "large",
+      "known_client_types_and_sectors": [
+        "International mining companies, financiers, and developers",
+        "Coal, gold, PGM, diamonds, base metals"
+      ],
+      "recent_notable": "Global consultancy with an active African practice; acquired several South African specialist firms in recent years to broaden service offering."
+    },
+    {
+      "company_name": "AMC Consultants",
+      "website": "https://www.amcconsultants.com",
+      "core_services_overlap": [
+        "Resource modelling and estimation",
+        "Geotechnical assessments",
+        "Underground mine design",
+        "Production planning",
+        "Economic analysis and feasibility studies"
+      ],
+      "approximate_size": "medium",
+      "known_client_types_and_sectors": [
+        "Junior and mid-tier miners in Africa",
+        "Gold, copper, nickel, platinum sectors"
+      ],
+      "recent_notable": "Australian-founded firm with South African presence; expanded African footprint through partnerships."
+    },
+    {
+      "company_name": "Grace Mining Consultants",
+      "website": "https://graceminingconsultants.com",
+      "core_services_overlap": [
+        "Greenfields to brownfields exploration",
+        "Mineral Resource and Reserve estimation",
+        "Mine planning and surveying",
+        "Rock engineering",
+        "Sampling programmes"
+      ],
+      "approximate_size": "small",
+      "known_client_types_and_sectors": [
+        "Junior explorers and small-to-mid-tier producers",
+        "Various commodities across Southern Africa"
+      ],
+      "recent_notable": "Focused South African boutique known for hands-on exploration and resource reporting work."
+    },
+    {
+      "company_name": "Ukwazi Mining Solutions",
+      "website": "https://www.ukwazi.com",
+      "core_services_overlap": [
+        "Independent mining advisory",
+        "On-site technical solutions",
+        "Mine planning and optimisation",
+        "Resource audits"
+      ],
+      "approximate_size": "medium",
+      "known_client_types_and_sectors": [
+        "South African and Pan-African mines",
+        "Gold, platinum, coal, base metals"
+      ],
+      "recent_notable": "Leading African-based specialist; organised into expert Superteams by mining method and mineralisation style."
+    },
+    {
+      "company_name": "Nurizon Consulting Engineers",
+      "website": "https://www.nurizonconsulting.com/services/mining/",
+      "core_services_overlap": [
+        "Mine planning and design",
+        "Geotechnical assessments",
+        "Mineral Resource and Reserve reporting"
+      ],
+      "approximate_size": "small",
+      "known_client_types_and_sectors": [
+        "Junior miners to mining majors",
+        "Coal, manganese, iron ore, tin, platinum, gold, bauxite"
+      ],
+      "recent_notable": "Active across South Africa and the broader African continent across multiple commodity types."
+    },
+    {
+      "company_name": "Deloitte Technical Mining Advisory (South Africa)",
+      "website": "https://www.deloitte.com/za/en/Industries/mining-metals/about/technical-mining-advisory.html",
+      "core_services_overlap": [
+        "Independent technical mining advisory",
+        "Resource and Reserve due diligence",
+        "Feasibility study review",
+        "Mine valuation and financial analysis"
+      ],
+      "approximate_size": "large",
+      "known_client_types_and_sectors": [
+        "JSE-listed corporates, financiers, M&A clients",
+        "All major commodity sectors"
+      ],
+      "recent_notable": "Big-4 firm with specialist mining technical advisory arm; often engaged for transaction due diligence and lender-side reviews."
+    }
+  ],
+
+  "tender_landscape": {
+    "key_procuring_entities": [
+      {
+        "entity": "Department of Mineral Resources and Energy (DMRE)",
+        "tender_portal": "https://www.dmre.gov.za/tenders",
+        "typical_scope": "Geological mapping, mineral policy research, mine rehabilitation oversight, resource reporting verification, geotechnical studies for state mines"
+      },
+      {
+        "entity": "Council for Geoscience (CGS)",
+        "tender_portal": "https://www.geoscience.org.za",
+        "typical_scope": "Geoscientific data acquisition, geological surveys, geohazard assessments"
+      },
+      {
+        "entity": "Mintek (State metallurgical research body)",
+        "tender_portal": "https://tenderalerts.co.za/issuer/mintek",
+        "typical_scope": "Mineral processing studies, metallurgical testwork, feasibility support services"
+      },
+      {
+        "entity": "African Exploration Mining and Finance Corporation (AEMFC)",
+        "tender_portal": "https://www.aemfc.co.za/procurement/open-tenders",
+        "typical_scope": "Coal exploration, resource estimation, mine planning for state-owned coal assets"
+      },
+      {
+        "entity": "Mine Health and Safety Council (MHSC)",
+        "tender_portal": "https://mhsc.org.za/open-tenders/",
+        "typical_scope": "Rock engineering research, geotechnical safety studies, seismic risk assessments"
+      },
+      {
+        "entity": "Eskom (state power utility)",
+        "tender_portal": "https://tenderbulletin.eskom.co.za/search",
+        "typical_scope": "Geotechnical investigations for power station and coal mine infrastructure, ash dam engineering"
+      },
+      {
+        "entity": "Transnet (state freight and ports utility)",
+        "tender_portal": "https://www.transnet.net/tenders",
+        "typical_scope": "Geotechnical investigations for rail and port infrastructure"
+      }
+    ],
+    "professional_registration_requirements": {
+      "SACNASP": "Statutory registration mandatory for all geoscientists practicing in South Africa under the Natural Scientific Professions Act. Required for Competent Person sign-off on SAMREC-compliant reports.",
+      "ECSA": "Statutory registration required for engineers performing identified engineering work under the Engineering Profession Act 46 of 2000. Required for rock and geotechnical engineers.",
+      "GSSA_SAIMM_membership": "Professional membership of the Geological Society of South Africa (GSSA) or the Southern African Institute of Mining and Metallurgy (SAIMM) is recognised as qualifying a practitioner as a Competent Person under SAMREC.",
+      "CIDB_grading": "CIDB (Construction Industry Development Board) grading applies primarily to construction contractors, not professional consulting services. However, consulting firms contracted by CIDB-regulated projects may need to demonstrate alignment with grading requirements. Professional service providers (geology, geotechnics) typically register under the EP (Engineering and Professional) category.",
+      "BBBEE": "Broad-Based Black Economic Empowerment compliance scoring is a standard evaluation criterion in government and SOE tenders, typically weighted under the Preferential Procurement Policy Framework Act (PPPFA).",
+      "CSD_registration": "All suppliers to government must be registered on the Central Supplier Database (csd.gov.za)."
+    },
+    "active_tender_portals": [
+      {
+        "portal_name": "National Treasury eTender Portal",
+        "url": "https://www.etenders.gov.za",
+        "notes": "Official South African government e-procurement portal; the primary platform for national and provincial department tenders including DMRE"
+      },
+      {
+        "portal_name": "CIDB Tenders",
+        "url": "https://www.cidb.org.za/cidb-tenders/current-tenders/",
+        "notes": "Construction Industry Development Board tender listings; includes infrastructure-related geotechnical and mining support tenders"
+      },
+      {
+        "portal_name": "Tender Bulletins (Geotechnical & Geological Category)",
+        "url": "https://tenderbulletins.co.za/tender-category/geotechnical-and-geological-services/",
+        "notes": "Aggregator specifically filtering for geotechnical, hydrogeological and geological engineering tenders from SA government and SOEs"
+      },
+      {
+        "portal_name": "Tenders on Time (Mining Category)",
+        "url": "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+        "notes": "Third-party aggregator covering South African and Southern African mining procurement notices"
+      },
+      {
+        "portal_name": "DMRE Tenders (direct)",
+        "url": "https://www.dmre.gov.za/tenders",
+        "notes": "Direct portal for all DMRE procurement; most directly relevant to Salaria's service scope"
+      }
+    ]
+  },
+
+  "regulatory_watchlist": [
+    {
+      "body_name": "Department of Mineral Resources and Energy (DMRE)",
+      "what_they_regulate": "All aspects of mineral prospecting, exploration, mining rights, resource and reserve reporting, mine health oversight, and petroleum resources in South Africa",
+      "key_compliance_obligations": [
+        "Compliance with the Mineral and Petroleum Resources Development Act (MPRDA) No. 28 of 2002 for all resource reporting and rights applications",
+        "Submission of Mineral Resource and Reserve statements that are SAMREC-compliant, signed off by a registered Competent Person",
+        "SAMRAD online portal is the sole legal channel for prospecting and mining right applications",
+        "Social and Labour Plan (SLP) obligations for mining rights holders",
+        "Environmental authorisation and Environmental Management Plan (EMP) submission"
+      ],
+      "monitor_at": "https://www.dmre.gov.za — Publications, Regulations and Mineral Regulation Overview sections"
+    },
+    {
+      "body_name": "SAMCODES Standing Committee (SSC) — SAMREC and SAMVAL",
+      "what_they_regulate": "The South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves (SAMREC) and the South African Code for the Valuation of Mineral Assets (SAMVAL); sets minimum standards for public and JSE-mandated reporting",
+      "key_compliance_obligations": [
+        "All public reports of Exploration Results, Mineral Resources and Mineral Reserves must conform to SAMREC",
+        "Mineral asset valuations for JSE disclosure must conform to SAMVAL",
+        "Reports must be signed by a Competent Person registered with SACNASP, ECSA, GSSA or SAIMM",
+        "CRIRSCO alignment required for international cross-listing (ASX, TSX, etc.)"
+      ],
+      "monitor_at": "https://www.samcode.co.za — Code revisions, guidelines and FAQs"
+    },
+    {
+      "body_name": "South African Council for Natural Scientific Professions (SACNASP)",
+      "what_they_regulate": "Statutory registration and regulation of natural scientists (geologists, geohydrologists, environmental scientists) practicing in South Africa under the Natural Scientific Professions Act 27 of 2003",
+      "key_compliance_obligations": [
+        "All geologists and geoscientists employed by or contracting for Salaria must be registered with SACNASP",
+        "It is illegal to practice geology in South Africa without SACNASP registration",
+        "Continuing Professional Development (CPD) points required for annual renewal",
+        "Competent Person designation under SAMREC requires SACNASP registration"
+      ],
+      "monitor_at": "https://www.sacnasp.org.za — Register, CPD requirements, disciplinary notices"
+    },
+    {
+      "body_name": "Engineering Council of South Africa (ECSA)",
+      "what_they_regulate": "Statutory registration of professional engineers and technologists under the Engineering Profession Act 46 of 2000; covers rock engineers, geotechnical engineers and mining engineers",
+      "key_compliance_obligations": [
+        "Rock engineers and geotechnical engineers must be registered with ECSA as Professional Engineers (Pr Eng) to perform identified engineering work",
+        "Non-compliance is illegal under the Engineering Profession Act",
+        "CPD obligations for registered professionals",
+        "Required for sign-off on engineering designs, rock engineering codes of practice for mines"
+      ],
+      "monitor_at": "https://www.ecsa.co.za — Registration categories, CPD, disciplinary decisions"
+    },
+    {
+      "body_name": "Mine Health and Safety Inspectorate (MHSI) — within DMRE",
+      "what_they_regulate": "Mine health and safety compliance under the Mine Health and Safety Act (MHSA) No. 29 of 1996 and its regulations; particularly relevant to rock engineering and geotechnical work at active mines",
+      "key_compliance_obligations": [
+        "All rock engineering and geotechnical work conducted at operating mines must comply with the MHSA",
+        "Mines must have an appointed Rock Engineering Manager (registered Pr Eng or Pr Sci Nat) where required by regulations",
+        "Codes of Practice (CoP) for seismic risk management, slope stability, and support design must be maintained and submitted to MHSI",
+        "MHSI inspectors can suspend mine operations for non-compliance; administrative fines up to ZAR 1 million per offence",
+        "Mine Health and Safety Amendment Bill (2024) introduces updated requirements — monitor for enactment"
+      ],
+      "monitor_at": "https://www.mhsc.org.za — Legislation section; https://www.dmre.gov.za — Mine Health and Safety Act and Regulations"
+    }
+  ],
+
+  "signal_sources": [
+    {
+      "source_name": "Mining Review Africa",
+      "url": "https://www.miningreview.com",
+      "signal_type": "New mine project announcements, exploration results, feasibility study milestones, resource development news across Southern and Sub-Saharan Africa",
+      "update_frequency": "Daily"
+    },
+    {
+      "source_name": "Mining Weekly",
+      "url": "https://www.miningweekly.com",
+      "signal_type": "South African-focused mining industry news, commodity-specific project updates, regulatory changes, company announcements",
+      "update_frequency": "Daily"
+    },
+    {
+      "source_name": "African Mining Market",
+      "url": "https://africanminingmarket.com/country/south-africa/",
+      "signal_type": "Country-specific project and market news for South Africa; includes new exploration activity and resource development announcements",
+      "update_frequency": "Weekly"
+    },
+    {
+      "source_name": "SAMRAD — South African Mineral Resources Administration System",
+      "url": "https://www.samrad.gov.za",
+      "signal_type": "Primary signal for new prospecting rights and mining rights granted or applied for; leading indicator of future exploration and feasibility work pipelines",
+      "update_frequency": "Continuous (government portal)"
+    },
+    {
+      "source_name": "DMRE — South Africa's Mineral Industry (SAMI) Annual Report",
+      "url": "https://www.dmre.gov.za/mineral-resources/mineral-petroleum-regulations/overview",
+      "signal_type": "Annual statistical overview of South African mineral production, resource and reserve base, rights issued, investment flows; strategic context for consulting demand",
+      "update_frequency": "Annual"
+    },
+    {
+      "source_name": "SAIMM Journal of the Southern African Institute of Mining and Metallurgy",
+      "url": "https://www.saimm.co.za/journal",
+      "signal_type": "Peer-reviewed technical papers on resource estimation, geotechnics, mine planning and rock engineering; useful for tracking methodology trends and competitor activity",
+      "update_frequency": "Monthly"
+    },
+    {
+      "source_name": "GeoAfrica Earth Science Consultant and Supplier Directory",
+      "url": "https://www.geoafrica.co.za",
+      "signal_type": "Directory of South African geoscience projects, suppliers and consultants; useful for tracking new project registrations and competitor positioning",
+      "update_frequency": "Periodic"
+    },
+    {
+      "source_name": "Business Day / BusinessLIVE (Mining section)",
+      "url": "https://www.businesslive.co.za/bd/companies/mining/",
+      "signal_type": "Corporate announcements, JSE-listed mining company news, M&A activity, new resource disclosures and feasibility study announcements",
+      "update_frequency": "Daily"
+    }
+  ],
+
+  "key_terminology": [
+    {
+      "term": "SAMREC",
+      "full_form": "South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves",
+      "use_in_classification": "The primary South African reporting standard; any tender or news item referencing 'SAMREC-compliant reporting' signals demand for Salaria-type services"
+    },
+    {
+      "term": "SAMVAL",
+      "full_form": "South African Code for the Valuation of Mineral Assets",
+      "use_in_classification": "Companion to SAMREC for mineral asset valuation; often referenced in M&A and JSE listing contexts"
+    },
+    {
+      "term": "SAMOG",
+      "full_form": "South African Code for the Reporting of Oil and Gas Resources",
+      "use_in_classification": "Oil and gas equivalent of SAMREC; relevant if Salaria expands into petroleum resource reporting"
+    },
+    {
+      "term": "CRIRSCO",
+      "full_form": "Committee for Mineral Reserves International Reporting Standards",
+      "use_in_classification": "International umbrella body for SAMREC, JORC, NI 43-101 etc.; cross-listing requirements referenced here"
+    },
+    {
+      "term": "CPR",
+      "full_form": "Competent Person's Report",
+      "use_in_classification": "Formal independent technical report; mandatory for JSE listings and major transactions. A key deliverable Salaria produces"
+    },
+    {
+      "term": "Competent Person (CP)",
+      "full_form": "Competent Person",
+      "use_in_classification": "SACNASP- or ECSA-registered professional who signs off resource and reserve reports; must have 5+ years relevant experience"
+    },
+    {
+      "term": "NI 43-101",
+      "full_form": "National Instrument 43-101 (Canada)",
+      "use_in_classification": "Canadian mineral reporting standard; referenced when a South African project has Canadian-listed shareholders or TSX aspirations"
+    },
+    {
+      "term": "JORC",
+      "full_form": "Joint Ore Reserves Committee Code (Australia/New Zealand)",
+      "use_in_classification": "Australian equivalent of SAMREC; referenced for ASX-listed mining companies operating in South Africa"
+    },
+    {
+      "term": "MPRDA",
+      "full_form": "Mineral and Petroleum Resources Development Act 28 of 2002",
+      "use_in_classification": "Primary mining rights legislation; tenders and contracts referencing MPRDA compliance indicate regulatory consulting scope"
+    },
+    {
+      "term": "MHSA",
+      "full_form": "Mine Health and Safety Act 29 of 1996",
+      "use_in_classification": "Governs on-site safety; rock engineering codes of practice, geotechnical reports for operating mines fall under MHSA requirements"
+    },
+    {
+      "term": "SLP",
+      "full_form": "Social and Labour Plan",
+      "use_in_classification": "Required for mining rights; often accompanied by feasibility and mine planning input from consultants like Salaria"
+    },
+    {
+      "term": "EMP / EMPr",
+      "full_form": "Environmental Management Plan / Environmental Management Programme",
+      "use_in_classification": "Required under MPRDA; geotechnical inputs to EMPs are a service adjacent to Salaria's core offering"
+    },
+    {
+      "term": "Inferred / Indicated / Measured",
+      "full_form": "Mineral Resource classification categories (SAMREC)",
+      "use_in_classification": "Classification terms in resource statements; any tender or article using these terms signals resource estimation work"
+    },
+    {
+      "term": "Probable / Proven Reserve",
+      "full_form": "Mineral Reserve classification categories (SAMREC)",
+      "use_in_classification": "Reserve declaration triggers mine planning and feasibility deliverables; key signal of consulting demand"
+    },
+    {
+      "term": "PFS / DFS",
+      "full_form": "Pre-Feasibility Study / Definitive Feasibility Study",
+      "use_in_classification": "Project stages at which mine planning, geotechnical, and resource reporting services are most intensively required"
+    },
+    {
+      "term": "Scoping Study",
+      "full_form": "Scoping Study (also Order-of-Magnitude Study)",
+      "use_in_classification": "Earliest formal project evaluation stage; often the entry point for consulting engagements"
+    },
+    {
+      "term": "SAMRAD",
+      "full_form": "South African Mineral Resources Administration System",
+      "use_in_classification": "Online DMRE portal for rights applications; monitoring new prospecting rights issued is a leading indicator of exploration consulting demand"
+    },
+    {
+      "term": "Rock Engineering CoP",
+      "full_form": "Rock Engineering Code of Practice",
+      "use_in_classification": "Mandatory safety document for mines under MHSA; prepared or reviewed by rock engineering consultants"
+    },
+    {
+      "term": "BBBEE",
+      "full_form": "Broad-Based Black Economic Empowerment",
+      "use_in_classification": "Empowerment scoring system that affects procurement eligibility for government and SOE tenders; critical compliance dimension for Salaria in public sector bids"
+    },
+    {
+      "term": "CSD",
+      "full_form": "Central Supplier Database (csd.gov.za)",
+      "use_in_classification": "Mandatory government supplier registration; required before any South African government tender can be awarded"
+    }
+  ]
+}

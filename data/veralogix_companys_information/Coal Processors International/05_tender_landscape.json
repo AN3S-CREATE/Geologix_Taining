@@ -1,0 +1,130 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Coal Processors International",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "tender_portals":  [
+                                        {
+                                            "portal":  "National Treasury eTenders Publication Portal",
+                                            "url":  "https://www.etenders.gov.za",
+                                            "description":  "Primary government procurement portal. All state and parastatal mining entities (AEMFC, Eskom, DMRE) are required to publish tenders here. Searchable by sector (Mining) and region.",
+                                            "relevance_to_CPI":  "High â€” catches parastatal operational management and labour contracts."
+                                        },
+                                        {
+                                            "portal":  "AEMFC (African Exploration Mining and Finance Corporation) Procurement",
+                                            "url":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                            "description":  "State-owned coal mining entity; publishes operational services and labour tenders for its Mpumalanga collieries.",
+                                            "relevance_to_CPI":  "Very High â€” AEMFC collieries are direct target clients for CPI-style operational management."
+                                        },
+                                        {
+                                            "portal":  "Tender Bulletins â€” Mining Support Services",
+                                            "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities",
+                                            "description":  "Aggregated tender bulletin covering mining and quarrying support services, plant management, and labour provision tenders.",
+                                            "relevance_to_CPI":  "High."
+                                        },
+                                        {
+                                            "portal":  "Tenders on Time â€” Southern Africa Mining",
+                                            "url":  "https://www.tendersontime.com/southern-africa-tenders/mining-tenders",
+                                            "description":  "Commercial tender aggregation service covering mining tenders across Southern Africa.",
+                                            "relevance_to_CPI":  "Medium-High."
+                                        },
+                                        {
+                                            "portal":  "Global Tenders â€” SA Minerals and Mining",
+                                            "url":  "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders.php",
+                                            "description":  "International tender aggregator with South Africa mining filter.",
+                                            "relevance_to_CPI":  "Medium."
+                                        },
+                                        {
+                                            "portal":  "Individual Mining Company Portals",
+                                            "examples":  [
+                                                             {
+                                                                 "company":  "Exxaro",
+                                                                 "url":  "https://www.exxaro.com/suppliers"
+                                                             },
+                                                             {
+                                                                 "company":  "Thungela Resources",
+                                                                 "url":  "https://www.thungela.com/sustainability/suppliers-and-procurement"
+                                                             },
+                                                             {
+                                                                 "company":  "Seriti Resources",
+                                                                 "url":  "https://seritipower.com"
+                                                             },
+                                                             {
+                                                                 "company":  "Sibanye-Stillwater SA",
+                                                                 "url":  "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders"
+                                                             }
+                                                         ],
+                                            "description":  "Major coal producers publish supplier and tender opportunities directly on their websites. These are often not captured in aggregator portals and must be monitored directly.",
+                                            "relevance_to_CPI":  "Very High â€” direct relationship procurement is common for operational management contracts."
+                                        }
+                                    ],
+                 "contract_structures":  {
+                                             "typical_duration":  "5 to 10 years for underground operational management contracts; 3 to 5 years for surface/opencast plant management. Labour TES placements are often rolling 12-month or linked to mine life-of-section.",
+                                             "typical_contract_values":  {
+                                                                             "underground_mining_management":  "R500m to R5bn+ (e.g., Boipelo Arnot contract: R3.2bn over contract term)",
+                                                                             "surface_plant_management":  "R100m to R1bn depending on throughput and scope",
+                                                                             "TES_labour_supply":  "Typically per-head day rate contracts, often R50,000â€“R120,000 per employee per month fully loaded"
+                                                                         },
+                                             "key_terms":  [
+                                                               "BBBEE Level 1 or Level 2 preferred/required by most majors",
+                                                               "Performance-linked production bonuses",
+                                                               "Joint venture structures common (majority Black-owned JV partner required by some mining houses)",
+                                                               "MHSA compliance and safety performance KPIs standard",
+                                                               "Section 198 LRA compliance certification typically required",
+                                                               "Local community employment and enterprise development obligations"
+                                                           ]
+                                         },
+                 "active_procurers":  [
+                                          {
+                                              "company":  "Exxaro Resources",
+                                              "website":  "https://www.exxaro.com",
+                                              "procurement_activity":  "Highest-volume coal operational management procurer. Matla LOME Project (R5.2bn, 2025â€“2043) requires extensive contractor and operational management support. Also active at Grootegeluk, Leeuwpan, and Mafube (50/50 JV with Thungela).",
+                                              "key_coal_assets":  [
+                                                                      "Matla Colliery (Mpumalanga)",
+                                                                      "Grootegeluk Mine (Limpopo)",
+                                                                      "Leeuwpan Colliery (Mpumalanga)",
+                                                                      "Mafube Colliery (Mpumalanga, 50/50 with Thungela)"
+                                                                  ]
+                                          },
+                                          {
+                                              "company":  "Seriti Resources",
+                                              "website":  "https://seritipower.com",
+                                              "procurement_activity":  "Opened Naudesbank Colliery (March 2025). Underground phase commencing ~2027 will require specialist underground management contractors. Also operates Middelburg (Optimum/Koornfontein), Klipspruit, and Kriel mines.",
+                                              "key_coal_assets":  [
+                                                                      "Naudesbank Colliery (Mpumalanga, new)",
+                                                                      "Optimum Colliery",
+                                                                      "Koornfontein Mine",
+                                                                      "Klipspruit Colliery",
+                                                                      "Kriel Colliery"
+                                                                  ]
+                                          },
+                                          {
+                                              "company":  "Thungela Resources",
+                                              "website":  "https://www.thungela.com",
+                                              "procurement_activity":  "Zibulo North Shaft Extension Project (R2.5bn) creates contractor demand for underground management. Operates Elders, Goedehoop, Greenside, Isibonelo, Mafube (JV) and Zibulo collieries.",
+                                              "key_coal_assets":  [
+                                                                      "Zibulo Colliery (Mpumalanga, expanding)",
+                                                                      "Elders Colliery",
+                                                                      "Goedehoop Colliery",
+                                                                      "Mafube Colliery (50/50 JV with Exxaro)"
+                                                                  ]
+                                          },
+                                          {
+                                              "company":  "AEMFC (African Exploration Mining and Finance Corporation)",
+                                              "website":  "https://www.aemfc.co.za",
+                                              "procurement_activity":  "State entity that publishes operational management and labour tenders. Targets majority Black-owned service providers. Mandated to develop South Africa\u0027s coal reserves.",
+                                              "key_coal_assets":  [
+                                                                      "Various Mpumalanga and Waterberg exploration and production assets"
+                                                                  ]
+                                          },
+                                          {
+                                              "company":  "Menar Holdings (Arnot Coal)",
+                                              "website":  "https://www.menar.co.za",
+                                              "procurement_activity":  "Arnot underground contract (currently Boipelo, awarded 2021) comes up for renewal in the 2026â€“2027 window. Three shafts each targeting 1 Mt/y.",
+                                              "key_coal_assets":  [
+                                                                      "Arnot Coal Mine (Mpumalanga, 3 shafts at 1 Mt/y each)"
+                                                                  ]
+                                          }
+                                      ]
+             }
+}

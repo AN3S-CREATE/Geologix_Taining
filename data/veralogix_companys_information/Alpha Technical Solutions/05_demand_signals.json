@@ -1,0 +1,70 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Alpha Technical Solutions",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "New Mining Right and Permit Approvals",
+                     "description":  "DMPR grants of new prospecting rights and mining rights indicate greenfield and brownfield mine developments that will require crushing and screening capacity. Monitor the SAMRAD Online Portal for new applications and approvals in chrome, platinum, iron ore, manganese, and coal â€” the highest-volume crushing commodities.",
+                     "monitoring_source":  "DMPR SAMRAD Online Portal",
+                     "url":  "https://portal-samradonline.dmre.gov.za/",
+                     "update_frequency":  "Ongoing / real-time"
+                 },
+                 {
+                     "signal_type":  "Mine Expansion Announcements",
+                     "description":  "Listed mining houses publish capital expansion plans in quarterly production reports and investor presentations. Projects adding pit capacity, new production shafts, or ROM tonnage increases directly create crushing and screening contract demand. Key events to watch: Anglo American\u0027s Minas-Rio expansion, Kumba\u0027s Sishen life-of-mine extension, Glencore chrome brownfields.",
+                     "monitoring_source":  "Engineering News SA â€” Mining Projects",
+                     "url":  "https://www.engineeringnews.co.za/topic/mining",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "signal_type":  "Quarrying Africa Industry News",
+                     "description":  "Dedicated South African quarrying and aggregates industry publication. Tracks new quarry licences, aggregate demand forecasts, and contract awards. Key leading indicator for aggregate-side crushing and screening demand.",
+                     "monitoring_source":  "Quarrying Africa",
+                     "url":  "https://quarryingafrica.com/industry-news/south-africa/",
+                     "update_frequency":  "Weekly / ad hoc"
+                 },
+                 {
+                     "signal_type":  "SANRAL Road Infrastructure Awards",
+                     "description":  "SANRAL road construction and rehabilitation contracts drive primary aggregate crushing demand for base course and surfacing material. The NDB-SANRAL R7 billion loan (signed July 2025) for national road rehabilitation will sustain elevated aggregate demand. Monitor SANRAL\u0027s open tenders for major road package awards.",
+                     "monitoring_source":  "SANRAL Open Tenders",
+                     "url":  "https://www.nra.co.za/open-tenders/",
+                     "update_frequency":  "Weekly"
+                 },
+                 {
+                     "signal_type":  "DBSA and Government Infrastructure Pipeline",
+                     "description":  "DBSA-funded infrastructure projects (water, housing, energy, transport) require aggregates and material handling. Government has committed R1.07 trillion in infrastructure spending over 3 years (Bloomberg, Feb 2026). N\u0027wamitwa Dam (USD 220m) and Berg River Diversion Project (USD 660m) are current large-scale projects requiring significant stone aggregate.",
+                     "monitoring_source":  "DBSA Project Pipeline",
+                     "url":  "https://www.dbsa.org/project-pipeline",
+                     "update_frequency":  "Quarterly infrastructure project releases"
+                 },
+                 {
+                     "signal_type":  "Minerals Council SA â€” Production Statistics",
+                     "description":  "Minerals Council publishes production statistics and capital expenditure data for all major mineral groups. Increasing capex in chrome (+3.9% production growth 2025), iron ore (+3.0%), and manganese (+5.0%) signals growing crushing and material handling demand from those commodity sectors.",
+                     "monitoring_source":  "Minerals Council South Africa",
+                     "url":  "https://www.mineralscouncil.org.za",
+                     "update_frequency":  "Quarterly / annual"
+                 },
+                 {
+                     "signal_type":  "Stats SA Mining Production Monthly (P2041)",
+                     "description":  "Month-on-month mining production index by commodity. Rising production in iron ore, manganese, or chrome directly indicates increased ore throughput requiring crushing, screening, and material handling capacity at affected mines.",
+                     "monitoring_source":  "Statistics South Africa â€” P2041",
+                     "url":  "https://www.statssa.gov.za/?cat=41",
+                     "update_frequency":  "Monthly"
+                 },
+                 {
+                     "signal_type":  "African Mining Market â€” Crushing \u0026 Screening News Feed",
+                     "description":  "Dedicated topic page aggregating crushing and screening news across South and sub-Saharan Africa. Covers new contracts, plant commissionings, technology adoptions, and expansions.",
+                     "monitoring_source":  "African Mining Market â€” Crushing \u0026 Screening",
+                     "url":  "https://africanminingmarket.com/topic/services-news/crushing-screening/",
+                     "update_frequency":  "Weekly"
+                 },
+                 {
+                     "signal_type":  "Northern Cape R105 Billion Investment Pipeline",
+                     "description":  "Over R105 billion in pledged investment in new and expanded mining, energy, and agriculture in the Northern Cape (April 2026). Expected to create 19,800 jobs and drive significant iron ore, manganese, and lithium crushing and material handling demand over the next 3â€“5 years.",
+                     "monitoring_source":  "Engineering News â€” Northern Cape Investment",
+                     "url":  "https://www.engineeringnews.co.za/article/investors-commit-over-r105-billion-to-northern-cape-economic-development-2026-04-22",
+                     "update_frequency":  "Track follow-on project announcements from this pipeline"
+                 }
+             ]
+}

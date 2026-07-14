@@ -1,0 +1,213 @@
+﻿{
+  "section": "2 — TENDER LANDSCAPE",
+  "description": "Comprehensive map of tender portals, active procurement entities, named municipalities, and typical contract structures for government-funded community Wi-Fi and broadband deployments in South Africa.",
+  "generated": "2026-06-25",
+  "enhancements_over_previous_version": [
+    "Added named active tenders with reference numbers (Nelson Mandela Bay SCM/1356/G/2025-2026, eThekwini 34151-1i)",
+    "Added SITA as a major procurement entity with gCommerce portal",
+    "Added City of Tshwane, Johannesburg, Cape Town, Ekurhuleni, Buffalo City as named entities",
+    "Added CSD registration as mandatory compliance requirement",
+    "Added Government Printing Works tender bulletin URL",
+    "Added SAP Ariba / gCommerce procurement platforms",
+    "Expanded contract structure with SLA performance metrics and disqualification risks",
+    "Added PPPFA scoring system (80/20 and 90/10) detail",
+    "Added ICT Sector Code BBBEE compliance requirement"
+  ],
+  "tender_portals": [
+    {
+      "name": "eTenders — National Treasury",
+      "url": "https://www.etenders.gov.za",
+      "notes": "Primary official South African government tender portal. Lists all national, provincial, SOE, and municipal tenders. Filter by 'Telecommunications', 'IT Networking', or 'Broadband'. Monitor daily — published every business day.",
+      "alert_tip": "Set keyword alerts for: Wi-Fi, hotspot, broadband, connectivity, WAN, LAN, network infrastructure, ICT."
+    },
+    {
+      "name": "Government Tender Bulletin (GPW)",
+      "url": "https://www.gpwonline.co.za",
+      "notes": "Published every Friday by Government Printing Works. Official gazette for consolidated tender notices across all South African government spheres. Useful for catching tenders missed on eTenders.",
+      "alert_tip": "Download the weekly PDF and search for 'wireless', 'Wi-Fi', 'hotspot', 'connectivity'."
+    },
+    {
+      "name": "SITA — State Information Technology Agency",
+      "url": "https://www.sita.co.za",
+      "notes": "Manages government-wide IT procurement. Issues LAN, WAN, Wi-Fi, and broadband RFBs/RFQs on behalf of national and provincial departments including Basic Education, Health, Home Affairs. Requires supplier accreditation under SITA transversal contracts (e.g. RFB 1183 for networking services).",
+      "alert_tip": "Monitor SITA Invitations page and register on gCommerce (https://ww1.gcommerce.gov.za) to bid on SITA-managed tenders."
+    },
+    {
+      "name": "gCommerce (National Treasury e-Procurement)",
+      "url": "https://ww1.gcommerce.gov.za",
+      "notes": "Electronic bid submission platform used by SITA and City of Tshwane. Required for submitting bids on many national connectivity tenders. Separate registration from eTenders — must register as supplier before bidding.",
+      "alert_tip": "Pre-register before any tender deadline. Compulsory for SITA-managed connectivity bids."
+    },
+    {
+      "name": "Tender Bulletins",
+      "url": "https://tenderbulletins.co.za/tender-category/telecommunications/",
+      "notes": "Aggregates SA government tenders in Telecommunications, Broadcasting and Wi-Fi category. Covers national departments, provinces, SOEs. Useful complement to eTenders for catching overlooked notices."
+    },
+    {
+      "name": "TenderAlerts",
+      "url": "https://tenderalerts.co.za/categories/view/28/IT-networking-and-telecommunications",
+      "notes": "Alert-based subscription service for IT networking and telecommunications tenders across South Africa. Sends email notifications for new matching tenders."
+    },
+    {
+      "name": "OnlineTenders",
+      "url": "https://www.onlinetenders.co.za/tenders/south-africa/it-and-telecoms",
+      "notes": "Broad aggregator for IT and Telecoms tenders from all South African government bodies."
+    },
+    {
+      "name": "EasyTenders",
+      "url": "https://easytenders.co.za/tenders/technology-and-telecommunications",
+      "notes": "Technology and Telecommunications tender aggregator. Provides filtering by keyword and region."
+    },
+    {
+      "name": "TendersOnTime",
+      "url": "https://www.tendersontime.com/south-africa-tenders/telecom-tenders/",
+      "notes": "South Africa telecom tenders, bids and RFPs — both government and SOE connectivity. Searchable by category and province."
+    }
+  ],
+  "active_procurement_entities": [
+    {
+      "entity": "Nelson Mandela Bay Municipality",
+      "tender_reference": "SCM/1356/G/2025-2026",
+      "procurement_type": "Provisioning (design, supply and installation) of ICT wireless infrastructure. Closing date: 30 July 2026.",
+      "channel": "https://www.nelsonmandelabay.gov.za — SCM tender portal",
+      "province": "Eastern Cape",
+      "notes": "Also issued SCM/1353/G/2025-2026 for ICT UTP cabling infrastructure (same closing date). Both tenders open simultaneously — indicative of a broader ICT infrastructure upgrade cycle."
+    },
+    {
+      "entity": "eThekwini Municipality",
+      "tender_reference": "34151-1i",
+      "procurement_type": "Wholesaling of excess network capacity on eThekwini Municipality Carrier Grade Network — 36-month period. Closing: 24 July 2026. Also active: supply and delivery of Wi-Fi 7 access points (Ref: BS 750).",
+      "channel": "https://www.durban.gov.za — eThekwini procurement portal",
+      "province": "KwaZulu-Natal",
+      "notes": "eThekwini has a dedicated Smart City Office. Active infrastructure procurement includes both carrier-grade network capacity and Wi-Fi 7 hardware — signals significant connectivity upgrade cycle."
+    },
+    {
+      "entity": "City of Tshwane",
+      "tender_reference": "GICT 03 2025/26",
+      "procurement_type": "Appointment of service providers for ICT services, corporate network infrastructure maintenance, and business application support.",
+      "channel": "SAP Ariba / gCommerce (https://ww1.gcommerce.gov.za)",
+      "province": "Gauteng",
+      "notes": "Tshwane uses SAP Ariba Business Network for e-tendering. Suppliers must register on gCommerce before bidding. Monitor ICT and Infrastructure categories on Tshwane tender portal."
+    },
+    {
+      "entity": "City of Johannesburg (incl. Metropolitan Trading Company — MTC)",
+      "tender_reference": "Ongoing — monitor portal",
+      "procurement_type": "Enterprise connectivity services, telecommunications infrastructure, public Wi-Fi in CBD and township areas. MTC manages public Wi-Fi hotspot contracts for the CoJ.",
+      "channel": "https://www.joburg.org.za — Tenders and Quotations portal",
+      "province": "Gauteng",
+      "notes": "The Metropolitan Trading Company (MTC) — a CoJ entity — has historically managed public Wi-Fi hotspot rollouts in Johannesburg. Monitor both CoJ tenders portal and MTC directly."
+    },
+    {
+      "entity": "City of Cape Town",
+      "tender_reference": "Ongoing — monitor portal",
+      "procurement_type": "Telecommunications infrastructure, Wi-Fi solution maintenance, smart city ICT rollouts. Issues RFIs for smart technologies before formal RFP phase.",
+      "channel": "https://www.capetown.gov.za — Procurement Administration Portal",
+      "province": "Western Cape",
+      "notes": "3rd in Africa IMD Smart City Index (2026). Regular ICT and Telecommunications tenders. Bidders must register on City supplier database. Cape Town runs SmartCape Wi-Fi network across libraries — ongoing managed service contract."
+    },
+    {
+      "entity": "City of Ekurhuleni",
+      "tender_reference": "Ongoing — monitor portal",
+      "procurement_type": "ICT and smart city infrastructure. Active bids visible under ICT and Infrastructure categories.",
+      "channel": "https://www.ekurhuleni.gov.za — Open Tenders portal",
+      "province": "Gauteng",
+      "notes": "Ekurhuleni runs own municipal Wi-Fi initiatives. Monitor Open Tenders portal for ICT hardware, network, and Wi-Fi-related RFPs and RFQs."
+    },
+    {
+      "entity": "Buffalo City Metropolitan Municipality",
+      "tender_reference": "Ongoing — monitor bulletin",
+      "procurement_type": "Public Wi-Fi hotspots (historic: Quigney, Southernwood); future ICT and smart city connectivity projects.",
+      "channel": "https://www.buffalocity.gov.za — Formal Tenders section",
+      "province": "Eastern Cape",
+      "notes": "Buffalo City has documented smart city and public Wi-Fi goals. Monitor Formal Tenders and RFQ sections under ICT/Infrastructure."
+    },
+    {
+      "entity": "National Dept of Communications and Digital Technologies (DCDT)",
+      "tender_reference": "SA Connect Phase 2 — ongoing",
+      "procurement_type": "32,055 community Wi-Fi hotspots and household connectivity by 2026. Covers 18,520 schools, 5,731 healthcare facilities, 949 libraries and Thusong centres, 567 SAPS sites, 8,241 tribal authorities.",
+      "channel": "https://www.etenders.gov.za / DCDT supply chain portal",
+      "province": "National",
+      "notes": "Largest single connectivity procurement programme in SA. ISPs contracted as implementation partners and managed service providers. Funded via USAF and DCDT budget."
+    },
+    {
+      "entity": "USAASA / Universal Service and Access Fund (USAF)",
+      "tender_reference": "Ongoing — R173 million digital inclusion fund FY2025/26",
+      "procurement_type": "Grant and subsidy mechanism for ICT connectivity in unconnected and underserved communities. Draft USAF administration manual gazetted February 2026 — establishes subsidy and project grant distribution framework.",
+      "channel": "https://usaasa.org.za",
+      "province": "National",
+      "notes": "ISPs can apply directly for USAF project grants. Parliament flagged recurring implementation delays and unspent allocations — watch for catch-up procurement cycles."
+    },
+    {
+      "entity": "Mossel Bay Municipality",
+      "tender_reference": "TDR138/2024/2025",
+      "procurement_type": "Supply, installation, commissioning and maintenance of scalable fibre internet services — 3-year contract (July 2025 to June 2028).",
+      "channel": "https://www.etenders.gov.za",
+      "province": "Western Cape",
+      "notes": "Example of a small municipality issuing multi-year connectivity service contract. Pattern repeats across Garden Route and Southern Cape municipalities."
+    },
+    {
+      "entity": "Broadband Infraco / NTCSA (Eskom)",
+      "tender_reference": "Ongoing",
+      "procurement_type": "Fibre optic network maintenance and minor project work on as-required 3-year contracts.",
+      "channel": "https://www.etenders.gov.za",
+      "province": "National",
+      "notes": "BBI has connected 3,401 public Wi-Fi hotspots (April 2023–March 2025). Ongoing maintenance and expansion contracts for ISP partners and infrastructure suppliers."
+    }
+  ],
+  "contract_structures": [
+    {
+      "type": "Multi-year Managed Service Agreement",
+      "detail": "3–5 year contracts with monthly recurring revenue (MRR) model. Most common structure for municipal and SOE connectivity deployments.",
+      "notes": "Contracts awarded in 2022–2023 are entering renewal/re-tender phase in 2025–2026 — primary sales window."
+    },
+    {
+      "type": "Performance-based SLA with Uptime Penalties",
+      "detail": "Availability typically specified at 99.5%+ uptime. SLI (Service Level Indicator) credits applied if performance falls below threshold. Minimum speeds often specified (e.g. 5 Mbps per community hotspot). Incident response timeframes mandated.",
+      "notes": "Penalties can include financial deductions and contract termination for persistent non-compliance."
+    },
+    {
+      "type": "BBBEE / ICT Sector Code Compliance",
+      "detail": "Mandatory for all government tenders. Evaluated under PPPFA using 80/20 points system (contracts under R50 million) or 90/10 (contracts R50 million+). ICT Sector Code BBBEE contributor level (1–8) determines preference points. Minimum Level 2 or higher commonly required for maximum preference scoring.",
+      "notes": "Sub-contracting to qualifying SMMEs and Black-owned businesses can improve BBBEE score."
+    },
+    {
+      "type": "ICASA Licensing Requirement",
+      "detail": "ISPs must hold valid ECS (Electronic Communications Service) and/or ECNS (Electronic Communications Network Service) licence to bid on infrastructure and broadband service contracts.",
+      "notes": "Class licences (C-ECS/C-ECNS) sufficient for most regional contracts. Individual licences required for national or large-scale projects."
+    },
+    {
+      "type": "CSD Registration (Mandatory)",
+      "detail": "All bidders must be registered on the National Treasury Central Supplier Database (CSD) before submitting any government bid.",
+      "notes": "Registration at https://secure.csd.gov.za. Verify your CSD status is active — expired registrations cause disqualification."
+    },
+    {
+      "type": "Compulsory Briefing Session",
+      "detail": "Most ICT infrastructure tenders require compulsory attendance at a pre-bid briefing session. Non-attendance results in automatic disqualification regardless of bid quality.",
+      "notes": "Check every tender document for briefing session dates as soon as a relevant tender is identified."
+    },
+    {
+      "type": "Bundled Hardware + Connectivity + Support",
+      "detail": "Common for public-space and community hotspot deployments. ISP provides end-to-end: hardware (APs, routers, switches), backhaul, captive portal, bandwidth management, and ongoing maintenance under a single contract.",
+      "notes": "OEM authorisation letters from hardware manufacturers (e.g. Cisco, Mikrotik, Ubiquiti, Huawei) may be required as part of the bid."
+    },
+    {
+      "type": "Revenue-sharing / Advertising-funded Model",
+      "detail": "For monetised public hotspots (e.g. taxi ranks, malls, CBD areas). Municipality or venue owner receives a share of advertising or voucher revenue. ISP earns from data sales and advertising. Requires POPIA-compliant captive portal.",
+      "notes": "Less common in pure government contracts; more prevalent in PPP (public-private partnership) arrangements."
+    }
+  ],
+  "compliance_pre_qualifications": {
+    "mandatory_registrations": [
+      "CSD (Central Supplier Database) — https://secure.csd.gov.za",
+      "ICASA ECS or ECNS Licence — https://www.icasa.org.za",
+      "BBBEE Certificate (ICT Sector Code) — from SANAS-accredited verification agency",
+      "SITA Supplier Accreditation — for SITA-managed tenders (https://www.sita.co.za)",
+      "gCommerce registration — for Tshwane, national departments using SAP Ariba (https://ww1.gcommerce.gov.za)"
+    ],
+    "optional_but_advantageous": [
+      "ISO 27001 (Information Security Management) certification",
+      "POPIA compliance attestation from appointed Information Officer",
+      "OEM partnership letters (Cisco Meraki, Ubiquiti, Mikrotik, etc.)"
+    ]
+  }
+}

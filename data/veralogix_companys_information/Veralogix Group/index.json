@@ -1,0 +1,51 @@
+﻿{
+    "company":  "Veralogix Group",
+    "display_name":  "Veralogix Group",
+    "group":  "Veralogix Group",
+    "sector":  "Mining Services Conglomerate — Holding Entity",
+    "hq":  "Middelburg, Mpumalanga",
+    "description":  "The Veralogix Group is the primary holding and operating conglomerate for 12 mining services subsidiaries. HQ at 3A Laver Street, Middelburg. Core commodities: coal, chrome, iron ore. Primary regions: Mpumalanga, Limpopo.",
+    "data_status":  "chunked_from_docs",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Veralogix Mining (Pty) Ltd",
+                              "Veralogix Rentals",
+                              "Veralogix Plant (Woestalleen)",
+                              "Veralogix Diesel",
+                              "Veralogix Drilling \u0026 Blasting",
+                              "Veralogix Projects (Pty) Ltd",
+                              "Veralogix Properties (Pty) Ltd",
+                              "Alpha Industries SA",
+                              "Alpha Technical Solutions",
+                              "Endeto Project Services",
+                              "Coal Processors International",
+                              "Veralift"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  false,
+                         "has_prompt":  true,
+                         "chunk_files_count":  27,
+                         "research_doc_count":  1,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_segments",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

@@ -1,0 +1,107 @@
+﻿{
+    "_section":  "key_terminology",
+    "_company":  "Salaria Mining Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "term":  "SAMREC",
+                     "full_form":  "South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves",
+                     "use_in_classification":  "The primary South African reporting standard; any tender or news item referencing \u0027SAMREC-compliant reporting\u0027 signals demand for Salaria-type services"
+                 },
+                 {
+                     "term":  "SAMVAL",
+                     "full_form":  "South African Code for the Valuation of Mineral Assets",
+                     "use_in_classification":  "Companion to SAMREC for mineral asset valuation; often referenced in M\u0026A and JSE listing contexts"
+                 },
+                 {
+                     "term":  "SAMOG",
+                     "full_form":  "South African Code for the Reporting of Oil and Gas Resources",
+                     "use_in_classification":  "Oil and gas equivalent of SAMREC; relevant if Salaria expands into petroleum resource reporting"
+                 },
+                 {
+                     "term":  "CRIRSCO",
+                     "full_form":  "Committee for Mineral Reserves International Reporting Standards",
+                     "use_in_classification":  "International umbrella body for SAMREC, JORC, NI 43-101 etc.; cross-listing requirements referenced here"
+                 },
+                 {
+                     "term":  "CPR",
+                     "full_form":  "Competent Person\u0027s Report",
+                     "use_in_classification":  "Formal independent technical report; mandatory for JSE listings and major transactions. A key deliverable Salaria produces"
+                 },
+                 {
+                     "term":  "Competent Person (CP)",
+                     "full_form":  "Competent Person",
+                     "use_in_classification":  "SACNASP- or ECSA-registered professional who signs off resource and reserve reports; must have 5+ years relevant experience"
+                 },
+                 {
+                     "term":  "NI 43-101",
+                     "full_form":  "National Instrument 43-101 (Canada)",
+                     "use_in_classification":  "Canadian mineral reporting standard; referenced when a South African project has Canadian-listed shareholders or TSX aspirations"
+                 },
+                 {
+                     "term":  "JORC",
+                     "full_form":  "Joint Ore Reserves Committee Code (Australia/New Zealand)",
+                     "use_in_classification":  "Australian equivalent of SAMREC; referenced for ASX-listed mining companies operating in South Africa"
+                 },
+                 {
+                     "term":  "MPRDA",
+                     "full_form":  "Mineral and Petroleum Resources Development Act 28 of 2002",
+                     "use_in_classification":  "Primary mining rights legislation; tenders and contracts referencing MPRDA compliance indicate regulatory consulting scope"
+                 },
+                 {
+                     "term":  "MHSA",
+                     "full_form":  "Mine Health and Safety Act 29 of 1996",
+                     "use_in_classification":  "Governs on-site safety; rock engineering codes of practice, geotechnical reports for operating mines fall under MHSA requirements"
+                 },
+                 {
+                     "term":  "SLP",
+                     "full_form":  "Social and Labour Plan",
+                     "use_in_classification":  "Required for mining rights; often accompanied by feasibility and mine planning input from consultants like Salaria"
+                 },
+                 {
+                     "term":  "EMP / EMPr",
+                     "full_form":  "Environmental Management Plan / Environmental Management Programme",
+                     "use_in_classification":  "Required under MPRDA; geotechnical inputs to EMPs are a service adjacent to Salaria\u0027s core offering"
+                 },
+                 {
+                     "term":  "Inferred / Indicated / Measured",
+                     "full_form":  "Mineral Resource classification categories (SAMREC)",
+                     "use_in_classification":  "Classification terms in resource statements; any tender or article using these terms signals resource estimation work"
+                 },
+                 {
+                     "term":  "Probable / Proven Reserve",
+                     "full_form":  "Mineral Reserve classification categories (SAMREC)",
+                     "use_in_classification":  "Reserve declaration triggers mine planning and feasibility deliverables; key signal of consulting demand"
+                 },
+                 {
+                     "term":  "PFS / DFS",
+                     "full_form":  "Pre-Feasibility Study / Definitive Feasibility Study",
+                     "use_in_classification":  "Project stages at which mine planning, geotechnical, and resource reporting services are most intensively required"
+                 },
+                 {
+                     "term":  "Scoping Study",
+                     "full_form":  "Scoping Study (also Order-of-Magnitude Study)",
+                     "use_in_classification":  "Earliest formal project evaluation stage; often the entry point for consulting engagements"
+                 },
+                 {
+                     "term":  "SAMRAD",
+                     "full_form":  "South African Mineral Resources Administration System",
+                     "use_in_classification":  "Online DMRE portal for rights applications; monitoring new prospecting rights issued is a leading indicator of exploration consulting demand"
+                 },
+                 {
+                     "term":  "Rock Engineering CoP",
+                     "full_form":  "Rock Engineering Code of Practice",
+                     "use_in_classification":  "Mandatory safety document for mines under MHSA; prepared or reviewed by rock engineering consultants"
+                 },
+                 {
+                     "term":  "BBBEE",
+                     "full_form":  "Broad-Based Black Economic Empowerment",
+                     "use_in_classification":  "Empowerment scoring system that affects procurement eligibility for government and SOE tenders; critical compliance dimension for Salaria in public sector bids"
+                 },
+                 {
+                     "term":  "CSD",
+                     "full_form":  "Central Supplier Database (csd.gov.za)",
+                     "use_in_classification":  "Mandatory government supplier registration; required before any South African government tender can be awarded"
+                 }
+             ]
+}

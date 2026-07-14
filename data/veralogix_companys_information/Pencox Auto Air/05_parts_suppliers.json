@@ -1,0 +1,60 @@
+﻿{
+    "_section":  "parts_suppliers",
+    "_company":  "Pencox Auto Air",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "major_distributors":  [
+                                            {
+                                                "name":  "Metraclark",
+                                                "website":  "https://www.metraclark.co.za",
+                                                "description":  "Largest refrigeration and air-conditioning wholesaler in Southern Africa; 37 branches across the continent; supplies R134a and R1234yf refrigerants, compressors, and related components"
+                                            },
+                                            {
+                                                "name":  "Harrack Automotive Airconditioning",
+                                                "website":  "https://www.harrack.co.za",
+                                                "description":  "Also a component distributor; specialises in A/C parts for cars, trucks, and earthmoving equipment; distribution centres in Johannesburg, Durban, Nelspruit, Windhoek"
+                                            },
+                                            {
+                                                "name":  "Diesel-Electric",
+                                                "website":  "https://de.co.za/climate-control/",
+                                                "description":  "National distributor for R134a and R1234yf refrigerants, compressors, condensers, evaporators, expansion valves, O-rings, seals, and service kits; strong fleet and industrial coverage"
+                                            },
+                                            {
+                                                "name":  "Afrox",
+                                                "website":  "https://www.afrox.co.za/shop/en/za/gas/refrigerants",
+                                                "description":  "Industrial gas giant supplying the complete range of refrigerant gases (R134a, R1234yf, others); technical support and regulatory advice; national footprint"
+                                            },
+                                            {
+                                                "name":  "MACS Auto (MACS Cool)",
+                                                "website":  "https://www.macsauto.co.za/refrigerant-gas/",
+                                                "description":  "Stocks premium quality refrigerant gases (R134a, R1234yf), compressor oils, UV dyes for leak detection, and sealants; specialist automotive A/C supplier"
+                                            },
+                                            {
+                                                "name":  "Car Cooling Consultants",
+                                                "website":  "https://carcooling.co.za",
+                                                "description":  "Specialist supplier of fans, condensers, compressors, and refrigerant gases for automotive and earthmoving equipment cooling systems"
+                                            },
+                                            {
+                                                "name":  "WÃœRTH South Africa",
+                                                "website":  "https://eshop.wurth.co.za",
+                                                "description":  "Supplies R134a refrigerant and A/C maintenance accessories; strong trade channel for workshop consumables and chemicals"
+                                            }
+                                        ],
+                 "key_oem_brands_and_parts":  [
+                                                  "Sanden (OEM A/C compressors â€“ preferred by Japanese and Korean OEMs; Toyota, Hino, Komatsu equipment)",
+                                                  "Denso (OEM compressors, condensers, and blower motors â€“ Toyota, Lexus, Kubota)",
+                                                  "Valeo (OEM compressors and thermal systems â€“ European fleet vehicles)",
+                                                  "Delphi / Aptiv (auto electrical components â€“ starters, alternators, sensors)",
+                                                  "Bosch (alternators, starters, fuel systems, auto electrical â€“ broad OEM fitment across all fleet types)",
+                                                  "Gates (belts and hoses â€“ A/C drive belts for fleet preventive maintenance)",
+                                                  "Nissens (condensers, compressors, intercoolers â€“ aftermarket fleet supply)",
+                                                  "Prolyte / Presto (local South African aftermarket A/C spares for buses and trucks)"
+                                              ],
+                 "supply_chain_disruptions_and_availability_issues":  [
+                                                                          "R1234yf remains significantly more expensive than R134a (5â€“8x price premium) and supply availability from local distributors is still limited; lead times from import can be 2â€“4 weeks",
+                                                                          "Ongoing global semiconductor shortages continue to affect availability of electronic control modules and sensors for auto electrical systems on newer fleet vehicles",
+                                                                          "Shipping and port congestion at Durban (Transnet) periodically delays OEM and aftermarket parts imports, creating 4â€“8 week backlog cycles for specific compressor models and electronic components",
+                                                                          "Sanden compressor units for heavy earthmoving equipment (Cat, Komatsu, Hitachi) are frequently on back-order, with South African distributors often requiring 4â€“12 week lead times for non-stocked units"
+                                                                      ]
+             }
+}

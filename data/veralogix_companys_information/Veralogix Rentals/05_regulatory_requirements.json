@@ -1,0 +1,181 @@
+﻿{
+    "_section":  "regulatory_requirements",
+    "_company":  "Veralogix Rentals",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "primary_legislation":  [
+                                             {
+                                                 "act":  "Mine Health and Safety Act No. 29 of 1996 (MHSA)",
+                                                 "authority":  "Department of Mineral Resources and Energy (DMRE) â€” Mine Health and Safety Inspectorate",
+                                                 "url":  "https://www.mhsc.org.za/sites/default/files/public/publications/Mine%20Health%20and%20Safety%20Act%2029%20of%201996%20and%20Regulations%20Final%20Booklet.pdf",
+                                                 "full_regulations_url":  "https://www.saflii.org/za/legis/consol_reg/mhasr301/",
+                                                 "key_obligations":  [
+                                                                         "Equipment owners supplying to mines: all plant must be safe and compliant before delivery to site",
+                                                                         "Machinery in hazardous areas (underground) must be explosion-protected and certified by SANAS-accredited test laboratory (ATL certificate required)",
+                                                                         "Risk assessments required for all equipment entering mine premises",
+                                                                         "Owners of equipment deployed at mines share duty-of-care obligations with the mine employer",
+                                                                         "2024 MHSA amendments: penalties up to 10% of annual turnover for non-compliance",
+                                                                         "Covers ventilation, ground control, explosives and machinery regulations in detail"
+                                                                     ]
+                                             },
+                                             {
+                                                 "act":  "Occupational Health and Safety Act No. 85 of 1993 (OHS Act)",
+                                                 "authority":  "Department of Employment and Labour (DoEL)",
+                                                 "url":  "https://labourguide.co.za/health-and-safety/regulations-of-the-ohs-act",
+                                                 "key_obligations":  [
+                                                                         "Applies to equipment used in non-mining workplaces (construction sites, workshops, depots, transport yards)",
+                                                                         "24 subsidiary regulations form part of the OHS Act framework",
+                                                                         "Construction Regulations (GNR 84 of 2014): apply when equipment used on construction sites",
+                                                                         "General Machinery Regulations: equipment must be inspected, maintained and certified as safe",
+                                                                         "Driven Machinery Regulations: earthmoving and powered vehicles require periodic inspections",
+                                                                         "Operators must hold prescribed operator certificates of competency",
+                                                                         "Rental company as \u0027designer, manufacturer or supplier\u0027 under Section 10: must ensure equipment is safe for intended use"
+                                                                     ]
+                                             }
+                                         ],
+                 "equipment_inspection_and_certification":  [
+                                                                {
+                                                                    "requirement":  "SANAS-Accredited Laboratory Certification",
+                                                                    "description":  "Explosion-protected apparatus for underground hazardous areas must be certified by SANAS-accredited test laboratory before deployment underground.",
+                                                                    "authority":  "South African National Accreditation System (SANAS) â€” sanas.co.za",
+                                                                    "applies_to":  "Battery LHDs, diesel equipment in UG mines, electrical apparatus in hazardous zones"
+                                                                },
+                                                                {
+                                                                    "requirement":  "Pre-Deployment Equipment Inspection",
+                                                                    "description":  "All equipment entering mine premises must be inspected and declared safe. Rental companies responsible for compliance before delivery. Inspection records to be maintained and available to Mine Safety Officers.",
+                                                                    "applies_to":  "All equipment entering mining sites"
+                                                                },
+                                                                {
+                                                                    "requirement":  "Periodic Statutory Inspections",
+                                                                    "description":  "Heavy earthmoving equipment subject to periodic statutory inspections under OHS Act (General Machinery Regulations) and MHSA.",
+                                                                    "intervals":  {
+                                                                                      "crane_and_lifting":  "6-monthly inspection mandatory",
+                                                                                      "pressure_vessels":  "Annual inspection + DoEL registration",
+                                                                                      "earthmoving_and_haul":  "Pre-shift inspection by competent operator; periodic maintenance inspection by qualified artisan",
+                                                                                      "tyre_management":  "Regular inspection under MHSA for haul trucks"
+                                                                                  }
+                                                                },
+                                                                {
+                                                                    "requirement":  "Operator Competency Certificates",
+                                                                    "description":  "All heavy earthmoving equipment operators must hold valid competency certificates. MHSA: certificates issued by Mine Health and Safety Inspectorate or TETA-accredited training body. OHS Act / Construction Regs: operator certificate for earthmoving machinery, cranes, forklifts.",
+                                                                    "applies_to":  "Excavator, dozer, ADT, loader, grader, crane operators"
+                                                                },
+                                                                {
+                                                                    "requirement":  "Roadworthiness and Transport Compliance",
+                                                                    "description":  "Haulage trucks, lowbeds and transport vehicles on public roads must hold valid roadworthy certificates (National Road Traffic Act). Abnormal load permits required for oversized equipment transport.",
+                                                                    "applies_to":  "All road transport of heavy equipment"
+                                                                }
+                                                            ],
+                 "CIDB_registration":  {
+                                           "applicability":  "Required for contracts with public entities (state departments, SOEs, municipalities, state mining companies including AEMFC). Not mandatory for private-sector-only contracts.",
+                                           "authority":  "Construction Industry Development Board (CIDB) â€” cidb.org.za",
+                                           "contractor_register":  "https://registers.cidb.org.za",
+                                           "registration_portal":  "https://www.cidb.org.za",
+                                           "grading_table":  [
+                                                                 {
+                                                                     "grade":  1,
+                                                                     "max_contract_value":  "R500,000",
+                                                                     "track_record_required":  "R0",
+                                                                     "available_capital_required":  "Not specified",
+                                                                     "processing_time":  "48 hours"
+                                                                 },
+                                                                 {
+                                                                     "grade":  2,
+                                                                     "max_contract_value":  "R1,000,000",
+                                                                     "track_record_required":  "R130,000",
+                                                                     "available_capital_required":  "Not specified",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  3,
+                                                                     "max_contract_value":  "R3,000,000",
+                                                                     "track_record_required":  "R450,000",
+                                                                     "available_capital_required":  "R100,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  4,
+                                                                     "max_contract_value":  "R6,000,000",
+                                                                     "track_record_required":  "R900,000",
+                                                                     "available_capital_required":  "R200,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  5,
+                                                                     "max_contract_value":  "R10,000,000",
+                                                                     "track_record_required":  "R1,500,000",
+                                                                     "available_capital_required":  "R650,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  6,
+                                                                     "max_contract_value":  "R20,000,000",
+                                                                     "track_record_required":  "R3,000,000",
+                                                                     "available_capital_required":  "R1,300,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  7,
+                                                                     "max_contract_value":  "R60,000,000",
+                                                                     "track_record_required":  "R9,000,000",
+                                                                     "available_capital_required":  "R4,000,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  8,
+                                                                     "max_contract_value":  "R200,000,000",
+                                                                     "track_record_required":  "R30,000,000",
+                                                                     "available_capital_required":  "R13,000,000",
+                                                                     "processing_time":  "21 working days"
+                                                                 },
+                                                                 {
+                                                                     "grade":  9,
+                                                                     "max_contract_value":  "No limit",
+                                                                     "track_record_required":  "R90,000,000",
+                                                                     "available_capital_required":  "R40,000,000",
+                                                                     "best_annual_turnover":  "R200,000,000+",
+                                                                     "processing_time":  "21 working days"
+                                                                 }
+                                                             ],
+                                           "relevant_work_classes":  [
+                                                                         "CE â€” Civil Engineering (earthworks, bulk earthmoving)",
+                                                                         "ME â€” Mechanical Engineering (equipment supply and maintenance)",
+                                                                         "SQ â€” Specialist works"
+                                                                     ],
+                                           "documentation_required_grades_2_to_9":  [
+                                                                                        "Copy of project award from client",
+                                                                                        "Certificate of project completion",
+                                                                                        "Payment certificates for prior projects",
+                                                                                        "Bank statements demonstrating available capital",
+                                                                                        "CIPC company registration documents"
+                                                                                    ]
+                                       },
+                 "bbbee_requirements":  {
+                                            "notes":  "B-BBEE level is a critical commercial requirement (not a legal operating requirement) for winning mining sector contracts. Most large mining houses require minimum Level 4; many prefer Level 1 or 2. PPPFA scoring: B-BBEE points contribute to supplier evaluation. Rham Equipment confirmed Level 3. Amandla Awethu Projects positions strongly on B-BBEE. MPRDA (Mineral and Petroleum Resources Development Act) requires Mining Charter compliance including supplier development and local procurement targets.",
+                                            "mining_charter_III":  "Third Mining Charter (effective 2018, updated) requires mining companies to source 70% of goods from South African manufactured products, 80% of services from B-BBEE companies. Equipment rental companies with strong B-BBEE scores benefit directly."
+                                        },
+                 "additional_compliance":  [
+                                               {
+                                                   "requirement":  "Tax Clearance / SARS Compliance (CSD Pin)",
+                                                   "description":  "Valid Tax Clearance Certificate (or CSD compliance status pin) required for all state tender submissions and most large private-sector RFQs."
+                                               },
+                                               {
+                                                   "requirement":  "CIPC Registration (Companies Act)",
+                                                   "description":  "Company registration with Companies and Intellectual Property Commission. Annual returns must be current."
+                                               },
+                                               {
+                                                   "requirement":  "COIDA â€” Compensation for Occupational Injuries and Diseases Act",
+                                                   "description":  "Registration with Compensation Fund mandatory for all employers. Letter of Good Standing (LOGS) required for most tender submissions and on-site safety files."
+                                               },
+                                               {
+                                                   "requirement":  "UIF â€” Unemployment Insurance Fund",
+                                                   "description":  "Registration and monthly contribution mandatory for all employers."
+                                               },
+                                               {
+                                                   "requirement":  "Central Supplier Database (CSD) Registration",
+                                                   "description":  "Required by National Treasury for all entities bidding on government contracts. Used by Eskom, Transnet, AEMFC and state mining entities to verify suppliers. URL: secure.csd.gov.za",
+                                                   "url":  "https://secure.csd.gov.za"
+                                               }
+                                           ]
+             }
+}

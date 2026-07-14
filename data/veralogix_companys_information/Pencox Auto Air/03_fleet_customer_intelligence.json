@@ -1,0 +1,43 @@
+﻿{
+    "_section":  "fleet_customer_intelligence",
+    "_company":  "Pencox Auto Air",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "customer_type":  "Mining Fleet Operators (Earthmoving Equipment)",
+                     "typical_vehicles":  "Haul trucks, graders, excavators, LDVs, surface and underground support vehicles",
+                     "service_need":  "High-intensity A/C and auto electrical maintenance; units operate in extreme heat and dust, accelerating compressor wear, refrigerant loss, and electrical faults. Onsite service capability is essential due to equipment size and remote mine locations.",
+                     "service_frequency":  "High â€“ monthly or per-shift inspections for critical equipment; major overhauls at scheduled shutdowns (quarterly or biannual)",
+                     "procurement_method":  "Formal tender or negotiated contract â€“ most large mines (AngloGold, Sibanye, Amplats, Kumba) require approved vendor registration and SLA-based agreements. Outsourced service preferred when mines lack specialist in-house capability.",
+                     "decision_makers":  "Fleet managers, mine maintenance superintendents, procurement officers",
+                     "value_level":  "Very High â€“ long-duration SLA contracts with guaranteed callout volumes; equipment downtime costs are extremely high"
+                 },
+                 {
+                     "customer_type":  "Road Transport and Logistics Companies",
+                     "typical_vehicles":  "Long-haul trucks (Class 7â€“8), refrigerated vehicles, light commercial vehicles",
+                     "service_need":  "Truck cab A/C maintenance and repair; auto electrical diagnostics (alternators, starters, wiring); compliance with roadworthy and COR requirements",
+                     "service_frequency":  "Scheduled every 6 months or at mileage intervals; breakdown callouts as needed",
+                     "procurement_method":  "Mix of in-house workshop supplemented by outsourced specialists; larger operators (e.g., Barloworld Logistics, Unitrans) use preferred-supplier panels. Smaller operators make ad-hoc decisions.",
+                     "decision_makers":  "Fleet managers, workshop managers, transport owners",
+                     "value_level":  "High â€“ large fleet volumes; mobile or depot-based service preferred to reduce vehicle downtime"
+                 },
+                 {
+                     "customer_type":  "Government Vehicle Fleets",
+                     "typical_vehicles":  "Sedans, SUVs, LDVs, buses, emergency vehicles for national departments, municipalities, SOEs",
+                     "service_need":  "Routine A/C servicing, regas, and fault repair; auto electrical diagnostics aligned to manufacturer specifications",
+                     "service_frequency":  "Annual or scheduled per km/hour intervals; governed by gFleet policy (Scheduled and Unscheduled Maintenance categories)",
+                     "procurement_method":  "Formal public tender (eTender portal); CIDB registration and BEE compliance required. National government managed through Government Motor Transport (gFleet). SOEs such as Transnet, Eskom, PRASA, and municipalities procure separately.",
+                     "decision_makers":  "Fleet management units within departments; supply chain management officials; gFleet programme managers",
+                     "value_level":  "Medium-High â€“ large vehicle volumes but price-sensitive and compliance-heavy; slow procurement cycles"
+                 },
+                 {
+                     "customer_type":  "Construction Equipment Fleets",
+                     "typical_vehicles":  "Bulldozers, TLBs, cranes, articulated dump trucks, site LDVs",
+                     "service_need":  "A/C compressor repairs, refrigerant top-ups, electrical fault diagnosis in high-vibration, dusty environments; battery and alternator servicing",
+                     "service_frequency":  "Linked to project cycles and seasonal shutdown schedules; peak maintenance before and after summer construction seasons",
+                     "procurement_method":  "Mix of direct contractor relationship and equipment rental company arrangements; smaller construction firms outsource; larger contractors (WBHO, Murray \u0026 Roberts, Aveng) use in-house or approved-supplier models",
+                     "decision_makers":  "Site managers, plant and equipment managers, procurement officers",
+                     "value_level":  "Medium-High â€“ site-based service contracts with repeat access; equipment downtime directly impacts project delivery"
+                 }
+             ]
+}

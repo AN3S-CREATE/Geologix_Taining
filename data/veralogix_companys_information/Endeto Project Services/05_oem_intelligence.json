@@ -1,0 +1,169 @@
+﻿{
+    "_section":  "oem_intelligence",
+    "_company":  "Endeto Project Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "most_valuable_oem_relationships":  [
+                                                         {
+                                                             "oem_brand":  "Caterpillar (CAT)",
+                                                             "value_driver":  "Dominant haul truck, excavator, and dozer brand in SA open-cast coal and iron ore mining; high-value engine and drivetrain rebuilds",
+                                                             "service_categories":  [
+                                                                                        "engine overhauls",
+                                                                                        "undercarriage rebuilds",
+                                                                                        "hydraulic cylinder repair",
+                                                                                        "GET (Ground Engaging Tools) supply"
+                                                                                    ],
+                                                             "local_dealer":  "Barloworld Equipment (Vereeniging, Kathu, Witbank)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Komatsu",
+                                                             "value_driver":  "Second-largest haul truck and LHD brand; extensive fleet at Exxaro, Glencore, and Anglo American Kumba; service contracts high-value",
+                                                             "service_categories":  [
+                                                                                        "PC and HD series excavator and truck components",
+                                                                                        "transmission and hydraulic rebuilds",
+                                                                                        "structural crack repairs"
+                                                                                    ],
+                                                             "local_dealer":  "Komatsu South Africa (Kempton Park)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Sandvik",
+                                                             "value_driver":  "Dominant underground drill rig and LHD brand across platinum and gold; parts supply for jumbos, production drills, and raise borers",
+                                                             "service_categories":  [
+                                                                                        "drill string and bit supply",
+                                                                                        "percussion mechanism overhaul",
+                                                                                        "LHD hydraulic and driveline rebuilds"
+                                                                                    ],
+                                                             "local_office":  "Sandvik Mining and Rock Solutions SA (Kempton Park)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Epiroc (formerly Atlas Copco)",
+                                                             "value_driver":  "Alternative underground equipment supplier to Sandvik; active in platinum and chrome mines; ROC drill maintenance contracts",
+                                                             "service_categories":  [
+                                                                                        "drill rig components",
+                                                                                        "compressor maintenance",
+                                                                                        "automation kit retrofits"
+                                                                                    ],
+                                                             "local_office":  "Epiroc South Africa (Spartan, Kempton Park)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Metso Outotec",
+                                                             "value_driver":  "Process plant OEM for crushers, mills, screens, and flotation; critical to platinum, iron ore, and chrome concentrators",
+                                                             "service_categories":  [
+                                                                                        "crusher liner supply and fitting",
+                                                                                        "mill liner change-outs",
+                                                                                        "screen panel and bearing replacement",
+                                                                                        "flotation cell maintenance"
+                                                                                    ],
+                                                             "local_office":  "Metso Outotec SA (Johannesburg)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "FLSmidth",
+                                                             "value_driver":  "Cement and mineral processing plant OEM; active in iron ore (Kumba) and platinum concentrators; mill and flotation expertise",
+                                                             "service_categories":  [
+                                                                                        "PERI mill maintenance",
+                                                                                        "thickener mechanism repairs",
+                                                                                        "cyclone cluster overhauls"
+                                                                                    ],
+                                                             "local_office":  "FLSmidth South Africa (Johannesburg)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Weir Minerals (WARMAN)",
+                                                             "value_driver":  "Dominant slurry pump and mill lining brand in SA mineral processing; high-frequency replacement and repair scope",
+                                                             "service_categories":  [
+                                                                                        "pump impeller and casing supply",
+                                                                                        "rubber lining installation",
+                                                                                        "hydrocyclone supply and maintenance"
+                                                                                    ],
+                                                             "local_office":  "Weir Minerals Africa (Alrode, Johannesburg)"
+                                                         },
+                                                         {
+                                                             "oem_brand":  "Joy Global / Komatsu Mining (longwall equipment)",
+                                                             "value_driver":  "Dominant in underground coal longwall mining (Mpumalanga); shearer, AFC, and powered roof support maintenance highly specialised",
+                                                             "service_categories":  [
+                                                                                        "shearer component rebuild",
+                                                                                        "AFC chain and flight bar replacement",
+                                                                                        "hydraulic prop certification"
+                                                                                    ],
+                                                             "local_office":  "Komatsu Mining SA (Middelburg)"
+                                                         }
+                                                     ],
+                 "equipment_by_commodity":  {
+                                                "coal":  {
+                                                             "dominant_brands":  [
+                                                                                     "Caterpillar (surface mining)",
+                                                                                     "Komatsu (surface)",
+                                                                                     "Joy/Komatsu Mining (underground longwall)",
+                                                                                     "Sandvik (continuous miners)",
+                                                                                     "Bell Equipment (ADTs)"
+                                                                                 ],
+                                                             "key_maintenance_items":  [
+                                                                                           "haul truck body and structure repairs",
+                                                                                           "conveyor structure fabrication and maintenance",
+                                                                                           "crusher and screen maintenance",
+                                                                                           "longwall component overhauls"
+                                                                                       ]
+                                                         },
+                                                "chrome":  {
+                                                               "dominant_brands":  [
+                                                                                       "Sandvik (underground drill rigs and LHDs)",
+                                                                                       "Epiroc",
+                                                                                       "Metso Outotec (crushing)",
+                                                                                       "Tenova Pyromet (smelters)"
+                                                                                   ],
+                                                               "key_maintenance_items":  [
+                                                                                             "LHD chassis and body repairs",
+                                                                                             "drill rig percussion overhauls",
+                                                                                             "furnace and smelter structural maintenance",
+                                                                                             "chrome ore bins and transfer points"
+                                                                                         ]
+                                                           },
+                                                "iron_ore":  {
+                                                                 "dominant_brands":  [
+                                                                                         "Caterpillar (massive haul trucks at Sishen/Kolomela)",
+                                                                                         "Liebherr",
+                                                                                         "Metso Outotec (primary crushing)",
+                                                                                         "FLSmidth (concentrating)",
+                                                                                         "Transnet rail wagon maintenance"
+                                                                                     ],
+                                                                 "key_maintenance_items":  [
+                                                                                               "truck structure and body fabrication",
+                                                                                               "primary crusher jaw and cone maintenance",
+                                                                                               "stockpile conveyor structure and drive maintenance",
+                                                                                               "rail wagon bogie repairs"
+                                                                                           ]
+                                                             },
+                                                "platinum":  {
+                                                                 "dominant_brands":  [
+                                                                                         "Sandvik (underground)",
+                                                                                         "Epiroc",
+                                                                                         "Metso Outotec (concentrators)",
+                                                                                         "Weir Minerals (pumps)",
+                                                                                         "ABB/Siemens (electrical drives)"
+                                                                                     ],
+                                                                 "key_maintenance_items":  [
+                                                                                               "smelter furnace and converter maintenance",
+                                                                                               "concentrator mill liner change-outs",
+                                                                                               "pump casing and impeller replacement",
+                                                                                               "shaft steelwork and guide rail maintenance"
+                                                                                           ]
+                                                             }
+                                            },
+                 "oem_tender_opportunity_sources":  [
+                                                        {
+                                                            "channel":  "OEM-Authorised Service Partner Programmes",
+                                                            "description":  "CAT, Komatsu, Sandvik, and Weir run authorised service provider schemes; registration gives access to component supply and service work referrals from the OEM\u0027s account managers",
+                                                            "action":  "Apply for authorised service partner status with target OEMs"
+                                                        },
+                                                        {
+                                                            "channel":  "Mining House Supplier Days",
+                                                            "description":  "Anglo American, Sibanye, and Glencore run annual supplier engagement days where engineering contractors are briefed on upcoming maintenance scope and OEM service requirements",
+                                                            "action":  "Register as a preferred supplier and attend supplier days"
+                                                        },
+                                                        {
+                                                            "channel":  "eTenders and CIDB Portal",
+                                                            "description":  "Publicly tendered OEM repair and maintenance contracts above CIDB thresholds appear on etenders.gov.za and the CIDB portal for SOE-owned mines and Eskom",
+                                                            "action":  "Monitor ME and SB categories on etenders.gov.za daily"
+                                                        }
+                                                    ]
+             }
+}

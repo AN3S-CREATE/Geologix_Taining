@@ -1,0 +1,39 @@
+﻿{
+    "company":  "Aiguille Security",
+    "display_name":  "Aiguille Security",
+    "group":  "Aiguille Group",
+    "sector":  "Mining \u0026 Industrial Security Services",
+    "hq":  "Mpumalanga",
+    "description":  "Security services company providing guarding, armed response, CCTV, access control, and mining site-specific security to mines, industrial facilities, and commercial clients in Mpumalanga.",
+    "data_status":  "chunked_from_docs",
+    "last_updated":  "2026-07-13",
+    "related_companies":  "Aiguille Tools \u0026 Edges",
+    "file_summary":  {
+                         "has_market_intelligence":  false,
+                         "has_prompt":  true,
+                         "chunk_files_count":  32,
+                         "research_doc_count":  1,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_segments",
+                                                    "market_trends",
+                                                    "opportunities",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

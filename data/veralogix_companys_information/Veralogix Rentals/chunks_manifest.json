@@ -1,0 +1,105 @@
+﻿{
+    "total_chunks":  29,
+    "company":  "Veralogix Rentals",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__competitive_landscape_p1.json",
+                                                             "doc1_Veralogix_Rentals__competitive_landscape_p2.json",
+                                                             "doc1_Veralogix_Rentals__competitive_landscape_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__executive_summary_p1.json",
+                                                             "doc1_Veralogix_Rentals__executive_summary_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__recommendations_p1.json",
+                                                             "doc1_Veralogix_Rentals__recommendations_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__regulatory.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__technology_p1.json",
+                                                             "doc1_Veralogix_Rentals__technology_p2.json",
+                                                             "doc1_Veralogix_Rentals__technology_p3.json",
+                                                             "doc1_Veralogix_Rentals__technology_p4.json",
+                                                             "doc1_Veralogix_Rentals__technology_p5.json",
+                                                             "doc1_Veralogix_Rentals__technology_p6.json",
+                                                             "doc1_Veralogix_Rentals__technology_p7.json",
+                                                             "doc1_Veralogix_Rentals__technology_p8.json",
+                                                             "doc1_Veralogix_Rentals__technology_p9.json"
+                                                         ],
+                                               "parts":  9
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p1.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p2.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p3.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p4.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p5.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p6.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p7.json",
+                                                             "doc1_Veralogix_Rentals__tender_landscape_p8.json"
+                                                         ],
+                                               "parts":  8
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Veralogix_Rentals__threats_risks.json"
+                                                         ],
+                                               "parts":  1
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Veralogix_Rentals",
+                          "chunk_count":  29,
+                          "source_doc":  "Competitive and Market Intelligence for Veralogix Rentals.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

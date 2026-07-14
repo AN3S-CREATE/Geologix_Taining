@@ -1,0 +1,131 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Coal Processors International",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "New mine development and colliery openings",
+                     "description":  "New colliery projects create immediate demand for operational staffing and plant management from greenfield ramp-up through steady-state production. Mine owners frequently lack internal operational capacity to staff and run new plants.",
+                     "current_examples":  [
+                                              "Seriti Naudesbank Colliery (opened March 2025, 1 Mt/y, 300 direct jobs, underground phase commencing ~2027)",
+                                              "MC Mining Makhado Phase 2 (expected commissioning 2026)",
+                                              "18 new coal projects identified with cumulative potential \u003e30 Mt/y if developed"
+                                          ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "source":  "Engineering News â€” Coal",
+                                                    "url":  "https://www.engineeringnews.co.za/coal.php"
+                                                },
+                                                {
+                                                    "source":  "Mining Weekly â€” Coal",
+                                                    "url":  "https://www.miningweekly.com/page/coal"
+                                                },
+                                                {
+                                                    "source":  "DMRE Operating Mines Register",
+                                                    "url":  "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines"
+                                                },
+                                                {
+                                                    "source":  "Minerals Council SA â€” Coal",
+                                                    "url":  "https://www.mineralscouncil.org.za/sa-mining/coal"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Production ramp-up and life-of-mine expansion projects",
+                     "description":  "Capital expansion projects (new shafts, new sections, beneficiation plant upgrades) create demand for specialist technical operators and management personnel during construction and commissioning phases.",
+                     "current_examples":  [
+                                              "Exxaro Matla LOME Project (R5.2bn, New Mine 1 opened May 2026, ~4.2 Mt/y new capacity, 6,174 total employees inc. contractors)",
+                                              "Thungela Zibulo North Shaft Extension (R2.5bn aggregate expansionary capex, extends underground life to 2038)",
+                                              "Exxaro R5.2bn Grootegeluk expansion (Limpopo)"
+                                          ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "source":  "Exxaro Investor Relations / Press Releases",
+                                                    "url":  "https://www.exxaro.com/media-and-insights/press-releases"
+                                                },
+                                                {
+                                                    "source":  "Thungela Resources Investor Updates",
+                                                    "url":  "https://www.thungela.com/investors"
+                                                },
+                                                {
+                                                    "source":  "Mining Weekly",
+                                                    "url":  "https://www.miningweekly.com"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Management contract and operational outsourcing tenders",
+                     "description":  "Coal mining houses periodically tender for third-party operational management, underground contract mining, and processing plant management services. Tender values range from R500m to R5bn+ over 5â€“10 year contract periods.",
+                     "current_examples":  [
+                                              "AEMFC open tenders (state-owned coal mining finance entity)",
+                                              "Arnot Coal Mine underground services (R3.2bn Boipelo contract commenced 2021 â€” renewal cycle ~2026/2027)",
+                                              "Matla Mine operational contractor appointments for New Mine 1 (2026)"
+                                          ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "source":  "National Treasury eTenders Portal",
+                                                    "url":  "https://www.etenders.gov.za"
+                                                },
+                                                {
+                                                    "source":  "AEMFC Procurement Portal",
+                                                    "url":  "https://www.aemfc.co.za/procurement/open-tenders"
+                                                },
+                                                {
+                                                    "source":  "Tender Bulletins â€” Mining and Supply Services",
+                                                    "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities"
+                                                },
+                                                {
+                                                    "source":  "Global Tenders â€” SA Mining",
+                                                    "url":  "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders.php"
+                                                },
+                                                {
+                                                    "source":  "Tenders on Time â€” Southern Africa Mining",
+                                                    "url":  "https://www.tendersontime.com/southern-africa-tenders/mining-tenders"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Labour disruption and strike action",
+                     "description":  "Industrial action (strikes, go-slows, work-to-rule) or threatened strike action causes mining houses to consider or accelerate outsourcing of operational functions to mitigate continuity risk. Post-strike operational recovery also generates outsourcing demand.",
+                     "current_examples":  [
+                                              "NUM 3-year coal sector wage agreement (7% p.a.) expected to expire ~mid-2026, triggering new wage negotiations and potential industrial action risk",
+                                              "Historical: coal sector-wide threatened strikes (2022â€“2023) accelerated outsourcing discussions"
+                                          ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "source":  "National Union of Mineworkers (NUM) Press Releases",
+                                                    "url":  "https://num.org.za/news-reports-speeches"
+                                                },
+                                                {
+                                                    "source":  "AMCU Website and Media Releases",
+                                                    "url":  "https://www.amcu.org.za"
+                                                },
+                                                {
+                                                    "source":  "CCMA (Commission for Conciliation, Mediation and Arbitration)",
+                                                    "url":  "https://www.ccma.org.za"
+                                                },
+                                                {
+                                                    "source":  "Mining Weekly â€” Labour",
+                                                    "url":  "https://www.miningweekly.com/page/labour"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Eskom coal supply agreement renewals and mine-to-power-station contracts",
+                     "description":  "When Eskom extends or enters new coal supply agreements, the mines affected require operational certainty â€” often triggering outsourced management arrangements to ensure delivery commitments are met.",
+                     "current_examples":  [
+                                              "Exxaroâ€“Eskom Coal Supply Agreement (effective 1 April 2026, 17 years to 2043, 9.3 Mt/y to Matla Power Station) â€” creates sustained operational management demand at Matla"
+                                          ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "source":  "Eskom Media Releases",
+                                                    "url":  "https://www.eskom.co.za/media-releases"
+                                                },
+                                                {
+                                                    "source":  "Business Day â€” Energy",
+                                                    "url":  "https://www.businessday.co.za/energy"
+                                                }
+                                            ]
+                 }
+             ]
+}

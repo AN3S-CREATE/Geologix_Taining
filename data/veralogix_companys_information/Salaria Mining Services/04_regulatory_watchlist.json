@@ -1,0 +1,64 @@
+﻿{
+    "_section":  "regulatory_watchlist",
+    "_company":  "Salaria Mining Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "body_name":  "Department of Mineral Resources and Energy (DMRE)",
+                     "what_they_regulate":  "All aspects of mineral prospecting, exploration, mining rights, resource and reserve reporting, mine health oversight, and petroleum resources in South Africa",
+                     "key_compliance_obligations":  [
+                                                        "Compliance with the Mineral and Petroleum Resources Development Act (MPRDA) No. 28 of 2002 for all resource reporting and rights applications",
+                                                        "Submission of Mineral Resource and Reserve statements that are SAMREC-compliant, signed off by a registered Competent Person",
+                                                        "SAMRAD online portal is the sole legal channel for prospecting and mining right applications",
+                                                        "Social and Labour Plan (SLP) obligations for mining rights holders",
+                                                        "Environmental authorisation and Environmental Management Plan (EMP) submission"
+                                                    ],
+                     "monitor_at":  "https://www.dmre.gov.za â€” Publications, Regulations and Mineral Regulation Overview sections"
+                 },
+                 {
+                     "body_name":  "SAMCODES Standing Committee (SSC) â€” SAMREC and SAMVAL",
+                     "what_they_regulate":  "The South African Code for the Reporting of Exploration Results, Mineral Resources and Mineral Reserves (SAMREC) and the South African Code for the Valuation of Mineral Assets (SAMVAL); sets minimum standards for public and JSE-mandated reporting",
+                     "key_compliance_obligations":  [
+                                                        "All public reports of Exploration Results, Mineral Resources and Mineral Reserves must conform to SAMREC",
+                                                        "Mineral asset valuations for JSE disclosure must conform to SAMVAL",
+                                                        "Reports must be signed by a Competent Person registered with SACNASP, ECSA, GSSA or SAIMM",
+                                                        "CRIRSCO alignment required for international cross-listing (ASX, TSX, etc.)"
+                                                    ],
+                     "monitor_at":  "https://www.samcode.co.za â€” Code revisions, guidelines and FAQs"
+                 },
+                 {
+                     "body_name":  "South African Council for Natural Scientific Professions (SACNASP)",
+                     "what_they_regulate":  "Statutory registration and regulation of natural scientists (geologists, geohydrologists, environmental scientists) practicing in South Africa under the Natural Scientific Professions Act 27 of 2003",
+                     "key_compliance_obligations":  [
+                                                        "All geologists and geoscientists employed by or contracting for Salaria must be registered with SACNASP",
+                                                        "It is illegal to practice geology in South Africa without SACNASP registration",
+                                                        "Continuing Professional Development (CPD) points required for annual renewal",
+                                                        "Competent Person designation under SAMREC requires SACNASP registration"
+                                                    ],
+                     "monitor_at":  "https://www.sacnasp.org.za â€” Register, CPD requirements, disciplinary notices"
+                 },
+                 {
+                     "body_name":  "Engineering Council of South Africa (ECSA)",
+                     "what_they_regulate":  "Statutory registration of professional engineers and technologists under the Engineering Profession Act 46 of 2000; covers rock engineers, geotechnical engineers and mining engineers",
+                     "key_compliance_obligations":  [
+                                                        "Rock engineers and geotechnical engineers must be registered with ECSA as Professional Engineers (Pr Eng) to perform identified engineering work",
+                                                        "Non-compliance is illegal under the Engineering Profession Act",
+                                                        "CPD obligations for registered professionals",
+                                                        "Required for sign-off on engineering designs, rock engineering codes of practice for mines"
+                                                    ],
+                     "monitor_at":  "https://www.ecsa.co.za â€” Registration categories, CPD, disciplinary decisions"
+                 },
+                 {
+                     "body_name":  "Mine Health and Safety Inspectorate (MHSI) â€” within DMRE",
+                     "what_they_regulate":  "Mine health and safety compliance under the Mine Health and Safety Act (MHSA) No. 29 of 1996 and its regulations; particularly relevant to rock engineering and geotechnical work at active mines",
+                     "key_compliance_obligations":  [
+                                                        "All rock engineering and geotechnical work conducted at operating mines must comply with the MHSA",
+                                                        "Mines must have an appointed Rock Engineering Manager (registered Pr Eng or Pr Sci Nat) where required by regulations",
+                                                        "Codes of Practice (CoP) for seismic risk management, slope stability, and support design must be maintained and submitted to MHSI",
+                                                        "MHSI inspectors can suspend mine operations for non-compliance; administrative fines up to ZAR 1 million per offence",
+                                                        "Mine Health and Safety Amendment Bill (2024) introduces updated requirements â€” monitor for enactment"
+                                                    ],
+                     "monitor_at":  "https://www.mhsc.org.za â€” Legislation section; https://www.dmre.gov.za â€” Mine Health and Safety Act and Regulations"
+                 }
+             ]
+}

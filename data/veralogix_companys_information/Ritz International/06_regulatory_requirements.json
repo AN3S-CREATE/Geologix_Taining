@@ -1,0 +1,80 @@
+﻿{
+    "_section":  "regulatory_requirements",
+    "_company":  "Ritz International",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "dmre_petroleum_wholesale_licence":  {
+                                                          "governing_legislation":  "Petroleum Products Act 120 of 1977 (as amended); Petroleum Products Wholesale Licence Regulations (GNR 287 of 2006)",
+                                                          "licence_form":  "DMRE-38 â€” Application for Wholesale Licence",
+                                                          "key_requirements":  [
+                                                                                   "Complete and submit DMRE Form 38 to the relevant DMRE regional office",
+                                                                                   "Publish notice of application in four newspapers (two national, two regional) and submit proof of publication to DMRE",
+                                                                                   "Demonstrate financial capacity to hold minimum prescribed stock levels",
+                                                                                   "Provide proof of storage infrastructure (owned or contracted) and logistics capability",
+                                                                                   "DMRE must process applications and respond within 90 days of receiving proof of publication",
+                                                                                   "A wholesale transaction is defined as any sale of 1,500 litres or more per transaction",
+                                                                                   "Licence conditions specify approved products, reportable volumes, and licensed site addresses"
+                                                                               ],
+                                                          "forms_and_guidelines":  [
+                                                                                       "https://www.dmre.gov.za/Portals/0/Energy_Website/files/households/dmre-petroleum-forms/DMRE-38-Application-for-Wholesale-Licence.pdf",
+                                                                                       "https://www.dmre.gov.za/Portals/0/Energy_Website/files/households/guidelines_petroleumproducts_wholesalelicense.pdf"
+                                                                                   ],
+                                                          "reference_url":  "https://www.gov.za/node/727470"
+                                                      },
+                 "storage_and_handling_regulations":  {
+                                                          "primary_standards":  [
+                                                                                    {
+                                                                                        "standard":  "SANS 10089-1",
+                                                                                        "scope":  "Above-ground petroleum storage tanks â€” design, installation, inspection, and maintenance. Covers bunding requirements, foundations, venting, fire protection, and safety separation distances."
+                                                                                    },
+                                                                                    {
+                                                                                        "standard":  "SANS 10089-3",
+                                                                                        "scope":  "Underground petroleum storage tanks â€” excavation requirements, cathodic protection, leak detection systems, and ongoing monitoring obligations."
+                                                                                    },
+                                                                                    {
+                                                                                        "standard":  "SANS 10087",
+                                                                                        "scope":  "Handling, storage, and distribution of liquefied petroleum gas â€” supplementary reference for multi-product traders operating at the same site."
+                                                                                    }
+                                                                                ],
+                                                          "bunding_requirement":  "All above-ground diesel storage tanks must be enclosed within a bunded (secondary containment) area capable of holding 110% of the largest single tank\u0027s capacity. Bund walls must be impermeable and chemically resistant to petroleum products.",
+                                                          "licensing_threshold":  "Storage installations above approximately 30,000 litres typically require a DMRE licence. Smaller volumes may require DMRE registration only. All storage installations require local authority approval (land use/zoning) and fire department sign-off.",
+                                                          "reference_url":  "https://www.servicelinksa.co.za/bulk-diesel-storage-regulations-south-africa/"
+                                                      },
+                 "environmental_compliance":  {
+                                                  "key_legislation":  [
+                                                                          "National Environmental Management Act (NEMA) 107 of 1998 â€” general framework; Section 30 requires immediate notification to authorities for significant spills",
+                                                                          "National Water Act 36 of 1998 â€” prohibits fuel contamination of surface and ground water",
+                                                                          "National Environmental Management: Waste Act 59 of 2008 â€” governs fuel waste, contaminated soil classification, and spill remediation obligations"
+                                                                      ],
+                                                  "key_requirements":  [
+                                                                           "Environmental Impact Assessment (EIA) may be required for new bulk fuel storage installations above threshold volumes under the EIA Regulations (listed activities)",
+                                                                           "A documented and tested spill containment and emergency response plan must be maintained",
+                                                                           "Stormwater management plan required at all storage facilities to prevent petroleum run-off into water courses",
+                                                                           "Contaminated land remediation obligations rest with the licence holder in the event of a spill or tank leak",
+                                                                           "NEMA Section 30 â€” report significant spills to the relevant authority (DFFE and/or municipality) immediately"
+                                                                       ],
+                                                  "reference_url":  "https://www.gov.za/about-government/government-system/legislation/national-environmental-management-act-107-1998"
+                                              },
+                 "sars_customs_and_excise":  {
+                                                 "governing_legislation":  "Customs and Excise Act 91 of 1964 â€” Schedule 1 Part 5A (Fuel Levy and RAF Levy); Schedule 6 (Diesel Refund provisions)",
+                                                 "licensing_requirement":  "All entities that manufacture, import, or otherwise deal in petroleum products on which Excise Duty and Levies have not yet been paid must licence with SARS Excise before commencing operations.",
+                                                 "import_permit":  "An import permit from ITAC (International Trade Administration Commission of South Africa) must be obtained before importing any petroleum products.",
+                                                 "key_obligations":  [
+                                                                         "Self-assess applicable Excise Duty and Fuel Levies on a monthly SARS Excise Account submitted via eFiling",
+                                                                         "Submit Excise Account monthly or quarterly depending on licence type â€” eFiling is mandatory (no paper submissions accepted)",
+                                                                         "Register for VAT and charge VAT at 15% on all domestic diesel sales",
+                                                                         "Maintain comprehensive records of all purchases, sales, and stock movements for a minimum of 5 years for SARS audit purposes"
+                                                                     ],
+                                                 "current_levies_2026":  {
+                                                                             "general_fuel_levy_diesel":  "396 c/litre (increased by 15 c/l from 370 c/l effective June 2025 per 2025 budget; check SARS Schedule 1 Part 5A for the latest rate)",
+                                                                             "road_accident_fund_levy":  "218 c/litre",
+                                                                             "schedule_reference":  "https://www.sars.gov.za/wp-content/uploads/Legal/SCEA1964/Legal-LPrim-CE-Sch1P5A-Schedule-No-1-Part-5A.pdf"
+                                                                         },
+                                                 "diesel_refund_scheme":  {
+                                                                              "description":  "Qualifying downstream users of diesel (mining operations, agriculture, rail) may reclaim a portion of the general fuel levy under Schedule 6. Diesel traders and wholesalers who sell to these eligible users must register on the SARS Diesel Refund System as approved sellers to facilitate the users\u0027 refund claims. SARS is currently modernising this system into a standalone platform decoupled from the VAT system.",
+                                                                              "url":  "https://www.sars.gov.za/customs-and-excise/excise/diesel-refund-system/"
+                                                                          },
+                                                 "reference_url":  "https://www.sars.gov.za/customs-and-excise/excise/petroleum-products/"
+                                             }
+             }
+}

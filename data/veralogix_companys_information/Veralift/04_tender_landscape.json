@@ -1,0 +1,99 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Veralift",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "tender_portals":  [
+                                        {
+                                            "name":  "eTenders Portal (National Government)",
+                                            "url":  "https://www.etenders.gov.za/Home/opportunities?id=1",
+                                            "description":  "Primary national government portal for all public sector procurement; advanced search and bookmark/subscription available; publishes crane hire, rigging services, and plant hire tenders across all government departments and SOEs"
+                                        },
+                                        {
+                                            "name":  "Tender Bulletins",
+                                            "url":  "https://tenderbulletins.co.za/tpa/rigging-services/gauteng/1/",
+                                            "description":  "Aggregates crane hire and rigging services tenders specifically; filterable by sector and province; useful for Gauteng-based rigging and lifting services bids"
+                                        },
+                                        {
+                                            "name":  "National Treasury â€“ Open Tender Bulletins",
+                                            "url":  "https://www.treasury.gov.za/divisions/ocpo/ostb/currenttenders.aspx",
+                                            "description":  "Official National Treasury tender notice board; mandatory for all national department procurement above threshold values"
+                                        },
+                                        {
+                                            "name":  "Department of Public Works",
+                                            "url":  "http://www.publicworks.gov.za/tenders.html",
+                                            "description":  "Government infrastructure tenders; key for construction and maintenance projects requiring heavy lifting"
+                                        },
+                                        {
+                                            "name":  "Western Cape Government Tenders",
+                                            "url":  "https://www.westerncape.gov.za/treasury/tenders",
+                                            "description":  "Provincial tender portal; relevant for Cape Town port, renewable energy, and construction projects in the Western Cape"
+                                        },
+                                        {
+                                            "name":  "BidDetail South Africa Tenders",
+                                            "url":  "https://www.biddetail.com/south-africa-tenders",
+                                            "description":  "Aggregator covering 15,000+ SA tenders; filterable by keyword (crane, rigging, lifting)"
+                                        },
+                                        {
+                                            "name":  "Global Tenders â€“ Africa Cranes",
+                                            "url":  "https://www.globaltenders.com/af/africa-cranes-tenders",
+                                            "description":  "International aggregator for African crane-related tenders; useful for cross-border project monitoring"
+                                        },
+                                        {
+                                            "name":  "Transnet Procurement",
+                                            "url":  "https://www.transnet.net/Procurement",
+                                            "description":  "Transnet SOC Ltd\u0027s own procurement portal; publishes crane hire and rigging tenders for port terminals and freight rail projects"
+                                        }
+                                    ],
+                 "highest_volume_sectors":  [
+                                                {
+                                                    "sector":  "Mining",
+                                                    "notes":  "Highest consistent volume; large capex projects, periodic shutdowns, plant installations; Limpopo, North West, Mpumalanga, Northern Cape corridors dominate"
+                                                },
+                                                {
+                                                    "sector":  "Energy (Renewable)",
+                                                    "notes":  "Fastest growing; REIPPPP bid windows driving wind farm and solar projects requiring 200â€“500t cranes for turbine erection and structure assembly; Free State, Northern Cape, Eastern Cape, Western Cape"
+                                                },
+                                                {
+                                                    "sector":  "Construction and Infrastructure",
+                                                    "notes":  "Driven by public infrastructure pipeline (transport, roads, bridges); SOE procurement via eTenders; steady baseline volume"
+                                                },
+                                                {
+                                                    "sector":  "Petrochemical and Heavy Industrial",
+                                                    "notes":  "Scheduled shutdown-driven demand at Sasol Secunda, SAPREF, and coastal refineries; concentrated in Mpumalanga and KwaZulu-Natal"
+                                                }
+                                            ],
+                 "certifications_required_for_large_tenders":  {
+                                                                   "ECSA":  {
+                                                                                "description":  "Engineering Council of South Africa registration is mandatory for Lifting Machinery Inspector (LMI) designation and Professional Engineer (PE) sign-off on lift plans. ECSA registration is a standard tender pre-qualification requirement for government and SOE contracts involving heavy lifting.",
+                                                                                "url":  "https://www.ecsa.co.za"
+                                                                            },
+                                                                   "LMI":  {
+                                                                               "description":  "Lifting Machinery Inspectors registered under ECSA\u0027s Specified Scope pathway are required by law to conduct or supervise all load tests on lifting machines. All load tests on cranes must be performed by an ECSA-registered LMI. Applications require qualifications, experience reports, load test inspection reports, and referee reports.",
+                                                                               "url":  "https://ecsa.co.za/register/Professional%20Engineers/R-05-LMI-SC_Training_Requirements.pdf"
+                                                                           },
+                                                                   "SACPCMP":  {
+                                                                                   "description":  "South African Council for the Project and Construction Management Professions registration is required for Construction Health and Safety (CHS) Officers and Managers on large construction sites. Large industrial crane tenders often require a registered Construction Health and Safety Officer (CHSO) as part of the contractor\u0027s competency pack.",
+                                                                                   "url":  "https://www.sacpcmp.org.za"
+                                                                               },
+                                                                   "TETA":  {
+                                                                                "description":  "All crane operators must hold TETA-accredited qualifications per SAQA unit standards. Tenders for crane hire frequently require proof of operator certification and training provider accreditation. Licenses expire every 2 years.",
+                                                                                "url":  "https://teta.org.za"
+                                                                            }
+                                                               },
+                 "iso_and_ohsas_compliance":  {
+                                                  "ISO_45001":  {
+                                                                    "description":  "ISO 45001 has superseded OHSAS 18001 as the international occupational health and safety management system standard. Over 540,000 certificates issued globally. Major mining houses (Anglo American, Sibanye-Stillwater, Glencore) and SOEs require ISO 45001 certification from crane hire contractors. Key elements: leadership commitment, hazard identification, risk assessment, legal compliance, emergency planning, incident investigation.",
+                                                                    "relevance":  "Required by most Tier 1 mining and energy clients as a pre-qualification condition"
+                                                                },
+                                                  "OHS_Act_85_of_1993":  {
+                                                                             "description":  "The Occupational Health and Safety Act (Act 85 of 1993) is the primary legislative framework governing crane operations. Section 8 imposes a general duty of care on employers. The Act\u0027s Driven Machinery Regulations (DMR) provide specific crane-related obligations.",
+                                                                             "url":  "https://elephantlifting.co.za/occupational-health-safety-act/"
+                                                                         },
+                                                  "Lifting_Machinery_Regulation_DMR_18":  {
+                                                                                              "description":  "Driven Machinery Regulations â€“ Regulation 18 governs all lifting machines in South Africa. Key requirements: cranes must be examined and performance-tested by a registered LMI before initial use, after each re-erection, and at intervals not exceeding 12 months. All ropes, chains, hooks, sheaves, brakes, and safety devices must be examined by a competent person every 6 months. Maximum safe working load must be clearly marked.",
+                                                                                              "url":  "https://vula.uct.ac.za/access/content/group/c7716642-ada7-42a0-acee-0434c085df90/Electronic%20Resources/CD3/sow/Legislation/OHSA/dmr_18_lifting_machines_and_lifting_tackle.htm"
+                                                                                          }
+                                              }
+             }
+}

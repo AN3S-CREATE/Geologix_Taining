@@ -1,0 +1,127 @@
+﻿{
+    "_section":  "risk_signals",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "risk":  "Transnet port and rail capacity constraints",
+                     "description":  "Richards Bay Coal Terminal (RBCT) operates at ~62% of nameplate capacity (91Mt/yr); 2025 throughput was 57.66Mt. Risks include locomotive shortages, infrastructure gaps, cable theft, power supply failures. Annual maintenance closure runs 21 Julyâ€“1 August 2026.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "S\u0026P Global â€” Richards Bay / Transnet reporting",
+                                                    "url":  "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+                                                },
+                                                {
+                                                    "name":  "Daily Maverick â€” Transnet and logistics coverage",
+                                                    "url":  "https://www.dailymaverick.co.za"
+                                                },
+                                                {
+                                                    "name":  "Freight News SA",
+                                                    "url":  "https://www.freightnews.co.za"
+                                                },
+                                                {
+                                                    "name":  "Richards Bay Coal Terminal official data",
+                                                    "url":  "https://www.rbct.co.za"
+                                                }
+                                            ]
+                 },
+                 {
+                     "risk":  "ZAR/USD exchange rate volatility",
+                     "description":  "USDZAR has traded in a 16.00â€“17.25 range in 2026; consensus forecasts cluster around 17.0. SA\u0027s commodity-heavy export economy means the rand is highly sensitive to Chinese demand, global risk appetite, Fed policy, and commodity price swings. A weakening rand improves export USD revenues but raises import costs.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Investec Rand Note (weekly analysis)",
+                                                    "url":  "https://www.investec.com/en_za/focus/economy/rand-note.html"
+                                                },
+                                                {
+                                                    "name":  "South African Reserve Bank (SARB) â€” policy decisions",
+                                                    "url":  "https://www.resbank.co.za"
+                                                },
+                                                {
+                                                    "name":  "TradingView â€” USDZAR live chart",
+                                                    "url":  "https://www.tradingview.com/symbols/USDZAR/"
+                                                },
+                                                {
+                                                    "name":  "FocusEconomics â€” SA exchange rate consensus forecasts",
+                                                    "url":  "https://www.focus-economics.com/country-indicator/south-africa/exchange-rate/"
+                                                }
+                                            ]
+                 },
+                 {
+                     "risk":  "Chinese steel and energy demand signals",
+                     "description":  "China is the dominant buyer of SA chrome, manganese, iron ore, and increasingly thermal coal. Steel production volumes, property sector health, and China\u0027s energy mix decisions directly set the floor and ceiling for SA commodity prices and export demand. Slowdown in Chinese steel output immediately compresses SA export prices.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "World Steel Association â€” monthly crude steel production",
+                                                    "url":  "https://www.worldsteel.org/steel-by-topic/statistics.html"
+                                                },
+                                                {
+                                                    "name":  "National Bureau of Statistics China",
+                                                    "url":  "https://www.stats.gov.cn/english/"
+                                                },
+                                                {
+                                                    "name":  "Asian Metal â€” Chinese import/demand data",
+                                                    "url":  "https://www.asianmetal.com"
+                                                },
+                                                {
+                                                    "name":  "S\u0026P Global Commodity Insights â€” China steel and energy",
+                                                    "url":  "https://www.spglobal.com/commodities/en"
+                                                }
+                                            ]
+                 },
+                 {
+                     "risk":  "South African mining production disruptions",
+                     "description":  "Load-shedding (Eskom power cuts), labour disputes, safety stoppages (Section 54 orders), and geological events can halt mine production. Mining output grew 2.5% YoY in March 2026, with mineral sales surging 30.2% YoY â€” but disruptions remain a recurring risk. Water and tailings management failures are an emerging operational risk.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Minerals Council South Africa â€” monthly production and safety data",
+                                                    "url":  "https://www.mineralscouncil.org.za"
+                                                },
+                                                {
+                                                    "name":  "DMRE (Department of Mineral Resources and Energy) â€” mineral economics data",
+                                                    "url":  "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/mineral-economics"
+                                                },
+                                                {
+                                                    "name":  "Mining Weekly â€” production disruption news",
+                                                    "url":  "https://www.miningweekly.com"
+                                                },
+                                                {
+                                                    "name":  "Stats SA â€” mining production and sales monthly report",
+                                                    "url":  "https://www.statssa.gov.za"
+                                                }
+                                            ]
+                 },
+                 {
+                     "risk":  "Regulatory and export policy changes",
+                     "description":  "The Draft Mineral Resources Development Amendment Bill (published May 2025, comment period closed August 2025) proposes local beneficiation obligations, amended mineral rights allocation, and formalisation of artisanal mining. A Forced Beneficiation policy for chrome is under active debate in 2026. The Critical Minerals and Metals Strategy (2025) seeks to restrict raw ore exports in favour of value-added processing. These policies could constrain raw chrome and manganese export volumes.",
+                     "key_risks":  [
+                                       "Chrome and manganese raw ore export restrictions in favour of local smelting",
+                                       "New beneficiation conditions attached to mineral rights allocation",
+                                       "US tariff impacts on SA critical mineral exports",
+                                       "Chinese dominance concerns reshaping bilateral mineral supply terms"
+                                   ],
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "DMRE â€” policy and legislation updates",
+                                                    "url":  "https://www.dmre.gov.za"
+                                                },
+                                                {
+                                                    "name":  "Minerals Council SA â€” industry response to legislation",
+                                                    "url":  "https://www.mineralscouncil.org.za"
+                                                },
+                                                {
+                                                    "name":  "Mining Review Africa â€” regulatory analysis",
+                                                    "url":  "https://www.miningreview.com"
+                                                },
+                                                {
+                                                    "name":  "Cliffe Dekker Hofmeyr â€” mining law alerts",
+                                                    "url":  "https://www.cliffedekkerhofmeyr.com/en/news/publications"
+                                                },
+                                                {
+                                                    "name":  "White \u0026 Case â€” SA mining law overhaul analysis",
+                                                    "url":  "https://www.whitecase.com/insight-alert/proposed-overhaul-south-african-mining-law-regime"
+                                                }
+                                            ]
+                 }
+             ]
+}

@@ -1,0 +1,369 @@
+{
+  "report_metadata": {
+    "company": "Treadstone",
+    "description": "Road transport specialist for coal, chrome, and iron ore movement across regional networks in South Africa",
+    "report_date": "2026-06-24",
+    "researcher": "Geologix Vanguard Market Intelligence"
+  },
+  "competitors": [
+    {
+      "name": "Reinhardt Transport Group",
+      "website": "https://reinhardt.co.za",
+      "commodity_focus": ["chrome", "coal", "manganese"],
+      "key_routes_regions": ["Mpumalanga", "Limpopo", "Northern Cape", "cross-border SADC corridors"],
+      "fleet_size": "1,000+ specialised vehicles across 10 divisions",
+      "divisions": ["Chrome Carriers", "BM Hauliers", "Nkwe Bulk"],
+      "recent_developments": "Operates dedicated Chrome Carriers division connecting mines to smelters and export corridors; expanding into lithium commodity as demand grows; Nkwe Bulk division focuses on short-haul high-turnover mine haulage with 25–45m³ tipper bins"
+    },
+    {
+      "name": "Unitrans Africa",
+      "website": "https://www.unitransafrica.com",
+      "commodity_focus": ["chrome", "coal", "copper", "mineral sand", "nickel", "platinum"],
+      "key_routes_regions": ["Sub-Saharan Africa", "South Africa", "Mozambique", "Zambia", "Botswana", "Namibia"],
+      "fleet_size": "1,500+ vehicles including 50+ PBS (Performance-Based Standards) road trains; Africa's largest road train operator with ~35 road trains, hauling up to 130 tonnes per train",
+      "recent_developments": "2023 & 2024 Rio Tinto Global Best Contractor Partner award and QMM Best Performance Contractor (High Risk) award; achieved 20%+ reduction in fuel consumption per tonne and 54% reduction in vehicle requirements through PBS configuration optimisation"
+    },
+    {
+      "name": "Simeliza Transport",
+      "website": "https://www.simelizatransport.co.za",
+      "commodity_focus": ["coal", "chrome", "manganese", "iron ore", "aggregates"],
+      "key_routes_regions": ["Mpumalanga", "Steelpoort", "Burgersfort", "Polokwane", "mine-to-port corridors"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Strong operational base in Mpumalanga; services include side-tipper transport, mine-to-siding, pit-to-stockpile, and mine-to-port haulage; positioned as a leading coal transport company in Mpumalanga"
+    },
+    {
+      "name": "Nkwe Bulk (Reinhardt division)",
+      "website": "https://reinhardt.co.za/nkwe-bulk/",
+      "commodity_focus": ["chrome", "coal", "bulk minerals"],
+      "key_routes_regions": ["Western Chrome Limb", "North West", "Limpopo", "Mpumalanga"],
+      "fleet_size": "Not separately disclosed",
+      "recent_developments": "Focuses on high-turnover, low-mileage short-haul within active mining operations; deep expertise in mine safety and access protocols; rapid cycle efficiency model"
+    },
+    {
+      "name": "Tshepo Transport",
+      "website": "https://www.tshepotransport.co.za",
+      "commodity_focus": ["bulk freight", "mining commodities"],
+      "key_routes_regions": ["Nationwide South Africa"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Freight logistics, nationwide coverage with plant hire services"
+    },
+    {
+      "name": "Mthabane Transport",
+      "website": "https://mthabanetransport.co.za",
+      "commodity_focus": ["bulk mining minerals"],
+      "key_routes_regions": ["Limpopo", "Mpumalanga"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Specialist in bulk mining transport services across Limpopo and Mpumalanga"
+    },
+    {
+      "name": "Local Bulk Haulage",
+      "website": "https://www.localbulk.co.za",
+      "commodity_focus": ["coal", "bulk minerals"],
+      "key_routes_regions": ["South Africa regional networks"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Regional bulk haulage operator focused on local short-haul mining routes"
+    },
+    {
+      "name": "Mixcorp Transport",
+      "website": "https://mixcorp.co.za",
+      "commodity_focus": ["chrome", "chrome concentrate"],
+      "key_routes_regions": ["Steelpoort", "Port of Mozambique (Maputo)"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Transports approximately 650,000 tonnes of chrome and chrome concentrate out of Steelpoort for export via Port of Mozambique"
+    },
+    {
+      "name": "Khensa Investment Group",
+      "website": "http://khensa.co.za",
+      "commodity_focus": ["mining logistics"],
+      "key_routes_regions": ["South Africa"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Mining logistics and transport services provider"
+    },
+    {
+      "name": "AGEN Logistics",
+      "website": "https://agenlogistics.com",
+      "commodity_focus": ["bulk cargo", "coal", "mining commodities"],
+      "key_routes_regions": ["South Africa national routes"],
+      "fleet_size": "Not publicly disclosed",
+      "recent_developments": "Bulk cargo transport specialist; identified 4 key trends shaping SA bulk logistics in 2026: rail liberalisation impact, fuel price volatility, ESG compliance demands, and digital fleet management adoption"
+    }
+  ],
+  "demand_signals": {
+    "summary": "Demand for road haulage of coal, chrome, and iron ore is driven by mine output levels, Transnet rail capacity constraints, port export volumes, and commodity price movements. Over 300,000 trucks per year enter Richards Bay port as rail shortfalls force bulk minerals onto road transport.",
+    "sources": [
+      {
+        "signal_type": "Transnet Rail Capacity & Port Volumes",
+        "description": "Richards Bay Coal Terminal (RBCT) exported 57.66 million tonnes in 2025, up 10%+ year-on-year. RBCT CEO targets 65 million tonnes by end of 2026. Rail recovery reduces some road pressure but residual rail shortfalls continue to drive road haulage demand. The government's target is to restore 77 million tonnes annual rail capacity on the coal line.",
+        "source": "Daily Maverick / S&P Global Energy",
+        "url": "https://www.dailymaverick.co.za/article/2026-01-27-richards-bay-coal-terminal-exports-rise-s-rise-over-10-in-2025-in-latest-sign-of/",
+        "monitoring_frequency": "Monthly port statistics"
+      },
+      {
+        "signal_type": "Transnet Freight Rail Notices & Capacity Announcements",
+        "description": "Transnet publishes freight rail capacity updates, corridor performance reports, and tender notices. Rail liberalisation underway; third-party operators entering TFR network will shift rail/road balance. Monitor for corridor outages that divert volumes to road.",
+        "source": "Transnet Freight Rail",
+        "url": "https://www.transnetfreightrail-tfr.net",
+        "monitoring_frequency": "Weekly"
+      },
+      {
+        "signal_type": "Mine Production Announcements",
+        "description": "Mining company quarterly and annual production reports signal changes in commodity volumes requiring transport. Mineral sales reached R332 billion Jan-Apr 2026, up 36.5% YoY. Chromium ore up 17.5%, iron ore up 19%, manganese up 40.4% in recent periods. Coal output under ESG pressure but remains significant.",
+        "source": "Mining Weekly / Stats SA",
+        "url": "https://www.miningweekly.com",
+        "monitoring_frequency": "Quarterly earnings cycles"
+      },
+      {
+        "signal_type": "New Mine Developments & Expansions",
+        "description": "Government designated platinum, manganese, iron ore, coal, and chrome as high-criticality minerals in 2025 Critical Minerals Strategy. New mine commissions and expansions signal emerging transport demand. Ten African mining projects set to reach key milestones in 2026.",
+        "source": "Mining Review Africa",
+        "url": "https://www.miningreview.com/news/ten-african-mining-projects-set-to-reach-key-milestones-in-2026/",
+        "monitoring_frequency": "Monthly"
+      },
+      {
+        "signal_type": "DMRE (Department of Mineral Resources & Energy) Publications",
+        "description": "Mining rights approvals, Environmental Impact Assessments, and production licence updates appear first in DMRE gazettes and tender portals. These signal upcoming mine activity and associated transport demand.",
+        "source": "DMRE",
+        "url": "https://www.dmre.gov.za",
+        "monitoring_frequency": "Weekly"
+      },
+      {
+        "signal_type": "Commodity Price Movements",
+        "description": "China's steel exports reached record 119 million tonnes in 2025 (+7.2% YoY), driving demand for SA chrome and iron ore. Track seaborne thermal coal, coking coal, chrome ore, and iron ore prices — production volumes (and road transport demand) correlate with export price strength. Monitor benchmark indices from Platts, Argus, and Fastmarkets.",
+        "source": "Fastmarkets / S&P Global Platts / Argus Media",
+        "url": "https://www.fastmarkets.com",
+        "monitoring_frequency": "Daily"
+      },
+      {
+        "signal_type": "Mining News Publications",
+        "description": "Mining Weekly, Engineering News, and Mining Review Africa publish mine expansion announcements, production updates, and logistics contracts that signal new haulage demand.",
+        "source": "Mining Weekly",
+        "url": "https://www.miningweekly.com",
+        "monitoring_frequency": "Daily"
+      }
+    ]
+  },
+  "tender_landscape": {
+    "tender_portals": [
+      {
+        "name": "National Treasury eTenders Portal",
+        "url": "https://www.etenders.gov.za",
+        "description": "Primary government procurement portal listing public sector transport and logistics tenders including state-owned mining entities. Use Advanced Search to filter by transport/logistics category."
+      },
+      {
+        "name": "Tender Bulletins — Transportation & Mining",
+        "url": "https://tenderbulletins.co.za",
+        "description": "Aggregates SA government and SOE tenders across transportation/storage and mining/coal categories. Covers tenders issued by government departments, provinces, and state-owned companies."
+      },
+      {
+        "name": "TendersOnTime — SA Mining Tenders",
+        "url": "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+        "description": "Aggregated portal covering South Africa and Southern Africa mining tenders including bulk haulage and transport procurement."
+      },
+      {
+        "name": "AEMFC (African Exploration Mining and Finance Corporation) Tenders",
+        "url": "https://www.aemfc.co.za/procurement/open-tenders",
+        "description": "State-owned mining entity open tenders including transport-related procurement."
+      },
+      {
+        "name": "Sibanye-Stillwater Supplier Portal",
+        "url": "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders/",
+        "description": "Sibanye-Stillwater invites local community suppliers to express interest in available tenders, including transport and logistics."
+      },
+      {
+        "name": "Exxaro Digital Sourcing (Coupa)",
+        "url": "https://www.exxaro.com/suppliers/",
+        "description": "Exxaro's cloud-based procurement platform for supplier registration and tender participation. Exxaro is a major coal producer awarding three-year bulk transport contracts through open competitive tender."
+      },
+      {
+        "name": "Anglo American / Kumba Iron Ore Supplier Portal",
+        "url": "https://www.angloamericankumba.com/suppliers/local-procurement",
+        "description": "Kumba Iron Ore local procurement portal. Kumba is a leading supplier of high-quality iron ore and a major procurer of road transport on Northern Cape routes."
+      },
+      {
+        "name": "DMRE Tenders",
+        "url": "https://www.dmre.gov.za/tenders",
+        "description": "Department of Mineral Resources and Energy tender listings relevant to state mining activities."
+      }
+    ],
+    "major_procurers": [
+      {
+        "company": "Exxaro Resources",
+        "commodity": "coal",
+        "notes": "Major coal producer in Mpumalanga and Limpopo (Waterberg). Awards three-year coal transport contracts through open tender. Over 363 companies invited per tender round. Awards split across multiple carriers with BBBEE and local empowerment criteria. Transitioning procurement to Coupa digital sourcing platform.",
+        "supplier_portal": "https://www.exxaro.com/suppliers/"
+      },
+      {
+        "company": "Anglo American / Kumba Iron Ore",
+        "commodity": "iron ore",
+        "notes": "Kumba Iron Ore (Sishen mine, Northern Cape) primarily uses Transnet's Sishen-Saldanha rail line but procures road transport for secondary logistics. Anglo American also holds coal assets through Mafube JV with Exxaro.",
+        "supplier_portal": "https://www.angloamericankumba.com/suppliers/local-procurement"
+      },
+      {
+        "company": "Glencore (Coal South Africa)",
+        "commodity": "coal",
+        "notes": "Glencore operates multiple coal mines in Mpumalanga and is one of the largest coal exporters through Richards Bay. Glencore-Merafe joint venture is a major chrome producer. Significant road transport procurement for both coal and chrome operations.",
+        "supplier_portal": "https://www.glencore.com/what-we-do/coal"
+      },
+      {
+        "company": "South32",
+        "commodity": "chrome, manganese",
+        "notes": "Operates Metalloys (manganese) and chrome-adjacent operations. Procures bulk road transport for mine-to-plant and plant-to-port movements.",
+        "supplier_portal": "https://www.south32.net"
+      },
+      {
+        "company": "Samancor Chrome",
+        "commodity": "chrome",
+        "notes": "One of the world's largest chrome ore producers. Operations in Western Limb (North West) and Eastern Limb (Limpopo). Major procurer of road transport from mine to ferrochrome smelters and export terminals.",
+        "supplier_portal": "https://www.samancor.com"
+      },
+      {
+        "company": "Tronox / Sefateng / Merafe Resources",
+        "commodity": "chrome, mineral sands",
+        "notes": "Chrome operations in Limpopo region. Merafe Resources is Glencore's joint venture partner in ferrochrome. Both procure road transport for ore movement.",
+        "supplier_portal": "https://sefateng.co.za"
+      }
+    ],
+    "cpa_structures": {
+      "description": "Contract Price Adjustment (CPA) formulas in South African bulk haulage contracts are typically structured around three variable cost indices that are regularly rebased to protect both operator and client from cost volatility.",
+      "standard_components": [
+        {
+          "component": "Fuel (Diesel)",
+          "weight_in_formula": "35–55% of total CPA adjustment",
+          "index_source": "Department of Energy (DoE) monthly retail diesel price (wholesale inland 500ppm)",
+          "monitoring_url": "https://fuelsindustry.org.za/consumer-information/fuel-prices-current-past/",
+          "notes": "Largest single cost driver. March 2026 diesel increased R10.34/litre (56% shock). Most contracts adjust monthly or quarterly against DoE published prices. Road Freight Association benchmarks: fuel accounts for 35–55% of daily operating cost per vehicle type."
+        },
+        {
+          "component": "Labour / Drivers",
+          "weight_in_formula": "20–30% of total CPA adjustment",
+          "index_source": "Stats SA PPI (Producer Price Index) for Road Freight; NBCRFLI (National Bargaining Council for the Road Freight and Logistics Industry) sectoral determinations",
+          "monitoring_url": "https://www.statssa.gov.za",
+          "notes": "Annual wage increases negotiated through the NBCRFLI. Driver wage rates are regulated sector-wide. Escalation typically applied annually in line with NBCRFLI agreements or CPI."
+        },
+        {
+          "component": "Tyres & Maintenance",
+          "weight_in_formula": "10–20% of total CPA adjustment",
+          "index_source": "Stats SA PPI sub-index for rubber products and vehicle parts",
+          "monitoring_url": "https://www.statssa.gov.za",
+          "notes": "Tyre costs are route-sensitive (gravel roads accelerate wear). Some contracts price tyres separately as a per-kilometre cost rather than via CPA formula."
+        },
+        {
+          "component": "Fixed Costs (capital, insurance, overheads)",
+          "weight_in_formula": "Typically fixed or CPI-linked for contract duration",
+          "index_source": "Stats SA Consumer Price Index (CPI) or Producer Price Index (PPI)",
+          "monitoring_url": "https://www.statssa.gov.za",
+          "notes": "Capital component (vehicle depreciation, finance costs) usually fixed for contract term or adjusted annually at CPI. Insurance escalated annually."
+        }
+      ],
+      "common_contract_structures": [
+        "Rate-per-tonne-kilometre (R/tkm) with monthly fuel adjustment rider",
+        "Rate-per-load with quarterly CPA review",
+        "Fixed monthly retainer plus variable rate per tonne (used where mine guarantees minimum volumes)",
+        "3-year term with annual CPA review and open-book fuel cost pass-through"
+      ],
+      "cpa_reference_frameworks": [
+        {
+          "name": "SAFCEC CPAF (Contract Price Adjustment Formula)",
+          "url": "https://www.safcec.org.za/page/cpaf",
+          "notes": "Published for civil engineering construction but coefficients (labour, material, plant, fuel) are frequently adapted for heavy haulage contracts"
+        },
+        {
+          "name": "Stats SA Price Indices for Escalation",
+          "url": "https://www.statssa.gov.za/cpi/documents/priceindicesforescalation.pdf",
+          "notes": "Official guide for applying CPI/PPI indices in contract escalation"
+        }
+      ]
+    }
+  },
+  "route_risks": [
+    {
+      "risk_category": "Road Quality & Infrastructure",
+      "description": "Heavy coal and chrome haulage causes severe road deterioration, particularly on secondary routes linking mines to national corridors. Mpumalanga's N4, N11, and N17 carry extreme volumes — in one 12-hour period, 34,198 tonnes of freight were recorded on the N4 between Nelspruit and Komatipoort. Most roads in Limpopo's Waterberg District (8,500km) are unpaved (only 30% paved). Gravel roads in Burgersfort-Steelpoort area accelerate tyre wear and increase maintenance costs.",
+      "affected_routes": ["N4 (Mozambique corridor)", "N11 (Hendrina–Middelburg, Botswana border)", "N17 (Ermelo corridor)", "R573 Moloto Road", "Steelpoort/Burgersfort secondary roads", "Waterberg District roads (Lephalale area)"],
+      "monitoring_source": "SA Freight Data Banks (Mpumalanga, Limpopo, KZN)",
+      "monitoring_url": "http://www.safiri.co.za/mpfdb/roads-infrastructure.html"
+    },
+    {
+      "risk_category": "Weigh-Bridge & Overloading Enforcement",
+      "description": "SA's weighbridge network targets major freight corridors. On the N4, weighbridges are managed by TRAC under SANRAL contract with Mpumalanga DPWRT enforcement. The N11 and N17 are monitored from the Ermelo Traffic Control Centre. Approximately 20% of weighed vehicles are found overloaded nationally. March 2026 Tshwane Metro operation: 31 of 88 inspected trucks failed overload compliance. Penalties include fines and removal from road. RTMS certification is a key differentiator showing voluntary compliance above legal minimum.",
+      "affected_routes": ["N4 (TRAC-managed weighbridges)", "N11", "N17", "Gauteng N1/N3 (SANRAL-managed)", "Limpopo weighbridges"],
+      "monitoring_source": "Mpumalanga Freight Data Bank; Limpopo DTCS Weighbridge Registry",
+      "monitoring_url": "http://www.safiri.co.za/mpfdb/roads-overload-control.html"
+    },
+    {
+      "risk_category": "Fuel Price Volatility",
+      "description": "Diesel is the largest single operating cost, representing 35–55% of daily operating cost per vehicle. March 2026 diesel shock: R10.34/litre price increase (56%). South Africa's diesel price is set monthly by the Department of Energy using an import parity pricing (Basic Fuel Price) mechanism linked to Brent crude and Rand/USD exchange rate. SA operators pay for diesel upfront on 60–90-day invoice cycles, creating cash flow exposure. Fuel hedge mechanisms are rare for small/mid-size operators.",
+      "monitoring_source": "Department of Energy / Fuels Industry Association of South Africa monthly price announcements",
+      "monitoring_url": "https://fuelsindustry.org.za/consumer-information/fuel-prices-current-past/"
+    },
+    {
+      "risk_category": "Labour & Driver Availability",
+      "description": "South Africa has a structural shortage of qualified heavy vehicle drivers (Code EC and EC1 licences). Driver wages are governed by the NBCRFLI sectoral determination. Wage disputes and strikes at NBCRFLI level can cause industry-wide disruption. High unemployment nationally (32.7%) coexists with a shortage of licensed, experienced long-haul drivers. Driver fatigue regulation (NRTA hours-of-service rules) limits productivity on long routes. Driver poaching between operators is common, increasing wage pressure.",
+      "monitoring_source": "NBCRFLI (National Bargaining Council for the Road Freight and Logistics Industry); Road Freight Association (RFA)",
+      "monitoring_url": "https://www.rfa.co.za"
+    },
+    {
+      "risk_category": "Security & Cargo Theft",
+      "description": "Copper cable theft on the Transnet coal line declined from 180km (2024) to 59km (2025), but road freight theft remains a risk. High-value commodity trucks (coal, chrome) are targets for armed robbery and product theft, particularly on Mpumalanga N4 and N17 routes at night.",
+      "monitoring_source": "SAPS crime statistics; Road Freight Association security advisories",
+      "monitoring_url": "https://www.saps.gov.za"
+    },
+    {
+      "risk_category": "Transnet Rail Disruptions as Demand Amplifier",
+      "description": "When Transnet Freight Rail suffers line outages, derailments, or capacity constraints, bulk mineral volumes shift to road — creating surge demand but also route congestion and road damage acceleration. Monitor TFR corridor performance monthly. Rail liberalisation introducing private operators from 2025–2026 may stabilise but initially disrupt road/rail split.",
+      "monitoring_source": "Transnet Freight Rail Corridor Updates; Rail Journal",
+      "monitoring_url": "https://www.transnetfreightrail-tfr.net"
+    }
+  ],
+  "regulatory_requirements": [
+    {
+      "requirement": "Operating Licence (Domestic)",
+      "regulator": "Provincial Regulatory Entity (PRE) — one per province",
+      "description": "All commercial road transport operators must hold an operating licence issued by the PRE of the province where the business is based. Separate licences may be required for each vehicle or a fleet licence for a defined number of vehicles. Required under the National Land Transport Act.",
+      "legislative_basis": "National Land Transport Act 5 of 2009",
+      "reference_url": "https://www.yebobusiness.co.za/how-to-start-transport-business-south-africa/"
+    },
+    {
+      "requirement": "C-BRTA Cross-Border Permits",
+      "regulator": "Cross-Border Road Transport Agency (C-BRTA)",
+      "description": "Required for all commercial road freight movements between South Africa and SADC neighbouring states (Mozambique, Zimbabwe, Botswana, Zambia, Eswatini, Lesotho, Namibia). Applications processed via C-BRTA's Cross-Easy online portal. Operators must create a portal profile, select permit type (freight/passenger), upload documentation, and pay fees. Permits are route-specific and commodity-specific for hazardous goods. Relevant for Treadstone if operating on Mozambique export corridor or into Zimbabwe.",
+      "legislative_basis": "Cross-Border Road Transport Act 4 of 1998",
+      "reference_url": "https://www.cbrta.co.za/permits"
+    },
+    {
+      "requirement": "RTMS (Road Transport Management System) Certification",
+      "regulator": "RTMS Scheme; SANAS-accredited certification bodies; SANS 1395-1:2019",
+      "description": "RTMS is a voluntary industry self-regulation initiative developed in partnership with the Department of Transport, SANRAL, and the CSIR. National standard: SANS 1395-1:2019 (published by SABS; audited by SANAS-accredited bodies). Over 11,000 vehicles operate under RTMS in SA. RTMS is not legally mandatory but is increasingly required by major mining company clients (Exxaro, Anglo American, Kumba, Glencore) as a supply chain qualification. Demonstrates commitment to legal load compliance, vehicle maintenance, and driver fatigue management — key differentiator for tender qualification.",
+      "legislative_basis": "Voluntary — SANS 1395-1:2019",
+      "reference_url": "https://rtms-sa.org/"
+    },
+    {
+      "requirement": "Dangerous Goods Transport Permits (Fuel/Diesel Loads)",
+      "regulator": "Local Authority (municipality where vehicle is licensed) / Department of Transport",
+      "description": "Dangerous Goods Transport Permits are issued for vehicles transporting Class 1–9 dangerous goods. Diesel/fuel loads fall under Class 3 (Flammable Liquids). Governed by National Road Traffic Act 93 of 1996 and SANS 10231 (operational requirements for DG road vehicles). Vehicles must display correct hazard placards, carry documentation, use certified tankers, and drivers must hold an approved DG driver training certificate. Permit is issued by the Emergency Services Responder/municipality where vehicle is licensed. Annual renewal required.",
+      "legislative_basis": "National Road Traffic Act 93 of 1996; SANS 10231; SANS 1157",
+      "reference_url": "https://www.transport.gov.za/?page_id=2388"
+    },
+    {
+      "requirement": "Vehicle Roadworthiness & Operator Fitness",
+      "regulator": "Road Traffic Management Corporation (RTMC); Provincial Traffic Departments",
+      "description": "All vehicles must hold valid roadworthy certificates (inspected at accredited testing stations). Operators must maintain vehicle maintenance records. For PBS (Performance-Based Standards) vehicles such as road trains or oversize configurations, additional authorisation from the RTMC is required under the PBS Scheme (Smart Truck Programme). Heavy haulage vehicles subject to annual fitness inspections.",
+      "legislative_basis": "National Road Traffic Act 93 of 1996; PBS Scheme Rules (Dec 2024)",
+      "reference_url": "https://rtms-sa.org/wp-content/uploads/2025/06/Rules-for-the-Development-and-Operation-of-PBS-vehicles-Dec-2024-v35.pdf"
+    },
+    {
+      "requirement": "Maximum Load & Axle Weight Compliance",
+      "regulator": "SANRAL; Provincial Traffic Authorities",
+      "description": "SA road freight load regulations set maximum gross vehicle mass and axle load limits under the National Road Traffic Act. Bulk tipper trucks for coal and chrome typically operate at 56-tonne GVM maximum on national routes. Overloading fines are imposed at weighbridges. Approximately 20% of weighed vehicles are found overloaded nationally. RTMS certification provides a compliance framework. Some PBS-certified operators can carry higher payloads on approved routes.",
+      "legislative_basis": "National Road Traffic Act 93 of 1996; SANRAL Load Limit Regulations",
+      "reference_url": "https://coldchainsa.com/south-african-road-freight-load-regulations-what-cold-chain-operators-need-to-know/"
+    },
+    {
+      "requirement": "BBBEE Compliance for Mining Procurement",
+      "regulator": "Department of Trade, Industry and Competition (DTIC); Mining Charter III",
+      "description": "Mining companies operating under the Mineral and Petroleum Resources Development Act (MPRDA) are required to meet Mining Charter III procurement targets: 70% of services procurement from BBBEE-compliant suppliers, with 11% from black women-owned businesses. Transport contractors must hold valid BBBEE certificates to qualify for mining company tenders. Exxaro's coal transport tender process explicitly weights BBBEE credentials. BBBEE levels 1–4 provide competitive advantage; non-compliance disqualifies from major mining tenders.",
+      "legislative_basis": "Mining Charter III (2018); B-BBEE Act 53 of 2003",
+      "reference_url": "https://www.exxaro.com/suppliers/"
+    }
+  ]
+}

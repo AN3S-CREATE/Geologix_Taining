@@ -1,0 +1,79 @@
+﻿{
+    "_section":  "incident_sources",
+    "_company":  "Mining Safety Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "source":  "DMRE Mine Health and Safety Statistics (Annual)",
+                     "url":  "https://www.gov.za/news/speeches/minister-gwede-mantashe-release-2024-mine-health-and-safety-statistics-23-jan-2025",
+                     "description":  "Annual ministerial release of fatality and injury statistics; authoritative government source.",
+                     "update_frequency":  "Annual (January)"
+                 },
+                 {
+                     "source":  "DMRE Mine Accidents and Disasters Register",
+                     "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/mine-accidents-and-disasters",
+                     "description":  "Database of declared mine accidents and disasters.",
+                     "update_frequency":  "Ongoing / as incidents are declared"
+                 },
+                 {
+                     "source":  "MHSC Annual Report",
+                     "url":  "https://mhsc.org.za/annual-reports/",
+                     "description":  "Comprehensive annual review of health, safety, and compliance trends in SA mining.",
+                     "update_frequency":  "Annual"
+                 },
+                 {
+                     "source":  "MHSC Publications (Research Reports)",
+                     "url":  "https://mhsc.org.za/publications/",
+                     "description":  "Research outputs covering occupational health, safety, and hygiene topics funded by MHSC.",
+                     "update_frequency":  "Quarterly/ongoing"
+                 },
+                 {
+                     "source":  "Minerals Council South Africa â€” Safety Statistics and Reports",
+                     "url":  "https://www.mineralscouncil.org.za/work/safety",
+                     "description":  "Industry association data; Facts \u0026 Figures publication; Khumbul\u0027ekhaya programme updates.",
+                     "update_frequency":  "Annual Facts \u0026 Figures; ongoing news releases"
+                 },
+                 {
+                     "source":  "Minerals Council â€” Facts and Figures 2025",
+                     "url":  "https://www.mineralscouncil.org.za/industry-news/publications/facts-and-figures",
+                     "description":  "Data-based narrative on state of SA mining including safety performance metrics.",
+                     "update_frequency":  "Annual"
+                 },
+                 {
+                     "source":  "Mining Weekly â€” Safety Coverage",
+                     "url":  "https://www.miningweekly.com",
+                     "description":  "Leading SA mining trade publication; covers incidents, regulatory changes, and safety statistics.",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "source":  "Miningmx",
+                     "url":  "https://www.miningmx.com",
+                     "description":  "SA mining financial and operational news; detailed coverage of Section 54/55 stoppages and incidents.",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "source":  "Parliamentary Monitoring Group (PMG) â€” DMRE Portfolio Committee",
+                     "url":  "https://pmg.org.za",
+                     "description":  "Transcripts and documents from parliamentary oversight hearings on DMRE safety performance.",
+                     "update_frequency":  "As committees sit (weekly during parliamentary terms)"
+                 },
+                 {
+                     "source":  "NUM (National Union of Mineworkers) â€” Safety Reports",
+                     "url":  "https://num.org.za",
+                     "description":  "Union perspective on mining fatalities; raises compliance and enforcement issues.",
+                     "update_frequency":  "As published"
+                 },
+                 {
+                     "source":  "Health and Safety International â€” SA Mining Coverage",
+                     "url":  "https://www.healthandsafetyinternational.com",
+                     "description":  "International OHS publication with SA mining data analysis.",
+                     "update_frequency":  "Monthly"
+                 },
+                 {
+                     "source":  "African News Agency â€” Mining Safety",
+                     "url":  "https://africannewsagency.com",
+                     "description":  "Wire service covering SA mining safety statistics and incidents.",
+                     "update_frequency":  "Daily"
+                 }
+             ]
+}

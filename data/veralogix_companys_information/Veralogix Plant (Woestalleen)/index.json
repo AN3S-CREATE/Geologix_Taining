@@ -1,0 +1,52 @@
+﻿{
+    "company":  "Veralogix Plant (Woestalleen)",
+    "display_name":  "Veralogix Plant (Woestalleen)",
+    "group":  "Veralogix Group",
+    "sector":  "ROM Crushing, DMS Coal Washing, Rail Siding",
+    "hq":  "Woestalleen, Mpumalanga",
+    "description":  "Operates ROM coal crushing, DMS (Dense Medium Separation) coal washing plant, and a private rail siding at the Woestalleen site in Mpumalanga. Produces washed coal grades for Eskom and export markets.",
+    "data_status":  "complete_chunked",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Veralogix Group",
+                              "Veralogix Mining (Pty) Ltd",
+                              "Veralogix Rentals",
+                              "Veralogix Diesel",
+                              "Veralogix Drilling \u0026 Blasting",
+                              "Veralogix Projects (Pty) Ltd",
+                              "Veralogix Properties (Pty) Ltd",
+                              "Alpha Industries SA",
+                              "Alpha Technical Solutions",
+                              "Endeto Project Services",
+                              "Coal Processors International",
+                              "Veralift"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  true,
+                         "has_prompt":  true,
+                         "chunk_files_count":  86,
+                         "research_doc_count":  2,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "conclusion",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_trends",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

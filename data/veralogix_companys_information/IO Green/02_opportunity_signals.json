@@ -1,0 +1,112 @@
+﻿{
+    "_section":  "opportunity_signals",
+    "_company":  "IO Green",
+    "_source":  "doc_cf247c.json",
+    "data":  {
+                 "description":  "Public signal types and sources that indicate new solar or electrical installation opportunities in South Africa",
+                 "signals":  [
+                                 {
+                                     "type":  "Eskom Load-Shedding Escalation Signals",
+                                     "description":  "Real-time and forecast load-shedding stages. Load shedding ended in mid-May 2025 and SA marked 12 consecutive months without cuts by mid-2026. However, Eskom warnings about emergency reserve depletion and ageing coal retirements (2026â€“2030 gap) are recurring triggers for C\u0026I solar decisions. An escalation back to even Stage 2 would immediately restart procurement pipelines.",
+                                     "sources":  [
+                                                     {
+                                                         "name":  "Eskom Load Shedding Status",
+                                                         "url":  "https://www.eskom.co.za/loadshedding/"
+                                                     },
+                                                     {
+                                                         "name":  "EskomSePush (live tracker and alerts)",
+                                                         "url":  "https://esp.info/"
+                                                     },
+                                                     {
+                                                         "name":  "Daily Maverick â€” Energy Desk",
+                                                         "url":  "https://www.dailymaverick.co.za/section/maverick-citizen/energy/"
+                                                     }
+                                                 ]
+                                 },
+                                 {
+                                     "type":  "NERSA Tariff Decision Announcements",
+                                     "description":  "Each NERSA tariff increase compresses industrial electricity margins and directly improves solar ROI/payback calculations. NERSA approved 12.74% for FY2026 and 8.76% for FY2027. Announcements trigger procurement reviews from CFOs and energy managers within 30â€“60 days.",
+                                     "sources":  [
+                                                     {
+                                                         "name":  "NERSA Official Website",
+                                                         "url":  "https://www.nersa.org.za"
+                                                     },
+                                                     {
+                                                         "name":  "Eskom FY2027 Tariff Announcement",
+                                                         "url":  "https://www.eskom.co.za/distribution/2026-2027-tariff-increase/"
+                                                     },
+                                                     {
+                                                         "name":  "ESI-Africa Regulatory News",
+                                                         "url":  "https://www.esi-africa.com/regulatory-framework/"
+                                                     }
+                                                 ]
+                                 },
+                                 {
+                                     "type":  "Municipal Energy Notices and SSEG Approval News",
+                                     "description":  "35+ municipalities have approved SSEG tariff structures as of 2026. NERSA\u0027s national net-billing framework (approved December 2024) standardises prosumer credits. Municipalities granting SSEG connection approvals and Eskom extending its SSEG registration fee waiver to September 2026 both signal active demand. Monitoring NERSA and SAPVIA for new municipal approvals reveals lead-generation geographies.",
+                                     "sources":  [
+                                                     {
+                                                         "name":  "SSEG Resource Portal (registration, frameworks, tariff lists)",
+                                                         "url":  "https://www.sseg.org.za"
+                                                     },
+                                                     {
+                                                         "name":  "ESI-Africa â€” SSEG Municipal Approved Tariff List",
+                                                         "url":  "https://www.esi-africa.com/industry-sectors/future-energy/latest-list-of-municipalities-with-approved-sseg-tariff-structures/"
+                                                     },
+                                                     {
+                                                         "name":  "SAPVIA Industry Updates",
+                                                         "url":  "https://sapvia.co.za/industry-updates/"
+                                                     },
+                                                     {
+                                                         "name":  "Eskom SSEG Registration Portal",
+                                                         "url":  "https://www.eskom.co.za/distribution/customer-service/energy-registration-certificate/small-scale-embedded-generation/"
+                                                     }
+                                                 ]
+                                 },
+                                 {
+                                     "type":  "Industrial and Mining Sector Energy Procurement Notices",
+                                     "description":  "Mining houses, manufacturing groups, data centres, and food-and-beverage manufacturers issue RFPs for private power under the DMRE wheeling and CPPA frameworks. The Minerals Council SA and sector press (Mining Weekly, Engineering News) publish announcements. Glencore, Anglo, Sibanye, Sasol, and Richards Bay Minerals have all signed large-scale private solar agreements in 2024â€“2026.",
+                                     "sources":  [
+                                                     {
+                                                         "name":  "Minerals Council South Africa",
+                                                         "url":  "https://www.mineralscouncil.org.za"
+                                                     },
+                                                     {
+                                                         "name":  "Mining Weekly â€” Energy Procurement",
+                                                         "url":  "https://www.miningweekly.com/topic/energy"
+                                                     },
+                                                     {
+                                                         "name":  "Engineering News â€” Energy",
+                                                         "url":  "https://www.engineeringnews.co.za/topic/energy"
+                                                     },
+                                                     {
+                                                         "name":  "National Treasury eTenders Portal",
+                                                         "url":  "https://etenders.treasury.gov.za"
+                                                     }
+                                                 ]
+                                 },
+                                 {
+                                     "type":  "Government Renewable Energy Incentive Announcements",
+                                     "description":  "The permanent Section 12B tax deduction (100% year-one allowance for solar PV up to 1 MW) drives capex-funded procurement decisions around financial year-end (February). Budget Speech announcements and SARS interpretation notes trigger a procurement window. The enhanced Section 12BA (125%) expired 28 February 2025 â€” future renewals or new incentives would create procurement surges.",
+                                     "sources":  [
+                                                     {
+                                                         "name":  "SARS Renewable Energy Guide IT39",
+                                                         "url":  "https://www.sars.gov.za/wp-content/uploads/Ops/Guides/Legal-Pub-Guide-IT39-Guide-on-the-Allowances-and-Deductions-Relating-to-Assets-Used-in-the-Generation-of-Electricity.pdf"
+                                                     },
+                                                     {
+                                                         "name":  "National Treasury Budget Documentation",
+                                                         "url":  "https://www.treasury.gov.za/documents/national%20budget/"
+                                                     },
+                                                     {
+                                                         "name":  "DMRE â€” Department of Mineral Resources and Energy",
+                                                         "url":  "https://www.dmre.gov.za"
+                                                     },
+                                                     {
+                                                         "name":  "grantZA Section 12B Summary",
+                                                         "url":  "https://grantza.org.za/energy/12b-tax"
+                                                     }
+                                                 ]
+                                 }
+                             ]
+             }
+}

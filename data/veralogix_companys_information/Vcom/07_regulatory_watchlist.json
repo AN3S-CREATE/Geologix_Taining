@@ -1,0 +1,56 @@
+﻿{
+    "_section":  "regulatory_watchlist",
+    "_company":  "Vcom",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "body":  "ICASA",
+                     "regulation":  "Electronic Communications Network Service (ECNS) Licence",
+                     "obligation":  "Required to build, operate, and provide access to electronic communications network infrastructure in South Africa. Vcom must hold a valid ECNS licence issued by ICASA.",
+                     "monitoring_url":  "https://www.icasa.org.za",
+                     "update_frequency":  "Licence conditions reviewed periodically; check for gazette amendments"
+                 },
+                 {
+                     "body":  "ICASA",
+                     "regulation":  "Rapid Deployment Regulations",
+                     "obligation":  "Governs processes for obtaining wayleave permits, accessing public and private property for network deployment, and resolving access disputes. Ensures uniform municipal approval processes for infrastructure rollout.",
+                     "monitoring_url":  "https://www.icasa.org.za/legislation-and-regulations",
+                     "update_frequency":  "Regulation currently under revision (2025-2026 policy cycle)"
+                 },
+                 {
+                     "body":  "ICASA",
+                     "regulation":  "Infrastructure Sharing",
+                     "obligation":  "Under the Electronic Communications Act, FNOs may be required to provide open access to infrastructure to reduce duplication. Vcom must comply with any sharing directives.",
+                     "monitoring_url":  "https://www.icasa.org.za",
+                     "update_frequency":  "As directives are issued"
+                 },
+                 {
+                     "body":  "Department of Communications and Digital Technologies (DCDT)",
+                     "regulation":  "SA Connect Broadband Policy",
+                     "obligation":  "National broadband rollout policy. FNOs participating in government-funded connectivity programmes must align to SA Connect targets and compliance standards.",
+                     "monitoring_url":  "https://www.dcdt.gov.za",
+                     "update_frequency":  "Annual policy reviews; quarterly progress reports"
+                 },
+                 {
+                     "body":  "USAASA (Universal Service and Access Agency of South Africa)",
+                     "regulation":  "Universal Service Obligations",
+                     "obligation":  "USAASA funds connectivity projects in underserved areas. FNOs tendering for USAASA contracts must meet eligibility and reporting requirements.",
+                     "monitoring_url":  "https://www.usaasa.org.za",
+                     "update_frequency":  "Programme announcements quarterly"
+                 },
+                 {
+                     "body":  "Information Regulator South Africa",
+                     "regulation":  "POPIA (Protection of Personal Information Act)",
+                     "obligation":  "FNOs operating captive portals, subscriber authentication systems, or NOC/monitoring platforms collecting user data must comply with POPIA data processing and storage obligations.",
+                     "monitoring_url":  "https://www.inforegulator.org.za",
+                     "update_frequency":  "Ongoing enforcement; guidelines issued periodically"
+                 },
+                 {
+                     "body":  "Local Municipalities",
+                     "regulation":  "Wayleave and Road Reserve Permits",
+                     "obligation":  "Each municipality has its own wayleave process for permission to install aerial infrastructure on poles, street furniture, or in road reserves. Major municipalities: eThekwini, City of Johannesburg, City of Tshwane, City of Cape Town, Ekurhuleni.",
+                     "monitoring_url":  "Each municipality\u0027s infrastructure or planning department",
+                     "update_frequency":  "Application-based; bylaws may change with new councils"
+                 }
+             ]
+}

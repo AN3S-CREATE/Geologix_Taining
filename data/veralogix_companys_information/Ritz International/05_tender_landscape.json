@@ -1,0 +1,114 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Ritz International",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "primary_portals":  [
+                                         {
+                                             "portal":  "National Treasury eTender Publication Portal",
+                                             "url":  "https://www.etenders.gov.za",
+                                             "coverage":  "All national departments and most provincial entities (PFMA-mandated). Does NOT automatically include municipal or most SOE tenders.",
+                                             "search_keywords":  [
+                                                                     "diesel",
+                                                                     "bulk fuel",
+                                                                     "petroleum supply",
+                                                                     "fuel delivery"
+                                                                 ],
+                                             "access":  "Free"
+                                         },
+                                         {
+                                             "portal":  "Government Tender Bulletin (Government Gazette)",
+                                             "url":  "https://tenderprosa.co.za/tender-bulletin",
+                                             "coverage":  "Official Gazette tender notices including those not listed on eTenders. Published weekly.",
+                                             "access":  "Free via Gazette; aggregators offer paid enhanced search"
+                                         },
+                                         {
+                                             "portal":  "Eskom Tender Bulletin",
+                                             "url":  "https://tenderbulletin.eskom.co.za/",
+                                             "coverage":  "All Eskom diesel supply tenders including OCGT peaking plants (Ankerlig, Gourikwa) and site-level operations across Eskom\u0027s 400+ facilities. Eskom is SA\u0027s single largest diesel buyer.",
+                                             "notes":  "Eskom\u0027s R21bn OCGT contract (MWP2197GX) involved a multi-supplier panel; minimum 5 million litres on-hand stock required; 60-day payment terms standard."
+                                         },
+                                         {
+                                             "portal":  "Transnet Tender Bulletin",
+                                             "url":  "https://www.transnet.net/TenderBulletins/Pages/default.aspx",
+                                             "coverage":  "Bulk refined fuel for freight rail, port equipment, and pipeline operations. Uses a Refined Bulk Fuel Master Services Agreement (MSA) framework â€” review published draft Annexure E before bidding."
+                                         },
+                                         {
+                                             "portal":  "Individual Municipal Tender Portals",
+                                             "url":  "https://www.tenderflow.co.za/blog/tenders-in-south-africa/government-tenders/government-tenders-south-africa-find-apply/",
+                                             "coverage":  "Each municipality publishes its own tenders. Key diesel-procuring metros: City of Johannesburg, eThekwini, City of Cape Town, Tshwane, Ekurhuleni, Buffalo City.",
+                                             "notes":  "Use ProTenders or TendersInfo to aggregate municipal tenders in one feed."
+                                         },
+                                         {
+                                             "portal":  "ProTenders SA â€” Aggregated Tender Feed",
+                                             "url":  "https://www.protenders.co.za",
+                                             "coverage":  "Aggregates national, provincial, municipal, and SOE (PRASA, Transnet, Eskom, eThekwini) tenders. Updated daily. Most comprehensive single source.",
+                                             "access":  "Paid subscription"
+                                         },
+                                         {
+                                             "portal":  "PRASA Procurement Portal",
+                                             "url":  "https://www.prasa.com/index.php/procurement",
+                                             "coverage":  "Diesel for maintenance vehicles and backup generation at rail infrastructure sites nationwide."
+                                         }
+                                     ],
+                 "contract_structures":  {
+                                             "spot":  {
+                                                          "description":  "Ad hoc or emergency supply at prevailing DMPR wholesale or negotiated price. No volume commitment. Suited for urgent or top-up procurement.",
+                                                          "typical_duration":  "Single delivery or call-off basis"
+                                                      },
+                                             "term_contract":  {
+                                                                   "description":  "12â€“36 month supply agreements with fixed delivery schedules and volume commitments. Government entities typically use 2-year terms; SOEs use 5-year frameworks. Requires DMRE wholesale licence, ISO certification, and valid BEE certificate.",
+                                                                   "typical_duration":  "12â€“36 months for municipalities; up to 60 months for SOEs"
+                                                               },
+                                             "framework_agreement":  {
+                                                                         "description":  "Multi-supplier panel model used by large SOEs and metros. Pre-qualified suppliers receive volume allocations by the buyer on a rotational or quota basis. Eskom\u0027s R21bn contract used this structure with panel suppliers including Astron Energy, Lanele Resources, Nutinox, African Forwarding and Shipping, and Severino Industries (awarded December 2024).",
+                                                                         "typical_duration":  "3â€“5 years"
+                                                                     },
+                                             "typical_volume_thresholds":  {
+                                                                               "small_municipality":  "500,000â€“5,000,000 litres per annum",
+                                                                               "large_metro":  "5,000,000â€“50,000,000 litres per annum",
+                                                                               "eskom_ocgt_scale":  "Up to 1,000,000,000 litres over a 5-year contract period"
+                                                                           },
+                                             "pricing_mechanism":  "Most tenders reference the DMPR coastal or inland wholesale price at the time of delivery, with a logistics and delivery differential negotiated per delivery zone. Some framework contracts use a fixed margin above the DMPR price rather than a fixed rand-per-litre price.",
+                                             "payment_terms":  "30â€“60 days EFT is standard for government entities. Eskom OCGT contract required 60-day payment terms with significant working capital (minimum ~R100m stock on hand) required from suppliers."
+                                         },
+                 "largest_diesel_procurers":  [
+                                                  {
+                                                      "entity":  "Eskom",
+                                                      "type":  "SOE",
+                                                      "estimated_volume":  "Up to 1 billion litres over 5 years for OCGT peaking plants alone",
+                                                      "tender_portal":  "https://tenderbulletin.eskom.co.za/"
+                                                  },
+                                                  {
+                                                      "entity":  "Transnet",
+                                                      "type":  "SOE",
+                                                      "estimated_volume":  "Bulk fuel for freight rail, port equipment, and pipeline operations nationally",
+                                                      "tender_portal":  "https://www.transnet.net/TenderBulletins/Pages/default.aspx"
+                                                  },
+                                                  {
+                                                      "entity":  "eThekwini Metro",
+                                                      "type":  "Municipality",
+                                                      "estimated_volume":  "Diesel for bulk water pumping, emergency services, and municipal fleet",
+                                                      "tender_portal":  "https://www.etenders.gov.za"
+                                                  },
+                                                  {
+                                                      "entity":  "City of Johannesburg (CoJ)",
+                                                      "type":  "Municipality",
+                                                      "estimated_volume":  "Large fleet, emergency generator pool, and bulk water operations",
+                                                      "tender_portal":  "https://www.joburg.org.za/business/suppliers/tenders/"
+                                                  },
+                                                  {
+                                                      "entity":  "PRASA",
+                                                      "type":  "SOE",
+                                                      "estimated_volume":  "Diesel for maintenance vehicles and backup generation at rail infrastructure",
+                                                      "tender_portal":  "https://www.prasa.com/index.php/procurement"
+                                                  },
+                                                  {
+                                                      "entity":  "Department of Defence / SANDF",
+                                                      "type":  "National Government",
+                                                      "estimated_volume":  "Operational diesel for vehicle fleets and aircraft ground support",
+                                                      "tender_portal":  "https://www.etenders.gov.za"
+                                                  }
+                                              ]
+             }
+}

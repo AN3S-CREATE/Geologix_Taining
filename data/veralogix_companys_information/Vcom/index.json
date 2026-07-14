@@ -1,0 +1,44 @@
+﻿{
+    "company":  "Vcom",
+    "display_name":  "Vcom",
+    "group":  "Veramani Group",
+    "sector":  "Aerial Fibre Network Operator (FNO)",
+    "hq":  "South Africa",
+    "description":  "Aerial fibre network operator building last-mile fibre connectivity infrastructure to townships, underserved communities, and peri-urban areas. Part of the VEA Group / Veramani network.",
+    "data_status":  "complete_chunked",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Veramani IT",
+                              "Veramani IT Holding",
+                              "Bioniq (ISP)",
+                              "YAL.ai"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  true,
+                         "has_prompt":  true,
+                         "chunk_files_count":  72,
+                         "research_doc_count":  1,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_segments",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

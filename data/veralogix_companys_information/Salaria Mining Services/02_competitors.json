@@ -1,0 +1,178 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Salaria Mining Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "company_name":  "Minxcon Group",
+                     "website":  "https://www.minxcon.co.za",
+                     "core_services_overlap":  [
+                                                   "Mineral Resource estimation and SAMREC-compliant reporting",
+                                                   "Competent Person Reports (CPR)",
+                                                   "Mine planning and design",
+                                                   "Reserve statements and annual reporting",
+                                                   "Resource audits and due diligence",
+                                                   "Mineral economics and mine financial valuation",
+                                                   "Feasibility and pre-feasibility studies"
+                                               ],
+                     "approximate_size":  "medium",
+                     "known_client_types_and_sectors":  [
+                                                            "JSE-listed mining companies",
+                                                            "ASX and AIM-listed juniors",
+                                                            "Gold, platinum, coal, base metals, uranium sectors"
+                                                        ],
+                     "recent_notable":  "Reports accepted globally across JSE, ASX, AIM, TSE and NYSE jurisdictions; active CPR signatories for multiple listed entities."
+                 },
+                 {
+                     "company_name":  "SRK Consulting (South Africa)",
+                     "website":  "https://www.srk.com/en/contact-us/south-africa",
+                     "core_services_overlap":  [
+                                                   "Mineral Resource and Reserve estimation",
+                                                   "Competent/Qualified Person reports",
+                                                   "Geotechnical and rock engineering assessments",
+                                                   "Feasibility and engineering studies",
+                                                   "Exploration due diligence",
+                                                   "Tailings and waste management",
+                                                   "Environmental and social impact assessments"
+                                               ],
+                     "approximate_size":  "large",
+                     "known_client_types_and_sectors":  [
+                                                            "Major and mid-tier miners globally",
+                                                            "Gold, PGM, coal, iron ore, base metals",
+                                                            "Project developers and financiers"
+                                                        ],
+                     "recent_notable":  "One of the largest independent mining consultancies globally with a well-established Johannesburg office; regularly appointed by JSE-listed companies for independent resource reporting."
+                 },
+                 {
+                     "company_name":  "Middindi Consulting",
+                     "website":  "https://www.middindiconsulting.com",
+                     "core_services_overlap":  [
+                                                   "Rock engineering and stope stability analysis",
+                                                   "Geotechnical investigation and design",
+                                                   "Geological services to the mining industry"
+                                               ],
+                     "approximate_size":  "small",
+                     "known_client_types_and_sectors":  [
+                                                            "Underground hard rock mines",
+                                                            "Gold, platinum and base metals"
+                                                        ],
+                     "recent_notable":  "Independent specialist boutique; recognised for rock engineering expertise in Southern Africa."
+                 },
+                 {
+                     "company_name":  "VBKOM Consulting Engineers",
+                     "website":  "https://www.vbkom.com",
+                     "core_services_overlap":  [
+                                                   "Mining geology and Mineral Resource estimation",
+                                                   "Geotechnical consulting",
+                                                   "Mine planning and design",
+                                                   "Metallurgy",
+                                                   "Industrial engineering and simulation",
+                                                   "Project risk and finance"
+                                               ],
+                     "approximate_size":  "medium",
+                     "known_client_types_and_sectors":  [
+                                                            "Coal, gold, PGM and base metal mining companies",
+                                                            "South African and broader African projects"
+                                                        ],
+                     "recent_notable":  "Multi-disciplinary mining consultancy offering one-stop service from exploration through to closure."
+                 },
+                 {
+                     "company_name":  "SLR Consulting (Africa)",
+                     "website":  "https://www.slrconsulting.com/afr/sectors/mining-minerals/",
+                     "core_services_overlap":  [
+                                                   "Mining advisory across full project lifecycle",
+                                                   "Resource and reserve reporting",
+                                                   "Geotechnical and hydrogeological assessments",
+                                                   "Environmental and social due diligence",
+                                                   "Feasibility studies"
+                                               ],
+                     "approximate_size":  "large",
+                     "known_client_types_and_sectors":  [
+                                                            "International mining companies, financiers, and developers",
+                                                            "Coal, gold, PGM, diamonds, base metals"
+                                                        ],
+                     "recent_notable":  "Global consultancy with an active African practice; acquired several South African specialist firms in recent years to broaden service offering."
+                 },
+                 {
+                     "company_name":  "AMC Consultants",
+                     "website":  "https://www.amcconsultants.com",
+                     "core_services_overlap":  [
+                                                   "Resource modelling and estimation",
+                                                   "Geotechnical assessments",
+                                                   "Underground mine design",
+                                                   "Production planning",
+                                                   "Economic analysis and feasibility studies"
+                                               ],
+                     "approximate_size":  "medium",
+                     "known_client_types_and_sectors":  [
+                                                            "Junior and mid-tier miners in Africa",
+                                                            "Gold, copper, nickel, platinum sectors"
+                                                        ],
+                     "recent_notable":  "Australian-founded firm with South African presence; expanded African footprint through partnerships."
+                 },
+                 {
+                     "company_name":  "Grace Mining Consultants",
+                     "website":  "https://graceminingconsultants.com",
+                     "core_services_overlap":  [
+                                                   "Greenfields to brownfields exploration",
+                                                   "Mineral Resource and Reserve estimation",
+                                                   "Mine planning and surveying",
+                                                   "Rock engineering",
+                                                   "Sampling programmes"
+                                               ],
+                     "approximate_size":  "small",
+                     "known_client_types_and_sectors":  [
+                                                            "Junior explorers and small-to-mid-tier producers",
+                                                            "Various commodities across Southern Africa"
+                                                        ],
+                     "recent_notable":  "Focused South African boutique known for hands-on exploration and resource reporting work."
+                 },
+                 {
+                     "company_name":  "Ukwazi Mining Solutions",
+                     "website":  "https://www.ukwazi.com",
+                     "core_services_overlap":  [
+                                                   "Independent mining advisory",
+                                                   "On-site technical solutions",
+                                                   "Mine planning and optimisation",
+                                                   "Resource audits"
+                                               ],
+                     "approximate_size":  "medium",
+                     "known_client_types_and_sectors":  [
+                                                            "South African and Pan-African mines",
+                                                            "Gold, platinum, coal, base metals"
+                                                        ],
+                     "recent_notable":  "Leading African-based specialist; organised into expert Superteams by mining method and mineralisation style."
+                 },
+                 {
+                     "company_name":  "Nurizon Consulting Engineers",
+                     "website":  "https://www.nurizonconsulting.com/services/mining/",
+                     "core_services_overlap":  [
+                                                   "Mine planning and design",
+                                                   "Geotechnical assessments",
+                                                   "Mineral Resource and Reserve reporting"
+                                               ],
+                     "approximate_size":  "small",
+                     "known_client_types_and_sectors":  [
+                                                            "Junior miners to mining majors",
+                                                            "Coal, manganese, iron ore, tin, platinum, gold, bauxite"
+                                                        ],
+                     "recent_notable":  "Active across South Africa and the broader African continent across multiple commodity types."
+                 },
+                 {
+                     "company_name":  "Deloitte Technical Mining Advisory (South Africa)",
+                     "website":  "https://www.deloitte.com/za/en/Industries/mining-metals/about/technical-mining-advisory.html",
+                     "core_services_overlap":  [
+                                                   "Independent technical mining advisory",
+                                                   "Resource and Reserve due diligence",
+                                                   "Feasibility study review",
+                                                   "Mine valuation and financial analysis"
+                                               ],
+                     "approximate_size":  "large",
+                     "known_client_types_and_sectors":  [
+                                                            "JSE-listed corporates, financiers, M\u0026A clients",
+                                                            "All major commodity sectors"
+                                                        ],
+                     "recent_notable":  "Big-4 firm with specialist mining technical advisory arm; often engaged for transaction due diligence and lender-side reviews."
+                 }
+             ]
+}

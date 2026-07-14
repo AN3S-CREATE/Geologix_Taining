@@ -1,0 +1,81 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Veramani IT",
+    "_source":  "doc_169e4f.json",
+    "data":  {
+                 "compliance_requirements":  {
+                                                 "CSD_registration":  {
+                                                                          "mandatory":  true,
+                                                                          "description":  "Central Supplier Database (CSD) registration at secure.csd.gov.za is mandatory for ALL government tenders in South Africa. Companies must achieve \u0027Active\u0027 and \u0027Verified\u0027 status. The CSD MAAA report must be submitted with every bid. Registration verifies tax compliance, B-BBEE status, CIDB grading, and bank account details.",
+                                                                          "url":  "https://secure.csd.gov.za"
+                                                                      },
+                                                 "CIDB_grading":  {
+                                                                      "applicable_to_IT":  "CIDB grading (Construction Industry Development Board) is primarily required for construction and civil works contracts. For pure IT services (software development, application design, connectivity), CIDB grading is generally NOT required. However, some government departments include CIDB registration as a general compliance item.",
+                                                                      "note":  "If Veramani bids on tenders that include any site-based infrastructure works (e.g., connectivity cabling at a mine), a CIDB grade may be required. Pure software/digital projects typically only need CSD + tax compliance + B-BBEE.",
+                                                                      "url":  "https://www.cidb.org.za"
+                                                                  },
+                                                 "BBBEE_requirements":  {
+                                                                            "description":  "B-BBEE compliance is scored on the 90/10 or 80/20 preferential procurement formula. For contracts above R30m, the 90/10 split applies (90 points for price, 10 for B-BBEE). Level 1â€“4 B-BBEE certification strengthens bid scoring materially.",
+                                                                            "recommendation":  "A B-BBEE Level 1 or 2 EME/QSE affidavit (if annual turnover is below R10m and R50m respectively) can be self-certified and is a strong competitive advantage."
+                                                                        },
+                                                 "tax_compliance":  "Valid SARS Tax Clearance PIN (issued via eFiling) is mandatory for all government bids."
+                                             },
+                 "key_government_departments_and_SOEs":  [
+                                                             {
+                                                                 "entity":  "Department of Mineral Resources and Energy (DMRE)",
+                                                                 "relevance":  "Directly regulates mining sector; publishes IT systems and digital services tenders for internal operations. Also funds mining sector digitisation programs.",
+                                                                 "tender_portal":  "https://www.dmre.gov.za/tenders"
+                                                             },
+                                                             {
+                                                                 "entity":  "Eskom",
+                                                                 "relevance":  "Largest electricity utility â€” heavily interlinked with mining sector operations. Publishes ICT and digital systems tenders independently.",
+                                                                 "tender_portal":  "https://tenderbulletin.eskom.co.za/search"
+                                                             },
+                                                             {
+                                                                 "entity":  "Transnet",
+                                                                 "relevance":  "State freight rail operator â€” critical to mining supply chains. Publishes technology and systems tenders; digital transformation budget is active.",
+                                                                 "tender_portal":  "https://www.transnet.net/Business/tenders"
+                                                             },
+                                                             {
+                                                                 "entity":  "National Treasury (eTenders portal)",
+                                                                 "relevance":  "All national department IT tenders. Software development panels, digital services, and ICT infrastructure tenders listed centrally.",
+                                                                 "tender_portal":  "https://www.etenders.gov.za"
+                                                             },
+                                                             {
+                                                                 "entity":  "Council for Geoscience (CGS)",
+                                                                 "relevance":  "Geoscience data management and software systems â€” directly aligned with Veramani\u0027s mining technology positioning.",
+                                                                 "tender_portal":  "https://www.geoscience.org.za"
+                                                             },
+                                                             {
+                                                                 "entity":  "Industrial Development Corporation (IDC)",
+                                                                 "relevance":  "Funds industrial and mining digitisation projects; may tender for project management software and reporting systems.",
+                                                                 "tender_portal":  "https://www.idc.co.za"
+                                                             },
+                                                             {
+                                                                 "entity":  "CIDB (Construction Industry Development Board)",
+                                                                 "relevance":  "Published a tender for a panel of software developers (3-year contract) â€” relevant precedent for Veramani. Panels of 5 suppliers appointed.",
+                                                                 "tender_portal":  "https://www.cidb.org.za"
+                                                             }
+                                                         ],
+                 "typical_contract_values_and_durations":  {
+                                                               "small_software_projects":  {
+                                                                                               "value_range":  "R500,000 â€“ R2,000,000",
+                                                                                               "duration":  "3â€“12 months",
+                                                                                               "examples":  "Custom reporting tools, internal web applications, basic connectivity solutions"
+                                                                                           },
+                                                               "mid_tier_digital_transformation":  {
+                                                                                                       "value_range":  "R2,000,000 â€“ R15,000,000",
+                                                                                                       "duration":  "12â€“24 months",
+                                                                                                       "examples":  "Mining operations management systems, IoT dashboards, ERP customisation"
+                                                                                                   },
+                                                               "large_enterprise_or_panel_contracts":  {
+                                                                                                           "value_range":  "R15,000,000 â€“ R100,000,000+",
+                                                                                                           "duration":  "3â€“5 years (often with renewal options)",
+                                                                                                           "examples":  "Multi-site digital transformation programs, managed IT outsourcing, mine-wide connectivity infrastructure"
+                                                                                                       },
+                                                               "software_developer_panels":  {
+                                                                                                 "note":  "Government and SOEs increasingly appoint panels of 3â€“5 pre-qualified suppliers for a fixed term (typically 3 years), then call off work orders against the panel. This model reduces rebidding overhead and creates recurring revenue."
+                                                                                             }
+                                                           }
+             }
+}

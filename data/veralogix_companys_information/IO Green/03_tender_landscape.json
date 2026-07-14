@@ -1,0 +1,92 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "IO Green",
+    "_source":  "doc_cf247c.json",
+    "data":  {
+                 "portals":  [
+                                 {
+                                     "name":  "National Treasury eTenders Portal",
+                                     "url":  "https://etenders.treasury.gov.za",
+                                     "description":  "Primary portal for national and provincial government tenders (PFMA-mandated). Does NOT include municipal or SOE tenders â€” must monitor those separately."
+                                 },
+                                 {
+                                     "name":  "Eskom Tender Bulletin",
+                                     "url":  "https://tenderbulletin.eskom.co.za/search",
+                                     "description":  "Eskom\u0027s official tender publication covering Generation, Transmission, and Distribution â€” electrical infrastructure, maintenance, supply, and construction services."
+                                 },
+                                 {
+                                     "name":  "Eskom Tenders Page",
+                                     "url":  "https://www.eskom.co.za/tenders/",
+                                     "description":  "Direct Eskom capital procurement and major project tenders."
+                                 },
+                                 {
+                                     "name":  "TenderPro SA",
+                                     "url":  "https://tenderprosa.co.za/tenders/electrical-tenders",
+                                     "description":  "Private aggregator covering government, SOE, and municipal tenders. Includes electrical and solar sub-categories. Provides email alerts."
+                                 },
+                                 {
+                                     "name":  "eTender SA",
+                                     "url":  "https://etendersa.co.za/electrical-tenders-south-africa/",
+                                     "description":  "Specialist electrical tender aggregator covering municipalities and government entities. Guidance on pricing and winning."
+                                 },
+                                 {
+                                     "name":  "TenderPipe",
+                                     "url":  "https://tenderpipe.com/tenders-south-africa/",
+                                     "description":  "National tender aggregator covering open bids and RFQs across sectors."
+                                 },
+                                 {
+                                     "name":  "CIDB Contractor Register and Tender Bulletin",
+                                     "url":  "https://www.cidb.org.za",
+                                     "description":  "CIDB register portal and tender bulletin for construction category tenders requiring CIDB grading."
+                                 }
+                             ],
+                 "most_active_procurers":  {
+                                               "government_departments":  [
+                                                                              "Department of Public Works and Infrastructure (DPWI) â€” building electrification, generator replacements, solar for government buildings",
+                                                                              "Department of Mineral Resources and Energy (DMRE) â€” renewable energy programme administration and electrification projects",
+                                                                              "South African National Roads Agency (SANRAL) â€” road lighting, toll plazas, electrical infrastructure",
+                                                                              "Department of Water and Sanitation â€” pump station electrification and solar"
+                                                                          ],
+                                               "municipalities_and_metros":  [
+                                                                                 "City Power (Johannesburg) â€” grid maintenance, metering, streetlighting, substation works",
+                                                                                 "City of Cape Town Electricity â€” SSEG rollout, smart metering, grid infrastructure",
+                                                                                 "Tshwane Metro â€” building solar retrofit, electrical maintenance contracts",
+                                                                                 "eThekwini Municipality â€” port area industrial electrical, solar for municipal facilities",
+                                                                                 "Nelson Mandela Bay â€” industrial zone solar and electrical projects"
+                                                                             ],
+                                               "state_owned_enterprises":  [
+                                                                               "Eskom â€” grid hardening, substation upgrades, transmission line work, renewable energy connection",
+                                                                               "Transnet â€” rail electrification, port crane power, depot solar",
+                                                                               "PRASA â€” station lighting and electrical upgrades",
+                                                                               "ACSA (Airports Company SA) â€” terminal solar and power infrastructure"
+                                                                           ],
+                                               "mining_and_industrial_corporates":  [
+                                                                                        "Glencore SA (ferrochrome, coal) â€” large private power procurement",
+                                                                                        "Anglo American (platinum, iron ore) â€” solar and hybrid power plant tenders",
+                                                                                        "Sibanye-Stillwater (gold, platinum) â€” mine surface solar and load-management",
+                                                                                        "Sasol (chemicals, fuels) â€” industrial process solar and energy efficiency",
+                                                                                        "Richards Bay Minerals / Rio Tinto â€” CPPA and private power"
+                                                                                    ]
+                                           },
+                 "registration_requirements":  {
+                                                   "CIDB":  {
+                                                                "relevant_classes":  "EP (Electrical Engineering Infrastructure) or EB (Electrical Engineering Building); ME (Mechanical Engineering) for hybrid projects with HVAC or pump systems",
+                                                                "grades_for_large_industrial_tenders":  "Grade 7EP for tenders up to ~R40M; Grade 8EP for tenders up to ~R130M; Grade 9EP (no upper limit) required for major SOE and multinational mining contracts. Typical large industrial and mining contracts require Grade 7â€“9EP.",
+                                                                "registration_body":  "Construction Industry Development Board (CIDB)",
+                                                                "registration_url":  "https://portal.cidb.org.za/RegisterOfContractors/"
+                                                            },
+                                                   "DOL_electrical_contractor":  {
+                                                                                     "description":  "Registration with the Department of Labour (DoL) as an electrical contractor is a legal requirement under the Electrical Installation Regulations (2009). Annual renewal fee of R120. Required before any paid electrical installation work.",
+                                                                                     "registration_url":  "https://www.labour.gov.za",
+                                                                                     "guidance_url":  "https://www.citiqprepaid.co.za/how-to-become-a-registered-electrical-contractor-the-dol-registration/"
+                                                                                 },
+                                                   "ECB":  {
+                                                               "description":  "Electrical Conformance Board (ECB) listing is voluntary since DoL took over contractor registration in 2012, but ECB listing is viewed positively in tender evaluations for industrial and commercial projects. Provides added credibility marker.",
+                                                               "registration_url":  "https://ecb.org.za/register/"
+                                                           },
+                                                   "wiremans_licence":  "A Wireman\u0027s Licence (issued by DoL via trade test) is required for the responsible person on all electrical installation work. Essential for electrical contractor operability.",
+                                                   "BBBEE":  "A valid B-BBEE certificate (or EME sworn affidavit for entities under R10M annual turnover) is mandatory for all government and SOE tender submissions. Level 1â€“4 preferred for scoring advantage.",
+                                                   "additional_note":  "ECA SA (Electrical Contractors Association South Africa) issued an April 2026 warning against unqualified solar installations. Membership of ECA SA and adherence to SANS 10142-1 (wiring code) are increasingly referenced in large tender specifications."
+                                               }
+             }
+}

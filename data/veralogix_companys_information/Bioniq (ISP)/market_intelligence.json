@@ -1,0 +1,284 @@
+{
+  "company": "Bioniq",
+  "sector": "Internet Service Provider — Managed Wi-Fi / Hotspot Solutions",
+  "market": "South Africa",
+  "generated": "2026-06-25",
+  "competitors": [
+    {
+      "name": "Herotel Business",
+      "website": "https://herotelbusiness.com",
+      "service_focus": "WISP / Fibre / Managed Wi-Fi",
+      "geographic_coverage": "National — rural and peri-urban; 2,000+ wireless towers, 200+ fibre POPs",
+      "notable": "Largest rural/peri-urban WISP in SA. ICASA approved licence transfer to Maziv (Vumatel subsidiary) in May 2026, integrating Herotel into South Africa's largest FTTH group. Herotel Business division offers fully managed Wi-Fi including design, deployment, and maintenance for commercial clients."
+    },
+    {
+      "name": "Project Isizwe",
+      "website": "https://projectisizwe.org",
+      "service_focus": "Community managed hotspot / Public Wi-Fi",
+      "geographic_coverage": "National — townships, low-income communities, schools",
+      "notable": "Non-profit model partnering with municipalities, funders and ISPs to deploy free public Wi-Fi hotspots. Over 1,000 free Wi-Fi sites across SA. In June 2025, partnered with IHS Towers to launch uncapped public Wi-Fi in KwaMashu, Durban. Uses Powerlynx as management platform and Splynx for billing/ISP management."
+    },
+    {
+      "name": "Skyrove",
+      "website": "https://www.skyrove.com",
+      "service_focus": "Managed hotspot / Public Wi-Fi / Event Wi-Fi",
+      "geographic_coverage": "National",
+      "notable": "Claims to be South Africa's largest independent Wi-Fi hotspot network. Provides managed wireless access for small businesses, cafes, hospitality and events (e.g. Rocking the Daisies). Enables businesses to monetise Wi-Fi through a shared revenue model."
+    },
+    {
+      "name": "Letaba Networks",
+      "website": "https://letaba.net",
+      "service_focus": "WISP / Fibre / Hotspot",
+      "geographic_coverage": "North Eastern SA — Vhembe, Mopani, Ehlanzeni Districts (Messina to Lydenburg)",
+      "notable": "Premier ISP in the region. Offers custom point-to-point wireless links and hotspot setup for restaurants, lodges, and hospitality. Competes in the same regional niche as Bioniq. Extends into enterprise wireless and fibre optic networks."
+    },
+    {
+      "name": "Powerlynx",
+      "website": "https://powerlynx.app",
+      "service_focus": "Managed hotspot platform / WISP management software",
+      "geographic_coverage": "National and international (cloud-based)",
+      "notable": "Wi-Fi hotspot management platform for ISPs, WISPs, universities, hotels, schools, cafes and public spaces. Used by Project Isizwe for educational Wi-Fi. Provides billing, bandwidth management and real-time analytics — directly competing with Bioniq's platform capabilities."
+    },
+    {
+      "name": "RSAWeb",
+      "website": "https://www.rsaweb.co.za",
+      "service_focus": "Fibre / Cloud / LTE / Enterprise connectivity",
+      "geographic_coverage": "National, Cape Town origin",
+      "notable": "Consistently rated top SA ISP for business support quality. Offers enterprise packages including fibre, cloud hosting, and LTE. Broad B2B portfolio targeting mid-market commercial clients. Won multiple ISP of the Year awards."
+    },
+    {
+      "name": "Vox Telecom",
+      "website": "https://www.vox.co.za",
+      "service_focus": "Enterprise Wi-Fi / Fibre / Cloud / VoIP",
+      "geographic_coverage": "National",
+      "notable": "Leads fixed broadband with average speeds of 96.8 Mbps. One of the broadest B2B portfolios in SA, including managed Wi-Fi, unified communications and cloud services for enterprise clients. Key competitor for Bioniq's commercial enterprise segment."
+    },
+    {
+      "name": "Comsol Networks",
+      "website": "https://www.comsol.co.za",
+      "service_focus": "WISP / Fixed wireless / Enterprise",
+      "geographic_coverage": "National",
+      "notable": "Fixed wireless and enterprise connectivity provider. Operates in the business-wireless space alongside Herotel, Rocketnet and DK Wireless. Offers dedicated point-to-point links and managed connectivity for commercial clients."
+    },
+    {
+      "name": "Rocketnet",
+      "website": "https://www.rocketnet.co.za",
+      "service_focus": "WISP / Fibre / Business connectivity",
+      "geographic_coverage": "Gauteng and surrounding regions",
+      "notable": "Regional WISP competing in the business-wireless space. Serves SMEs and commercial estates with fixed wireless and fibre packages. Direct competitor in the commercial connectivity niche."
+    },
+    {
+      "name": "Afrihost Business",
+      "website": "https://www.afrihost.com",
+      "service_focus": "Fibre / LTE / Cloud / Hosting",
+      "geographic_coverage": "National",
+      "notable": "Won MyBroadband ISP of the Year three consecutive years up to 2025. Strong SME and business focus. Broad product suite including fibre, mobile, cloud and VoIP. Competitor for Bioniq's commercial SME clients."
+    }
+  ],
+  "tender_landscape": {
+    "portals": [
+      {
+        "name": "eTenders — National Treasury",
+        "url": "https://www.etenders.gov.za",
+        "notes": "Official South African government tender portal. Lists all national, provincial and SOE tenders including IT, networking, and connectivity services. Filter by 'Telecommunications' or 'IT Networking'."
+      },
+      {
+        "name": "Tender Bulletins",
+        "url": "https://tenderbulletins.co.za/tender-category/telecommunications/",
+        "notes": "Aggregates SA government tenders in the Telecommunications, Broadcasting and Wi-Fi category issued by government departments, provinces and state-owned companies."
+      },
+      {
+        "name": "TenderAlerts",
+        "url": "https://tenderalerts.co.za/categories/view/28/IT-networking-and-telecommunications",
+        "notes": "Alert-based tender monitoring for IT networking and telecommunications in South Africa."
+      },
+      {
+        "name": "OnlineTenders",
+        "url": "https://www.onlinetenders.co.za/tenders/south-africa/it-and-telecoms",
+        "notes": "Broad aggregator for IT and Telecoms tenders from South African government bodies."
+      },
+      {
+        "name": "EasyTenders",
+        "url": "https://easytenders.co.za/tenders/technology-and-telecommunications",
+        "notes": "Technology and Telecommunications tender aggregator for South Africa."
+      },
+      {
+        "name": "TendersOnTime",
+        "url": "https://www.tendersontime.com/south-africa-tenders/telecom-tenders/",
+        "notes": "South Africa telecom tenders, bids and RFPs. Lists both government and SOE connectivity tenders."
+      }
+    ],
+    "active_procurement_entities": [
+      {
+        "entity": "National Department of Communications and Digital Technologies (DCDT)",
+        "procurement_type": "SA Connect Phase 2 — 32,055 community Wi-Fi hotspots and household connectivity by 2026. Includes schools, healthcare facilities, libraries, SAPS sites and tribal authorities.",
+        "channel": "eTenders / direct departmental procurement"
+      },
+      {
+        "entity": "Mossel Bay Municipality",
+        "procurement_type": "Scalable fibre internet services — 3-year contract (July 2025–June 2028). TDR138/2024/2025 issued.",
+        "channel": "eTenders"
+      },
+      {
+        "entity": "USAASA / Universal Service and Access Fund (USAF)",
+        "procurement_type": "R173 million digital inclusion fund (2025/26) for connectivity in unconnected areas. Draft USAF manual gazetted February 2026.",
+        "channel": "https://usaasa.org.za"
+      },
+      {
+        "entity": "Broadband Infraco / NTCSA (Eskom)",
+        "procurement_type": "Fibre optic network maintenance and minor project work on as-required 3-year contracts.",
+        "channel": "eTenders"
+      },
+      {
+        "entity": "Schools and Education Departments",
+        "procurement_type": "Wi-Fi connectivity for classrooms. Provincial education departments issue tenders for school connectivity as part of SA Connect and USAASA mandates.",
+        "channel": "eTenders / provincial procurement portals"
+      },
+      {
+        "entity": "State-Owned Enterprises (Transnet, PRASA, Eskom)",
+        "procurement_type": "Managed connectivity and hotspot services for staff facilities and public-facing premises.",
+        "channel": "eTenders / SOE procurement portals"
+      }
+    ],
+    "contract_structures": [
+      "3–5 year managed service agreements with monthly recurring revenue (MRR) model",
+      "Performance-based contracts with uptime SLA requirements (typically 99.5%+)",
+      "Government connectivity tenders often require BBBEE compliance — minimum Level 2 or higher for preferential scoring",
+      "SA Connect community Wi-Fi hotspots funded via USAF subsidies with ISPs appointed as service providers or infrastructure managers",
+      "Bundled hardware + connectivity + support contracts common for public-space deployments",
+      "Revenue-sharing models for monetised public hotspots (e.g. advertising-funded or prepaid voucher models)"
+    ]
+  },
+  "regulatory_watchlist": [
+    {
+      "area": "ICASA Innovation Spectrum Regulations — Lower 6GHz Band",
+      "detail": "ICASA published final Innovation Spectrum Regulations in May 2026 after a 14-month consultation. The lower 6GHz band (5.925–6.425GHz) is designated licence-exempt, allowing WISPs, Wi-Fi network operators, private entities and community operators shared access without auctioning to mobile carriers. Implementation date to be gazetted. The Wireless Access Providers' Association projects a R560 billion GDP contribution from 1.2GHz and 6GHz spectrum access.",
+      "impact_on_bioniq": "Direct opportunity — Bioniq can deploy higher-capacity managed Wi-Fi networks on 6GHz spectrum without additional licence costs, enabling higher throughput hotspot solutions.",
+      "monitor_url": "https://www.icasa.org.za/legislation-and-regulations/engineering-and-technology/radio-frequency-spectrum-licensing"
+    },
+    {
+      "area": "ICASA Spectrum Licensing — 3.8–4.2GHz Band",
+      "detail": "ICASA has opened the 3.8–4.2GHz band on a licensed but discounted basis for standalone 5G services. WISPs and enterprise Wi-Fi operators can apply. Access managed via a Unified Spectrum Switch (USS) geo-location database (CSIR as likely USS operator).",
+      "impact_on_bioniq": "Enables future 5G-based fixed wireless or managed hotspot services in dense commercial environments.",
+      "monitor_url": "https://www.icasa.org.za/pages/spectrum-licensing"
+    },
+    {
+      "area": "USAASA and Universal Service and Access Fund (USAF)",
+      "detail": "USAASA allocated R268 million for operations and R173 million in USAF digital inclusion funding for 2025/26. Draft USAF administration manual gazetted 23 February 2026 establishes subsidy distribution framework. Parliament's Communications Committee flagged recurring implementation delays and unspent allocations.",
+      "impact_on_bioniq": "USAF subsidies are available to ISPs deploying connectivity in underserved areas. Bioniq should monitor grant application windows and procurement announcements.",
+      "monitor_url": "https://usaasa.org.za"
+    },
+    {
+      "area": "SA Connect Phase 2",
+      "detail": "National broadband rollout targeting 32,055 community Wi-Fi hotspots, 5.5 million households, 18,520 schools, 5,731 healthcare facilities, 949 libraries and Thusong centres, 567 SAPS sites, and 8,241 tribal authorities — all by 2026. Managed by DCDT with ISPs contracted as service providers.",
+      "impact_on_bioniq": "Significant procurement pipeline for managed Wi-Fi deployment and ongoing service contracts.",
+      "monitor_url": "https://www.gcis.gov.za/content/newsroom/blogs/2025-12/south-africa-connect"
+    },
+    {
+      "area": "POPIA — Data Privacy Obligations for Hotspot Operators",
+      "detail": "The Protection of Personal Information Act (POPIA) applies to all organisations processing personal data in South Africa. April 2025 amendments introduced: (1) mandatory breach reporting via the Information Regulator's online eServices Portal; (2) simplified data subject rights processes (objection, correction, deletion); (3) new information officer responsibilities; (4) administrative fines payable in instalments (maximum ZAR 10 million). Captive portal operators must obtain lawful consent for data collected during Wi-Fi authentication.",
+      "impact_on_bioniq": "Bioniq's captive portal / hotspot authentication systems must comply with POPIA consent collection, data minimisation, retention policies, and breach notification. Regular POPIA compliance audits required.",
+      "monitor_url": "https://popia.co.za"
+    },
+    {
+      "area": "WAPA — Wireless Access Providers' Association of SA",
+      "detail": "Industry body for WISPs and fixed wireless operators in South Africa. Advocates on spectrum, licensing and regulatory issues affecting managed Wi-Fi operators. Active in ICASA consultations.",
+      "impact_on_bioniq": "Membership provides regulatory early-warning, spectrum advocacy, and peer networking with the WISP/managed hotspot sector.",
+      "monitor_url": "https://wapa.org.za"
+    },
+    {
+      "area": "Municipal Broadband and Wireless Infrastructure By-Laws",
+      "detail": "Municipalities are increasingly adopting local by-laws governing wireless infrastructure installation (towers, rooftop antennae, public Wi-Fi nodes). Cape Town, Johannesburg and eThekwini have active frameworks. Compliance requirements vary by municipality.",
+      "impact_on_bioniq": "Site surveys and municipal approvals required before deploying public hotspot infrastructure in urban commercial spaces.",
+      "monitor_url": "https://www.icasa.org.za"
+    }
+  ],
+  "churn_signals": [
+    {
+      "signal_type": "HelloPeter Complaints — ISP-specific",
+      "description": "South African consumers post service complaints, outages and cancellation intent on HelloPeter. ISPs with high negative review volumes and poor resolution rates are high-churn candidates. Industry net sentiment for ISPs is -89% for digital support.",
+      "monitoring_approach": "Set up HelloPeter monitoring for target ISP brands. Alert on complaint spikes, unresolved tickets, and categories: 'connection', 'outage', 'cancellation'. URL: https://www.hellopeter.com — search by ISP name."
+    },
+    {
+      "signal_type": "Social Media Outage Reports",
+      "description": "Twitter/X, Facebook and community groups surface real-time outage complaints using hashtags (#[ISP name]down, #networkdown, #[town/suburb]noInternet). PwC/DataEQ analysed 1.3 million SA telecom social mentions — connectivity issues appeared in 16% of service conversations.",
+      "monitoring_approach": "Monitor X/Twitter with searches for [competitor ISP name] + 'down', 'outage', 'not working', 'cancelling'. Tools: TweetDeck, Brandwatch, or manual saved searches. Also monitor Facebook local suburb and business groups."
+    },
+    {
+      "signal_type": "Network Outage Maps",
+      "description": "Geoblackout.com and ThousandEyes maintain real-time SA ISP outage maps. Persistent outages affecting specific commercial areas or municipalities signal client dissatisfaction and switching intent.",
+      "monitoring_approach": "Monitor https://geoblackout.com/za and https://www.thousandeyes.com/outages/ for competitor ISP outage events. Correlate with geographic areas where Bioniq operates or targets."
+    },
+    {
+      "signal_type": "Tender Re-issuance for Connectivity Services",
+      "description": "When a municipality, SOE or institution re-tenders an existing connectivity contract (particularly ahead of schedule or after a short incumbent period), it signals dissatisfaction with their current ISP. SA tenders with 3-year cycles that re-issue early are a strong churn indicator.",
+      "monitoring_approach": "Monitor eTenders (etenders.gov.za) and TenderBulletins for new connectivity tenders where the institution previously awarded a contract in the last 1–3 years."
+    },
+    {
+      "signal_type": "Municipal Service Delivery Complaints",
+      "description": "Municipal council meeting minutes, public participation documents, and service delivery protest news coverage sometimes surface connectivity-related complaints about contracted ISPs at public facilities (libraries, clinics, municipal offices).",
+      "monitoring_approach": "Monitor local news (IOL, Daily Maverick, GroundUp) for '[municipality] Wi-Fi' or '[municipality] internet complaints'. Also track municipal council agendas published on municipal websites."
+    },
+    {
+      "signal_type": "Business Forum and Property Management Discussions",
+      "description": "Commercial property managers, body corporates, and business park associations discuss connectivity dissatisfaction in forums, WhatsApp groups and LinkedIn. Commercial estate operators with poor ISP experiences are prime targets for Bioniq's managed hotspot offering.",
+      "monitoring_approach": "Monitor LinkedIn groups and pages for commercial property associations. Engage in SA property management forums (SAPOA, NAMA). Google Alerts for '[competitor ISP] + commercial estate + complaints'."
+    },
+    {
+      "signal_type": "Contract Expiry Intelligence",
+      "description": "3-year and 5-year ISP contracts in municipal and commercial estates create predictable switching windows. Contracts awarded in 2022–2023 are entering renewal/re-tender phase in 2025–2026.",
+      "monitoring_approach": "Cross-reference eTender award dates on eTenders.gov.za with current date to identify contracts nearing expiry. Target sales outreach 6–9 months before contract end."
+    }
+  ],
+  "connectivity_opportunities": [
+    {
+      "opportunity": "SA Connect Phase 2 — Community Wi-Fi Hotspot Programme",
+      "description": "The national SA Connect Phase 2 initiative targets 32,055 community Wi-Fi hotspots and household connectivity by 2026, covering schools, healthcare facilities, libraries, Thusong centres, SAPS sites and tribal authorities. ISPs and managed Wi-Fi providers are contracted as implementation partners.",
+      "funding_vehicle": "Department of Communications and Digital Technologies (DCDT) — direct procurement",
+      "procurement_channel": "eTenders (etenders.gov.za) and DCDT supply chain portal",
+      "monitor_url": "https://www.gcis.gov.za/content/newsroom/blogs/2025-12/south-africa-connect"
+    },
+    {
+      "opportunity": "USAASA / USAF Digital Inclusion Fund",
+      "description": "R173 million allocated for 2025/26 financial year to fund ICT connectivity in unconnected and underserved communities. USAASA gazetted a draft administration manual in February 2026 establishing subsidy and project grant distribution framework for ISPs.",
+      "funding_vehicle": "Universal Service and Access Fund (USAF) — grant and subsidy mechanism",
+      "procurement_channel": "USAASA project application process: https://usaasa.org.za",
+      "monitor_url": "https://usaasa.org.za/2026/"
+    },
+    {
+      "opportunity": "Smart City Municipal Wi-Fi Initiatives",
+      "description": "South African municipalities are actively pursuing smart city connectivity. Cape Town ranks 3rd in Africa's IMD Smart City Index (2026). eThekwini has a dedicated Smart City Office. Johannesburg has the Tshimologong Precinct. Operation Vulindlela is driving digitisation of municipal services and citizen connectivity.",
+      "funding_vehicle": "Municipal capital budgets, SmartCape / Smart City programme grants",
+      "procurement_channel": "Municipal eTenders and SCM portals. Key targets: City of Cape Town, eThekwini (Durban), City of Johannesburg, Ekurhuleni",
+      "monitor_url": "https://www.ukesa.info/library/view/smart-city-initiatives-in-south-africa"
+    },
+    {
+      "opportunity": "Mining Community Social and Labour Plan (SLP) Connectivity",
+      "description": "Mining companies operating in South Africa are legally required under the Mineral and Petroleum Resources Development Act (MPRDA) to submit and implement Social and Labour Plans (SLPs) every 5 years. Community development obligations under SLPs increasingly include broadband and Wi-Fi connectivity for host communities. ISPs partnering with mining houses can supply and manage community hotspot infrastructure funded through SLP budgets.",
+      "funding_vehicle": "Mining company SLP community development budgets (DMRE-regulated)",
+      "procurement_channel": "Direct engagement with SLP Responsible Persons at major mining houses (Anglo American, Glencore, Sibanye-Stillwater, Exxaro, Sasol). Minerals Council SA SLP directory: https://www.mineralscouncil.org.za/sa-mining/slps",
+      "monitor_url": "https://www.mineralscouncil.org.za/sa-mining/slps"
+    },
+    {
+      "opportunity": "Tourism and Hospitality Wi-Fi Infrastructure",
+      "description": "South Africa's tourism sector — game lodges, boutique hotels, wine estates, conference centres, and tourism hubs — requires managed Wi-Fi with analytics and bandwidth management for guests and staff. This aligns directly with Bioniq's core managed hotspot offering. Letaba Networks already serves this niche in the north-eastern region.",
+      "funding_vehicle": "Private capital — hospitality operators' own capex/opex",
+      "procurement_channel": "Direct B2B sales to SA Tourism properties. Engage SATSA (Southern Africa Tourism Services Association) and FEDHASA (Federated Hospitality Association of SA). Consider SA Tourism Board connectivity programmes.",
+      "monitor_url": "https://www.satsa.com"
+    },
+    {
+      "opportunity": "IHS Towers / Telecom Tower Site Connectivity Partnerships",
+      "description": "IHS Towers in South Africa manages passive telecom infrastructure. Their 2025 partnership with Project Isizwe in KwaMashu (uncapped public Wi-Fi) demonstrates a tower-owner + ISP/NPO model for community connectivity. ISPs like Bioniq can partner with tower owners to co-locate Wi-Fi infrastructure at tower sites in high-demand areas.",
+      "funding_vehicle": "Commercial partnership / revenue-sharing with tower companies",
+      "procurement_channel": "IHS Towers SA partnership inquiries and WAPA-registered provider list",
+      "monitor_url": "https://www.ihstowers.com"
+    },
+    {
+      "opportunity": "Schools and Libraries Connectivity (DTPS / Education Departments)",
+      "description": "SA Connect Phase 2 targets 18,520 schools and 949 libraries for connectivity. Provincial education departments and DoE issue dedicated connectivity tenders. Project Isizwe model (free uncapped Wi-Fi in schools) has demonstrated demand for managed educational hotspot solutions with content filtering and bandwidth controls.",
+      "funding_vehicle": "USAF, DCDT, provincial education department budgets",
+      "procurement_channel": "Provincial education department SCM portals and eTenders. USAASA partnerships for subsidised deployments.",
+      "monitor_url": "https://www.etenders.gov.za"
+    }
+  ]
+}

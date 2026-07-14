@@ -1,0 +1,93 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Veralogix Plant (Woestalleen)",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "Junior and mid-tier miners awarded DMRE mining rights without on-site processing infrastructure",
+                     "description":  "New mining rights granted in Mpumalanga often go to junior miners and BEE mining companies who do not have capital to build dedicated washing plants. These operations produce ROM coal that requires third-party toll washing before it can meet export or even Eskom quality specifications.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "DMRE Mining Rights Register â€” Mpumalanga",
+                                                    "url":  "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/province/mpumalanga"
+                                                },
+                                                {
+                                                    "name":  "Mining Weekly â€” new project announcements",
+                                                    "url":  "https://www.miningweekly.com"
+                                                },
+                                                {
+                                                    "name":  "Mining Review Africa â€” junior miner activity",
+                                                    "url":  "https://www.miningreview.com"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Washery shutdowns, maintenance outages, or closures at integrated mine plants",
+                     "description":  "When a major integrated mine-washery goes offline for planned or unplanned maintenance, the displaced ROM coal requires diversion to third-party toll washing facilities. Optimum Coal\u0027s complex history and illegal mining activity at its wash plant signals recurring operational instability in the Woestalleen corridor.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Mining Weekly â€” operational alerts",
+                                                    "url":  "https://www.miningweekly.com"
+                                                },
+                                                {
+                                                    "name":  "Miningmx â€” company operational news",
+                                                    "url":  "https://www.miningmx.com"
+                                                },
+                                                {
+                                                    "name":  "DMRE Section 54 / Section 55 safety stoppage notices",
+                                                    "url":  "https://www.dmre.gov.za"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Coal mines approaching production capacity with processing bottlenecks",
+                     "description":  "As Transnet Freight Rail improves throughput (from 57.66Mt in 2025 toward 60â€“65Mt in 2026), more coal is economically viable to export. Mines with rail access but insufficient washing capacity create overflow demand for third-party toll processors.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Richards Bay Coal Terminal â€” monthly throughput statistics",
+                                                    "url":  "https://rbct.co.za"
+                                                },
+                                                {
+                                                    "name":  "S\u0026P Global â€” TFR coal corridor capacity reporting",
+                                                    "url":  "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+                                                },
+                                                {
+                                                    "name":  "Annual reports from Thungela, Exxaro, Seriti",
+                                                    "url":  "https://www.thungela.com"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Tightening export quality specifications (API4/RB1 compliance pressure)",
+                     "description":  "Export buyers and shipping counterparties increasingly enforce strict quality gates. ROM coal with ash content above 20â€“25% ADB cannot be sold into RB1 or RB2 markets without DMS processing. As the thermal coal export market tightens quality requirements, more ROM coal requires beneficiation before it can be placed with export buyers.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Argus Media â€” API4 price methodology and quality thresholds",
+                                                    "url":  "https://www.argusmedia.com/en/methodology/key-commodity-prices/argus-mccloskeys-api-4"
+                                                },
+                                                {
+                                                    "name":  "National Coal â€” RB grade specifications explainer",
+                                                    "url":  "https://www.nationalcoal.co.za/post/difference-between-rb1-rb2-rb3-coal-south-africa"
+                                                },
+                                                {
+                                                    "name":  "globalCOAL SCoTA specifications",
+                                                    "url":  "https://www.globalcoal.com/scota/specifications.cfm"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Artisanal and small-scale miners (ASMs) and informal operators lacking processing access",
+                     "description":  "The 2025 parliamentary oversight visit to Mpumalanga noted widespread illegal mining activity and illegal use of wash plant infrastructure (including Optimum Coal). This signals an unmet demand for accessible, legally compliant toll washing services for small-scale operators. Veralogix Plant is positioned to capture the compliant segment of this demand.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Parliamentary Monitoring Group â€” Mineral Resources Committee",
+                                                    "url":  "https://pmg.org.za"
+                                                },
+                                                {
+                                                    "name":  "DMRE â€” artisanal mining policy and formalisation",
+                                                    "url":  "https://www.dmre.gov.za"
+                                                }
+                                            ]
+                 }
+             ]
+}

@@ -1,0 +1,166 @@
+﻿{
+    "total_chunks":  72,
+    "company":  "Veramani IT",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p5.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p6.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p7.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p8.json",
+                                                             "doc1_Veramani_in_South_Africas__bbbee_transformation_p9.json"
+                                                         ],
+                                               "parts":  9
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__competitive_landscape_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__executive_summary_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__executive_summary_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__financial_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__opportunities_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__opportunities_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__opportunities_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__opportunities_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__pricing_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__pricing_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p5.json",
+                                                             "doc1_Veramani_in_South_Africas__recommendations_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p5.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p6.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p7.json",
+                                                             "doc1_Veramani_in_South_Africas__regulatory_p8.json"
+                                                         ],
+                                               "parts":  8
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__technology_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p10.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p11.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p12.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p13.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p14.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p15.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p16.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p5.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p6.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p7.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p8.json",
+                                                             "doc1_Veramani_in_South_Africas__technology_p9.json"
+                                                         ],
+                                               "parts":  16
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p10.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p11.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p12.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p13.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p14.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p5.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p6.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p7.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p8.json",
+                                                             "doc1_Veramani_in_South_Africas__tender_landscape_p9.json"
+                                                         ],
+                                               "parts":  14
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Veramani_in_South_Africas__threats_risks_p1.json",
+                                                             "doc1_Veramani_in_South_Africas__threats_risks_p2.json",
+                                                             "doc1_Veramani_in_South_Africas__threats_risks_p3.json",
+                                                             "doc1_Veramani_in_South_Africas__threats_risks_p4.json",
+                                                             "doc1_Veramani_in_South_Africas__threats_risks_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Veramani_in_South_Africas",
+                          "chunk_count":  72,
+                          "source_doc":  "Competitive and Market Intelligence for Veramani in South Africas IT Sector.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

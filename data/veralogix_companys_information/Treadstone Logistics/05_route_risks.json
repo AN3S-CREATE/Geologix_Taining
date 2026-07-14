@@ -1,0 +1,58 @@
+﻿{
+    "_section":  "route_risks",
+    "_company":  "Treadstone Logistics",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "risk_category":  "Road Quality \u0026 Infrastructure",
+                     "description":  "Heavy coal and chrome haulage causes severe road deterioration, particularly on secondary routes linking mines to national corridors. Mpumalanga\u0027s N4, N11, and N17 carry extreme volumes â€” in one 12-hour period, 34,198 tonnes of freight were recorded on the N4 between Nelspruit and Komatipoort. Most roads in Limpopo\u0027s Waterberg District (8,500km) are unpaved (only 30% paved). Gravel roads in Burgersfort-Steelpoort area accelerate tyre wear and increase maintenance costs.",
+                     "affected_routes":  [
+                                             "N4 (Mozambique corridor)",
+                                             "N11 (Hendrinaâ€“Middelburg, Botswana border)",
+                                             "N17 (Ermelo corridor)",
+                                             "R573 Moloto Road",
+                                             "Steelpoort/Burgersfort secondary roads",
+                                             "Waterberg District roads (Lephalale area)"
+                                         ],
+                     "monitoring_source":  "SA Freight Data Banks (Mpumalanga, Limpopo, KZN)",
+                     "monitoring_url":  "http://www.safiri.co.za/mpfdb/roads-infrastructure.html"
+                 },
+                 {
+                     "risk_category":  "Weigh-Bridge \u0026 Overloading Enforcement",
+                     "description":  "SA\u0027s weighbridge network targets major freight corridors. On the N4, weighbridges are managed by TRAC under SANRAL contract with Mpumalanga DPWRT enforcement. The N11 and N17 are monitored from the Ermelo Traffic Control Centre. Approximately 20% of weighed vehicles are found overloaded nationally. March 2026 Tshwane Metro operation: 31 of 88 inspected trucks failed overload compliance. Penalties include fines and removal from road. RTMS certification is a key differentiator showing voluntary compliance above legal minimum.",
+                     "affected_routes":  [
+                                             "N4 (TRAC-managed weighbridges)",
+                                             "N11",
+                                             "N17",
+                                             "Gauteng N1/N3 (SANRAL-managed)",
+                                             "Limpopo weighbridges"
+                                         ],
+                     "monitoring_source":  "Mpumalanga Freight Data Bank; Limpopo DTCS Weighbridge Registry",
+                     "monitoring_url":  "http://www.safiri.co.za/mpfdb/roads-overload-control.html"
+                 },
+                 {
+                     "risk_category":  "Fuel Price Volatility",
+                     "description":  "Diesel is the largest single operating cost, representing 35â€“55% of daily operating cost per vehicle. March 2026 diesel shock: R10.34/litre price increase (56%). South Africa\u0027s diesel price is set monthly by the Department of Energy using an import parity pricing (Basic Fuel Price) mechanism linked to Brent crude and Rand/USD exchange rate. SA operators pay for diesel upfront on 60â€“90-day invoice cycles, creating cash flow exposure. Fuel hedge mechanisms are rare for small/mid-size operators.",
+                     "monitoring_source":  "Department of Energy / Fuels Industry Association of South Africa monthly price announcements",
+                     "monitoring_url":  "https://fuelsindustry.org.za/consumer-information/fuel-prices-current-past/"
+                 },
+                 {
+                     "risk_category":  "Labour \u0026 Driver Availability",
+                     "description":  "South Africa has a structural shortage of qualified heavy vehicle drivers (Code EC and EC1 licences). Driver wages are governed by the NBCRFLI sectoral determination. Wage disputes and strikes at NBCRFLI level can cause industry-wide disruption. High unemployment nationally (32.7%) coexists with a shortage of licensed, experienced long-haul drivers. Driver fatigue regulation (NRTA hours-of-service rules) limits productivity on long routes. Driver poaching between operators is common, increasing wage pressure.",
+                     "monitoring_source":  "NBCRFLI (National Bargaining Council for the Road Freight and Logistics Industry); Road Freight Association (RFA)",
+                     "monitoring_url":  "https://www.rfa.co.za"
+                 },
+                 {
+                     "risk_category":  "Security \u0026 Cargo Theft",
+                     "description":  "Copper cable theft on the Transnet coal line declined from 180km (2024) to 59km (2025), but road freight theft remains a risk. High-value commodity trucks (coal, chrome) are targets for armed robbery and product theft, particularly on Mpumalanga N4 and N17 routes at night.",
+                     "monitoring_source":  "SAPS crime statistics; Road Freight Association security advisories",
+                     "monitoring_url":  "https://www.saps.gov.za"
+                 },
+                 {
+                     "risk_category":  "Transnet Rail Disruptions as Demand Amplifier",
+                     "description":  "When Transnet Freight Rail suffers line outages, derailments, or capacity constraints, bulk mineral volumes shift to road â€” creating surge demand but also route congestion and road damage acceleration. Monitor TFR corridor performance monthly. Rail liberalisation introducing private operators from 2025â€“2026 may stabilise but initially disrupt road/rail split.",
+                     "monitoring_source":  "Transnet Freight Rail Corridor Updates; Rail Journal",
+                     "monitoring_url":  "https://www.transnetfreightrail-tfr.net"
+                 }
+             ]
+}

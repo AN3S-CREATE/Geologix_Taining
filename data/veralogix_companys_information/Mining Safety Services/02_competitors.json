@@ -1,0 +1,212 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Mining Safety Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "NOSA / SafetyCloud",
+                     "website":  "https://nosa.co.za / https://safetycloud.co.za",
+                     "core_services":  [
+                                           "Occupational health and safety training (100+ courses)",
+                                           "Mining-specific safety training (SAMTRAC for Mining, COMSOC)",
+                                           "ISO 45001 certification preparation",
+                                           "OHS consulting and compliance audits",
+                                           "Safety management system implementation",
+                                           "Cross-industry and on-site training delivery"
+                                       ],
+                     "accreditations":  [
+                                            "NOSA (legacy brand â€” 70+ years)",
+                                            "MQA (Mining Qualifications Authority) accredited provider",
+                                            "SAATCA (South African Auditing and Training Certification Association)",
+                                            "ISO 45001 aligned"
+                                        ],
+                     "known_client_types":  [
+                                                "Major mining houses",
+                                                "Manufacturing",
+                                                "Logistics",
+                                                "Construction",
+                                                "Oil \u0026 gas"
+                                            ],
+                     "notes":  "Market leader by brand recognition; operates nationally and across Africa and the Middle East."
+                 },
+                 {
+                     "name":  "TRSafety",
+                     "website":  "http://trsafety.co.za",
+                     "core_services":  [
+                                           "Mine safety education and management consulting",
+                                           "Health and safety training (20+ years\u0027 experience)",
+                                           "SADC region operations",
+                                           "Site-specific safety programme development"
+                                       ],
+                     "accreditations":  [
+                                            "MQA accredited",
+                                            "COMSOC-authorized training provider"
+                                        ],
+                     "known_client_types":  [
+                                                "Underground and surface mining operations",
+                                                "SADC-region mining companies"
+                                            ],
+                     "notes":  "Boutique mining-focused safety consultancy; strong field experience in the SADC region."
+                 },
+                 {
+                     "name":  "SGS South Africa",
+                     "website":  "https://www.sgs.com/en-za/industry/mining",
+                     "core_services":  [
+                                           "Safety studies and hazard analysis",
+                                           "Compliance and regulatory auditing",
+                                           "ISO 45001 / OHSAS 18001 certification",
+                                           "QHSE consulting and mine site safety reviews",
+                                           "EPCM safety management for projects",
+                                           "Sustainability and ESG assurance"
+                                       ],
+                     "accreditations":  [
+                                            "ISO 45001 certification body",
+                                            "Global TIC (Testing, Inspection, Certification) accreditation",
+                                            "SANAS accredited"
+                                        ],
+                     "known_client_types":  [
+                                                "Large mining houses",
+                                                "Exploration companies",
+                                                "Construction and infrastructure firms"
+                                            ],
+                     "notes":  "Multinational TIC company; competes strongly on ISO certification and large-project QHSE engagements."
+                 },
+                 {
+                     "name":  "Bureau Veritas South Africa",
+                     "website":  "https://www.bureauveritas.co.za/our-markets/commodities-agriculture/mining",
+                     "core_services":  [
+                                           "Legal compliance assessments",
+                                           "Pre-assessment audits",
+                                           "Customized health and safety audits",
+                                           "ISO 45001 certification",
+                                           "Mine ESG services",
+                                           "Remote and physical OHS training"
+                                       ],
+                     "accreditations":  [
+                                            "ISO 45001 certification body",
+                                            "Global TIC accreditation (est. 1828)",
+                                            "SANAS accredited"
+                                        ],
+                     "known_client_types":  [
+                                                "Major and mid-tier mining companies",
+                                                "Commodities and agriculture sector"
+                                            ],
+                     "notes":  "Direct SGS competitor; strong on legal compliance assessments and ISO-based audits for mining."
+                 },
+                 {
+                     "name":  "Mining Safety (miningsafety.co.za)",
+                     "website":  "https://www.miningsafety.co.za",
+                     "core_services":  [
+                                           "Mining safety consulting and advisory",
+                                           "DMRE inspection preparation and audit readiness",
+                                           "Safety management system (SMS) design and implementation",
+                                           "Incident reporting and investigation consulting",
+                                           "Emergency preparedness consulting",
+                                           "Safety portal and knowledge resources"
+                                       ],
+                     "accreditations":  [
+                                            "Not publicly disclosed; 10+ years in SA mining industry"
+                                        ],
+                     "known_client_types":  [
+                                                "SA mining operations broadly"
+                                            ],
+                     "notes":  "Specialist SA-focused safety portal and consulting business; trusted resource for compliance information."
+                 },
+                 {
+                     "name":  "Xtream Safety",
+                     "website":  "https://xtreamsafety.co.za",
+                     "core_services":  [
+                                           "Mine safety and health training",
+                                           "COMSOC 1 and COMSOC 2 courses",
+                                           "Occupational health and safety skills programmes",
+                                           "Engineering compliance training",
+                                           "On-site and academy-based delivery"
+                                       ],
+                     "accreditations":  [
+                                            "Accredited Skills Development Provider (SDP)",
+                                            "SETA-aligned training",
+                                            "MQA accredited"
+                                        ],
+                     "known_client_types":  [
+                                                "Gold and other commodity mining companies in Free State",
+                                                "Regional mining operations"
+                                            ],
+                     "notes":  "Based in Welkom, Free State; strong foothold in gold mining belt; established 2009."
+                 },
+                 {
+                     "name":  "VBKOM Consulting Engineers",
+                     "website":  "https://www.vbkom.com",
+                     "core_services":  [
+                                           "Mining and geotechnical risk consulting",
+                                           "Industrial and mine engineering safety",
+                                           "Rock engineering and seismic risk assessment",
+                                           "Geology and metallurgy support"
+                                       ],
+                     "accreditations":  [
+                                            "ECSA (Engineering Council of South Africa) registered",
+                                            "Mine-specific technical accreditations"
+                                        ],
+                     "known_client_types":  [
+                                                "Underground hard-rock mining companies",
+                                                "Platinum and gold mining houses"
+                                            ],
+                     "notes":  "Engineering-led safety consultancy; competes in technical risk and geotechnical hazard space."
+                 },
+                 {
+                     "name":  "Minerals Council South Africa (Safety Advisory)",
+                     "website":  "https://www.mineralscouncil.org.za/work/safety",
+                     "core_services":  [
+                                           "Industry safety benchmarking and advisory",
+                                           "Khumbul\u0027ekhaya CEO-led safety programme",
+                                           "Mandatory Code of Practice development",
+                                           "Member safety performance reporting",
+                                           "Tripartite safety summits"
+                                       ],
+                     "accreditations":  [
+                                            "Industry body representing 90%+ of SA mineral production"
+                                        ],
+                     "known_client_types":  [
+                                                "Member mining houses (Anglo American, Sibanye-Stillwater, Impala, Glencore, Gold Fields, etc.)"
+                                            ],
+                     "notes":  "Not a direct commercial competitor but shapes industry standards and preferred supplier frameworks; companies aligning with Khumbul\u0027ekhaya Version 2.0 gain reputational advantage."
+                 },
+                 {
+                     "name":  "Prisma Training Solutions",
+                     "website":  "https://prisma.co.za",
+                     "core_services":  [
+                                           "Opencast mining safety training",
+                                           "Underground mining safety courses",
+                                           "Blasting and rockbreaking qualifications",
+                                           "COMSOC and SHE training programmes"
+                                       ],
+                     "accreditations":  [
+                                            "MQA accredited",
+                                            "QCTO-aligned qualifications"
+                                        ],
+                     "known_client_types":  [
+                                                "Opencast and surface mining operations",
+                                                "Coal and aggregate mining"
+                                            ],
+                     "notes":  "Specialist in opencast and blasting training; competes on statutory compliance courses."
+                 },
+                 {
+                     "name":  "Colliery Training College (CTC)",
+                     "website":  "https://www.ctctraining.org",
+                     "core_services":  [
+                                           "Underground coal mining skills programmes",
+                                           "Blasting certificate preparation",
+                                           "Mine safety officer training",
+                                           "Occupational hygiene training"
+                                       ],
+                     "accreditations":  [
+                                            "MQA accredited",
+                                            "DMRE recognized training provider"
+                                        ],
+                     "known_client_types":  [
+                                                "Coal mining companies",
+                                                "Mpumalanga and KwaZulu-Natal collieries"
+                                            ],
+                     "notes":  "Deep coal sector specialization; competes for Eskom and independent coal producer contracts."
+                 }
+             ]
+}

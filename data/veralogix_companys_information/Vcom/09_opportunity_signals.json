@@ -1,0 +1,43 @@
+﻿{
+    "_section":  "opportunity_signals",
+    "_company":  "Vcom",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "New Township and Human Settlement Developments",
+                     "description":  "Greenfield township developments create demand for first-time fibre infrastructure. Vcom\u0027s aerial methods are ideal for rapid, low-disruption deployment in new housing zones.",
+                     "monitoring_source":  "Department of Human Settlements",
+                     "monitoring_url":  "https://www.dhs.gov.za"
+                 },
+                 {
+                     "signal_type":  "USAASA Broadband Programme Releases",
+                     "description":  "USAASA\u0027s Universal Service and Access Fund (USAF) periodically releases tenders for community connectivity projects in underserved areas â€” directly aligned with Vcom\u0027s market.",
+                     "monitoring_source":  "USAASA",
+                     "monitoring_url":  "https://www.usaasa.org.za"
+                 },
+                 {
+                     "signal_type":  "SA Connect Phase 2 School and Clinic Connectivity",
+                     "description":  "Government\u0027s SA Connect initiative is funding connectivity for unconnected schools and clinics. Each school/clinic requiring broadband represents an infrastructure anchor tenant.",
+                     "monitoring_source":  "DCDT / SITA",
+                     "monitoring_url":  "https://www.dcdt.gov.za"
+                 },
+                 {
+                     "signal_type":  "Mining Company Social and Labour Plans (SLPs)",
+                     "description":  "Mining companies are obligated under MPRDA to invest in community upliftment through SLPs. Connectivity for mining host communities (townships) is a growing SLP commitment. Vcom can partner with or supply to mining house SLP programmes.",
+                     "monitoring_source":  "DMRE SLP database / Mining company annual reports",
+                     "monitoring_url":  "https://www.dmre.gov.za"
+                 },
+                 {
+                     "signal_type":  "Municipal Smart City Initiatives",
+                     "description":  "Smart city programmes in Johannesburg (Joburg Connect), Tshwane, eThekwini, and others require physical fibre backbone and community Wi-Fi networks. Watch for IDP updates and smart city budget announcements.",
+                     "monitoring_source":  "Municipal IDP portals and council meeting agendas",
+                     "monitoring_url":  "https://www.cogta.gov.za"
+                 },
+                 {
+                     "signal_type":  "Tourism and Public Space Wi-Fi Programmes",
+                     "description":  "DTIC (Department of Trade, Industry and Competition) and Tourism departments fund Wi-Fi at public spaces, parks, and tourist areas. Requires aerial fibre backbone.",
+                     "monitoring_source":  "DTIC / South African Tourism",
+                     "monitoring_url":  "https://www.dtic.gov.za"
+                 }
+             ]
+}

@@ -1,0 +1,91 @@
+﻿{
+    "_section":  "training_landscape",
+    "_company":  "Mining Safety Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "overview":  "The SA mining training market is regulated primarily by the MQA (SETA) and the DMRE. Statutory certifications are legally required for individuals in appointed positions. Demand is driven by regulatory enforcement, mine expansion, and the chronic skills gap in mining competencies.",
+                 "top_certifications_and_courses":  [
+                                                        {
+                                                            "rank":  1,
+                                                            "certification":  "COMSOC 1 \u0026 2 (Competency in Mine Safety Officers Certificate)",
+                                                            "accrediting_body":  "MINEQUALS (formerly Chamber of Mines) / MQA",
+                                                            "description":  "The primary qualification for mine safety officers. COMSOC 1 covers core safety principles for mining; COMSOC 2 is advanced and required for senior/principal safety officer appointments.",
+                                                            "demand":  "Very High â€” legally required for safety officer appointments under MHSA; most mining companies require it as a minimum qualification for safety roles",
+                                                            "notes":  "Exclusive to mining; not interchangeable with SAMTRAC in formal mine appointments."
+                                                        },
+                                                        {
+                                                            "rank":  2,
+                                                            "certification":  "GCC (Government Certificate of Competency) â€” Mines and Works",
+                                                            "accrediting_body":  "DMRE â€” Commission of Examiners",
+                                                            "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/gcc-examinations",
+                                                            "description":  "Statutory licence required for legally appointed Mine Managers, Engineers (Electrical/Mechanical), and Mine Overseers. Exams held June and November annually.",
+                                                            "demand":  "Very High â€” mandatory for all legal appointments at South African mines; significant market for coaching and exam preparation services",
+                                                            "notes":  "Multiple sub-certifications: Mine Manager, Mine Overseer, Electrical Engineer, Mechanical Engineer, Blasting."
+                                                        },
+                                                        {
+                                                            "rank":  3,
+                                                            "certification":  "Blasting Certificate of Competency (Surface and Underground)",
+                                                            "accrediting_body":  "DMRE",
+                                                            "description":  "Statutory licence to perform blasting operations at a South African mine. Separate certificates for surface/scheduled mines and underground operations.",
+                                                            "demand":  "High â€” required for all blasting personnel; mining expansion and exploration activity drives demand",
+                                                            "notes":  "DMRE Form 302 for Scheduled Mines Blasting; preparation courses offered by Prisma, Xtream Safety, Skillfull29."
+                                                        },
+                                                        {
+                                                            "rank":  4,
+                                                            "certification":  "SAMTRAC for Mining (Safety Management Training Course â€” Mining variant)",
+                                                            "accrediting_body":  "NOSA / SafetyCloud",
+                                                            "description":  "Bridging safety management qualification adapted for the mining sector; covers MHSA compliance, risk management, and incident investigation.",
+                                                            "demand":  "High â€” entry-level to mid-management safety competency; widely accepted across mining and adjacent industries",
+                                                            "notes":  "Less mining-specific than COMSOC; useful for cross-industry professionals entering mining."
+                                                        },
+                                                        {
+                                                            "rank":  5,
+                                                            "certification":  "ISO 45001:2018 Occupational Health and Safety Management Systems",
+                                                            "accrediting_body":  "SANAS-accredited certification bodies (SGS, Bureau Veritas, etc.)",
+                                                            "description":  "International OHS management system standard replacing OHSAS 18001; covers systematic risk management, legal compliance, and continual improvement.",
+                                                            "demand":  "High â€” increasingly required by Tier 1 mining houses from suppliers; valuable for safety companies to hold as a credential",
+                                                            "notes":  "Both lead auditor training and organizational certification are in demand."
+                                                        },
+                                                        {
+                                                            "rank":  6,
+                                                            "certification":  "Mine Health and Safety Act Section 11 Competency Training",
+                                                            "accrediting_body":  "MQA / DMRE aligned",
+                                                            "description":  "Mandatory training for supervisors and managers on their legal duties under MHSA. Section 11 requires every supervisor to understand and apply safety obligations.",
+                                                            "demand":  "High â€” every mine supervisor legally required to complete this training; recurring need as staff turn over",
+                                                            "notes":  "Often delivered as in-house programmes; significant outsourced delivery market."
+                                                        },
+                                                        {
+                                                            "rank":  7,
+                                                            "certification":  "National Certificate: Occupational Health, Safety and Environment â€” Mining and Minerals (NQF Level 4)",
+                                                            "accrediting_body":  "MQA (SETA), QCTO",
+                                                            "description":  "Formal NQF qualification for mine safety practitioners; combines theory and workplace practical components (60/40 split).",
+                                                            "demand":  "Medium-High â€” learnership funding from MQA drives uptake; BEE and skills levy compliance incentivizes employer participation",
+                                                            "notes":  "MQA funds learnerships; training providers must be MQA-accredited."
+                                                        },
+                                                        {
+                                                            "rank":  8,
+                                                            "certification":  "Hazardous Chemical Substances (HCS) and Occupational Hygiene Compliance Training",
+                                                            "accrediting_body":  "MHSC / MQA / SACNASP",
+                                                            "description":  "Training covering exposure to dust, noise, vibration, and chemicals under the revised MHSA Chapter 22 (effective June 2025). Occupational Hygienist registration via SAIOH.",
+                                                            "demand":  "High and growing â€” the June 2025 amendment to OELs creates immediate compliance re-training demand across all mines",
+                                                            "notes":  "Significant opportunity window: all mines must re-certify compliance with updated airborne pollutant limits."
+                                                        },
+                                                        {
+                                                            "rank":  9,
+                                                            "certification":  "Emergency Preparedness and Mine Rescue Training",
+                                                            "accrediting_body":  "MQA / Mine Rescue Services (MRS)",
+                                                            "description":  "Statutory requirement for mines to maintain trained rescue teams; covers fire-fighting, first aid at mines, breathing apparatus, and rescue operations.",
+                                                            "demand":  "Medium-High â€” all operating mines; mandatory training refreshes required annually",
+                                                            "notes":  "Mine Rescue Services (MRS) is the industry body; training providers can partner with MRS."
+                                                        },
+                                                        {
+                                                            "rank":  10,
+                                                            "certification":  "Mental Health and Non-Communicable Diseases (NCD) Mandatory Code of Practice Training",
+                                                            "accrediting_body":  "MHSC (Mandatory COP effective November 2025)",
+                                                            "description":  "New mandatory training introduced under the Mandatory Code of Practice for Mental Health and NCDs (effective Octoberâ€“November 2025). Covers mental health awareness, stress management, NCD risk reduction for mineworkers.",
+                                                            "demand":  "Emerging and growing â€” brand new regulatory requirement; every mine needs compliant programme by 2026; first-mover advantage for training providers",
+                                                            "notes":  "One of four new Mandatory Codes of Practice (others: fire prevention, road and railway safety, change management). Significant new market opportunity."
+                                                        }
+                                                    ]
+             }
+}

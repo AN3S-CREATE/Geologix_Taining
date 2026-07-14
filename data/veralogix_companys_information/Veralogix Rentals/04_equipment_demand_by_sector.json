@@ -1,0 +1,130 @@
+﻿{
+    "_section":  "equipment_demand_by_sector",
+    "_company":  "Veralogix Rentals",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "coal":  {
+                              "typical_equipment_mix":  [
+                                                            "Large hydraulic excavators 50tâ€“120t (overburden removal)",
+                                                            "Rigid dump trucks 40tâ€“100t (overburden and coal haulage)",
+                                                            "ADTs 30tâ€“45t (shorter internal hauls)",
+                                                            "Bulldozers D8â€“D11 class (push dozing and rehabilitation)",
+                                                            "Motor graders (haul road maintenance)",
+                                                            "Water trucks (dust suppression)",
+                                                            "Draglines (large stripping operations at export coal mines)",
+                                                            "Coal wash plant equipment and jaw crushers",
+                                                            "Screening plants",
+                                                            "Underground: continuous miners, shuttle cars, roofbolters, LHDs (limited â€” most SA coal is opencast)"
+                                                        ],
+                              "demand_trend":  "Declining",
+                              "trend_notes":  "Coal output fell 5.8% year-on-year in April 2026. Structural headwinds from global energy transition, ESG-driven capital withdrawal, and reduced Eskom demand as renewables scale. Richards Bay Coal Terminal export market active but under price and volume pressure. Waterberg coalfields (Limpopo) remain a long-term strategic reserve with slower development. Domestic power generation remains the stabilising demand floor.",
+                              "key_regions":  [
+                                                  "Mpumalanga (Witbank/eMalahleni, Middelburg, Secunda, Ogies â€” ~80% of SA coal output; key mines: Eskom-contracted collieries, AEMFC Vlakfontein, Glencore R554, Thungela)",
+                                                  "KwaZulu-Natal (Vryheid â€” anthracite)",
+                                                  "Limpopo (Waterberg coalfields â€” Medupi/Kusile supply, long-term strategic reserve)",
+                                                  "Free State (minor)"
+                                              ],
+                              "key_contractors_active":  [
+                                                             "JCI Mining (Mpumalanga-based)",
+                                                             "Trollope Group",
+                                                             "Aveng Mining",
+                                                             "Murray \u0026 Roberts Cementation"
+                                                         ]
+                          },
+                 "chrome":  {
+                                "typical_equipment_mix":  [
+                                                              "Excavators 20tâ€“60t (opencast ore extraction)",
+                                                              "Front-end loaders (loading and stockpile management)",
+                                                              "Rigid and ADTs for ore haulage",
+                                                              "Crushing and screening plants",
+                                                              "Dense Medium Separation (DMS) and spiral plants",
+                                                              "Underground LHDs 3.5tâ€“10t (UG chrome mines)",
+                                                              "Underground drill rigs",
+                                                              "Conveyor and material handling systems"
+                                                          ],
+                                "demand_trend":  "Growing strongly",
+                                "trend_notes":  "Chromium production +37.3% in January 2026; +3.9% for full year 2025. South Africa holds world\u0027s largest chrome reserves. Demand driven by robust global stainless steel demand from post-pandemic manufacturing recovery (China, India). Battery electric vehicle and green energy applications creating emerging demand. Steelpoort valley and Bushveld Complex in strong growth mode.",
+                                "key_regions":  [
+                                                    "Limpopo (Steelpoort valley â€” primary chrome belt; Bushveld Igneous Complex, Glencore Rhovan/Rhein)",
+                                                    "North West (western limb Bushveld; Brits-Rustenburg corridor)",
+                                                    "Mpumalanga (eastern limb Bushveld)"
+                                                ],
+                                "key_contractors_active":  [
+                                                               "Trollope Group",
+                                                               "Various opencast contractors in Limpopo"
+                                                           ]
+                            },
+                 "iron_ore":  {
+                                  "typical_equipment_mix":  [
+                                                                "Very large electric rope shovels and hydraulic excavators 100tâ€“200t+ (primary loading)",
+                                                                "Large rigid haul trucks 90tâ€“300t payload (mine haulage)",
+                                                                "Bulldozers D11 class and above (large-scale push dozing)",
+                                                                "Motor graders (haul road maintenance)",
+                                                                "Blast hole drill rigs",
+                                                                "Large-scale Dense Media Separation and crushing/screening plants",
+                                                                "Stacker-reclaimers and conveyor systems (bulk handling)",
+                                                                "Front-end loaders (reclaim and ROM pad)"
+                                                            ],
+                                  "demand_trend":  "Stable to slight decline with premium-grade upgrade investment",
+                                  "trend_notes":  "Iron ore production decreased 1.9% in 2026, linked to reduced Chinese steel output (down 4% in 2025). However, Kumba Iron Ore (Anglo American) executing R11.2bn Sishen Ultra-High Dense Media Separation (UHD-MS) project â€” increasing premium proportion from 18% to 55% of output. Construction commenced November 2024; initial operations expected 2026. Capital upgrade creates significant equipment demand even as total volumes are under pressure.",
+                                  "key_regions":  [
+                                                      "Northern Cape (Sishen Mine and Khumani Mine, Kathu â€” 95%+ of SA iron ore production; Kumba and Assmang)",
+                                                      "Limpopo (Phalaborwa â€” minor)"
+                                                  ],
+                                  "key_contractors_active":  [
+                                                                 "Trollope Group (Northern Cape experience)",
+                                                                 "Various large-scale contractors at Sishen"
+                                                             ]
+                              },
+                 "platinum":  {
+                                  "typical_equipment_mix":  [
+                                                                "Underground drill rigs (jackleg, column, mechanised â€” tabular reef narrow stopes)",
+                                                                "Underground LHDs 3.5tâ€“14t (tabular reef mining)",
+                                                                "Underground dump trucks 20tâ€“40t",
+                                                                "Shotcrete sprayers and rock bolting equipment",
+                                                                "Shaft sinking and decline development equipment",
+                                                                "Face drilling machines",
+                                                                "Surface: haul trucks, front-end loaders, crushers for concentrator feed",
+                                                                "Decline development: roadheaders, LHDs",
+                                                                "Battery-electric LHDs (replacing diesel â€” growing trend driven by Rham Equipment and others)"
+                                                            ],
+                                  "demand_trend":  "Growing",
+                                  "trend_notes":  "PGM output surged 36.5% in April 2026. Recovery from prior disruption period. Green hydrogen as PEM electrolyser catalyst creating new demand pool. Ivanhoe Mines / Mototolo joint venture: $488M Phase 1 + $1.5bn Phase 2 for Turfspruit and Macalacaskop expansion. Sibanye-Stillwater active in equipment and services procurement (loading and hauling RFI confirmed June 2026). Valterra Platinum (fmr. Amplats) using SAP Ariba for supplier procurement.",
+                                  "key_regions":  [
+                                                      "North West (Rustenburg â€” western limb Bushveld; largest concentration; Impala Rustenburg, Valterra operations)",
+                                                      "Limpopo (Mokopane/Potgietersrus â€” northern limb Bushveld; Valterra Mogalakwena â€” world\u0027s largest open-pit platinum mine)",
+                                                      "Mpumalanga (eastern limb Bushveld; Marula Mine â€” Implats)"
+                                                  ],
+                                  "key_contractors_active":  [
+                                                                 "Trollope Group (Bushveld experience)",
+                                                                 "Murray \u0026 Roberts Cementation",
+                                                                 "Aveng Mining"
+                                                             ]
+                              },
+                 "gold":  {
+                              "typical_equipment_mix":  [
+                                                            "Underground drill rigs (airleg, long-hole, mechanised â€” narrow reef Witwatersrand)",
+                                                            "Underground LHDs 3.5tâ€“7t (narrow tabular reef)",
+                                                            "Rock trucks and rail-based systems (conventional deep mines)",
+                                                            "Winder systems and shaft sinking equipment",
+                                                            "Surface: front-end loaders, haul trucks, excavators (waste dumps and tailings)",
+                                                            "Processing plant equipment: jaw crushers, ball mills, CIL/CIP tanks",
+                                                            "Mine dewatering pumps",
+                                                            "Surface open-pit: excavators, rigid dump trucks (where peripheral open-pit exists)"
+                                                        ],
+                              "demand_trend":  "Stable to growing",
+                              "trend_notes":  "Gold sales +12.2% to R19.5bn underpinned by record gold prices (above $3,000/oz in 2026). Qala Shallows Gold Mine (West Wits Mining, Witwatersrand) opened late 2025 â€” first new underground gold mine in SA in 15 years. Targeting 70,000oz/year. Phase of larger Witwatersrand Basin Project. TGME gold mine project: revised feasibility February 2026, 13.1-year life-of-mine plan covering Beta, Rietfontein, CDM and Frankfort. High gold price incentivising marginal mine re-openings and junior miner development.",
+                              "key_regions":  [
+                                                  "Gauteng / West Rand (Witwatersrand Basin â€” Qala Shallows new mine, AngloGold Mponeng, Harmony Kusasalethu)",
+                                                  "North West (Carletonville district â€” deepest mines, AngloGold, Harmony)",
+                                                  "Limpopo (Mokopane â€” TGME project area; Valterra satellite)",
+                                                  "Free State (Welkom goldfields â€” Harmony Target and Joel)"
+                                              ],
+                              "key_contractors_active":  [
+                                                             "Murray \u0026 Roberts Cementation",
+                                                             "Aveng Mining",
+                                                             "Strata Mining Services (rehabilitation)"
+                                                         ]
+                          }
+             }
+}

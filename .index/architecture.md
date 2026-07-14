@@ -10,6 +10,9 @@ Local fine-tuning and serving stack for two Ollama models:
 ## Pipeline
 
 ```
+00_ingest_company_context.py
+    → data/company_context/ (identity, registry, PROC-* queue)
+    → feeds Layer A/B company soul (see docs/geologix-ai-company-context-process.md)
 01_prepare_data.py
     → data/zasca_formatted.json + custom JSON templates
 02_train_geologix.py
@@ -23,6 +26,8 @@ Local fine-tuning and serving stack for two Ollama models:
 ask_legal.py
     → retrieve cases → prompt geologix-legal
 ```
+
+Company knowledge source: `data/veralogix_companys_information/` (portfolio_index + per-company folders + CROSS-PORTFOLIO). Company RAG vault (Layer C) is planned separately from the legal vault.
 
 ## Components
 

@@ -1,0 +1,439 @@
+{
+  "as_of": "2026-07-14",
+  "description": "Learning/training process queue derived from company information pack",
+  "process_types": [
+    {
+      "id": "PROC-ID",
+      "name": "Identity / introduction",
+      "purpose": "Introduce Geologix AI or a subsidiary in Group voice"
+    },
+    {
+      "id": "PROC-ROUTE",
+      "name": "Single-subsidiary routing",
+      "purpose": "Send a query to the correct company and explain why"
+    },
+    {
+      "id": "PROC-XPORT",
+      "name": "Cross-portfolio coordination",
+      "purpose": "Expand a market/ops trigger into a multi-entity action chain"
+    },
+    {
+      "id": "PROC-SOP",
+      "name": "Operating procedure",
+      "purpose": "Describe standard response or escalation (non-confidential)"
+    },
+    {
+      "id": "PROC-OFFER",
+      "name": "Capability brief",
+      "purpose": "Explain what the subsidiary sells or delivers"
+    },
+    {
+      "id": "PROC-RISK",
+      "name": "Risk & compliance handoff",
+      "purpose": "Flag MHSA / POPIA / environmental / security handoffs"
+    }
+  ],
+  "identity_process": {
+    "process_id": "PROC-ID",
+    "instruction_template": "As Geologix AI, introduce yourself to a new Group executive and explain how you serve the Veralogix / Geologix Vanguard portfolio.",
+    "uses": "geologix_identity.json"
+  },
+  "route_templates": [
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Aiguille Security",
+      "group": "Aiguille Group",
+      "sector": "Mining & Industrial Security Services",
+      "instruction_template": "A user asks for help related to Mining & Industrial Security Services. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Aiguille Security (Aiguille Group). Sector: Mining & Industrial Security Services. HQ: Mpumalanga. Related: A, i, g, u, i.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Aiguille Tools & Edges",
+      "group": "Aiguille Group",
+      "sector": "Ground Engaging Tools, Cutting Edges, Wear Parts",
+      "instruction_template": "A user asks for help related to Ground Engaging Tools, Cutting Edges, Wear Parts. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Aiguille Tools & Edges (Aiguille Group). Sector: Ground Engaging Tools, Cutting Edges, Wear Parts. HQ: Mpumalanga. Related: A, i, g, u, i.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Alpha Industries SA",
+      "group": "Veralogix Group",
+      "sector": "Crushing, Screening & Material Handling",
+      "instruction_template": "A user asks for help related to Crushing, Screening & Material Handling. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Alpha Industries SA (Veralogix Group). Sector: Crushing, Screening & Material Handling. HQ: Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Alpha Technical Solutions",
+      "group": "Veralogix Group",
+      "sector": "Technical Engineering Solutions",
+      "instruction_template": "A user asks for help related to Technical Engineering Solutions. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Alpha Technical Solutions (Veralogix Group). Sector: Technical Engineering Solutions. HQ: Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Bioniq (ISP)",
+      "group": "Veramani Group",
+      "sector": "ISP — Managed Wi-Fi, Hotspot Analytics",
+      "instruction_template": "A user asks for help related to ISP — Managed Wi-Fi, Hotspot Analytics. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Bioniq (ISP) (Veramani Group). Sector: ISP — Managed Wi-Fi, Hotspot Analytics. HQ: Middelburg, Mpumalanga. Related: Veramani IT, Veramani IT Holding, Vcom, YAL.ai.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "CG Transport",
+      "group": "Treadstone Group",
+      "sector": "Bulk Commodity Road Transport",
+      "instruction_template": "A user asks for help related to Bulk Commodity Road Transport. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: CG Transport (Treadstone Group). Sector: Bulk Commodity Road Transport. HQ: Mpumalanga. Related: Treadstone Logistics, Treadstone CPM.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Coal Processors International",
+      "group": "Veralogix Group",
+      "sector": "Coal Plant Labour & Operational Management",
+      "instruction_template": "A user asks for help related to Coal Plant Labour & Operational Management. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Coal Processors International (Veralogix Group). Sector: Coal Plant Labour & Operational Management. HQ: Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Endeto Project Services",
+      "group": "Veralogix Group",
+      "sector": "Engineering, Fabrication, Maintenance, OEM",
+      "instruction_template": "A user asks for help related to Engineering, Fabrication, Maintenance, OEM. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Endeto Project Services (Veralogix Group). Sector: Engineering, Fabrication, Maintenance, OEM. HQ: Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "IO Green",
+      "group": "Energy & Engineering",
+      "sector": "Solar & Electrical Installation",
+      "instruction_template": "A user asks for help related to Solar & Electrical Installation. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: IO Green (Energy & Engineering). Sector: Solar & Electrical Installation. HQ: South Africa. Related: see registry.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Mining & Exploration",
+      "group": "Unknown",
+      "sector": "",
+      "instruction_template": "A user asks for help related to . Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Mining & Exploration (Unknown). Sector: . HQ: South Africa. Related: see registry.",
+      "readiness": "review",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Mining Safety Services",
+      "group": "Salaria Group",
+      "sector": "Mine Safety Audits, Training & Compliance",
+      "instruction_template": "A user asks for help related to Mine Safety Audits, Training & Compliance. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Mining Safety Services (Salaria Group). Sector: Mine Safety Audits, Training & Compliance. HQ: South Africa. Related: Salaria Mining Services, Salaria Safety Services.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Pencox Auto Air",
+      "group": "Equipment & Fleet",
+      "sector": "Vehicle & Earthmoving A/C and Auto Electrical",
+      "instruction_template": "A user asks for help related to Vehicle & Earthmoving A/C and Auto Electrical. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Pencox Auto Air (Equipment & Fleet). Sector: Vehicle & Earthmoving A/C and Auto Electrical. HQ: South Africa. Related: see registry.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Ritz International",
+      "group": "Commodities & Trading",
+      "sector": "Diesel Trading & Bulk Fuel Supply",
+      "instruction_template": "A user asks for help related to Diesel Trading & Bulk Fuel Supply. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Ritz International (Commodities & Trading). Sector: Diesel Trading & Bulk Fuel Supply. HQ: South Africa. Related: V, e, r, a, -.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Salaria Mining Services",
+      "group": "Salaria Group",
+      "sector": "Mine Planning, Resource Management, Geotechnical",
+      "instruction_template": "A user asks for help related to Mine Planning, Resource Management, Geotechnical. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Salaria Mining Services (Salaria Group). Sector: Mine Planning, Resource Management, Geotechnical. HQ: South Africa. Related: Salaria Safety Services, Mining Safety Services.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Salaria Safety Services",
+      "group": "Salaria Group",
+      "sector": "Integrated Mine Safety Management",
+      "instruction_template": "A user asks for help related to Integrated Mine Safety Management. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Salaria Safety Services (Salaria Group). Sector: Integrated Mine Safety Management. HQ: South Africa. Related: Salaria Mining Services, Mining Safety Services.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Treadstone CPM",
+      "group": "Treadstone Group",
+      "sector": "Logistics Management",
+      "instruction_template": "A user asks for help related to Logistics Management. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Treadstone CPM (Treadstone Group). Sector: Logistics Management. HQ: Mpumalanga. Related: Treadstone Logistics, CG Transport.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Treadstone Logistics",
+      "group": "Treadstone Group",
+      "sector": "Bulk Road Haulage — Coal, Chrome, Iron Ore",
+      "instruction_template": "A user asks for help related to Bulk Road Haulage — Coal, Chrome, Iron Ore. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Treadstone Logistics (Treadstone Group). Sector: Bulk Road Haulage — Coal, Chrome, Iron Ore. HQ: Mpumalanga. Related: Treadstone CPM, CG Transport.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Vcom",
+      "group": "Veramani Group",
+      "sector": "Aerial Fibre Network Operator (FNO)",
+      "instruction_template": "A user asks for help related to Aerial Fibre Network Operator (FNO). Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Vcom (Veramani Group). Sector: Aerial Fibre Network Operator (FNO). HQ: South Africa. Related: Veramani IT, Veramani IT Holding, Bioniq (ISP), YAL.ai.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Vera-Commodities",
+      "group": "Commodities & Trading",
+      "sector": "Bulk Mineral Commodity Trading",
+      "instruction_template": "A user asks for help related to Bulk Mineral Commodity Trading. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Vera-Commodities (Commodities & Trading). Sector: Bulk Mineral Commodity Trading. HQ: South Africa. Related: R, i, t, z,  .",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralift",
+      "group": "Veralogix Group",
+      "sector": "Mobile Crane Hire & Heavy Lifting",
+      "instruction_template": "A user asks for help related to Mobile Crane Hire & Heavy Lifting. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralift (Veralogix Group). Sector: Mobile Crane Hire & Heavy Lifting. HQ: Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Diesel",
+      "group": "Veralogix Group",
+      "sector": "Bulk Diesel & Fuel Supply",
+      "instruction_template": "A user asks for help related to Bulk Diesel & Fuel Supply. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Diesel (Veralogix Group). Sector: Bulk Diesel & Fuel Supply. HQ: Middelburg, Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Drilling & Blasting.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Drilling & Blasting",
+      "group": "Veralogix Group",
+      "sector": "Contract Drilling & Blasting",
+      "instruction_template": "A user asks for help related to Contract Drilling & Blasting. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Drilling & Blasting (Veralogix Group). Sector: Contract Drilling & Blasting. HQ: Middelburg, Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Group",
+      "group": "Veralogix Group",
+      "sector": "Mining Services Conglomerate — Holding Entity",
+      "instruction_template": "A user asks for help related to Mining Services Conglomerate — Holding Entity. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Group (Veralogix Group). Sector: Mining Services Conglomerate — Holding Entity. HQ: Middelburg, Mpumalanga. Related: Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel, Veralogix Drilling & Blasting.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Mining (Pty) Ltd",
+      "group": "Veralogix Group",
+      "sector": "Contract Mining / Holding Company",
+      "instruction_template": "A user asks for help related to Contract Mining / Holding Company. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Mining (Pty) Ltd (Veralogix Group). Sector: Contract Mining / Holding Company. HQ: Middelburg, Mpumalanga. Related: Veralogix Group, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel, Veralogix Drilling & Blasting.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Plant (Woestalleen)",
+      "group": "Veralogix Group",
+      "sector": "ROM Crushing, DMS Coal Washing, Rail Siding",
+      "instruction_template": "A user asks for help related to ROM Crushing, DMS Coal Washing, Rail Siding. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Plant (Woestalleen) (Veralogix Group). Sector: ROM Crushing, DMS Coal Washing, Rail Siding. HQ: Woestalleen, Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Diesel, Veralogix Drilling & Blasting.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Properties (Pty) Ltd",
+      "group": "Veralogix Group",
+      "sector": "Property Holding",
+      "instruction_template": "A user asks for help related to Property Holding. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Properties (Pty) Ltd (Veralogix Group). Sector: Property Holding. HQ: 3A Laver Street, Middelburg. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Rentals, Veralogix Plant (Woestalleen), Veralogix Diesel.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veralogix Rentals",
+      "group": "Veralogix Group",
+      "sector": "Heavy Equipment Rental",
+      "instruction_template": "A user asks for help related to Heavy Equipment Rental. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veralogix Rentals (Veralogix Group). Sector: Heavy Equipment Rental. HQ: Middelburg, Mpumalanga. Related: Veralogix Group, Veralogix Mining (Pty) Ltd, Veralogix Plant (Woestalleen), Veralogix Diesel, Veralogix Drilling & Blasting.",
+      "readiness": "layer_b_and_c",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veramani IT",
+      "group": "Veramani Group",
+      "sector": "Software Development, Web, Connectivity",
+      "instruction_template": "A user asks for help related to Software Development, Web, Connectivity. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veramani IT (Veramani Group). Sector: Software Development, Web, Connectivity. HQ: South Africa. Related: Veramani IT Holding, Bioniq (ISP), Vcom, YAL.ai.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "Veramani IT Holding",
+      "group": "Veramani Group",
+      "sector": "IT Holding Company",
+      "instruction_template": "A user asks for help related to IT Holding Company. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: Veramani IT Holding (Veramani Group). Sector: IT Holding Company. HQ: South Africa. Related: Veramani IT, Bioniq (ISP), Vcom, YAL.ai.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-ROUTE",
+      "company": "YAL.ai",
+      "group": "Veramani Group",
+      "sector": "AI Cybersecurity — Anti-Phishing SaaS",
+      "instruction_template": "A user asks for help related to AI Cybersecurity — Anti-Phishing SaaS. Route to the correct Veralogix portfolio company and explain the handoff.",
+      "output_guidance": "Primary: YAL.ai (Veramani Group). Sector: AI Cybersecurity — Anti-Phishing SaaS. HQ: South Africa. Related: Veramani IT, Veramani IT Holding, Bioniq (ISP), Vcom.",
+      "readiness": "layer_a_and_c_review_b",
+      "status": "template_ready_for_human_or_generator_fill"
+    }
+  ],
+  "cross_portfolio_templates": [
+    {
+      "process_id": "PROC-XPORT",
+      "event": "New mine opening — Mpumalanga/Limpopo",
+      "lead_subsidiary": "Veralogix Rentals",
+      "supporting_subsidiaries": [
+        "Veralogix Diesel",
+        "Veralogix Drilling & Blasting",
+        "Aiguille Security",
+        "Bioniq (ISP)",
+        "Treadstone Logistics",
+        "Coal Processors International"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'New mine opening — Mpumalanga/Limpopo'.",
+      "output_guidance": "Lead: Veralogix Rentals. Engage: Veralogix Rentals, Veralogix Diesel, Veralogix Drilling & Blasting, Aiguille Security, Bioniq (ISP), Treadstone Logistics, Coal Processors International. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Major mine expansion or strip ratio increase",
+      "lead_subsidiary": "Veralogix Rentals",
+      "supporting_subsidiaries": [
+        "Veralogix Mining (Pty) Ltd",
+        "Veralogix Drilling & Blasting",
+        "Veralift",
+        "Endeto Project Services"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Major mine expansion or strip ratio increase'.",
+      "output_guidance": "Lead: Veralogix Rentals. Engage: Veralogix Rentals, Veralogix Mining (Pty) Ltd, Veralogix Drilling & Blasting, Veralift, Endeto Project Services. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Transnet Freight Rail failure / rail overflow",
+      "lead_subsidiary": "Treadstone Logistics",
+      "supporting_subsidiaries": [
+        "CG Transport",
+        "Treadstone CPM",
+        "Vera-Commodities"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Transnet Freight Rail failure / rail overflow'.",
+      "output_guidance": "Lead: Treadstone Logistics. Engage: Treadstone Logistics, CG Transport, Treadstone CPM, Vera-Commodities. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Contractor changeout at mining house",
+      "lead_subsidiary": "Veralogix Mining (Pty) Ltd",
+      "supporting_subsidiaries": [
+        "Veralogix Rentals",
+        "Salaria Mining Services",
+        "Mining Safety Services"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Contractor changeout at mining house'.",
+      "output_guidance": "Lead: Veralogix Mining (Pty) Ltd. Engage: Veralogix Mining (Pty) Ltd, Veralogix Rentals, Salaria Mining Services, Mining Safety Services. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "Load-shedding escalation",
+      "lead_subsidiary": "IO Green",
+      "supporting_subsidiaries": [
+        "Veralogix Diesel",
+        "Ritz International",
+        "Bioniq (ISP)",
+        "Aiguille Security"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'Load-shedding escalation'.",
+      "output_guidance": "Lead: IO Green. Engage: IO Green, Veralogix Diesel, Ritz International, Bioniq (ISP), Aiguille Security. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "POPIA enforcement action / cyber incident",
+      "lead_subsidiary": "YAL.ai",
+      "supporting_subsidiaries": [
+        "Veramani IT",
+        "Bioniq (ISP)"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'POPIA enforcement action / cyber incident'.",
+      "output_guidance": "Lead: YAL.ai. Engage: YAL.ai, Veramani IT, Bioniq (ISP). Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    },
+    {
+      "process_id": "PROC-XPORT",
+      "event": "New township / peri-urban development",
+      "lead_subsidiary": "Vcom",
+      "supporting_subsidiaries": [
+        "Bioniq (ISP)",
+        "IO Green"
+      ],
+      "instruction_template": "Route this Group opportunity/event and list required subsidiary coordination: 'New township / peri-urban development'.",
+      "output_guidance": "Lead: Vcom. Engage: Vcom, Bioniq (ISP), IO Green. Explain why each is triggered and recommend a joint planning window.",
+      "status": "template_ready_for_human_or_generator_fill"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Endeto Project Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "SteinmÃ¼ller Africa (Bilfinger Power Africa)",
+                     "website":  "https://steinmullerafrica.com",
+                     "core_capabilities":  [
+                                               "pressure vessel fabrication",
+                                               "boiler manufacturing",
+                                               "onsite construction and maintenance",
+                                               "pre-fabrication",
+                                               "structural steelwork"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "power generation",
+                                               "pulp and paper",
+                                               "petrochemical"
+                                           ],
+                     "notable":  "Established 1962; part of Bilfinger group; ISO 3834 and ASME-certified for pressure equipment; active across Africa and internationally; strong footprint in Mpumalanga power and mining belt"
+                 },
+                 {
+                     "name":  "ACTOM (Pty) Ltd",
+                     "website":  "https://actom.co.za",
+                     "core_capabilities":  [
+                                               "electro-mechanical manufacturing",
+                                               "equipment repairs and maintenance",
+                                               "motor and generator rewinds",
+                                               "transformer manufacturing",
+                                               "projects and distribution"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "energy",
+                                               "industrial",
+                                               "rail",
+                                               "municipalities"
+                                           ],
+                     "notable":  "33 outlets across sub-Saharan Africa; ISO 9001 certified; registered with CIDB; key supplier to Eskom, Transnet, and major mining houses"
+                 },
+                 {
+                     "name":  "Aveng Grinaker-LTA",
+                     "website":  "https://www.aveng.co.za",
+                     "core_capabilities":  [
+                                               "structural steelwork",
+                                               "civil and mechanical construction",
+                                               "plant maintenance",
+                                               "shutdowns",
+                                               "industrial installations"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "oil and gas",
+                                               "power",
+                                               "industrial"
+                                           ],
+                     "notable":  "JSE-listed; CIDB Grade 9 contractor; ISO 9001, ISO 14001, OHSAS 18001 certified; long-term maintenance contracts with Anglo American and Eskom"
+                 },
+                 {
+                     "name":  "DRA Global",
+                     "website":  "https://www.draglobal.com",
+                     "core_capabilities":  [
+                                               "EPCM services",
+                                               "mineral processing plant design and construction",
+                                               "mechanical fabrication",
+                                               "plant commissioning",
+                                               "shutdown management"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "minerals processing",
+                                               "industrial"
+                                           ],
+                     "notable":  "Listed on JSE; ISO 9001 certified; Joburg-headquartered; active on Anglo American, Gold Fields, and Impala projects"
+                 },
+                 {
+                     "name":  "Leita Steel",
+                     "website":  "https://www.leitasteel.co.za",
+                     "core_capabilities":  [
+                                               "structural steel design and manufacturing",
+                                               "CNC robotic fabrication",
+                                               "heavy industrial steelwork",
+                                               "commercial and mining structures"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "heavy industrial",
+                                               "commercial construction"
+                                           ],
+                     "notable":  "Established 1968; advanced robotic and CNC machinery; ISO 9001 certified; over 50 years in heavy industrial and mining fabrication"
+                 },
+                 {
+                     "name":  "Rollfab (Pty) Ltd",
+                     "website":  "https://www.rollfab.co.za",
+                     "core_capabilities":  [
+                                               "medium to heavy engineering fabrication",
+                                               "CNC bending and plate rolling",
+                                               "pressure vessels",
+                                               "mining equipment fabrication"
+                                           ],
+                     "industries_served":  [
+                                               "coal",
+                                               "gold",
+                                               "platinum",
+                                               "steel"
+                                           ],
+                     "notable":  "Specialist in plate rolling and section bending; ASME-aligned capabilities; active in Witwatersrand and Mpumalanga mining corridors"
+                 },
+                 {
+                     "name":  "Weld-Fab Engineering",
+                     "website":  "https://weldfab.co.za",
+                     "core_capabilities":  [
+                                               "precision metal fabrication",
+                                               "CNC plasma cutting",
+                                               "TIG/MIG/SAW welding",
+                                               "structural fabrication",
+                                               "mining equipment components"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "industrial",
+                                               "petrochemical"
+                                           ],
+                     "notable":  "SAIW-qualified welders; ISO 3834 compliant workshop; competitive on short-run and specialist component fabrication"
+                 },
+                 {
+                     "name":  "Conco Services",
+                     "website":  "https://www.conco.co.za",
+                     "core_capabilities":  [
+                                               "power plant maintenance",
+                                               "shutdown management",
+                                               "boiler and turbine maintenance",
+                                               "mechanical and civil construction",
+                                               "onsite industrial services"
+                                           ],
+                     "industries_served":  [
+                                               "power generation",
+                                               "mining",
+                                               "petrochemical"
+                                           ],
+                     "notable":  "Long-term Eskom maintenance contractor; strong on scheduled shutdowns and plant outage management; ISO 9001 and ISO 14001 certified"
+                 },
+                 {
+                     "name":  "Eduardo Construction (EC)",
+                     "website":  "https://eduardoconstruction.co.za",
+                     "core_capabilities":  [
+                                               "industrial maintenance labour supply",
+                                               "skilled welders and artisans",
+                                               "QC and NDT inspection",
+                                               "heat treatment services",
+                                               "shutdown staffing"
+                                           ],
+                     "industries_served":  [
+                                               "power generation",
+                                               "steelmaking",
+                                               "petrochemical",
+                                               "mining"
+                                           ],
+                     "notable":  "CIDB-registered; SACPCMP-compliant health and safety officers; specialist in providing accredited welding and inspection personnel to EPCM contractors"
+                 },
+                 {
+                     "name":  "Zest WEG Group",
+                     "website":  "https://www.zest.co.za",
+                     "core_capabilities":  [
+                                               "electrical and mechanical engineering",
+                                               "motor and drive repairs",
+                                               "custom engineered solutions",
+                                               "transformer manufacturing",
+                                               "onsite commissioning"
+                                           ],
+                     "industries_served":  [
+                                               "mining",
+                                               "water and wastewater",
+                                               "industrial",
+                                               "energy"
+                                           ],
+                     "notable":  "Part of WEG Group (Brazil); ISO 9001 certified; strong presence in motor repair and drive systems for mining pumps and conveyor applications"
+                 }
+             ]
+}

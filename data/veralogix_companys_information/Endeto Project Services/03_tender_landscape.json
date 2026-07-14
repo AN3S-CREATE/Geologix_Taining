@@ -1,0 +1,160 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Endeto Project Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "portals":  [
+                                 {
+                                     "name":  "National Treasury eTender Portal",
+                                     "url":  "https://etenders.gov.za",
+                                     "description":  "Official South African government tender portal; publishes all state department and SOE procurement notices; filterable by category (engineering, mechanical, maintenance)"
+                                 },
+                                 {
+                                     "name":  "CIDB Tender Database",
+                                     "url":  "https://www.cidb.org.za/cidb-tenders/current-tenders/",
+                                     "description":  "CIDB-registered contractor portal listing tenders requiring CIDB grading; includes structural steel, mechanical engineering, and civil works"
+                                 },
+                                 {
+                                     "name":  "Tender Bulletins SA",
+                                     "url":  "https://tenderbulletins.co.za",
+                                     "description":  "Aggregated government and SOE tender bulletin with category filtering including Steel Structures, Mechanical Engineering, and Maintenance Services"
+                                 },
+                                 {
+                                     "name":  "Online Tenders SA",
+                                     "url":  "https://www.onlinetenders.co.za",
+                                     "description":  "Commercial aggregator covering engineering consultants, civil, mechanical, and industrial tenders from government and private sector"
+                                 },
+                                 {
+                                     "name":  "Eskom Supplier Portal",
+                                     "url":  "https://www.eskom.co.za/procurement",
+                                     "description":  "Eskom\u0027s own procurement portal for plant maintenance, fabrication, and engineering services tenders; covers Generation, Transmission, and Distribution divisions"
+                                 },
+                                 {
+                                     "name":  "Transnet Procurement",
+                                     "url":  "https://www.transnet.net/Supplier/Pages/Sourcing.aspx",
+                                     "description":  "Transnet SOC Ltd procurement notices for ports, freight rail, and engineering services; typically Grade 7-9 CIDB requirement"
+                                 },
+                                 {
+                                     "name":  "Anglo American eSourcing",
+                                     "url":  "https://suppliers.angloamerican.com",
+                                     "description":  "Anglo American\u0027s supplier and sourcing portal; covers engineering, maintenance, and fabrication services for SA platinum, iron ore, and coal operations"
+                                 },
+                                 {
+                                     "name":  "Tender Alerts SA",
+                                     "url":  "https://tenderalerts.co.za",
+                                     "description":  "Subscription-based alert service for engineering services tenders; good for small-to-mid contractors needing filtered daily notifications"
+                                 },
+                                 {
+                                     "name":  "ProjectsIQ",
+                                     "url":  "https://projectsiq.co.za",
+                                     "description":  "South African project tracking database; covers upcoming mining, industrial, and infrastructure projects for early-stage business development"
+                                 }
+                             ],
+                 "cidb_grades":  {
+                                     "relevant_classes":  [
+                                                              {
+                                                                  "class_code":  "ME",
+                                                                  "description":  "Mechanical Engineering",
+                                                                  "relevance":  "Applies to plant fabrication, installation, maintenance, machining, and mechanical construction works; core class for Endeto\u0027s scope"
+                                                              },
+                                                              {
+                                                                  "class_code":  "CE",
+                                                                  "description":  "Civil Engineering",
+                                                                  "relevance":  "Applies to structural steelwork, foundations for plant, and civil works associated with industrial maintenance"
+                                                              },
+                                                              {
+                                                                  "class_code":  "SB",
+                                                                  "description":  "Specialist Boilers",
+                                                                  "relevance":  "Specialist class for pressure vessel and boiler fabrication and repair; required for PER-regulated work"
+                                                              },
+                                                              {
+                                                                  "class_code":  "SC",
+                                                                  "description":  "Specialist Construction Works",
+                                                                  "relevance":  "Covers specialist industrial installation and shutdown works"
+                                                              }
+                                                          ],
+                                     "grade_value_thresholds":  [
+                                                                    {
+                                                                        "grade":  1,
+                                                                        "max_contract_value_ZAR":  200000
+                                                                    },
+                                                                    {
+                                                                        "grade":  2,
+                                                                        "max_contract_value_ZAR":  650000
+                                                                    },
+                                                                    {
+                                                                        "grade":  3,
+                                                                        "max_contract_value_ZAR":  2000000
+                                                                    },
+                                                                    {
+                                                                        "grade":  4,
+                                                                        "max_contract_value_ZAR":  4000000
+                                                                    },
+                                                                    {
+                                                                        "grade":  5,
+                                                                        "max_contract_value_ZAR":  6500000
+                                                                    },
+                                                                    {
+                                                                        "grade":  6,
+                                                                        "max_contract_value_ZAR":  13000000
+                                                                    },
+                                                                    {
+                                                                        "grade":  7,
+                                                                        "max_contract_value_ZAR":  40000000
+                                                                    },
+                                                                    {
+                                                                        "grade":  8,
+                                                                        "max_contract_value_ZAR":  130000000
+                                                                    },
+                                                                    {
+                                                                        "grade":  9,
+                                                                        "max_contract_value_ZAR":  "unlimited"
+                                                                    }
+                                                                ],
+                                     "recommended_target_grades":  "Grade 5ME to Grade 7ME for typical mining maintenance and fabrication scopes; Grade 8-9 for large shutdown and EPCM sub-contracts",
+                                     "registration_note":  "Contractors must register separately for each class; annual financial assessment required; CIDB grade determines which government and SOE tenders a contractor can bid on"
+                                 },
+                 "major_procurement_programmes":  [
+                                                      {
+                                                          "client":  "Anglo American (including Anglo American Platinum and Kumba Iron Ore)",
+                                                          "programme":  "Long-term maintenance contracts (LTMCs) and annual shutdown packages for mines at Rustenburg, Sishen, Kolomela, and Mafube",
+                                                          "contact_portal":  "https://suppliers.angloamerican.com"
+                                                      },
+                                                      {
+                                                          "client":  "Sibanye-Stillwater",
+                                                          "programme":  "Multi-year maintenance and engineering contracts at gold and platinum operations (Kloof, Driefontein, Beatrix, Rustenburg)",
+                                                          "contact_portal":  "https://www.sibanyestillwater.com/suppliers"
+                                                      },
+                                                      {
+                                                          "client":  "Impala Platinum (Implats)",
+                                                          "programme":  "Scheduled shutdown and maintenance contracts at Rustenburg and Marula operations",
+                                                          "contact_portal":  "https://www.implats.co.za/supply"
+                                                      },
+                                                      {
+                                                          "client":  "Glencore Coal SA",
+                                                          "programme":  "Annual maintenance and fabrication contracts at Mpumalanga collieries (Tweefontein, Goedgevonden, Rietspruit)",
+                                                          "contact_portal":  "https://www.glencore.com/south-africa/supplier-information"
+                                                      },
+                                                      {
+                                                          "client":  "Exxaro Resources",
+                                                          "programme":  "Plant maintenance and shutdown services at Grootegeluk (Lephalale) and Mpumalanga operations",
+                                                          "contact_portal":  "https://exxaro.com/suppliers"
+                                                      },
+                                                      {
+                                                          "client":  "Eskom (Generation Division)",
+                                                          "programme":  "Outage and maintenance contracts at power stations; Medupi, Kusile, Tutuka; steel fabrication and pressure vessel repair scope",
+                                                          "contact_portal":  "https://www.eskom.co.za/procurement"
+                                                      },
+                                                      {
+                                                          "client":  "South32 (Hillside Aluminium and Samancor Chrome)",
+                                                          "programme":  "Furnace and plant maintenance engineering contracts; smelter rebuilds; structural fabrication",
+                                                          "contact_portal":  "https://www.south32.net/suppliers"
+                                                      },
+                                                      {
+                                                          "client":  "African Rainbow Minerals (ARM)",
+                                                          "programme":  "Maintenance and engineering services at Khumani Iron Ore, Two Rivers Platinum, and Nkomati Nickel",
+                                                          "contact_portal":  "https://www.arm.co.za/suppliers"
+                                                      }
+                                                  ]
+             }
+}

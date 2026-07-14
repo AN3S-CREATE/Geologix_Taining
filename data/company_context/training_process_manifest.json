@@ -1,0 +1,62 @@
+{
+  "as_of": "2026-07-14",
+  "assistant": "Geologix AI",
+  "process_doc": "docs/geologix-ai-company-context-process.md",
+  "ingest_script": "scripts/00_ingest_company_context.py",
+  "layers": {
+    "A_identity": "data/company_context/geologix_identity.json",
+    "B_soul_seed": "data/geologix-core-training.json (curated) → merge to data/geologix_core_training.json",
+    "C_rag_source": "data/veralogix_companys_information/** (not vaulted in this phase)"
+  },
+  "process_types": [
+    {
+      "id": "PROC-ID",
+      "name": "Identity / introduction",
+      "purpose": "Introduce Geologix AI or a subsidiary in Group voice"
+    },
+    {
+      "id": "PROC-ROUTE",
+      "name": "Single-subsidiary routing",
+      "purpose": "Send a query to the correct company and explain why"
+    },
+    {
+      "id": "PROC-XPORT",
+      "name": "Cross-portfolio coordination",
+      "purpose": "Expand a market/ops trigger into a multi-entity action chain"
+    },
+    {
+      "id": "PROC-SOP",
+      "name": "Operating procedure",
+      "purpose": "Describe standard response or escalation (non-confidential)"
+    },
+    {
+      "id": "PROC-OFFER",
+      "name": "Capability brief",
+      "purpose": "Explain what the subsidiary sells or delivers"
+    },
+    {
+      "id": "PROC-RISK",
+      "name": "Risk & compliance handoff",
+      "purpose": "Flag MHSA / POPIA / environmental / security handoffs"
+    }
+  ],
+  "readiness_counts": {
+    "layer_a_and_c_review_b": 15,
+    "layer_b_and_c": 14,
+    "review": 1,
+    "layer_a_stub": 1
+  },
+  "counts": {
+    "companies_in_registry": 31,
+    "portfolio_index_rows": 30,
+    "cross_portfolio_triggers": 7,
+    "proc_xport_templates": 7,
+    "proc_route_templates": 30
+  },
+  "next_steps": [
+    "Review geologix_identity.json and update models/Geologix.modelfile SYSTEM block",
+    "Fill PROC-ROUTE / PROC-XPORT templates into Alpaca pairs",
+    "Append reviewed pairs into data/geologix_core_training.json",
+    "Later: build company RAG vault (P4) separate from legal vault"
+  ]
+}

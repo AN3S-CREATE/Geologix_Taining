@@ -1,0 +1,91 @@
+﻿{
+    "_section":  "demand_signal_sources",
+    "_company":  "Veralogix Rentals",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "source_name":  "Mining Weekly",
+                     "url":  "https://www.miningweekly.com",
+                     "signal_type":  "Mine project announcements, new mine openings, expansion notices, contractor appointments, feasibility study publications",
+                     "update_frequency":  "Daily",
+                     "notes":  "Leading South African trade publication. Covered Qala Shallows gold mine opening (late 2025), TGME feasibility study (Feb 2026), Kumba Sishen UHD-MS project."
+                 },
+                 {
+                     "source_name":  "Engineering News",
+                     "url":  "https://www.engineeringnews.co.za",
+                     "signal_type":  "New mining project announcements, contractor awards, infrastructure developments, company expansions",
+                     "update_frequency":  "Daily",
+                     "notes":  "Reported Trollope Group\u0027s continued mining services growth (March 2025). Covers capital project announcements and contractor appointments across mining, energy and construction."
+                 },
+                 {
+                     "source_name":  "Mining Review Africa",
+                     "url":  "https://www.miningreview.com",
+                     "signal_type":  "New project milestones, commodity production updates, mine development notices",
+                     "update_frequency":  "Weekly+",
+                     "notes":  "Published \u0027Ten African mining projects set to reach key milestones in 2026.\u0027 Tracks project pipelines across Africa with strong SA focus."
+                 },
+                 {
+                     "source_name":  "ProjectsIQ â€” Mining Projects Africa",
+                     "url":  "https://projectsiq.co.za/mining-iq-new-mining-projects-africa.htm",
+                     "signal_type":  "New mining project database, capital project tracking, mine expansion notices, Kumba Iron Ore projects",
+                     "update_frequency":  "As projects are announced",
+                     "notes":  "Structured database of new and upcoming mining projects. Strong forward indicator for equipment demand â€” includes Kumba Iron Ore project pipeline."
+                 },
+                 {
+                     "source_name":  "Minerals Council South Africa",
+                     "url":  "https://www.mineralscouncil.org.za",
+                     "signal_type":  "Annual production statistics, commodity output reports, industry outlook, Facts and Figures pocketbook",
+                     "update_frequency":  "Annual (Facts \u0026 Figures) + quarterly updates",
+                     "notes":  "Authoritative source. \u0027Facts and Figures 2025\u0027 pocketbook: PGM production +36.5%, chrome +37.3%, coal -5.8%, iron ore -1.9%, gold sales +12.2%."
+                 },
+                 {
+                     "source_name":  "InvestSA â€” Mining \u0026 Mineral Processing",
+                     "url":  "https://www.investsa.gov.za/key-sectors/mining-mineral-processing/",
+                     "signal_type":  "Government-confirmed mining investment projects, new mine development notices, FDI announcements",
+                     "update_frequency":  "As projects are confirmed",
+                     "notes":  "Official investment promotion agency. Earliest official notification of confirmed capital projects."
+                 },
+                 {
+                     "source_name":  "DMRE â€” Mining Rights and Operating Mines by Province",
+                     "url":  "https://www.dmre.gov.za",
+                     "signal_type":  "New mining rights granted, prospecting right approvals, environmental authorisations",
+                     "update_frequency":  "As granted (ongoing)",
+                     "notes":  "Mining rights grants are the earliest-stage indicator. Also lists operating mines by province at dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/province/mpumalanga"
+                 },
+                 {
+                     "source_name":  "African Mining Market",
+                     "url":  "https://africanminingmarket.com/country/south-africa/",
+                     "signal_type":  "SA mining sector news aggregation, production updates, project developments",
+                     "update_frequency":  "Daily",
+                     "notes":  "PwC \u0027SA Mine 2025\u0027 report (Oct 2025) published here. Aggregates mining news."
+                 },
+                 {
+                     "source_name":  "Mining Indaba â€” Projects to Watch",
+                     "url":  "https://miningindaba.com/articles/mining-projects-to-watch-in-africa-per-commod",
+                     "signal_type":  "Commodity-level project pipeline for Africa, updated annually before February Indaba",
+                     "update_frequency":  "Annual (February) with updates",
+                     "notes":  "Forward indicator. Lists key projects per commodity with development timelines."
+                 },
+                 {
+                     "source_name":  "TendersOnTime â€” Mining Tenders South Africa",
+                     "url":  "https://www.tendersontime.com/southern-africa-tenders/mining-tenders/",
+                     "signal_type":  "Active mining equipment hire tenders, RFQs, RFPs â€” real-time demand signal",
+                     "update_frequency":  "Daily",
+                     "notes":  "Real-time signal of active procurement demand. Covers southern Africa. Immediate visibility into which mines are actively tendering."
+                 },
+                 {
+                     "source_name":  "TenderAlerts â€” Mining Services",
+                     "url":  "https://tenderalerts.co.za/categories/view/32/Mining-services-and-supplies",
+                     "signal_type":  "Mining services and equipment hire tenders â€” current confirmed active tenders at Vlakfontein and other SA mines",
+                     "update_frequency":  "Daily (1,000+ new tenders/week across all sectors)",
+                     "notes":  "Current live example: crushing/screening plant components at Vlakfontein Mine (Mpumalanga), closing 2 July 2026. Tender #6000008281."
+                 },
+                 {
+                     "source_name":  "Discovery Alert â€” South Africa Mining",
+                     "url":  "https://discoveryalert.com.au/south-africa-gold-mining-economic-renaissance-2026/",
+                     "signal_type":  "Junior miner and new discovery announcements, Minerals Council production forecasts",
+                     "update_frequency":  "As events occur",
+                     "notes":  "Minerals Council projects full-year 2026 mining sales could reach R995.5bn if trajectory holds. Tracks commodity price-driven project activations."
+                 }
+             ]
+}

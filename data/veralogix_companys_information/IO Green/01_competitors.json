@@ -1,0 +1,108 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "IO Green",
+    "_source":  "doc_cf247c.json",
+    "data":  [
+                 {
+                     "company_name":  "SolarAfrica",
+                     "website":  "https://solarafrica.com",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "Over 60 MW of funded solar projects across Southern Africa since 2011. Operates a PPA model allowing zero-capital deployment for C\u0026I clients. Full service from design through installation to performance guarantees."
+                 },
+                 {
+                     "company_name":  "JUWI Renewable Energies",
+                     "website":  "https://www.juwi.co.za",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "mining",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "Contracted 340 MWp of private solar projects in 2025 for Glencore (100 MW for ferrochrome smelters), Teraco, Sasol, and Air Liquide. Global developer with large-scale EPC capability."
+                 },
+                 {
+                     "company_name":  "Terra Firma",
+                     "website":  "https://terrafirma.energy (verify before use)",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "550+ delivered projects across Sub-Saharan Africa. Launched 27 MWp multi-phase industrial solar program with NCP Chlorchem â€” one of South Africa\u0027s largest behind-the-meter installations as of end-2025."
+                 },
+                 {
+                     "company_name":  "IMPOWER",
+                     "website":  "https://www.impower.co.za (verify before use)",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "25 MW of active sites; 150 MW under active development. Full EPC services covering project development, engineering, procurement, and construction."
+                 },
+                 {
+                     "company_name":  "GreenYellow South Africa",
+                     "website":  "https://greenyellowsa.co.za",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "South African arm of French-group GreenYellow, with 1,000+ MWp installed globally and 3,000+ Energy Efficiency Agreements. Entered South Africa in 2020 with an asset-financing/Energy-as-a-Service ownership model."
+                 },
+                 {
+                     "company_name":  "Voltalia",
+                     "website":  "https://www.voltalia.com",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "mining",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "Commissioned 148 MW Bolobedu solar farm (Limpopo) in April 2026 under a long-term CPPA with Richards Bay Minerals (Rio Tinto subsidiary), generating ~300 GWh/year and offsetting 237,000 tonnes of CO2 annually."
+                 },
+                 {
+                     "company_name":  "Pele Green Energy",
+                     "website":  "https://www.pele.co.za (verify before use)",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "mining",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "2+ GW of renewable energy developed in South Africa. Developing 100 MW Sonvanger solar plant for Glencore. Joint 75 MW project with Engie in the Northern Cape (inaugurated 2024). IPP model with long-term PPAs."
+                 },
+                 {
+                     "company_name":  "Sinetech",
+                     "website":  "https://www.sinetech.co.za",
+                     "core_service_focus":  "both",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial",
+                                                       "residential"
+                                                   ],
+                     "notable_recent_projects":  "25+ years in the South African market. Full-scope energy solutions: solar PV, UPS, inverters, battery storage, and electrical installation. Serves industrial and commercial clients across all nine provinces."
+                 },
+                 {
+                     "company_name":  "Alumo Energy",
+                     "website":  "https://alumo.co.za",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "residential"
+                                                   ],
+                     "notable_recent_projects":  "Gauteng-focused installer with a rent-to-own model. Flagged by industry publications as a transparent, vetted operator. Active in the SME and light-commercial segment."
+                 },
+                 {
+                     "company_name":  "GreenHouse Capital",
+                     "website":  "https://www.greenhousecapital.co.za (verify before use)",
+                     "core_service_focus":  "solar-only",
+                     "primary_customer_segments":  [
+                                                       "commercial",
+                                                       "industrial"
+                                                   ],
+                     "notable_recent_projects":  "PPA/rent-to-own provider operating nationally. Installs solar at zero upfront cost and charges clients per kWh at a rate below Eskom tariff. Recurring revenue model."
+                 }
+             ]
+}

@@ -1,0 +1,743 @@
+{
+  "competitors": [
+    {
+      "company_name": "Trollope Group",
+      "website": "https://trollopegroup.co.za",
+      "fleet_focus": [
+        "Excavators 70–260t",
+        "Rigid dump trucks 60–150t",
+        "Articulated dump trucks 20/40/60t",
+        "Front-end loaders 20–100t",
+        "Dozers 40/80/100t",
+        "Drill rigs (23t TH and 25t DTH)",
+        "Crushing and screening plants (mobile jaw, impact, cone, double roll, scalper screens)",
+        "Support equipment (graders, TLBs, water bowsers, service/diesel trucks)"
+      ],
+      "geographic_footprint": [
+        "Mpumalanga (coal)",
+        "Northern Cape (manganese, iron ore)",
+        "North West (platinum, Bushveld Igneous Complex)",
+        "Limpopo (platinum, northern limb Bushveld)",
+        "KwaZulu-Natal (lithium)",
+        "Botswana",
+        "Namibia (uranium)",
+        "DRC (copper)",
+        "Guinea (bauxite)"
+      ],
+      "approximate_fleet_size": "680+ units confirmed: 75+ excavators, 180+ rigid dump trucks, 150+ ADTs, 35+ front-end loaders, 55+ dozers, 20+ drill rigs, 15+ crushing/screening units, 150+ support equipment",
+      "recent_developments": "Strict first-life replacement policy on all primary equipment. Engineering News reported continued growth in diverse mining services (March 2025). Expanding into uranium (Namibia), lithium (KwaZulu-Natal), bauxite (Guinea), copper (DRC). Established 1975 — one of Africa's largest mining contractor fleets. Strong institutional track record across coal, platinum, manganese, iron ore."
+    },
+    {
+      "company_name": "Strata Mining Services",
+      "website": "https://stratams.co.za",
+      "fleet_focus": [
+        "Articulated dump trucks 18t–60t",
+        "Heavy equipment up to 90t",
+        "Hydraulic excavators",
+        "Front-end loaders",
+        "Wheel loaders",
+        "Bulldozers and track equipment",
+        "Graders",
+        "Crushing, screening and washing equipment",
+        "Lowbed trailers"
+      ],
+      "geographic_footprint": [
+        "Northern Cape (specified)",
+        "Nationwide South Africa"
+      ],
+      "approximate_fleet_size": "Not publicly disclosed — mid-sized specialist; fleet described as 'low- to medium-hour machines from well-known OEMs'",
+      "recent_developments": "Expanded into mine rehabilitation services (progressive and final closure). Added lowbed transportation as standalone service. Cape Town-based HQ (+27 21 023 1422). Focus on end-to-end opencast solutions. No public pricing — quotes only.",
+      "contact": {
+        "phone": "+27 21 023 1422",
+        "email": "info@stratams.co.za"
+      }
+    },
+    {
+      "company_name": "Black Mining",
+      "website": "https://www.blackmining.co.za",
+      "fleet_focus": [
+        "Excavators: 20t, 30t, 35t, 40t, 50t, 75t, 87t, 120t",
+        "Rigid dump trucks",
+        "Articulated dump trucks (Volvo A40G, Bell B40)",
+        "Tipper trucks (various sizes)",
+        "Water tankers (various sizes)",
+        "Graders",
+        "Dozers",
+        "Rollers",
+        "TLBs",
+        "Front-end loaders",
+        "Screens and crushers"
+      ],
+      "geographic_footprint": [
+        "Johannesburg-based (124 10th Road, Kew, 2090)",
+        "Nationwide delivery with 24/7 support"
+      ],
+      "approximate_fleet_size": "Not publicly disclosed — fleet spans 20t to 120t excavators across 8 size classes",
+      "recent_developments": "Pricing on hourly or contracted agreement basis — specific rates not disclosed. Operates with dedicated operators included. Rapid-response service teams. Focus on low-hour, site-ready fleet.",
+      "contact": {
+        "phone": "+27 76 227 9901",
+        "email": "info@blackmining.co.za"
+      }
+    },
+    {
+      "company_name": "JCI Mining",
+      "website": "https://jcimining.co.za",
+      "fleet_focus": [
+        "ADTs 30–40t",
+        "Rigid dump trucks 60t",
+        "Dozers (various sizes)",
+        "Graders (various sizes)",
+        "TLBs",
+        "Diesel and water bowsers",
+        "Diesel water pumps",
+        "Slurry pumps",
+        "Submersible pumps"
+      ],
+      "geographic_footprint": [
+        "Mpumalanga (HQ: Aerorand, Middelburg, 1055)",
+        "Coalfields of South Africa"
+      ],
+      "approximate_fleet_size": "Described as 'large fleet' — specific number not publicly disclosed",
+      "recent_developments": "Established 2007. Integrated opencast services beyond hire: load and haul, drilling and blasting, crushing and screening, dewatering, mine planning and geological services. Fully qualified engineering maintenance team on site. Contact: 013 246 1826 / info@jcimining.co.za"
+    },
+    {
+      "company_name": "Amandla Awethu Projects SA",
+      "website": "https://www.amandlawethuprojects.co.za",
+      "fleet_focus": [
+        "Excavators 20t–120t (including long-reach models)",
+        "Mini excavators 1.5t, 2.5t, 5t",
+        "ADTs 20t–50t",
+        "Wheeled loaders (CAT 938, 950, 966, 972)",
+        "Track bulldozers D5–D10",
+        "Motor graders",
+        "Single drum and padfoot compaction rollers",
+        "TLBs (2x4 and 4x4)",
+        "Skid steer loaders",
+        "Mobile scalpers/screeners",
+        "Jaw crushers",
+        "Triple deck and inclined tracked screens",
+        "Rigid dump trucks",
+        "Back tipper trucks 6m³–30m³",
+        "Side tipper trucks (34t)",
+        "Water tankers 10,000L–35,000L",
+        "Diesel tankers 10,000L–35,000L",
+        "Lowbed trailers 1–200t",
+        "Mobile cranes, tower cranes, crawler cranes",
+        "Telehandlers",
+        "Cherry pickers",
+        "Forklifts 5t, 8t",
+        "Drill rigs",
+        "Asphalt pavers",
+        "Concrete truck mixers",
+        "Mobile generators",
+        "Mobile lighting plants"
+      ],
+      "geographic_footprint": [
+        "Gauteng (primary base)",
+        "Nationwide South Africa (24/7 transport)"
+      ],
+      "approximate_fleet_size": "28 state-of-the-art machines (confirmed). Broadest equipment category range of any mid-tier competitor.",
+      "recent_developments": "New and low-hour fleet from leading OEMs. All equipment includes operators; fuel, VAT, accommodation and transport excluded. Attachments available: buckets, hammer breakers, greedy boards, teeth, load cells, reinforced blades. Strong B-BBEE positioning."
+    },
+    {
+      "company_name": "Barloworld Equipment (CAT Dealer)",
+      "website": "https://barloworld-equipment.com",
+      "fleet_focus": [
+        "CAT excavators",
+        "CAT dozers",
+        "CAT wheel loaders",
+        "CAT haul trucks",
+        "CAT graders",
+        "CAT power systems and generators"
+      ],
+      "geographic_footprint": [
+        "Nationwide South Africa",
+        "Sub-Saharan Africa"
+      ],
+      "approximate_fleet_size": "Institutional fleet — exact rental count not publicly disclosed. Largest multi-franchise heavy equipment provider in South Africa.",
+      "recent_developments": "Rental arm at rent.cat.com/barloworld-equipment. Minimum 1-month contracts. OEM service and parts advantage. Long-term rental options with tested and maintained CAT machines."
+    },
+    {
+      "company_name": "Eqstra Contract Mining (eXtract Group)",
+      "website": "https://eqstra-online.co.za",
+      "fleet_focus": [
+        "Contract mining fleet (heavy earthmoving)",
+        "Construction and mining equipment",
+        "Long-term lease equipment for mining and construction"
+      ],
+      "geographic_footprint": [
+        "South Africa (primary)",
+        "Rest of Africa",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "approximate_fleet_size": "Institutional scale — post R7.8bn recapitalisation by enX. Industrial Equipment and Fleet Management divisions acquired by enX; Contract Mining retained as eXtract Group.",
+      "recent_developments": "Core focus: distribution, long-term lease and rental of mobile capital equipment for construction and mining. Separately listed entity post-transaction. Strong institutional client relationships."
+    },
+    {
+      "company_name": "Rham Equipment",
+      "website": "https://rhamequipment.co.za",
+      "fleet_focus": [
+        "Underground load haul dumpers (LHDs) — battery: 7t (25HDB), 7.5t (30HDBF flameproof), 10t (30HDX)",
+        "Underground battery dump truck — 32t payload (DT32)",
+        "Face drilling rigs",
+        "Long hole drill rigs",
+        "Roofbolters",
+        "Specialised underground mobile mining equipment"
+      ],
+      "geographic_footprint": [
+        "Gauteng headquarters (15km north of OR Tambo Airport, Midrand)",
+        "Platinum operations (Bushveld Igneous Complex)",
+        "Gold operations (Witwatersrand)",
+        "Chrome operations (Limpopo)",
+        "Coal underground mines (Mpumalanga)"
+      ],
+      "approximate_fleet_size": "10+ battery LHDs operational with more under construction. 4 factories totalling 10,500sqm under roof and 35,000sqm open land. Established 1980.",
+      "recent_developments": "Battery-electric underground machines actively replacing diesel. 10 battery LHDs deployed across platinum, gold and chrome. Exhibitor at Electra Mining Africa 2026. B-BBEE Level 3 certified. Expanding into underground battery truck (DT32) for platinum and gold.",
+      "competitive_note": "Primarily underground mining specialist — limited direct competition with Veralogix on surface/opencast. Strongest in platinum, gold, chrome underground fleets."
+    },
+    {
+      "company_name": "Buraaq Mining Services",
+      "website": "https://www.buraaqmining.co.za",
+      "fleet_focus": [
+        "Mining equipment rental",
+        "Earthmoving equipment",
+        "Opencast mining support equipment"
+      ],
+      "geographic_footprint": [
+        "South Africa"
+      ],
+      "approximate_fleet_size": "Not publicly disclosed — small-to-mid-sized",
+      "recent_developments": "Equipment rental focused; competes on short-to-medium term hire market."
+    },
+    {
+      "company_name": "Scribante Group (Mining Plant Hire)",
+      "website": "https://www.scribantegroup.co.za",
+      "fleet_focus": [
+        "Mining plant hire",
+        "Earthmoving equipment",
+        "Opencast mining support"
+      ],
+      "geographic_footprint": [
+        "South Africa"
+      ],
+      "approximate_fleet_size": "Not publicly disclosed",
+      "recent_developments": "Active mining plant hire division in opencast contract mining sector."
+    }
+  ],
+
+  "demand_signal_sources": [
+    {
+      "source_name": "Mining Weekly",
+      "url": "https://www.miningweekly.com",
+      "signal_type": "Mine project announcements, new mine openings, expansion notices, contractor appointments, feasibility study publications",
+      "update_frequency": "Daily",
+      "notes": "Leading South African trade publication. Covered Qala Shallows gold mine opening (late 2025), TGME feasibility study (Feb 2026), Kumba Sishen UHD-MS project."
+    },
+    {
+      "source_name": "Engineering News",
+      "url": "https://www.engineeringnews.co.za",
+      "signal_type": "New mining project announcements, contractor awards, infrastructure developments, company expansions",
+      "update_frequency": "Daily",
+      "notes": "Reported Trollope Group's continued mining services growth (March 2025). Covers capital project announcements and contractor appointments across mining, energy and construction."
+    },
+    {
+      "source_name": "Mining Review Africa",
+      "url": "https://www.miningreview.com",
+      "signal_type": "New project milestones, commodity production updates, mine development notices",
+      "update_frequency": "Weekly+",
+      "notes": "Published 'Ten African mining projects set to reach key milestones in 2026.' Tracks project pipelines across Africa with strong SA focus."
+    },
+    {
+      "source_name": "ProjectsIQ — Mining Projects Africa",
+      "url": "https://projectsiq.co.za/mining-iq-new-mining-projects-africa.htm",
+      "signal_type": "New mining project database, capital project tracking, mine expansion notices, Kumba Iron Ore projects",
+      "update_frequency": "As projects are announced",
+      "notes": "Structured database of new and upcoming mining projects. Strong forward indicator for equipment demand — includes Kumba Iron Ore project pipeline."
+    },
+    {
+      "source_name": "Minerals Council South Africa",
+      "url": "https://www.mineralscouncil.org.za",
+      "signal_type": "Annual production statistics, commodity output reports, industry outlook, Facts and Figures pocketbook",
+      "update_frequency": "Annual (Facts & Figures) + quarterly updates",
+      "notes": "Authoritative source. 'Facts and Figures 2025' pocketbook: PGM production +36.5%, chrome +37.3%, coal -5.8%, iron ore -1.9%, gold sales +12.2%."
+    },
+    {
+      "source_name": "InvestSA — Mining & Mineral Processing",
+      "url": "https://www.investsa.gov.za/key-sectors/mining-mineral-processing/",
+      "signal_type": "Government-confirmed mining investment projects, new mine development notices, FDI announcements",
+      "update_frequency": "As projects are confirmed",
+      "notes": "Official investment promotion agency. Earliest official notification of confirmed capital projects."
+    },
+    {
+      "source_name": "DMRE — Mining Rights and Operating Mines by Province",
+      "url": "https://www.dmre.gov.za",
+      "signal_type": "New mining rights granted, prospecting right approvals, environmental authorisations",
+      "update_frequency": "As granted (ongoing)",
+      "notes": "Mining rights grants are the earliest-stage indicator. Also lists operating mines by province at dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/province/mpumalanga"
+    },
+    {
+      "source_name": "African Mining Market",
+      "url": "https://africanminingmarket.com/country/south-africa/",
+      "signal_type": "SA mining sector news aggregation, production updates, project developments",
+      "update_frequency": "Daily",
+      "notes": "PwC 'SA Mine 2025' report (Oct 2025) published here. Aggregates mining news."
+    },
+    {
+      "source_name": "Mining Indaba — Projects to Watch",
+      "url": "https://miningindaba.com/articles/mining-projects-to-watch-in-africa-per-commod",
+      "signal_type": "Commodity-level project pipeline for Africa, updated annually before February Indaba",
+      "update_frequency": "Annual (February) with updates",
+      "notes": "Forward indicator. Lists key projects per commodity with development timelines."
+    },
+    {
+      "source_name": "TendersOnTime — Mining Tenders South Africa",
+      "url": "https://www.tendersontime.com/southern-africa-tenders/mining-tenders/",
+      "signal_type": "Active mining equipment hire tenders, RFQs, RFPs — real-time demand signal",
+      "update_frequency": "Daily",
+      "notes": "Real-time signal of active procurement demand. Covers southern Africa. Immediate visibility into which mines are actively tendering."
+    },
+    {
+      "source_name": "TenderAlerts — Mining Services",
+      "url": "https://tenderalerts.co.za/categories/view/32/Mining-services-and-supplies",
+      "signal_type": "Mining services and equipment hire tenders — current confirmed active tenders at Vlakfontein and other SA mines",
+      "update_frequency": "Daily (1,000+ new tenders/week across all sectors)",
+      "notes": "Current live example: crushing/screening plant components at Vlakfontein Mine (Mpumalanga), closing 2 July 2026. Tender #6000008281."
+    },
+    {
+      "source_name": "Discovery Alert — South Africa Mining",
+      "url": "https://discoveryalert.com.au/south-africa-gold-mining-economic-renaissance-2026/",
+      "signal_type": "Junior miner and new discovery announcements, Minerals Council production forecasts",
+      "update_frequency": "As events occur",
+      "notes": "Minerals Council projects full-year 2026 mining sales could reach R995.5bn if trajectory holds. Tracks commodity price-driven project activations."
+    }
+  ],
+
+  "tender_landscape": {
+    "tender_portals": [
+      {
+        "portal_name": "National Treasury eTender Publication Portal",
+        "url": "https://www.etenders.gov.za",
+        "data_api_url": "https://ocds-api.etenders.gov.za",
+        "transparency_portal_url": "https://data.etenders.gov.za",
+        "update_frequency": "Real-time as tenders are published",
+        "data_format": "Web portal (HTML) + OCDS-compliant JSON REST API + bulk CSV/JSON/XLSX downloads (beta). Monthly bulk files at data.etenders.gov.za/Home/DownloadFile. Coverage from May 2021.",
+        "registration_requirements": "CSD registration required (secure.csd.gov.za). Free to access and search.",
+        "description": "Primary South African government tender portal. All national and provincial departments required to advertise here. Does NOT include most municipal tenders. OCDS API available at ocds-api.etenders.gov.za — currently in public beta but functional for programmatic consumption.",
+        "sectors_benefitting": ["Mining services", "Construction", "Equipment hire", "Security", "IT", "Energy"]
+      },
+      {
+        "portal_name": "CIDB Tender Search",
+        "url": "https://www.cidb.org.za",
+        "contractor_register": "https://registers.cidb.org.za",
+        "update_frequency": "Real-time as CIDB-registered tenders are published",
+        "data_format": "Web portal (HTML). No known public API.",
+        "registration_requirements": "CIDB registration (Grade 1–9) required to bid on construction-classified tenders. Mandatory for contracts over R200,000 with public entities in construction/civil engineering/mechanical engineering.",
+        "description": "Separate from eTenders — focuses on construction and civil engineering works. Relevant for earthmoving, civil works, mine infrastructure development. Grade 9 (unlimited value, R200M+ annual turnover, R90M+ track record) required for large mining construction tenders.",
+        "grade_table": [
+          {"grade": 1, "max_contract_value": "R500,000", "track_record_required": "R0", "available_capital": "Not specified"},
+          {"grade": 2, "max_contract_value": "R1,000,000", "track_record_required": "R130,000", "available_capital": "Not specified"},
+          {"grade": 3, "max_contract_value": "R3,000,000", "track_record_required": "R450,000", "available_capital": "R100,000"},
+          {"grade": 4, "max_contract_value": "R6,000,000", "track_record_required": "R900,000", "available_capital": "R200,000"},
+          {"grade": 5, "max_contract_value": "R10,000,000", "track_record_required": "R1,500,000", "available_capital": "R650,000"},
+          {"grade": 6, "max_contract_value": "R20,000,000", "track_record_required": "R3,000,000", "available_capital": "R1,300,000"},
+          {"grade": 7, "max_contract_value": "R60,000,000", "track_record_required": "R9,000,000", "available_capital": "R4,000,000"},
+          {"grade": 8, "max_contract_value": "R200,000,000", "track_record_required": "R30,000,000", "available_capital": "R13,000,000"},
+          {"grade": 9, "max_contract_value": "No limit", "track_record_required": "R90,000,000", "available_capital": "R40,000,000"}
+        ],
+        "sectors_benefitting": ["Construction", "Mining civil works", "Equipment hire (construction classification)", "Mine infrastructure"]
+      },
+      {
+        "portal_name": "AEMFC Open Tenders (State Coal Miner)",
+        "url": "https://www.aemfc.co.za/procurement/open-tenders",
+        "update_frequency": "Ongoing (51+ pages of active tenders confirmed)",
+        "data_format": "Web portal (HTML). PDF tender documents. Email submission to quotations@aemfc.co.za",
+        "registration_requirements": "Requires valid Purchase Order Number before commencing work. No pre-registration listed — open tender process.",
+        "description": "African Exploration Mining and Finance Corporation — South Africa's state coal mining company, subsidiary of CEF (SOC). Operates Vlakfontein Coal Mine (Ogies, Mpumalanga) supplying Kendal Power Station. Active tenders include crushing/screening plant components, pit dewatering, coal stockpile rehandling, pipeline supply. High-value relevant target for equipment rental.",
+        "live_tender_examples_june_2026": [
+          {"ref": "6000008281", "description": "Supply, installation, repair of crushing/screening plant components at Vlakfontein Mine", "est_value": "Below R50M", "closing": "2026-07-02"},
+          {"ref": "6000008278", "description": "Rehandling and compaction of coal stockpiles", "est_value": "Below R50M", "closing": "2026-06-02"},
+          {"ref": "6000008276", "description": "Pit dewatering services (5-month period) at Vlakfontein", "est_value": "Below R50M", "closing": "2026-05-28"}
+        ],
+        "sectors_benefitting": ["Mining equipment hire", "Earthmoving services", "Coal stockpile management", "Mine dewatering"]
+      },
+      {
+        "portal_name": "Sibanye-Stillwater Tender Portal (Coupa)",
+        "url": "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders/",
+        "registration_url": "https://www.sibanyestillwater.com/suppliers/south-africa/register-login/",
+        "update_frequency": "Ongoing — live portal",
+        "data_format": "Coupa procurement platform (web portal). Tender documents downloadable.",
+        "registration_requirements": "Registration via Coupa platform. CSD registration required.",
+        "description": "Largest PGM and gold producer in SA. High-value tenders across gold and platinum operations. Live tenders (June 2026): Loading & Hauling of SRD Material (RFI), PPE market testing (2 tenders), ICT systems, medical services. Equipment hire tenders appear regularly.",
+        "live_tender_examples_june_2026": [
+          {"ref": "352825", "description": "Loading & Hauling of SRD Material (RFI)", "closing": "2026-06-25"},
+          {"ref": "351293", "description": "Market Testing — PPE (Marikana)", "closing": "2026-06-26"},
+          {"ref": "351295", "description": "Market Testing — PPE (Gold & SRPM)", "closing": "2026-06-26"}
+        ],
+        "sectors_benefitting": ["Equipment rental", "Mining services", "Materials handling", "Security", "IT"]
+      },
+      {
+        "portal_name": "TendersOnTime — Mining & Mining Machinery",
+        "url": "https://www.tendersontime.com/southern-africa-tenders/mining-machinery-tenders/",
+        "update_frequency": "Daily",
+        "data_format": "Web portal (HTML). Email alerts.",
+        "registration_requirements": "Account registration (free or paid). Alert subscription available.",
+        "description": "Aggregator covering RFI, RFQ, RFP, EOI and RFT notices for mining machinery across Southern Africa. Includes eProcurement and government bids from multiple countries.",
+        "sectors_benefitting": ["Mining equipment hire", "Mining machinery", "Mining services", "Construction"]
+      },
+      {
+        "portal_name": "TenderAlerts — Mining Services",
+        "url": "https://tenderalerts.co.za/categories/view/32/Mining-services-and-supplies",
+        "update_frequency": "Daily (1,000+ new tenders/week platform-wide)",
+        "data_format": "Web portal (HTML). Email daily digest.",
+        "registration_requirements": "Free account for basic access. Paid for full tender document access.",
+        "description": "South Africa-focused. Mining services and equipment hire tenders. Tracks by issuer — useful for monitoring specific mining companies.",
+        "sectors_benefitting": ["Mining equipment hire", "Mining support services", "Construction"]
+      },
+      {
+        "portal_name": "Tender Bulletins — Mining Support Activities",
+        "url": "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+        "update_frequency": "Daily",
+        "data_format": "Web portal (HTML). Bulletin PDFs.",
+        "registration_requirements": "Account registration.",
+        "description": "Specialist mining tender category listing. Covers mining equipment hire, maintenance, support services and supply contracts.",
+        "sectors_benefitting": ["Mining equipment hire", "Mining services", "Construction"]
+      },
+      {
+        "portal_name": "DMRE Tenders",
+        "url": "https://www.dmre.gov.za/tenders",
+        "update_frequency": "As published by DMRE",
+        "data_format": "Web portal (HTML). PDF tender documents.",
+        "description": "Department of Mineral Resources and Energy tender notices.",
+        "sectors_benefitting": ["Mining services", "Energy", "Construction"]
+      },
+      {
+        "portal_name": "GlobalTenders — South Africa Mining",
+        "url": "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders",
+        "update_frequency": "Daily",
+        "data_format": "Web portal (HTML). Email alerts.",
+        "description": "International aggregator covering South African mining tenders.",
+        "sectors_benefitting": ["Mining equipment hire", "Mining services"]
+      }
+    ],
+    "typical_contract_durations": {
+      "short_term_hire": "1–6 months (spot and project-specific hire)",
+      "medium_term_hire": "6–12 months (most common band for mining equipment rental tenders)",
+      "long_term_hire": "12–36 months (strategic fleet hire, optional extension clauses common)",
+      "notes": "24-month plant hire durations documented in concluded contracts. AEMFC's pit dewatering contract published as 5-month duration. Multi-year framework agreements with annual renewal options common for large mining groups."
+    },
+    "typical_value_bands": {
+      "small_contracts_R": "R1M–R10M (single unit hire, short duration, minor operations)",
+      "medium_contracts_R": "R10M–R50M (fleet hire for medium-scale opencast operations; AEMFC tenders published 'below R50M')",
+      "large_contracts_R": "R50M–R200M (full fleet provision for large opencast operations)",
+      "mega_contracts_R": "R200M+ (major mining group multi-year fleet contracts, e.g. Sibanye, Anglo American)",
+      "documented_examples": [
+        "Load and haul contract: R21.6M for 45,000 tons/month volume",
+        "Hauling contract: R50.8M for 90,000 tons/month volume",
+        "AEMFC crushing/screening: below R50M threshold"
+      ]
+    },
+    "largest_rental_equipment_procurers": [
+      {
+        "name": "Sibanye-Stillwater",
+        "sector": "Gold, PGMs (platinum, palladium, rhodium)",
+        "supplier_portal": "https://www.sibanyestillwater.com/suppliers/south-africa/",
+        "procurement_platform": "Coupa",
+        "registration_url": "https://www.sibanyestillwater.com/suppliers/south-africa/register-login/",
+        "notes": "South Africa's largest gold and PGM producer. Active tender portal. Regular equipment hire RFIs/RFPs. Loading and hauling tenders confirmed live June 2026."
+      },
+      {
+        "name": "Anglo American / Kumba Iron Ore",
+        "sector": "Iron ore, PGMs, diamonds",
+        "supplier_portal": "https://southafrica.angloamerican.com/suppliers",
+        "procurement_platform": "SAP Ariba SLP (Supplier Lifecycle and Performance)",
+        "registration_url": "https://www.angloamerican.com/suppliers/how-to-become-a-supplier",
+        "notes": "Kumba deploying R11.2bn Sishen UHD-MS project. Uses SAP Ariba. Kumba-specific local procurement portal at angloamericankumba.com/suppliers."
+      },
+      {
+        "name": "Valterra Platinum (formerly Anglo American Platinum / Amplats)",
+        "sector": "Platinum, palladium, rhodium",
+        "supplier_portal": "https://www.valterraplatinum.com/suppliers",
+        "procurement_platform": "SAP Ariba",
+        "registration_url": "https://745548588.sourcing-eu.ariba.com/ad/selfRegistration",
+        "notes": "World's largest platinum producer. Rebranded from Anglo American Platinum. SAP Ariba registration portal confirmed. Phone: +27 (0)11 373 6111."
+      },
+      {
+        "name": "Implats (Impala Platinum)",
+        "sector": "Platinum, palladium",
+        "supplier_portal": "https://www.implats.co.za/south-african-prospective-supplier.php",
+        "procurement_platform": "SAP Ariba (two-stage: RFI on implats.co.za + SAP Ariba RFP)",
+        "registration_url": "https://implats-ir.co.za/pvas/public/implats/welcome.php",
+        "notes": "Second largest SA platinum producer. Covers Impala Rustenburg, Impala Refineries and Marula operations. Two-stage formal tender process."
+      },
+      {
+        "name": "Glencore South Africa",
+        "sector": "Coal, Chrome/Ferroalloys",
+        "supplier_portal": "https://www.glencore.com/south-africa/suppliers",
+        "procurement_platform": "Coal: Convene (convene.scp-app.com); Alloys: Coupa (supplier.coupahost.com); Rhovan: rhovanpsv.co.za",
+        "registration_url": "https://d0y000001j2rquaa.my.salesforce-sites.com/esd/",
+        "notes": "Major SA coal operator (Mpumalanga) and chrome/ferroalloys (Steelpoort). Three separate supplier portals by division. Contact offices in Bethanie, Witbank and Steelpoort. Prioritises local, black-owned businesses."
+      },
+      {
+        "name": "South32",
+        "sector": "Manganese, Chrome",
+        "supplier_portal": "https://www.south32.net/suppliers",
+        "procurement_platform": "Ariba Network (SAP Business Network)",
+        "notes": "Manganese (Hotazel, Northern Cape) and chrome operations. Significant equipment hire demand."
+      },
+      {
+        "name": "AEMFC (African Exploration Mining and Finance Corporation)",
+        "sector": "Coal (state entity)",
+        "supplier_portal": "https://www.aemfc.co.za/procurement/open-tenders",
+        "registration_notes": "Email quotations to quotations@aemfc.co.za. PO required before work commences.",
+        "notes": "State coal miner. Vlakfontein Coal Mine (Ogies, Mpumalanga). 51+ pages of active tenders. Equipment and services tenders posted directly on website. High-frequency procurement."
+      },
+      {
+        "name": "Eskom (coal supply chain)",
+        "sector": "Coal (indirect — through mining contractor supply chain)",
+        "supplier_portal": "https://supplier.eskom.co.za/",
+        "registration_notes": "CSD registration required. 4–6 week processing time. B-BBEE certificate required.",
+        "notes": "Tenders advertised on Eskom Tender Bulletin. e-Tendering system for formal tenders. Equipment rental demand is indirect — through coal mining contractors who supply Eskom."
+      },
+      {
+        "name": "Impala Rustenburg / Marula Mine",
+        "sector": "Platinum",
+        "notes": "North West and Limpopo. Active procurement. Covered under Implats SAP Ariba portal."
+      },
+      {
+        "name": "Anglo American Racing (ARM)",
+        "sector": "Iron ore, Chrome, Manganese, Platinum",
+        "notes": "African Rainbow Minerals. Diversified miner. Uses contractors across opencast and underground."
+      }
+    ]
+  },
+
+  "equipment_demand_by_sector": {
+    "coal": {
+      "typical_equipment_mix": [
+        "Large hydraulic excavators 50t–120t (overburden removal)",
+        "Rigid dump trucks 40t–100t (overburden and coal haulage)",
+        "ADTs 30t–45t (shorter internal hauls)",
+        "Bulldozers D8–D11 class (push dozing and rehabilitation)",
+        "Motor graders (haul road maintenance)",
+        "Water trucks (dust suppression)",
+        "Draglines (large stripping operations at export coal mines)",
+        "Coal wash plant equipment and jaw crushers",
+        "Screening plants",
+        "Underground: continuous miners, shuttle cars, roofbolters, LHDs (limited — most SA coal is opencast)"
+      ],
+      "demand_trend": "Declining",
+      "trend_notes": "Coal output fell 5.8% year-on-year in April 2026. Structural headwinds from global energy transition, ESG-driven capital withdrawal, and reduced Eskom demand as renewables scale. Richards Bay Coal Terminal export market active but under price and volume pressure. Waterberg coalfields (Limpopo) remain a long-term strategic reserve with slower development. Domestic power generation remains the stabilising demand floor.",
+      "key_regions": [
+        "Mpumalanga (Witbank/eMalahleni, Middelburg, Secunda, Ogies — ~80% of SA coal output; key mines: Eskom-contracted collieries, AEMFC Vlakfontein, Glencore R554, Thungela)",
+        "KwaZulu-Natal (Vryheid — anthracite)",
+        "Limpopo (Waterberg coalfields — Medupi/Kusile supply, long-term strategic reserve)",
+        "Free State (minor)"
+      ],
+      "key_contractors_active": ["JCI Mining (Mpumalanga-based)", "Trollope Group", "Aveng Mining", "Murray & Roberts Cementation"]
+    },
+    "chrome": {
+      "typical_equipment_mix": [
+        "Excavators 20t–60t (opencast ore extraction)",
+        "Front-end loaders (loading and stockpile management)",
+        "Rigid and ADTs for ore haulage",
+        "Crushing and screening plants",
+        "Dense Medium Separation (DMS) and spiral plants",
+        "Underground LHDs 3.5t–10t (UG chrome mines)",
+        "Underground drill rigs",
+        "Conveyor and material handling systems"
+      ],
+      "demand_trend": "Growing strongly",
+      "trend_notes": "Chromium production +37.3% in January 2026; +3.9% for full year 2025. South Africa holds world's largest chrome reserves. Demand driven by robust global stainless steel demand from post-pandemic manufacturing recovery (China, India). Battery electric vehicle and green energy applications creating emerging demand. Steelpoort valley and Bushveld Complex in strong growth mode.",
+      "key_regions": [
+        "Limpopo (Steelpoort valley — primary chrome belt; Bushveld Igneous Complex, Glencore Rhovan/Rhein)",
+        "North West (western limb Bushveld; Brits-Rustenburg corridor)",
+        "Mpumalanga (eastern limb Bushveld)"
+      ],
+      "key_contractors_active": ["Trollope Group", "Various opencast contractors in Limpopo"]
+    },
+    "iron_ore": {
+      "typical_equipment_mix": [
+        "Very large electric rope shovels and hydraulic excavators 100t–200t+ (primary loading)",
+        "Large rigid haul trucks 90t–300t payload (mine haulage)",
+        "Bulldozers D11 class and above (large-scale push dozing)",
+        "Motor graders (haul road maintenance)",
+        "Blast hole drill rigs",
+        "Large-scale Dense Media Separation and crushing/screening plants",
+        "Stacker-reclaimers and conveyor systems (bulk handling)",
+        "Front-end loaders (reclaim and ROM pad)"
+      ],
+      "demand_trend": "Stable to slight decline with premium-grade upgrade investment",
+      "trend_notes": "Iron ore production decreased 1.9% in 2026, linked to reduced Chinese steel output (down 4% in 2025). However, Kumba Iron Ore (Anglo American) executing R11.2bn Sishen Ultra-High Dense Media Separation (UHD-MS) project — increasing premium proportion from 18% to 55% of output. Construction commenced November 2024; initial operations expected 2026. Capital upgrade creates significant equipment demand even as total volumes are under pressure.",
+      "key_regions": [
+        "Northern Cape (Sishen Mine and Khumani Mine, Kathu — 95%+ of SA iron ore production; Kumba and Assmang)",
+        "Limpopo (Phalaborwa — minor)"
+      ],
+      "key_contractors_active": ["Trollope Group (Northern Cape experience)", "Various large-scale contractors at Sishen"]
+    },
+    "platinum": {
+      "typical_equipment_mix": [
+        "Underground drill rigs (jackleg, column, mechanised — tabular reef narrow stopes)",
+        "Underground LHDs 3.5t–14t (tabular reef mining)",
+        "Underground dump trucks 20t–40t",
+        "Shotcrete sprayers and rock bolting equipment",
+        "Shaft sinking and decline development equipment",
+        "Face drilling machines",
+        "Surface: haul trucks, front-end loaders, crushers for concentrator feed",
+        "Decline development: roadheaders, LHDs",
+        "Battery-electric LHDs (replacing diesel — growing trend driven by Rham Equipment and others)"
+      ],
+      "demand_trend": "Growing",
+      "trend_notes": "PGM output surged 36.5% in April 2026. Recovery from prior disruption period. Green hydrogen as PEM electrolyser catalyst creating new demand pool. Ivanhoe Mines / Mototolo joint venture: $488M Phase 1 + $1.5bn Phase 2 for Turfspruit and Macalacaskop expansion. Sibanye-Stillwater active in equipment and services procurement (loading and hauling RFI confirmed June 2026). Valterra Platinum (fmr. Amplats) using SAP Ariba for supplier procurement.",
+      "key_regions": [
+        "North West (Rustenburg — western limb Bushveld; largest concentration; Impala Rustenburg, Valterra operations)",
+        "Limpopo (Mokopane/Potgietersrus — northern limb Bushveld; Valterra Mogalakwena — world's largest open-pit platinum mine)",
+        "Mpumalanga (eastern limb Bushveld; Marula Mine — Implats)"
+      ],
+      "key_contractors_active": ["Trollope Group (Bushveld experience)", "Murray & Roberts Cementation", "Aveng Mining"]
+    },
+    "gold": {
+      "typical_equipment_mix": [
+        "Underground drill rigs (airleg, long-hole, mechanised — narrow reef Witwatersrand)",
+        "Underground LHDs 3.5t–7t (narrow tabular reef)",
+        "Rock trucks and rail-based systems (conventional deep mines)",
+        "Winder systems and shaft sinking equipment",
+        "Surface: front-end loaders, haul trucks, excavators (waste dumps and tailings)",
+        "Processing plant equipment: jaw crushers, ball mills, CIL/CIP tanks",
+        "Mine dewatering pumps",
+        "Surface open-pit: excavators, rigid dump trucks (where peripheral open-pit exists)"
+      ],
+      "demand_trend": "Stable to growing",
+      "trend_notes": "Gold sales +12.2% to R19.5bn underpinned by record gold prices (above $3,000/oz in 2026). Qala Shallows Gold Mine (West Wits Mining, Witwatersrand) opened late 2025 — first new underground gold mine in SA in 15 years. Targeting 70,000oz/year. Phase of larger Witwatersrand Basin Project. TGME gold mine project: revised feasibility February 2026, 13.1-year life-of-mine plan covering Beta, Rietfontein, CDM and Frankfort. High gold price incentivising marginal mine re-openings and junior miner development.",
+      "key_regions": [
+        "Gauteng / West Rand (Witwatersrand Basin — Qala Shallows new mine, AngloGold Mponeng, Harmony Kusasalethu)",
+        "North West (Carletonville district — deepest mines, AngloGold, Harmony)",
+        "Limpopo (Mokopane — TGME project area; Valterra satellite)",
+        "Free State (Welkom goldfields — Harmony Target and Joel)"
+      ],
+      "key_contractors_active": ["Murray & Roberts Cementation", "Aveng Mining", "Strata Mining Services (rehabilitation)"]
+    }
+  },
+
+  "regulatory_requirements": {
+    "primary_legislation": [
+      {
+        "act": "Mine Health and Safety Act No. 29 of 1996 (MHSA)",
+        "authority": "Department of Mineral Resources and Energy (DMRE) — Mine Health and Safety Inspectorate",
+        "url": "https://www.mhsc.org.za/sites/default/files/public/publications/Mine%20Health%20and%20Safety%20Act%2029%20of%201996%20and%20Regulations%20Final%20Booklet.pdf",
+        "full_regulations_url": "https://www.saflii.org/za/legis/consol_reg/mhasr301/",
+        "key_obligations": [
+          "Equipment owners supplying to mines: all plant must be safe and compliant before delivery to site",
+          "Machinery in hazardous areas (underground) must be explosion-protected and certified by SANAS-accredited test laboratory (ATL certificate required)",
+          "Risk assessments required for all equipment entering mine premises",
+          "Owners of equipment deployed at mines share duty-of-care obligations with the mine employer",
+          "2024 MHSA amendments: penalties up to 10% of annual turnover for non-compliance",
+          "Covers ventilation, ground control, explosives and machinery regulations in detail"
+        ]
+      },
+      {
+        "act": "Occupational Health and Safety Act No. 85 of 1993 (OHS Act)",
+        "authority": "Department of Employment and Labour (DoEL)",
+        "url": "https://labourguide.co.za/health-and-safety/regulations-of-the-ohs-act",
+        "key_obligations": [
+          "Applies to equipment used in non-mining workplaces (construction sites, workshops, depots, transport yards)",
+          "24 subsidiary regulations form part of the OHS Act framework",
+          "Construction Regulations (GNR 84 of 2014): apply when equipment used on construction sites",
+          "General Machinery Regulations: equipment must be inspected, maintained and certified as safe",
+          "Driven Machinery Regulations: earthmoving and powered vehicles require periodic inspections",
+          "Operators must hold prescribed operator certificates of competency",
+          "Rental company as 'designer, manufacturer or supplier' under Section 10: must ensure equipment is safe for intended use"
+        ]
+      }
+    ],
+    "equipment_inspection_and_certification": [
+      {
+        "requirement": "SANAS-Accredited Laboratory Certification",
+        "description": "Explosion-protected apparatus for underground hazardous areas must be certified by SANAS-accredited test laboratory before deployment underground.",
+        "authority": "South African National Accreditation System (SANAS) — sanas.co.za",
+        "applies_to": "Battery LHDs, diesel equipment in UG mines, electrical apparatus in hazardous zones"
+      },
+      {
+        "requirement": "Pre-Deployment Equipment Inspection",
+        "description": "All equipment entering mine premises must be inspected and declared safe. Rental companies responsible for compliance before delivery. Inspection records to be maintained and available to Mine Safety Officers.",
+        "applies_to": "All equipment entering mining sites"
+      },
+      {
+        "requirement": "Periodic Statutory Inspections",
+        "description": "Heavy earthmoving equipment subject to periodic statutory inspections under OHS Act (General Machinery Regulations) and MHSA.",
+        "intervals": {
+          "crane_and_lifting": "6-monthly inspection mandatory",
+          "pressure_vessels": "Annual inspection + DoEL registration",
+          "earthmoving_and_haul": "Pre-shift inspection by competent operator; periodic maintenance inspection by qualified artisan",
+          "tyre_management": "Regular inspection under MHSA for haul trucks"
+        }
+      },
+      {
+        "requirement": "Operator Competency Certificates",
+        "description": "All heavy earthmoving equipment operators must hold valid competency certificates. MHSA: certificates issued by Mine Health and Safety Inspectorate or TETA-accredited training body. OHS Act / Construction Regs: operator certificate for earthmoving machinery, cranes, forklifts.",
+        "applies_to": "Excavator, dozer, ADT, loader, grader, crane operators"
+      },
+      {
+        "requirement": "Roadworthiness and Transport Compliance",
+        "description": "Haulage trucks, lowbeds and transport vehicles on public roads must hold valid roadworthy certificates (National Road Traffic Act). Abnormal load permits required for oversized equipment transport.",
+        "applies_to": "All road transport of heavy equipment"
+      }
+    ],
+    "CIDB_registration": {
+      "applicability": "Required for contracts with public entities (state departments, SOEs, municipalities, state mining companies including AEMFC). Not mandatory for private-sector-only contracts.",
+      "authority": "Construction Industry Development Board (CIDB) — cidb.org.za",
+      "contractor_register": "https://registers.cidb.org.za",
+      "registration_portal": "https://www.cidb.org.za",
+      "grading_table": [
+        {"grade": 1, "max_contract_value": "R500,000", "track_record_required": "R0", "available_capital_required": "Not specified", "processing_time": "48 hours"},
+        {"grade": 2, "max_contract_value": "R1,000,000", "track_record_required": "R130,000", "available_capital_required": "Not specified", "processing_time": "21 working days"},
+        {"grade": 3, "max_contract_value": "R3,000,000", "track_record_required": "R450,000", "available_capital_required": "R100,000", "processing_time": "21 working days"},
+        {"grade": 4, "max_contract_value": "R6,000,000", "track_record_required": "R900,000", "available_capital_required": "R200,000", "processing_time": "21 working days"},
+        {"grade": 5, "max_contract_value": "R10,000,000", "track_record_required": "R1,500,000", "available_capital_required": "R650,000", "processing_time": "21 working days"},
+        {"grade": 6, "max_contract_value": "R20,000,000", "track_record_required": "R3,000,000", "available_capital_required": "R1,300,000", "processing_time": "21 working days"},
+        {"grade": 7, "max_contract_value": "R60,000,000", "track_record_required": "R9,000,000", "available_capital_required": "R4,000,000", "processing_time": "21 working days"},
+        {"grade": 8, "max_contract_value": "R200,000,000", "track_record_required": "R30,000,000", "available_capital_required": "R13,000,000", "processing_time": "21 working days"},
+        {"grade": 9, "max_contract_value": "No limit", "track_record_required": "R90,000,000", "available_capital_required": "R40,000,000", "best_annual_turnover": "R200,000,000+", "processing_time": "21 working days"}
+      ],
+      "relevant_work_classes": [
+        "CE — Civil Engineering (earthworks, bulk earthmoving)",
+        "ME — Mechanical Engineering (equipment supply and maintenance)",
+        "SQ — Specialist works"
+      ],
+      "documentation_required_grades_2_to_9": [
+        "Copy of project award from client",
+        "Certificate of project completion",
+        "Payment certificates for prior projects",
+        "Bank statements demonstrating available capital",
+        "CIPC company registration documents"
+      ]
+    },
+    "bbbee_requirements": {
+      "notes": "B-BBEE level is a critical commercial requirement (not a legal operating requirement) for winning mining sector contracts. Most large mining houses require minimum Level 4; many prefer Level 1 or 2. PPPFA scoring: B-BBEE points contribute to supplier evaluation. Rham Equipment confirmed Level 3. Amandla Awethu Projects positions strongly on B-BBEE. MPRDA (Mineral and Petroleum Resources Development Act) requires Mining Charter compliance including supplier development and local procurement targets.",
+      "mining_charter_III": "Third Mining Charter (effective 2018, updated) requires mining companies to source 70% of goods from South African manufactured products, 80% of services from B-BBEE companies. Equipment rental companies with strong B-BBEE scores benefit directly."
+    },
+    "additional_compliance": [
+      {
+        "requirement": "Tax Clearance / SARS Compliance (CSD Pin)",
+        "description": "Valid Tax Clearance Certificate (or CSD compliance status pin) required for all state tender submissions and most large private-sector RFQs."
+      },
+      {
+        "requirement": "CIPC Registration (Companies Act)",
+        "description": "Company registration with Companies and Intellectual Property Commission. Annual returns must be current."
+      },
+      {
+        "requirement": "COIDA — Compensation for Occupational Injuries and Diseases Act",
+        "description": "Registration with Compensation Fund mandatory for all employers. Letter of Good Standing (LOGS) required for most tender submissions and on-site safety files."
+      },
+      {
+        "requirement": "UIF — Unemployment Insurance Fund",
+        "description": "Registration and monthly contribution mandatory for all employers."
+      },
+      {
+        "requirement": "Central Supplier Database (CSD) Registration",
+        "description": "Required by National Treasury for all entities bidding on government contracts. Used by Eskom, Transnet, AEMFC and state mining entities to verify suppliers. URL: secure.csd.gov.za",
+        "url": "https://secure.csd.gov.za"
+      }
+    ]
+  }
+}

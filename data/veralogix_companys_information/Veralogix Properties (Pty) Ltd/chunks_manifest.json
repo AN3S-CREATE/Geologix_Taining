@@ -1,0 +1,117 @@
+﻿{
+    "total_chunks":  35,
+    "company":  "Veralogix Properties (Pty) Ltd",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__bbbee_transformation_p1.json",
+                                                             "doc1_South_African_Industrial__bbbee_transformation_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__opportunities_p1.json",
+                                                             "doc1_South_African_Industrial__opportunities_p2.json",
+                                                             "doc1_South_African_Industrial__opportunities_p3.json",
+                                                             "doc1_South_African_Industrial__opportunities_p4.json",
+                                                             "doc1_South_African_Industrial__opportunities_p5.json",
+                                                             "doc1_South_African_Industrial__opportunities_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__pricing_p1.json",
+                                                             "doc1_South_African_Industrial__pricing_p2.json",
+                                                             "doc1_South_African_Industrial__pricing_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__recommendations_p1.json",
+                                                             "doc1_South_African_Industrial__recommendations_p2.json",
+                                                             "doc1_South_African_Industrial__recommendations_p3.json",
+                                                             "doc1_South_African_Industrial__recommendations_p4.json",
+                                                             "doc1_South_African_Industrial__recommendations_p5.json",
+                                                             "doc1_South_African_Industrial__recommendations_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__regulatory_p1.json",
+                                                             "doc1_South_African_Industrial__regulatory_p2.json",
+                                                             "doc1_South_African_Industrial__regulatory_p3.json",
+                                                             "doc1_South_African_Industrial__regulatory_p4.json",
+                                                             "doc1_South_African_Industrial__regulatory_p5.json",
+                                                             "doc1_South_African_Industrial__regulatory_p6.json",
+                                                             "doc1_South_African_Industrial__regulatory_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__technology_p1.json",
+                                                             "doc1_South_African_Industrial__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_South_African_Industrial__threats_risks_p1.json",
+                                                             "doc1_South_African_Industrial__threats_risks_p2.json",
+                                                             "doc1_South_African_Industrial__threats_risks_p3.json",
+                                                             "doc1_South_African_Industrial__threats_risks_p4.json",
+                                                             "doc1_South_African_Industrial__threats_risks_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           }
+                                       ],
+                          "doc_key":  "doc1_South_African_Industrial",
+                          "chunk_count":  35,
+                          "source_doc":  "South African Industrial Property and Mining Land Development Intelligence_20260713111236.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

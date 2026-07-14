@@ -1,0 +1,41 @@
+﻿{
+    "company":  "Mining Safety Services",
+    "display_name":  "Mining Safety Services",
+    "group":  "Salaria Group",
+    "sector":  "Mine Safety Audits, Training \u0026 Compliance",
+    "hq":  "South Africa",
+    "description":  "Standalone mine safety services consultancy. Provides safety audits, compliance consulting, COMSOC-accredited safety officer training, incident investigation, and emergency response planning for mining companies.",
+    "data_status":  "complete_chunked",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Salaria Mining Services",
+                              "Salaria Safety Services"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  true,
+                         "has_prompt":  true,
+                         "chunk_files_count":  29,
+                         "research_doc_count":  1,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "market_segments",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

@@ -1,0 +1,549 @@
+{
+  "report_metadata": {
+    "company": "Coal Processors International (CPI)",
+    "generated_date": "2026-06-24",
+    "scope": "South African coal mining sector — labour deployment and operational plant management",
+    "currency": "ZAR unless otherwise stated"
+  },
+
+  "competitors": [
+    {
+      "company_name": "STA Coal Mining Company (Pty) Ltd",
+      "website": "https://stacoalmining.co.za",
+      "service_focus": "both",
+      "service_description": "Underground contract mining (bord and pillar, continuous miner), drill and blast, and plant operations management. Positions itself as a full outsourced coal mining services provider enabling clients to reduce labour risk and operating costs.",
+      "known_clients": ["Undisclosed collieries in Mpumalanga / Ermelo district"],
+      "location": "Ermelo, Mpumalanga",
+      "founded": 2004,
+      "recent_contracts_or_disputes": "No publicly confirmed specific contracts post-2023; company continues active marketing of underground mining outsourcing in Mpumalanga coalfields.",
+      "notes": "Directly comparable to CPI — coal-specialist underground labour and plant management outsourcer."
+    },
+    {
+      "company_name": "Boipelo Mining Contractors (Pty) Ltd",
+      "website": "https://www.boipelominingcontractors.com",
+      "service_focus": "both",
+      "service_description": "BBBEE Level 1 underground coal mining contractor providing comprehensive underground mining services including mine development, stoping, and plant management. JV between Cementation Africa (formerly Murray & Roberts Cementation, 49%) and Amandla TM (51%, 100% Black-owned).",
+      "known_clients": ["Arnot Coal Mine (Menar Holdings)", "New Clydesdale Colliery (Mpumalanga)"],
+      "recent_contracts_or_disputes": "Awarded R3.2-billion underground mining services contract at Arnot Coal Mine (June 2021, multi-year). Boipelo also held the New Clydesdale Colliery underground contract. Parent company Cementation Africa rebranded from Murray & Roberts Cementation effective July 2025 following acquisition by Differential Capital consortium.",
+      "notes": "Highest-profile coal underground management contractor in SA. Scale and BBBEE credentials make it a tier-1 competitor for large operational management tenders."
+    },
+    {
+      "company_name": "Trollope Mining Services (Trollope Group)",
+      "website": "https://trollopegroup.co.za",
+      "service_focus": "plant management",
+      "service_description": "Opencast contract mining and plant management specialist. Services include drill and blast, load and haul, crushing and screening, and ROM coal production. One of the largest private equipment fleets in Africa. Produces over 1 million tonnes ROM coal monthly across active Mpumalanga and Waterberg contracts.",
+      "known_clients": [
+        "Ntshovelo / Vlakvarkfontein Colliery (contract since 2010)",
+        "Salungano / Moabsvelden (Delmas, Mpumalanga)",
+        "Various Waterberg and Soutpansberg coal clients"
+      ],
+      "recent_contracts_or_disputes": "Multiple active long-term opencast coal contracts in Mpumalanga and Limpopo. No publicly reported labour disputes as of mid-2026.",
+      "notes": "Primarily opencast focus; less direct overlap with CPI's plant operations management model but competes for surface processing contracts."
+    },
+    {
+      "company_name": "Afrimat Mining Services (Pty) Ltd",
+      "website": "https://www.afrimat.co.za/contract-mining-services",
+      "service_focus": "plant management",
+      "service_description": "Full pit-to-port contract mining services including resource modelling, mine planning, drill and blast, load and haul, crushing and screening, beneficiation, rail loadout management, and logistics. Part of JSE-listed Afrimat Ltd.",
+      "known_clients": [
+        "Nkomati Anthracite Mine (coal/anthracite operations)",
+        "Various undisclosed coal clients in Mpumalanga"
+      ],
+      "recent_contracts_or_disputes": "Actively expanding mining services division. No public labour disputes. Operates 4 DTH drill rigs 24/7 at Nkomati achieving ~600,000 cbm overburden monthly.",
+      "notes": "JSE-listed backing gives Afrimat financial stability and bonding capacity competitive advantage. Vertically integrated model preferred by large mining houses."
+    },
+    {
+      "company_name": "Ritluka Resources (Pty) Ltd",
+      "website": "https://www.ritluka.co.za",
+      "service_focus": "both",
+      "service_description": "100% Black-owned opencast and underground coal mining contractor founded in 2014. Specialises in coal extraction, underground road construction and maintenance, earthmoving, drill and blast, and plant operations in both surface and underground environments.",
+      "known_clients": [
+        "Exxaro — Matla Coal Mine (underground geologically affected area mining and road maintenance)",
+        "Exxaro — Arnot Coal Mine (underground services)",
+        "Unnamed colliery near Kriel, Mpumalanga (surface thermal coal)"
+      ],
+      "recent_contracts_or_disputes": "Holds active contracts at two Exxaro Mpumalanga operations (Matla and Arnot). Founded by mining engineer Rhandzu Ngobeni and geologist Bonga Myeza. Strong BBBEE profile is a competitive advantage for BEE-compliant procurement.",
+      "notes": "Fastest-growing Black-owned coal services contractor in Mpumalanga — BBBEE advantage increasingly decisive in Exxaro, Seriti, and Thungela procurement."
+    },
+    {
+      "company_name": "Workforce Staffing (Workforce Holdings Ltd)",
+      "website": "https://workforcestaffing.co.za/mining",
+      "service_focus": "labour",
+      "service_description": "Large-scale mining labour outsourcing and TES (Temporary Employment Services) provider. Supplies permanent and temporary staff, manages contractor workforces, payroll, IR, HR, employee benefits, and health services. Recognised Top Employer 2026. Subsidiary of JSE AltX-listed Workforce Holdings Limited.",
+      "known_clients": ["Undisclosed — serves clients across manufacturing, logistics, mining, and renewable energy sectors"],
+      "recent_contracts_or_disputes": "No specific mining contract disclosures publicly available. Employs over 1,100 permanent staff and pays approximately 35,000 temporary contractors weekly across all sectors.",
+      "notes": "Competes with CPI on pure labour deployment (TES) side rather than operational plant management. Largest scale TES competitor in the SA mining labour space."
+    },
+    {
+      "company_name": "Cementation Africa (formerly Murray & Roberts Cementation)",
+      "website": "https://cementation.murrob.com",
+      "service_focus": "both",
+      "service_description": "Underground mining contractor providing shaft construction, mine development, specialist mining services (raise boring, grouting), and contract mining. Has coal mining capability via its Boipelo JV. Rebranded from Murray & Roberts Cementation following acquisition by Differential Capital consortium (effective 1 July 2025).",
+      "known_clients": [
+        "Arnot Coal Mine (via Boipelo JV)",
+        "New Clydesdale Colliery (via Boipelo JV — historical)",
+        "Matla Colliery (stonework and development — historical)"
+      ],
+      "recent_contracts_or_disputes": "Parent Murray & Roberts Holdings entered business rescue in 2024-2025 and is being wound up; Cementation Africa was ring-fenced and acquired independently. De Beers descoped Venetia contract (Nov 2024), which represented >50% of prior revenue — company actively rebuilding order book including coal sector.",
+      "notes": "Post-restructure, Cementation Africa may aggressively pursue coal management contracts to rebuild revenue. Track carefully for new coal tenders in H2 2025–2026."
+    },
+    {
+      "company_name": "TRS Staffing Solutions",
+      "website": "https://www.trsstaffing.com/south-africa",
+      "service_focus": "labour",
+      "service_description": "International technical staffing and recruitment agency providing contract and permanent placement of engineering, technical, and field services personnel including mining plant operators, processing technicians, project managers, and commissioning specialists to opencast and underground mines.",
+      "known_clients": ["Undisclosed — multinational client base across SA mining sector"],
+      "recent_contracts_or_disputes": "No specific coal contract disclosures. Operating Johannesburg office serving SA mining industry.",
+      "notes": "Primarily competes on technical and specialist recruitment rather than full workforce deployment or plant management. Less direct overlap with CPI than labour outsourcers but relevant for sourcing specialist plant operators."
+    }
+  ],
+
+  "demand_signals": [
+    {
+      "signal_type": "New mine development and colliery openings",
+      "description": "New colliery projects create immediate demand for operational staffing and plant management from greenfield ramp-up through steady-state production. Mine owners frequently lack internal operational capacity to staff and run new plants.",
+      "current_examples": [
+        "Seriti Naudesbank Colliery (opened March 2025, 1 Mt/y, 300 direct jobs, underground phase commencing ~2027)",
+        "MC Mining Makhado Phase 2 (expected commissioning 2026)",
+        "18 new coal projects identified with cumulative potential >30 Mt/y if developed"
+      ],
+      "monitoring_sources": [
+        {
+          "source": "Engineering News — Coal",
+          "url": "https://www.engineeringnews.co.za/coal.php"
+        },
+        {
+          "source": "Mining Weekly — Coal",
+          "url": "https://www.miningweekly.com/page/coal"
+        },
+        {
+          "source": "DMRE Operating Mines Register",
+          "url": "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines"
+        },
+        {
+          "source": "Minerals Council SA — Coal",
+          "url": "https://www.mineralscouncil.org.za/sa-mining/coal"
+        }
+      ]
+    },
+    {
+      "signal_type": "Production ramp-up and life-of-mine expansion projects",
+      "description": "Capital expansion projects (new shafts, new sections, beneficiation plant upgrades) create demand for specialist technical operators and management personnel during construction and commissioning phases.",
+      "current_examples": [
+        "Exxaro Matla LOME Project (R5.2bn, New Mine 1 opened May 2026, ~4.2 Mt/y new capacity, 6,174 total employees inc. contractors)",
+        "Thungela Zibulo North Shaft Extension (R2.5bn aggregate expansionary capex, extends underground life to 2038)",
+        "Exxaro R5.2bn Grootegeluk expansion (Limpopo)"
+      ],
+      "monitoring_sources": [
+        {
+          "source": "Exxaro Investor Relations / Press Releases",
+          "url": "https://www.exxaro.com/media-and-insights/press-releases"
+        },
+        {
+          "source": "Thungela Resources Investor Updates",
+          "url": "https://www.thungela.com/investors"
+        },
+        {
+          "source": "Mining Weekly",
+          "url": "https://www.miningweekly.com"
+        }
+      ]
+    },
+    {
+      "signal_type": "Management contract and operational outsourcing tenders",
+      "description": "Coal mining houses periodically tender for third-party operational management, underground contract mining, and processing plant management services. Tender values range from R500m to R5bn+ over 5–10 year contract periods.",
+      "current_examples": [
+        "AEMFC open tenders (state-owned coal mining finance entity)",
+        "Arnot Coal Mine underground services (R3.2bn Boipelo contract commenced 2021 — renewal cycle ~2026/2027)",
+        "Matla Mine operational contractor appointments for New Mine 1 (2026)"
+      ],
+      "monitoring_sources": [
+        {
+          "source": "National Treasury eTenders Portal",
+          "url": "https://www.etenders.gov.za"
+        },
+        {
+          "source": "AEMFC Procurement Portal",
+          "url": "https://www.aemfc.co.za/procurement/open-tenders"
+        },
+        {
+          "source": "Tender Bulletins — Mining and Supply Services",
+          "url": "https://tenderbulletins.co.za/tender-category/mining-support-service-activities"
+        },
+        {
+          "source": "Global Tenders — SA Mining",
+          "url": "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders.php"
+        },
+        {
+          "source": "Tenders on Time — Southern Africa Mining",
+          "url": "https://www.tendersontime.com/southern-africa-tenders/mining-tenders"
+        }
+      ]
+    },
+    {
+      "signal_type": "Labour disruption and strike action",
+      "description": "Industrial action (strikes, go-slows, work-to-rule) or threatened strike action causes mining houses to consider or accelerate outsourcing of operational functions to mitigate continuity risk. Post-strike operational recovery also generates outsourcing demand.",
+      "current_examples": [
+        "NUM 3-year coal sector wage agreement (7% p.a.) expected to expire ~mid-2026, triggering new wage negotiations and potential industrial action risk",
+        "Historical: coal sector-wide threatened strikes (2022–2023) accelerated outsourcing discussions"
+      ],
+      "monitoring_sources": [
+        {
+          "source": "National Union of Mineworkers (NUM) Press Releases",
+          "url": "https://num.org.za/news-reports-speeches"
+        },
+        {
+          "source": "AMCU Website and Media Releases",
+          "url": "https://www.amcu.org.za"
+        },
+        {
+          "source": "CCMA (Commission for Conciliation, Mediation and Arbitration)",
+          "url": "https://www.ccma.org.za"
+        },
+        {
+          "source": "Mining Weekly — Labour",
+          "url": "https://www.miningweekly.com/page/labour"
+        }
+      ]
+    },
+    {
+      "signal_type": "Eskom coal supply agreement renewals and mine-to-power-station contracts",
+      "description": "When Eskom extends or enters new coal supply agreements, the mines affected require operational certainty — often triggering outsourced management arrangements to ensure delivery commitments are met.",
+      "current_examples": [
+        "Exxaro–Eskom Coal Supply Agreement (effective 1 April 2026, 17 years to 2043, 9.3 Mt/y to Matla Power Station) — creates sustained operational management demand at Matla"
+      ],
+      "monitoring_sources": [
+        {
+          "source": "Eskom Media Releases",
+          "url": "https://www.eskom.co.za/media-releases"
+        },
+        {
+          "source": "Business Day — Energy",
+          "url": "https://www.businessday.co.za/energy"
+        }
+      ]
+    }
+  ],
+
+  "labour_market_intelligence": {
+    "skilled_labour_shortage_areas": {
+      "summary": "South Africa's coal mining sector faces a structural shortage of specialized technical and supervisory mining personnel, exacerbated by emigration of qualified professionals and underinvestment in vocational training.",
+      "critical_shortage_roles": [
+        {
+          "role": "Underground coal mining supervisors and section managers",
+          "detail": "Blasting certificate holders and competent persons for coal underground are in chronic undersupply, particularly for bord-and-pillar operations."
+        },
+        {
+          "role": "Coal processing plant operators",
+          "detail": "Plant and machine operators constitute 35% of the coal workforce; demand exceeds supply as processing plant expansions at Matla, Zibulo, and Naudesbank ramp up."
+        },
+        {
+          "role": "Electrical and instrumentation technicians",
+          "detail": "Electrical engineering technicians (20% of skilled technician roles) and electronics technicians (16%) are scarce. Companies are importing expatriate workers at premium costs."
+        },
+        {
+          "role": "Safety, Health and Environmental (SHE) officers",
+          "detail": "SHE officers constitute 32% of skilled technician occupations in coal mining; regulatory scrutiny under MHSA intensifies demand."
+        },
+        {
+          "role": "Mining engineers and geologists",
+          "detail": "Across the broader mining sector, mining engineers, geologists with exploration expertise, and metallurgists are in chronic undersupply, with companies poaching talent from competitors."
+        }
+      ]
+    },
+    "union_activity": {
+      "NUM": {
+        "full_name": "National Union of Mineworkers",
+        "website": "https://num.org.za",
+        "coal_sector_relevance": "Dominant union in South Africa's coal mining sector.",
+        "current_wage_agreement": {
+          "terms": "Three-year agreement reached approximately 2023–2024 at 7% per annum increases across all years.",
+          "negotiation_note": "NUM opened 2023 coal negotiations with a 15% demand before settling at 7% p.a. — deal averted sector-wide strike that would have impacted Eskom coal supply.",
+          "expiry_outlook": "Agreement expected to expire in 2025/2026, triggering next negotiation round. NUM has stated no agreement should be below CPI."
+        },
+        "posture": "NUM supports coal as part of SA's energy mix and opposes rapid just transition timelines. Likely to negotiate aggressively in the next round given CPI trajectory."
+      },
+      "AMCU": {
+        "full_name": "Association of Mineworkers and Construction Union",
+        "coal_sector_relevance": "Minor presence in coal; predominantly active in platinum and gold sectors. Opportunistic recruitment attempts in coal during NUM disputes.",
+        "current_activity": "Wage talks in platinum sector continuing 2025–2026; limited coal-specific activity."
+      }
+    },
+    "employment_trends": {
+      "total_coal_sector_employment": "Approximately 91,000 direct employees as of 2022 (down from 108,000 in 2019). Mining sector total employment reached 476,028 persons in March 2026, up from 443,825 in December 2025.",
+      "contractor_ratio": "43% of the coal mining workforce are contract workers (up from 5% in 1987). This creates sustained demand for labour outsourcing services.",
+      "skills_level": "Only 30% of permanent coal employees and 10% of contractors have higher education or specialized training. 53% of all workers are unskilled or semi-skilled.",
+      "commodity_trend": "Coal employment under long-term structural pressure due to global energy transition. However, near-term (2025–2030) employment remains supported by Eskom supply agreements and export demand from Asia.",
+      "sector_growth_2026": "Modest 2,000 job gain year-on-year in mining to Q3 2025. Coal-specific employment broadly stable with offsetting forces: new mines and expansions vs. older mine closures."
+    },
+    "labour_broking_regulation": {
+      "governing_legislation": "Labour Relations Act 66 of 1995, Sections 198, 198A–D (Temporary Employment Services / TES)",
+      "key_provisions": [
+        {
+          "provision": "Section 198(1) — TES as employer",
+          "detail": "The TES (labour broker) is the legal employer of any worker placed with a client."
+        },
+        {
+          "provision": "Section 198A — Three-month deeming rule",
+          "detail": "Once a worker earning below the earnings threshold (currently ZAR 205,433.30 p.a.) has been placed at the same client for more than three months, the client is deemed to be the employer for all LRA purposes. The worker is then entitled to the same employment conditions as comparable permanent employees of the client."
+        },
+        {
+          "provision": "Section 200B — Joint and several liability",
+          "detail": "Both TES and client are jointly and severally liable if they structure arrangements to evade obligations under the LRA or BCEA."
+        },
+        {
+          "provision": "Pending LRA Amendments (2025)",
+          "detail": "Government proposed 47 amendments to the LRA in 2025, including amendments affecting TES arrangements and employment equity. Final legislation not yet enacted as of mid-2026. CPI should monitor the Labour Amendment Bill progress."
+        }
+      ],
+      "compliance_implication_for_CPI": "CPI must ensure that workers deployed to coal mines for >3 months who earn below ZAR 205,433.30 p.a. are treated as client employees for LRA purposes, with equal conditions to comparable permanent staff. Failure creates joint liability exposure for both CPI and its mining house clients.",
+      "resources": [
+        {
+          "source": "CCMA — TES and Section 198 Guidance",
+          "url": "https://www.ccma.org.za"
+        },
+        {
+          "source": "Department of Labour — Acts",
+          "url": "https://www.labour.gov.za/DocumentCenter/Pages/Acts.aspx"
+        }
+      ]
+    }
+  },
+
+  "tender_landscape": {
+    "tender_portals": [
+      {
+        "portal": "National Treasury eTenders Publication Portal",
+        "url": "https://www.etenders.gov.za",
+        "description": "Primary government procurement portal. All state and parastatal mining entities (AEMFC, Eskom, DMRE) are required to publish tenders here. Searchable by sector (Mining) and region.",
+        "relevance_to_CPI": "High — catches parastatal operational management and labour contracts."
+      },
+      {
+        "portal": "AEMFC (African Exploration Mining and Finance Corporation) Procurement",
+        "url": "https://www.aemfc.co.za/procurement/open-tenders",
+        "description": "State-owned coal mining entity; publishes operational services and labour tenders for its Mpumalanga collieries.",
+        "relevance_to_CPI": "Very High — AEMFC collieries are direct target clients for CPI-style operational management."
+      },
+      {
+        "portal": "Tender Bulletins — Mining Support Services",
+        "url": "https://tenderbulletins.co.za/tender-category/mining-support-service-activities",
+        "description": "Aggregated tender bulletin covering mining and quarrying support services, plant management, and labour provision tenders.",
+        "relevance_to_CPI": "High."
+      },
+      {
+        "portal": "Tenders on Time — Southern Africa Mining",
+        "url": "https://www.tendersontime.com/southern-africa-tenders/mining-tenders",
+        "description": "Commercial tender aggregation service covering mining tenders across Southern Africa.",
+        "relevance_to_CPI": "Medium-High."
+      },
+      {
+        "portal": "Global Tenders — SA Minerals and Mining",
+        "url": "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders.php",
+        "description": "International tender aggregator with South Africa mining filter.",
+        "relevance_to_CPI": "Medium."
+      },
+      {
+        "portal": "Individual Mining Company Portals",
+        "examples": [
+          {"company": "Exxaro", "url": "https://www.exxaro.com/suppliers"},
+          {"company": "Thungela Resources", "url": "https://www.thungela.com/sustainability/suppliers-and-procurement"},
+          {"company": "Seriti Resources", "url": "https://seritipower.com"},
+          {"company": "Sibanye-Stillwater SA", "url": "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders"}
+        ],
+        "description": "Major coal producers publish supplier and tender opportunities directly on their websites. These are often not captured in aggregator portals and must be monitored directly.",
+        "relevance_to_CPI": "Very High — direct relationship procurement is common for operational management contracts."
+      }
+    ],
+    "contract_structures": {
+      "typical_duration": "5 to 10 years for underground operational management contracts; 3 to 5 years for surface/opencast plant management. Labour TES placements are often rolling 12-month or linked to mine life-of-section.",
+      "typical_contract_values": {
+        "underground_mining_management": "R500m to R5bn+ (e.g., Boipelo Arnot contract: R3.2bn over contract term)",
+        "surface_plant_management": "R100m to R1bn depending on throughput and scope",
+        "TES_labour_supply": "Typically per-head day rate contracts, often R50,000–R120,000 per employee per month fully loaded"
+      },
+      "key_terms": [
+        "BBBEE Level 1 or Level 2 preferred/required by most majors",
+        "Performance-linked production bonuses",
+        "Joint venture structures common (majority Black-owned JV partner required by some mining houses)",
+        "MHSA compliance and safety performance KPIs standard",
+        "Section 198 LRA compliance certification typically required",
+        "Local community employment and enterprise development obligations"
+      ]
+    },
+    "active_procurers": [
+      {
+        "company": "Exxaro Resources",
+        "website": "https://www.exxaro.com",
+        "procurement_activity": "Highest-volume coal operational management procurer. Matla LOME Project (R5.2bn, 2025–2043) requires extensive contractor and operational management support. Also active at Grootegeluk, Leeuwpan, and Mafube (50/50 JV with Thungela).",
+        "key_coal_assets": ["Matla Colliery (Mpumalanga)", "Grootegeluk Mine (Limpopo)", "Leeuwpan Colliery (Mpumalanga)", "Mafube Colliery (Mpumalanga, 50/50 with Thungela)"]
+      },
+      {
+        "company": "Seriti Resources",
+        "website": "https://seritipower.com",
+        "procurement_activity": "Opened Naudesbank Colliery (March 2025). Underground phase commencing ~2027 will require specialist underground management contractors. Also operates Middelburg (Optimum/Koornfontein), Klipspruit, and Kriel mines.",
+        "key_coal_assets": ["Naudesbank Colliery (Mpumalanga, new)", "Optimum Colliery", "Koornfontein Mine", "Klipspruit Colliery", "Kriel Colliery"]
+      },
+      {
+        "company": "Thungela Resources",
+        "website": "https://www.thungela.com",
+        "procurement_activity": "Zibulo North Shaft Extension Project (R2.5bn) creates contractor demand for underground management. Operates Elders, Goedehoop, Greenside, Isibonelo, Mafube (JV) and Zibulo collieries.",
+        "key_coal_assets": ["Zibulo Colliery (Mpumalanga, expanding)", "Elders Colliery", "Goedehoop Colliery", "Mafube Colliery (50/50 JV with Exxaro)"]
+      },
+      {
+        "company": "AEMFC (African Exploration Mining and Finance Corporation)",
+        "website": "https://www.aemfc.co.za",
+        "procurement_activity": "State entity that publishes operational management and labour tenders. Targets majority Black-owned service providers. Mandated to develop South Africa's coal reserves.",
+        "key_coal_assets": ["Various Mpumalanga and Waterberg exploration and production assets"]
+      },
+      {
+        "company": "Menar Holdings (Arnot Coal)",
+        "website": "https://www.menar.co.za",
+        "procurement_activity": "Arnot underground contract (currently Boipelo, awarded 2021) comes up for renewal in the 2026–2027 window. Three shafts each targeting 1 Mt/y.",
+        "key_coal_assets": ["Arnot Coal Mine (Mpumalanga, 3 shafts at 1 Mt/y each)"]
+      }
+    ]
+  },
+
+  "coal_sector_briefing": {
+    "production_volumes": {
+      "total_annual_production": "Approximately 250 million tonnes per annum (2024–2025 estimate); Mpumalanga accounts for ~83% (~207 Mt), Limpopo (Waterberg) for most of the remainder.",
+      "production_trend": "Overall production broadly stable with modest growth in 2025. January 2026 mining production data showed a 4.6% year-on-year increase across all commodities; however, coal-specific production declined 0.7% year-on-year as older mines closed.",
+      "export_vs_domestic_split": "Approximately 50–55% exported; 45–50% used domestically (Eskom power generation primary domestic consumer).",
+      "iea_outlook": "The International Energy Agency projects South Africa will add 31 million tonnes of new coal production capacity through existing planned projects."
+    },
+    "key_active_coal_mines": {
+      "mpumalanga": [
+        {
+          "mine": "Matla Colliery",
+          "operator": "Exxaro Resources",
+          "output": "~9+ Mt/y (contracted to Eskom under 17-year CSA from April 2026)",
+          "status": "Active — R5.2bn LOME project underway; New Mine 1 opened May 2026"
+        },
+        {
+          "mine": "Arnot Coal Mine",
+          "operator": "Menar Holdings (via Arnot OpCo)",
+          "output": "~3 Mt/y (three shafts at ~1 Mt/y each)",
+          "status": "Active — underground mining services by Boipelo Mining Contractors"
+        },
+        {
+          "mine": "Zibulo Colliery",
+          "operator": "Thungela Resources",
+          "output": "Up to 5 Mt/y",
+          "status": "Active and expanding — North Shaft Extension (R2.5bn) extends underground operations to 2038"
+        },
+        {
+          "mine": "Mafube Colliery",
+          "operator": "Exxaro/Thungela (50/50 JV)",
+          "output": "~4 Mt/y",
+          "status": "Active"
+        },
+        {
+          "mine": "Naudesbank Colliery",
+          "operator": "Seriti Resources",
+          "output": "~1 Mt/y (opencast); underground phase from ~2027",
+          "status": "Newly opened March 2025. R500m+ invested. Mine life ~12 years."
+        },
+        {
+          "mine": "Klipspruit, Optimum/Koornfontein, Kriel Collieries",
+          "operator": "Seriti Resources",
+          "output": "Multiple large operations combined >30 Mt/y",
+          "status": "Active"
+        },
+        {
+          "mine": "New Clydesdale Colliery",
+          "operator": "Undisclosed/various",
+          "output": "Underground bord-and-pillar",
+          "status": "Active — previously contracted to Boipelo"
+        },
+        {
+          "mine": "Msobo Coal (Breyten / Msukaligwa)",
+          "operator": "Msobo Coal",
+          "output": "Significant",
+          "status": "Active — 900 employees and 1,500 contractors (90% local)"
+        },
+        {
+          "mine": "Vlakvarkfontein Colliery",
+          "operator": "Ntshovelo / undisclosed",
+          "output": "~1+ Mt/y",
+          "status": "Active — opencast contract with Trollope since 2010"
+        }
+      ],
+      "limpopo": [
+        {
+          "mine": "Grootegeluk Mine",
+          "operator": "Exxaro Resources",
+          "output": "~30.4 Mt/y (2023)",
+          "status": "Active surface mine; operational life to 2041. R5.2bn expansion underway."
+        },
+        {
+          "mine": "Makhado Coking Coal Project",
+          "operator": "MC Mining",
+          "output": "Phase 2 targeting coking and thermal coal",
+          "status": "Phase 2 announced; operations expected 2026"
+        }
+      ]
+    },
+    "export_demand_and_rbct": {
+      "rbct_2025_exports": "57.66 million tonnes exported through Richards Bay Coal Terminal in 2025 — highest in four years, up >10% year-on-year.",
+      "rbct_2026_target": "CEO Alan Waller indicated 60+ million tonnes 'on the cards' for 2026, targeting a consistent 65 Mt/y run rate by year-end.",
+      "rbct_design_capacity": "91 million tonnes per annum (significantly underutilised; 76 Mt shipped in 2017 peak).",
+      "export_destinations": "~80% to Asia (India the largest single market); Europe 7.2%; Africa ~7% (Morocco largest African market).",
+      "coal_price": "API4 benchmark approximately $88.4 per tonne in 2025, down 12.5% year-on-year, reflecting weak European thermal demand.",
+      "rail_improvement": "Transnet's rail recovery plan bearing fruit — Richards Bay exports up 11% on rail improvements (January 2026 data). Rail reliability remains the single biggest constraint on export volume growth.",
+      "rbct_website": "https://rbct.co.za"
+    },
+    "mine_closures_and_expansions": {
+      "closures": {
+        "summary": "Approximately 4 mines expected to close by 2025; 11 more between 2026 and 2030. Five coal-fired power stations and 15 coal mines projected to close by 2030.",
+        "notable_closures": [
+          {
+            "site": "Komati Power Station",
+            "location": "Bethal, Mpumalanga",
+            "status": "Retired — first SA coal power station decommissioned (114MW capacity ended)",
+            "impact": "Reduces domestic offtake from adjacent collieries"
+          }
+        ],
+        "closure_context": "As of April 2026, 14 coal-fired power stations in Mpumalanga and Limpopo still anchor the national grid with ~38,000MW installed capacity. Government granted time-limited compliance exemptions in 2025, allowing several plants to operate beyond air quality deadlines. Closures will impact livelihoods of ~2.5 million people in 69 mining host communities.",
+        "implication_for_CPI": "Mine closures create near-term demand for care-and-maintenance management and managed wind-down operational services — a niche CPI could target."
+      },
+      "expansions": [
+        {
+          "project": "Exxaro Matla LOME",
+          "value": "R5.2 billion",
+          "output": "New Mine 1 adds ~4.2 Mt/y; total contracted supply 9.3+ Mt/y to Eskom",
+          "status": "New Mine 1 opened May 2026; further sections under development"
+        },
+        {
+          "project": "Seriti Naudesbank Colliery",
+          "value": "R500m+",
+          "output": "1 Mt/y opencast; underground phase commencing ~2027",
+          "status": "Operational since March 2025"
+        },
+        {
+          "project": "Thungela Zibulo North Shaft Extension",
+          "value": "R2.5 billion (aggregate expansionary capex)",
+          "output": "Extends Zibulo underground production to 2038; up to 5 Mt/y",
+          "status": "In progress"
+        },
+        {
+          "project": "Exxaro Grootegeluk Expansion",
+          "value": "Part of R5.2bn capex programme",
+          "output": "Surface mine expansion in Limpopo Waterberg",
+          "status": "Active"
+        },
+        {
+          "project": "MC Mining Makhado Phase 2",
+          "value": "Undisclosed",
+          "output": "Coking and thermal coal in Limpopo Soutpansberg",
+          "status": "Operations expected to commence 2026"
+        },
+        {
+          "project": "Exxaro Matla 'Aviemore, Khwezela, Kangala' life extensions",
+          "value": "Included in broader LOME capex",
+          "output": "Not published in life-of-mine data; planned extensions",
+          "status": "Planned"
+        }
+      ]
+    }
+  }
+}
