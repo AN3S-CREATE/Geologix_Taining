@@ -1,0 +1,87 @@
+﻿{
+    "_section":  "price_signal_sources",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "coal":  [
+                              {
+                                  "source":  "McCloskey by OPIS (Dow Jones)",
+                                  "url":  "https://coal.opis.com/coal-metals-mining-news",
+                                  "data_provided":  "Thermal coal spot and forward prices; Richards Bay FOB export price index (RB1, RB3 grades); global coal market news and supply/demand analysis",
+                                  "frequency":  "Daily / weekly"
+                              },
+                              {
+                                  "source":  "Argus Media â€” Argus/McCloskey Coal Price Index",
+                                  "url":  "https://www.argusmedia.com/en/coal",
+                                  "data_provided":  "SA thermal coal FOB Richards Bay benchmark prices (API4 index); coking coal and PCI price assessments; freight and logistics cost overlays",
+                                  "frequency":  "Daily assessments; weekly reports"
+                              },
+                              {
+                                  "source":  "Trading Economics â€” Coal",
+                                  "url":  "https://tradingeconomics.com/commodity/coal",
+                                  "data_provided":  "Global coal spot price chart; historical data; consensus forecasts; free access to recent price trend",
+                                  "frequency":  "Real-time / daily"
+                              }
+                          ],
+                 "chrome_ore_and_ferrochrome":  [
+                                                    {
+                                                        "source":  "Mining-Bulletin",
+                                                        "url":  "https://www.mining-bulletin.com/index.php/product_2.html",
+                                                        "data_provided":  "South Africa chrome ore export prices (updated regularly); ferrochrome price benchmarks; global minerals and metals price data including SA-specific export price quotations",
+                                                        "frequency":  "Weekly price updates"
+                                                    },
+                                                    {
+                                                        "source":  "Fastmarkets (formerly Metal Bulletin)",
+                                                        "url":  "https://www.fastmarkets.com",
+                                                        "data_provided":  "Ferrochrome quarterly benchmark price (European high-carbon ferrochrome benchmark â€” e.g., Q2 2026: 161 cents/lb Cr); chrome ore spot price assessments; market analysis and forecasts",
+                                                        "frequency":  "Quarterly benchmark; daily spot assessments"
+                                                    },
+                                                    {
+                                                        "source":  "Asian Metal",
+                                                        "url":  "https://www.asianmetal.com",
+                                                        "data_provided":  "Chrome ore import/export data; Chinese import prices for SA chrome ore; ferrochrome price trends in Asian markets",
+                                                        "frequency":  "Daily / weekly"
+                                                    }
+                                                ],
+                 "iron_ore":  [
+                                  {
+                                      "source":  "OEC â€” South Africa Iron Ore Trade Profile",
+                                      "url":  "https://oec.world/en/profile/bilateral-product/iron-ore/reporter/zaf",
+                                      "data_provided":  "SA iron ore export volumes and values by destination country; trade flow analysis; historical trend data; free access",
+                                      "frequency":  "Annual / quarterly updates"
+                                  },
+                                  {
+                                      "source":  "Trading Economics â€” Iron Ore",
+                                      "url":  "https://tradingeconomics.com/commodity/iron-ore",
+                                      "data_provided":  "Iron ore spot price (62% Fe CFR China benchmark); historical chart; global production and demand data; free access",
+                                      "frequency":  "Real-time / daily"
+                                  },
+                                  {
+                                      "source":  "S\u0026P Global Commodity Insights",
+                                      "url":  "https://www.spglobal.com/commodities/en/industries/metals/iron-ore",
+                                      "data_provided":  "Platts iron ore indices (IODEX 62% Fe); seaborne trade data; SA export terminal and logistics reporting (including Richards Bay and Saldanha Bay)",
+                                      "frequency":  "Daily price assessments; weekly analysis"
+                                  }
+                              ],
+                 "manganese":  [
+                                   {
+                                       "source":  "Mining-Bulletin â€” Manganese",
+                                       "url":  "https://www.mining-bulletin.com/index.php/product_5.html",
+                                       "data_provided":  "South Africa manganese ore export prices; regular price updates; global manganese ore price comparisons",
+                                       "frequency":  "Weekly"
+                                   },
+                                   {
+                                       "source":  "Trading Economics â€” Manganese",
+                                       "url":  "https://tradingeconomics.com/commodity/manganese",
+                                       "data_provided":  "Manganese ore spot price chart; historical data going back decades; forecasts; free access",
+                                       "frequency":  "Real-time / daily"
+                                   },
+                                   {
+                                       "source":  "Ferroalloynet",
+                                       "url":  "http://www.ferroalloynet.com",
+                                       "data_provided":  "SA manganese ore export volumes by destination country (e.g., May 2025 country breakdown); Chinese import prices for SA manganese; ferroalloy price data",
+                                       "frequency":  "Monthly export breakdowns; daily price data"
+                                   }
+                               ]
+             }
+}

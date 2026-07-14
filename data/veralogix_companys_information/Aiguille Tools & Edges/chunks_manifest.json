@@ -1,0 +1,286 @@
+﻿{
+    "total_chunks":  89,
+    "company":  "Aiguille Tools \u0026 Edges",
+    "total_docs":  2,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__competitive_landscape_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__market_segments_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__market_segments_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p2.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p3.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p4.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p5.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__pricing_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__recommendations.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__regulatory_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__regulatory_p2.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__regulatory_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__technology_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__technology_p2.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__technology_p3.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__technology_p4.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__technology_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Aiguille_Tools_Edges20260__threats_risks_p1.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__threats_risks_p2.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__threats_risks_p3.json",
+                                                             "doc1_Aiguille_Tools_Edges20260__threats_risks_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Aiguille_Tools_Edges20260",
+                          "chunk_count":  30,
+                          "source_doc":  "Competitive and Market Intelligence for Aiguille Tools  Edges_20260713111103.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__competitive_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__financial_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__opportunities_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__opportunities_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__opportunities_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__opportunities_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__pricing_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p10.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p11.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p4.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p5.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p6.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p7.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p8.json",
+                                                             "doc2_Market_Intelligence_Frame__pricing_p9.json"
+                                                         ],
+                                               "parts":  11
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p4.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p5.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p6.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p7.json",
+                                                             "doc2_Market_Intelligence_Frame__recommendations_p8.json"
+                                                         ],
+                                               "parts":  8
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__regulatory_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__regulatory_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__technology_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p4.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p5.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p6.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p7.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p8.json",
+                                                             "doc2_Market_Intelligence_Frame__technology_p9.json"
+                                                         ],
+                                               "parts":  9
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p10.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p11.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p12.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p4.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p5.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p6.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p7.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p8.json",
+                                                             "doc2_Market_Intelligence_Frame__tender_landscape_p9.json"
+                                                         ],
+                                               "parts":  12
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc2_Market_Intelligence_Frame__threats_risks_p1.json",
+                                                             "doc2_Market_Intelligence_Frame__threats_risks_p2.json",
+                                                             "doc2_Market_Intelligence_Frame__threats_risks_p3.json",
+                                                             "doc2_Market_Intelligence_Frame__threats_risks_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           }
+                                       ],
+                          "doc_key":  "doc2_Market_Intelligence_Frame",
+                          "chunk_count":  59,
+                          "source_doc":  "Market Intelligence Framework for Aiguille Tools  Edges.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

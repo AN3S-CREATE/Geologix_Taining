@@ -1,0 +1,49 @@
+﻿{
+    "_section":  "trade_intelligence_sources",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Mining Weekly",
+                     "url":  "https://www.miningweekly.com",
+                     "publisher":  "Creamer Media",
+                     "intelligence_type":  "Weekly SA and African mining news; project developments; commodity price signals; company announcements; infrastructure updates (Transnet, port capacity). Free access to most articles.",
+                     "recommended_cadence":  "Weekly"
+                 },
+                 {
+                     "name":  "Argus Media",
+                     "url":  "https://www.argusmedia.com/en",
+                     "publisher":  "Argus Media Ltd",
+                     "intelligence_type":  "Subscription-based price intelligence for coal (API4/RB FOB), ferrochrome, iron ore, and manganese; freight rates; trade flow analysis; South Africa-specific coal price assessments are industry benchmark (API4 index). Free news summaries available.",
+                     "recommended_cadence":  "Daily price checks; weekly digest"
+                 },
+                 {
+                     "name":  "Fastmarkets",
+                     "url":  "https://www.fastmarkets.com",
+                     "publisher":  "Fastmarkets (formerly Metal Bulletin / Industrial Minerals)",
+                     "intelligence_type":  "Ferrochrome quarterly benchmark price (market-making publication); chrome ore spot assessments; iron ore and manganese price data; South Africa critical minerals policy coverage. Some free insights; full price data requires subscription.",
+                     "recommended_cadence":  "Weekly; quarterly for ferrochrome benchmark"
+                 },
+                 {
+                     "name":  "Mining-Bulletin",
+                     "url":  "https://www.mining-bulletin.com",
+                     "publisher":  "Global Minerals and Metals Information Center",
+                     "intelligence_type":  "Free-access SA chrome ore and manganese ore export price updates; global metals and minerals pricing; particularly useful for monitoring week-on-week SA export price movements for chrome and manganese without a subscription.",
+                     "recommended_cadence":  "Weekly"
+                 },
+                 {
+                     "name":  "Daily Maverick â€” Business and Mines",
+                     "url":  "https://www.dailymaverick.co.za",
+                     "publisher":  "Daily Maverick (South Africa)",
+                     "intelligence_type":  "Free SA investigative and business journalism covering Transnet logistics, mining regulatory developments, labour disputes, and political risk affecting the mining sector. Strong on Eskom and infrastructure intelligence relevant to commodity logistics.",
+                     "recommended_cadence":  "Daily / as breaking news emerges"
+                 },
+                 {
+                     "name":  "OEC â€” South Africa Trade Profile",
+                     "url":  "https://oec.world/en/profile/country/zaf",
+                     "publisher":  "Observatory of Economic Complexity (MIT / Harvard)",
+                     "intelligence_type":  "Free trade flow data showing SA export volumes and values by commodity and destination country; useful for understanding market share shifts in iron ore, chrome, manganese, and coal across buyer countries on a quarterly/annual basis.",
+                     "recommended_cadence":  "Monthly for updated export data"
+                 }
+             ]
+}

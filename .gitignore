@@ -27,3 +27,10 @@ data/zasca_formatted.json
 Thumbs.db
 .idea/
 .vscode/
+
+# Nested VCS / IDE inside company knowledge pack (track content only)
+data/veralogix_companys_information/.git/
+data/veralogix_companys_information/.git_nested_disabled/
+data/veralogix_companys_information/.claude/
+data/veralogix_companys_information/.vscode/
+data/veralogix_companys_information/.project-intel/

@@ -22,3 +22,12 @@
 | `REPO_ANALYSIS_MEMORY.md` | Agent cumulative analysis state | Active |
 | `.index/*` | Project context index | Active |
 | `Geologi_Taining.code-workspace` | VS Code/Cursor workspace file | Active |
+| `docs/geologix-ai-company-context-process.md` | P0–P6 SOP: company info → Geologix AI identity / soul / RAG | Active |
+| `scripts/00_ingest_company_context.py` | Ingest portfolio into `data/company_context/` pack | Active |
+| `data/veralogix_companys_information/` | Veralogix / Geologix Vanguard company knowledge base | Active |
+| `data/company_context/company_registry.json` | Generated per-company registry + readiness | Generated |
+| `data/company_context/geologix_identity.json` | Generated Geologix AI identity card + system prompt draft | Generated |
+| `data/company_context/cross_portfolio_triggers.json` | Generated cross-portfolio triggers + PROC-XPORT templates | Generated |
+| `data/company_context/learning_process_queue.json` | Generated PROC-* learning/training queue | Generated |
+| `data/company_context/training_process_manifest.json` | Generated ingest manifest + next steps | Generated |
+| `data/geologix-core-training.json` | Curated ~54 subsidiary routing/soul examples (hyphen name) | Active |

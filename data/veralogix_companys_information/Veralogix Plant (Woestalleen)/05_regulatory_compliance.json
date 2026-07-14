@@ -1,0 +1,56 @@
+﻿{
+    "_section":  "regulatory_compliance",
+    "_company":  "Veralogix Plant (Woestalleen)",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "requirement":  "Environmental Authorisation (EA) â€” NEMA",
+                     "legislation":  "National Environmental Management Act, No. 107 of 1998 (NEMA); EIA Regulations GNR 982â€“984 of 2014 (as amended to February 2025)",
+                     "regulatory_body":  "Department of Forestry, Fisheries and the Environment (DFFE) or delegated provincial authority (Mpumalanga Department of Agriculture, Rural Development, Land and Environmental Affairs â€” DARDLEA)",
+                     "description":  "A coal processing plant (crushing, DMS, and associated infrastructure) constitutes a Listed Activity under NEMA EIA Regulations. Category A (Basic Assessment) or Category B (Scoping + full EIA) depending on throughput and environmental sensitivity. Environmental Authorisation must be in place before construction or expansion.",
+                     "monitoring_url":  "https://www.dffe.gov.za/projectprogrammes/environmental_management_instruments",
+                     "key_triggers_for_veralogix":  [
+                                                        "Any increase in processing capacity (throughput) may trigger a fresh BA or amendment to existing EA",
+                                                        "Addition of a second DMS module would likely be a listed expansion activity",
+                                                        "Changes to tailings disposal footprint require EA amendment"
+                                                    ]
+                 },
+                 {
+                     "requirement":  "Water Use Licence (WUL) â€” National Water Act",
+                     "legislation":  "National Water Act, No. 36 of 1998 (NWA); Water Use Licence procedural requirements under GN R267 of 24 March 2017",
+                     "regulatory_body":  "Department of Water and Sanitation (DWS)",
+                     "description":  "DMS plants use significant water volumes in the separation circuit and generate process effluent and slurry. Relevant Section 21 water uses include: 21(a) taking water from a water resource; 21(b) storing water; 21(c) impeding or diverting watercourse flow; 21(g) disposing of waste in a manner that may impact a water resource; 21(i) altering the bed, banks, or characteristics of a watercourse. WUL application process takes approximately 300 days from initial submission to decision.",
+                     "monitoring_url":  "https://www.dws.gov.za/ewulaas/WUA.aspx",
+                     "key_triggers_for_veralogix":  [
+                                                        "DMS circuit expansion requires WUL amendment for increased water abstraction and effluent volumes",
+                                                        "Magnetite recovery circuit water use must be covered under existing WUL",
+                                                        "Any new tailings impoundment or slimes dam requires WUL and NEMA authorisation"
+                                                    ]
+                 },
+                 {
+                     "requirement":  "Atmospheric Emission Licence (AEL) â€” Air Quality",
+                     "legislation":  "National Environmental Management: Air Quality Act, No. 39 of 2004 (NEMAQA); Listed Activities and Associated Minimum Emission Standards (GN R893 of 2013, as amended)",
+                     "regulatory_body":  "DFFE (national) and Mpumalanga Department of Agriculture, Rural Development, Land and Environmental Affairs (DARDLEA) as licencing authority for Mpumalanga",
+                     "description":  "Coal processing and crushing operations are listed activities under NEMAQA due to dust generation (fugitive particulate emissions from ROM handling, crushing circuits, conveyor transfer points, and stockpiles). An Atmospheric Emission Licence (AEL) is required. Mpumalanga is a Priority Area under NEMAQA due to the regional air quality challenge from concentrated mining and power generation.",
+                     "monitoring_url":  "https://www.dffe.gov.za",
+                     "key_triggers_for_veralogix":  [
+                                                        "Expansion of crushing capacity may require AEL amendment",
+                                                        "Mpumalanga Priority Area designation means more stringent fugitive dust management requirements",
+                                                        "Annual compliance reporting to Mpumalanga DARDLEA required"
+                                                    ]
+                 },
+                 {
+                     "requirement":  "Mine Health and Safety Act (MHSA) Compliance",
+                     "legislation":  "Mine Health and Safety Act, No. 29 of 1996 (MHSA); Mine Health and Safety Amendment Bill B2024 (in process); Mine Health and Safety Regulations (Chapter 22 Occupational Hygiene Regulations â€” amended June 2025)",
+                     "regulatory_body":  "Chief Inspector of Mines, Department of Mineral Resources and Energy (DMRE)",
+                     "description":  "Coal processing operations (crushing, DMS, conveying) are classified as mining operations under the MHSA. Key 2025 compliance updates: (1) Amended Chapter 22 Occupational Hygiene Regulations effective 26 June 2025 â€” revised occupational exposure limits for coal dust (respirable particulate) and silica; (2) Mandatory Code of Practice on Prevention of Fires at Mines â€” effective 1 October 2025 â€” specifically addresses spontaneous combustion risk at coal plants and surface operations. Employers must maintain Codes of Practice, conduct regular audits, and operate health and safety committees.",
+                     "monitoring_url":  "https://www.dmre.gov.za/Resource%20Center/Mine%20Health%20and%20Safety%20Act",
+                     "key_triggers_for_veralogix":  [
+                                                        "Coal dust (respirable) monitoring mandatory under amended June 2025 Occupational Hygiene Regulations",
+                                                        "Fire Prevention Code of Practice (Oct 2025) requires written spontaneous combustion risk management plan for coal surface stockpiles and processing areas",
+                                                        "Section 54 (unsafe condition stoppage) risk if dust suppression or fire prevention systems are inadequate",
+                                                        "MHSA Amendment Bill (B2024) may introduce new requirements once enacted â€” monitor DMRE for enactment date"
+                                                    ]
+                 }
+             ]
+}

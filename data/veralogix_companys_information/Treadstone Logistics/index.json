@@ -1,0 +1,43 @@
+﻿{
+    "company":  "Treadstone Logistics",
+    "display_name":  "Treadstone Logistics",
+    "group":  "Treadstone Group",
+    "sector":  "Bulk Road Haulage — Coal, Chrome, Iron Ore",
+    "hq":  "Mpumalanga",
+    "description":  "Treadstone Logistics is the primary bulk haulage arm of the Treadstone Group. Provides long-haul and short-haul bulk road transport of coal, chrome, and iron ore between mines, wash plants, rail sidings, and ports.",
+    "data_status":  "complete_chunked",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Treadstone CPM",
+                              "CG Transport"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  true,
+                         "has_prompt":  true,
+                         "chunk_files_count":  60,
+                         "research_doc_count":  2,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "conclusion",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "market_trends",
+                                                    "opportunities",
+                                                    "pricing",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

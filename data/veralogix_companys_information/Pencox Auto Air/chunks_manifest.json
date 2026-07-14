@@ -1,0 +1,135 @@
+﻿{
+    "total_chunks":  35,
+    "company":  "Pencox Auto Air",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__bbbee_transformation_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__bbbee_transformation_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__competitive_landscape_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__executive_summary_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__executive_summary_p2.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__executive_summary_p3.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__executive_summary_p4.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__executive_summary_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__financial_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__pricing_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__pricing_p2.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__pricing_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__recommendations_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__recommendations_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__regulatory_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__regulatory_p2.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__regulatory_p3.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__regulatory_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__technology_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__technology_p2.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__technology_p3.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__technology_p4.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__technology_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__tender_landscape_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__tender_landscape_p2.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__tender_landscape_p3.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__tender_landscape_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Pencox_Auto_Air2026071311__threats_risks_p1.json",
+                                                             "doc1_Pencox_Auto_Air2026071311__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc0",
+                          "chunk_count":  35,
+                          "source_doc":  "Competitive and Market Intelligence for Pencox Auto Air_20260713110638.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

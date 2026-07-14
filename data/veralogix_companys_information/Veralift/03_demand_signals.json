@@ -1,0 +1,111 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Veralift",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "Renewable Energy â€“ Wind and Solar Construction",
+                     "description":  "South Africa added more than 7 GW of operational green generation capacity by mid-2026, with six additional utility-scale solar projects (1,290 MW in Free State) approved under Bid Window 7. SAREM targets 34 GW wind and 25 GW solar by 2039 â€“ sustained crane demand for turbine erection and panel installation for the next 13+ years. Renewable energy currently accounts for ~35% of new crane deployment nationally.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "REIPPPP DMRE Bid Window Announcements",
+                                                    "url":  "https://www.dmr.gov.za/renewable-energy"
+                                                },
+                                                {
+                                                    "name":  "PV Magazine â€“ South Africa solar approvals",
+                                                    "url":  "https://www.pv-magazine.com/2025/07/23/south-africa-approves-six-solar-projects-totaling-1290-mw/"
+                                                },
+                                                {
+                                                    "name":  "Solar Quarter â€“ SA renewable energy expansion 2025",
+                                                    "url":  "https://solarquarter.com/2026/04/10/south-africas-renewable-energy-sector-expands-strongly-in-2025-with-rising-capacity-and-socio-economic-impact/"
+                                                },
+                                                {
+                                                    "name":  "Heavy Lift PFI â€“ SA energy transformation",
+                                                    "url":  "https://www.heavyliftpfi.com/editorial/2026/03/18/from-structural-constraint-to-catalyst-for-growth-south-africas-energy-transformation/"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Transnet Port Infrastructure Upgrades",
+                     "description":  "In October 2025, Transnet signed a major procurement deal with Liebherr for new Ship-to-Shore (STS) and Rubber-Tyre Gantry (RTG) cranes at Durban and Cape Town ports, plus a 20-year monitoring and maintenance contract. Richards Bay Terminal has also issued crane hire and rigging service tenders. Port terminal upgrades at Durban, Cape Town, and Richards Bay require mobile crane support for installation and maintenance.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Transnet Procurement Portal",
+                                                    "url":  "https://www.transnet.net/Procurement"
+                                                },
+                                                {
+                                                    "name":  "eTenders Portal â€“ Transnet tenders",
+                                                    "url":  "https://www.etenders.gov.za/Home/opportunities?id=1"
+                                                },
+                                                {
+                                                    "name":  "Tender Bulletins â€“ Rigging and Crane Hire (Gauteng / KZN)",
+                                                    "url":  "https://tenderbulletins.co.za/tpa/rigging-services/gauteng/1/"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Mining Plant Installations, Relocations and Modernisation",
+                     "description":  "Mining modernisation accounts for approximately 25% of new crane demand nationally. Deep-mining operations require high-capacity crawler and mobile cranes for shaft headgear, processing plant modules, and conveyor installations. Mpumalanga coal rail logistics (Transnet road-to-rail project) at stations including Camden, Tutuka, Majuba, Grootvlei, Kendal and Hendrina involves ongoing mechanical plant work requiring crane support.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Mining Weekly â€“ SA mining projects",
+                                                    "url":  "https://www.miningweekly.com"
+                                                },
+                                                {
+                                                    "name":  "BizCommunity â€“ Heavy lift mining Africa",
+                                                    "url":  "https://www.bizcommunity.com/Article/196/608/122276.html"
+                                                },
+                                                {
+                                                    "name":  "Engineering News â€“ SA mining capex",
+                                                    "url":  "https://www.engineeringnews.co.za"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Eskom Transmission Expansion and Grid Infrastructure",
+                     "description":  "Following completion of Kusile Unit 6 (Sept 2025), Eskom has shifted focus to grid strengthening and transmission expansion. The Medupi FGD retrofit study (Feb 2026) may trigger future heavy-lift maintenance contracts. Cold reserve management of 13,675 MW creates ongoing maintenance lifting demand at Mpumalanga power stations.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Eskom News â€“ Kusile and grid expansion",
+                                                    "url":  "https://www.eskom.co.za"
+                                                },
+                                                {
+                                                    "name":  "Africa Energy Portal â€“ Eskom transmission",
+                                                    "url":  "https://africa-energy-portal.org/news/south-africa-eskom-lays-out-transmission-expansion"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Infrastructure Pipeline â€“ ZAR 230 Billion Programme",
+                     "description":  "South Africa\u0027s national infrastructure pipeline is valued at approximately ZAR 230 billion, driving crane fleet expansions by rental companies from mid-2024. Construction sector recovery projected at 2.9% average annual growth 2025â€“2028, anchored by government transport infrastructure and private renewable energy investment. Manufacturing expansion in KwaZulu-Natal and Eastern Cape requires industrial overhead cranes \u003e100t.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "Imarc Group â€“ South Africa Crane Market Report 2025-2033",
+                                                    "url":  "https://www.imarcgroup.com/south-africa-crane-market"
+                                                },
+                                                {
+                                                    "name":  "Vocal Media â€“ SA Crane Market Infrastructure Boom",
+                                                    "url":  "https://vocal.media/futurism/south-africa-crane-market-infrastructure-boom-mining-demand-and-steady-growth-forecast"
+                                                },
+                                                {
+                                                    "name":  "Research and Markets â€“ SA Construction Equipment Forecast",
+                                                    "url":  "https://www.researchandmarkets.com/reports/5738887/south-africa-construction-equipment-market"
+                                                }
+                                            ]
+                 },
+                 {
+                     "signal_type":  "Industrial Plant Shutdowns â€“ Petrochemical and Heavy Industry",
+                     "description":  "Sasol, SAPREF, and other petrochemical and heavy industrial plants in the Gauteng, KwaZulu-Natal, and Mpumalanga corridors conduct scheduled annual and biennial maintenance shutdowns requiring machine moves, vessel removals, and plant relocations. Emergency lifting incidents at industrial facilities create unplanned urgent demand.",
+                     "monitoring_sources":  [
+                                                {
+                                                    "name":  "eTenders Portal â€“ industrial maintenance services",
+                                                    "url":  "https://www.etenders.gov.za/Home/opportunities?id=1"
+                                                },
+                                                {
+                                                    "name":  "Engineering News â€“ industrial shutdown announcements",
+                                                    "url":  "https://www.engineeringnews.co.za"
+                                                }
+                                            ]
+                 }
+             ]
+}

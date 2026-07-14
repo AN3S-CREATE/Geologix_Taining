@@ -1,0 +1,134 @@
+﻿{
+  "section": "4 — CHURN AND CUSTOMER INTELLIGENCE SIGNALS",
+  "description": "Public signals that indicate a commercial or municipal client is dissatisfied with their current ISP and likely to switch. Each entry includes signal type, description, monitoring approach, tools, and a direct monitor URL.",
+  "generated": "2026-06-25",
+  "enhancements_over_previous_version": [
+    "Added monitor_url field to EVERY signal (was missing in previous version)",
+    "Added NEW signal: Price increase and billing dispute triggers (RSAWeb 2026 case study)",
+    "Added NEW signal: MyBroadband forum and speed test ranking drops",
+    "Added NEW signal: Downdetector real-time outage crowdsource",
+    "Added NEW signal: DataEQ and PwC sentiment index monitoring",
+    "Expanded tools list with specific platform names and URLs",
+    "Added specific churn driver statistics from PwC SA Telecom Sentiment Index"
+  ],
+  "churn_signals": [
+    {
+      "signal_type": "HelloPeter Complaint Spikes — ISP-Specific",
+      "description": "South African consumers post service complaints, cancellation intent, and unresolved ticket frustrations on HelloPeter. ISP industry net sentiment is -89% for digital support nationally. High complaint volumes, poor resolution rates, and repeated billing complaints are strong churn precursors. RSAWeb in 2026 saw sharp HelloPeter sentiment decline following price increases — a documented churn trigger pattern.",
+      "monitoring_approach": "Search competitor ISP names on HelloPeter. Set up keyword monitoring for: 'cancellation', 'outage', 'no response', 'billing dispute', '[ISP name] terrible'. Track review velocity and resolution rates over time.",
+      "tools": [
+        "HelloPeter.com — https://www.hellopeter.com (search by ISP name)",
+        "Google Alerts for '[ISP name] complaints' or '[ISP name] cancel'"
+      ],
+      "monitor_url": "https://www.hellopeter.com"
+    },
+    {
+      "signal_type": "Social Media Outage Reports — Real-Time",
+      "description": "X/Twitter, Facebook community groups, and LinkedIn posts surface real-time outage complaints. PwC and DataEQ analysed 1.3 million SA telecom social media mentions — connectivity issues appeared in 16% of service conversations. Industry net sentiment for network quality is -87%. Sustained outage complaint threads indicate failing infrastructure at a competitor.",
+      "monitoring_approach": "Monitor X/Twitter searches for: '[ISP name] down', '[ISP name] outage', '[suburb/town] no internet', '#[ISPname]down'. Monitor Facebook local suburb groups and business estate groups. Monitor LinkedIn posts from commercial property managers.",
+      "tools": [
+        "X/Twitter Advanced Search — https://twitter.com/search-advanced",
+        "TweetDeck keyword columns",
+        "Facebook Groups (suburb and business estate groups)",
+        "Google Alerts — '[ISP name] outage' or '[ISP name] down'"
+      ],
+      "monitor_url": "https://twitter.com/search-advanced"
+    },
+    {
+      "signal_type": "Downdetector — Real-Time Outage Crowdsource",
+      "description": "Downdetector aggregates user-reported outage data in real time. Significant spikes in competitor ISP reports on Downdetector signal service failures that may push commercial clients to seek alternatives. Useful for correlating with geographic areas Bioniq can serve.",
+      "monitoring_approach": "Bookmark Downdetector pages for each competitor ISP. Set up browser notifications or check daily during business hours. Correlate outage spikes with competitor geographic coverage areas.",
+      "tools": [
+        "Downdetector SA — https://downdetector.co.za"
+      ],
+      "monitor_url": "https://downdetector.co.za"
+    },
+    {
+      "signal_type": "Network Outage Maps — GeoBlackout and ThousandEyes",
+      "description": "GeoBlackout and ThousandEyes maintain real-time SA ISP outage maps with geographic overlays. Persistent outages in specific commercial areas or municipalities signal structural ISP infrastructure failures — not isolated incidents. These are the strongest indicators of commercial client dissatisfaction.",
+      "monitoring_approach": "Monitor GeoBlackout SA for competitor ISP outages mapped to specific towns and suburbs. Use ThousandEyes to track ISP performance degradation over time. Correlate persistent outage areas with Bioniq's serviceable footprint.",
+      "tools": [
+        "GeoBlackout SA — https://geoblackout.com/za",
+        "ThousandEyes Outage Map — https://www.thousandeyes.com/outages/"
+      ],
+      "monitor_url": "https://geoblackout.com/za"
+    },
+    {
+      "signal_type": "MyBroadband Rankings and Forum Complaints",
+      "description": "MyBroadband publishes quarterly ISP performance rankings based on Speedtest data and reader satisfaction surveys. ISPs with falling rankings, dropping speed scores, or prominent negative forum threads are experiencing measurable service decline. In 2026: Supersonic consistently ranks lowest; RSAWeb dropped due to price increases. Forum threads from commercial clients are particularly valuable as early switching signals.",
+      "monitoring_approach": "Monitor MyBroadband ISP ranking reports quarterly. Set up MyBroadband forum alerts for competitor ISP names combined with keywords: 'cancel', 'switching', 'terrible', 'outage', 'billing'. Track speed test ranking trends on MyBroadband ISP comparison pages.",
+      "tools": [
+        "MyBroadband ISP Rankings — https://mybroadband.co.za/news/broadband/fibre",
+        "MyBroadband Forum — https://mybroadband.co.za/forum/forums/internet-service-providers.43/"
+      ],
+      "monitor_url": "https://mybroadband.co.za/forum/forums/internet-service-providers.43/"
+    },
+    {
+      "signal_type": "Tender Re-issuance — Government and Municipal Clients",
+      "description": "When a municipality, SOE, school, or public body re-tenders an existing connectivity contract (especially ahead of schedule or after a short incumbent period), it signals active dissatisfaction with their current ISP. SA government connectivity contracts typically run 3–5 years. Re-tenders inside the first 2 years are strong switching signals. Contracts awarded in 2022–2023 are entering renewal phase in 2025–2026.",
+      "monitoring_approach": "Cross-reference eTender award dates with current date. Flag any connectivity tender from an entity that received an award less than 3 years ago. Target sales outreach 6–9 months before contract end date.",
+      "tools": [
+        "eTenders Bids Awarded — https://www.etenders.gov.za/Home/opportunities?id=2",
+        "TenderAlerts — https://tenderalerts.co.za",
+        "TenderBulletins — https://tenderbulletins.co.za/tender-category/telecommunications/"
+      ],
+      "monitor_url": "https://www.etenders.gov.za/Home/opportunities?id=2"
+    },
+    {
+      "signal_type": "Municipal Council Service Delivery Complaints",
+      "description": "Municipal council meeting minutes, public participation documents, and service delivery protest news coverage surface connectivity complaints about contracted ISPs at public facilities (libraries, clinics, municipal offices, community centres). These are pre-churn signals before formal re-tendering.",
+      "monitoring_approach": "Monitor local news (IOL, Daily Maverick, GroundUp, TimesLIVE) for '[municipality] Wi-Fi complaints', '[municipality] internet not working', '[municipality] connectivity'. Track council agenda publications on municipal websites (meeting minutes often published publicly).",
+      "tools": [
+        "IOL — https://www.iol.co.za",
+        "Daily Maverick — https://www.dailymaverick.co.za",
+        "GroundUp — https://groundup.org.za",
+        "Google Alerts — '[municipality name] Wi-Fi' or '[municipality name] internet complaints'"
+      ],
+      "monitor_url": "https://groundup.org.za"
+    },
+    {
+      "signal_type": "Business Forum and Property Management Group Discussions",
+      "description": "Commercial property managers, body corporates, and business park associations discuss connectivity dissatisfaction in LinkedIn posts, WhatsApp groups, and industry forums. SAPOA (SA Property Owners Association) and NAMA (National Association of Managing Agents) members manage commercial estates where ISP quality is a recurring topic. These are pre-decision signals before any formal procurement process.",
+      "monitoring_approach": "Monitor LinkedIn for posts from commercial property managers mentioning '[ISP name] problems', 'ISP switch', 'internet unreliable'. Engage SAPOA and NAMA member networks. Google Alerts for '[competitor ISP] + commercial estate' or '[competitor ISP] + business park'.",
+      "tools": [
+        "LinkedIn Search — https://www.linkedin.com",
+        "SAPOA — https://www.sapoa.org.za",
+        "NAMA — https://www.nama.org.za",
+        "Google Alerts — https://alerts.google.com"
+      ],
+      "monitor_url": "https://www.linkedin.com"
+    },
+    {
+      "signal_type": "Price Increase and Billing Dispute Triggers",
+      "description": "Retail ISP price increases following wholesale fibre cost increases are documented churn triggers in the SA market. RSAWeb 2026 case: price increases led to sharp negative sentiment spike on HelloPeter and MyBroadband, with customers publicly announcing cancellations. SA broadband market is shifting from expansion to redistribution — churn now drives most ISP growth. Price sensitivity is highest in the SME and commercial estate segments.",
+      "monitoring_approach": "Monitor competitor ISP billing and pricing announcements via their websites and social media. Track HelloPeter and MyBroadband forum threads following any competitor price increase announcement. Proactively contact affected clients with a Bioniq pricing comparison.",
+      "tools": [
+        "MyBroadband price increase news — https://mybroadband.co.za/news/broadband",
+        "HelloPeter — https://www.hellopeter.com",
+        "Competitor ISP websites (pricing pages)"
+      ],
+      "monitor_url": "https://mybroadband.co.za/news/broadband"
+    },
+    {
+      "signal_type": "Contract Expiry Intelligence",
+      "description": "3- and 5-year ISP contracts in municipal and commercial estates create predictable switching windows. Contracts awarded in 2022–2023 are entering renewal/re-tender phase in 2025–2026. Early outreach (6–9 months before expiry) is the optimal sales intervention window before incumbent renewal conversations begin.",
+      "monitoring_approach": "Build a contract expiry database from eTender award notices (include entity, ISP awarded, date, contract duration). Flag entities 6–9 months before estimated expiry. Initiate proactive sales outreach with a managed Wi-Fi proposal.",
+      "tools": [
+        "eTenders Bids Awarded archive — https://www.etenders.gov.za/Home/opportunities?id=2",
+        "TenderAlerts historical awards — https://tenderalerts.co.za",
+        "Internal CRM — tag with estimated contract end dates"
+      ],
+      "monitor_url": "https://www.etenders.gov.za/Home/opportunities?id=2"
+    },
+    {
+      "signal_type": "DataEQ / PwC SA Telecoms Sentiment Index",
+      "description": "PwC and DataEQ publish the South African Telecommunications Sentiment Index analysing 1.3 million+ public social media mentions. Provides sector-wide and ISP-specific net sentiment scores. Key 2024/2025 findings: ISPs record worst public net sentiment of all SA industries; digital support net sentiment -89%; network quality net sentiment -87%; connectivity issues in 16% of serviceable conversations. Use as a benchmark to identify which ISPs are underperforming most severely.",
+      "monitoring_approach": "Download annual PwC/DataEQ SA Telecoms Sentiment Index report. Use findings to target high-churn ISP clients in Bioniq's geographic footprint. Supplement with real-time monitoring via the signal sources above.",
+      "tools": [
+        "PwC SA Telecoms Sentiment Index — https://www.pwc.co.za/en/publications/south-african-telecommunications-sentiment-index.html",
+        "DataEQ — https://dataeq.com"
+      ],
+      "monitor_url": "https://www.pwc.co.za/en/publications/south-african-telecommunications-sentiment-index.html"
+    }
+  ]
+}

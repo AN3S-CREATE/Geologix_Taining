@@ -1,0 +1,352 @@
+{
+  "competitors": [
+    {
+      "company_name": "SolarAfrica",
+      "website": "https://solarafrica.com",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "industrial"],
+      "notable_recent_projects": "Over 60 MW of funded solar projects across Southern Africa since 2011. Operates a PPA model allowing zero-capital deployment for C&I clients. Full service from design through installation to performance guarantees."
+    },
+    {
+      "company_name": "JUWI Renewable Energies",
+      "website": "https://www.juwi.co.za",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["mining", "industrial"],
+      "notable_recent_projects": "Contracted 340 MWp of private solar projects in 2025 for Glencore (100 MW for ferrochrome smelters), Teraco, Sasol, and Air Liquide. Global developer with large-scale EPC capability."
+    },
+    {
+      "company_name": "Terra Firma",
+      "website": "https://terrafirma.energy (verify before use)",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "industrial"],
+      "notable_recent_projects": "550+ delivered projects across Sub-Saharan Africa. Launched 27 MWp multi-phase industrial solar program with NCP Chlorchem — one of South Africa's largest behind-the-meter installations as of end-2025."
+    },
+    {
+      "company_name": "IMPOWER",
+      "website": "https://www.impower.co.za (verify before use)",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "industrial"],
+      "notable_recent_projects": "25 MW of active sites; 150 MW under active development. Full EPC services covering project development, engineering, procurement, and construction."
+    },
+    {
+      "company_name": "GreenYellow South Africa",
+      "website": "https://greenyellowsa.co.za",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "industrial"],
+      "notable_recent_projects": "South African arm of French-group GreenYellow, with 1,000+ MWp installed globally and 3,000+ Energy Efficiency Agreements. Entered South Africa in 2020 with an asset-financing/Energy-as-a-Service ownership model."
+    },
+    {
+      "company_name": "Voltalia",
+      "website": "https://www.voltalia.com",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["mining", "industrial"],
+      "notable_recent_projects": "Commissioned 148 MW Bolobedu solar farm (Limpopo) in April 2026 under a long-term CPPA with Richards Bay Minerals (Rio Tinto subsidiary), generating ~300 GWh/year and offsetting 237,000 tonnes of CO2 annually."
+    },
+    {
+      "company_name": "Pele Green Energy",
+      "website": "https://www.pele.co.za (verify before use)",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["mining", "industrial"],
+      "notable_recent_projects": "2+ GW of renewable energy developed in South Africa. Developing 100 MW Sonvanger solar plant for Glencore. Joint 75 MW project with Engie in the Northern Cape (inaugurated 2024). IPP model with long-term PPAs."
+    },
+    {
+      "company_name": "Sinetech",
+      "website": "https://www.sinetech.co.za",
+      "core_service_focus": "both",
+      "primary_customer_segments": ["commercial", "industrial", "residential"],
+      "notable_recent_projects": "25+ years in the South African market. Full-scope energy solutions: solar PV, UPS, inverters, battery storage, and electrical installation. Serves industrial and commercial clients across all nine provinces."
+    },
+    {
+      "company_name": "Alumo Energy",
+      "website": "https://alumo.co.za",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "residential"],
+      "notable_recent_projects": "Gauteng-focused installer with a rent-to-own model. Flagged by industry publications as a transparent, vetted operator. Active in the SME and light-commercial segment."
+    },
+    {
+      "company_name": "GreenHouse Capital",
+      "website": "https://www.greenhousecapital.co.za (verify before use)",
+      "core_service_focus": "solar-only",
+      "primary_customer_segments": ["commercial", "industrial"],
+      "notable_recent_projects": "PPA/rent-to-own provider operating nationally. Installs solar at zero upfront cost and charges clients per kWh at a rate below Eskom tariff. Recurring revenue model."
+    }
+  ],
+
+  "opportunity_signals": {
+    "description": "Public signal types and sources that indicate new solar or electrical installation opportunities in South Africa",
+    "signals": [
+      {
+        "type": "Eskom Load-Shedding Escalation Signals",
+        "description": "Real-time and forecast load-shedding stages. Load shedding ended in mid-May 2025 and SA marked 12 consecutive months without cuts by mid-2026. However, Eskom warnings about emergency reserve depletion and ageing coal retirements (2026–2030 gap) are recurring triggers for C&I solar decisions. An escalation back to even Stage 2 would immediately restart procurement pipelines.",
+        "sources": [
+          {
+            "name": "Eskom Load Shedding Status",
+            "url": "https://www.eskom.co.za/loadshedding/"
+          },
+          {
+            "name": "EskomSePush (live tracker and alerts)",
+            "url": "https://esp.info/"
+          },
+          {
+            "name": "Daily Maverick — Energy Desk",
+            "url": "https://www.dailymaverick.co.za/section/maverick-citizen/energy/"
+          }
+        ]
+      },
+      {
+        "type": "NERSA Tariff Decision Announcements",
+        "description": "Each NERSA tariff increase compresses industrial electricity margins and directly improves solar ROI/payback calculations. NERSA approved 12.74% for FY2026 and 8.76% for FY2027. Announcements trigger procurement reviews from CFOs and energy managers within 30–60 days.",
+        "sources": [
+          {
+            "name": "NERSA Official Website",
+            "url": "https://www.nersa.org.za"
+          },
+          {
+            "name": "Eskom FY2027 Tariff Announcement",
+            "url": "https://www.eskom.co.za/distribution/2026-2027-tariff-increase/"
+          },
+          {
+            "name": "ESI-Africa Regulatory News",
+            "url": "https://www.esi-africa.com/regulatory-framework/"
+          }
+        ]
+      },
+      {
+        "type": "Municipal Energy Notices and SSEG Approval News",
+        "description": "35+ municipalities have approved SSEG tariff structures as of 2026. NERSA's national net-billing framework (approved December 2024) standardises prosumer credits. Municipalities granting SSEG connection approvals and Eskom extending its SSEG registration fee waiver to September 2026 both signal active demand. Monitoring NERSA and SAPVIA for new municipal approvals reveals lead-generation geographies.",
+        "sources": [
+          {
+            "name": "SSEG Resource Portal (registration, frameworks, tariff lists)",
+            "url": "https://www.sseg.org.za"
+          },
+          {
+            "name": "ESI-Africa — SSEG Municipal Approved Tariff List",
+            "url": "https://www.esi-africa.com/industry-sectors/future-energy/latest-list-of-municipalities-with-approved-sseg-tariff-structures/"
+          },
+          {
+            "name": "SAPVIA Industry Updates",
+            "url": "https://sapvia.co.za/industry-updates/"
+          },
+          {
+            "name": "Eskom SSEG Registration Portal",
+            "url": "https://www.eskom.co.za/distribution/customer-service/energy-registration-certificate/small-scale-embedded-generation/"
+          }
+        ]
+      },
+      {
+        "type": "Industrial and Mining Sector Energy Procurement Notices",
+        "description": "Mining houses, manufacturing groups, data centres, and food-and-beverage manufacturers issue RFPs for private power under the DMRE wheeling and CPPA frameworks. The Minerals Council SA and sector press (Mining Weekly, Engineering News) publish announcements. Glencore, Anglo, Sibanye, Sasol, and Richards Bay Minerals have all signed large-scale private solar agreements in 2024–2026.",
+        "sources": [
+          {
+            "name": "Minerals Council South Africa",
+            "url": "https://www.mineralscouncil.org.za"
+          },
+          {
+            "name": "Mining Weekly — Energy Procurement",
+            "url": "https://www.miningweekly.com/topic/energy"
+          },
+          {
+            "name": "Engineering News — Energy",
+            "url": "https://www.engineeringnews.co.za/topic/energy"
+          },
+          {
+            "name": "National Treasury eTenders Portal",
+            "url": "https://etenders.treasury.gov.za"
+          }
+        ]
+      },
+      {
+        "type": "Government Renewable Energy Incentive Announcements",
+        "description": "The permanent Section 12B tax deduction (100% year-one allowance for solar PV up to 1 MW) drives capex-funded procurement decisions around financial year-end (February). Budget Speech announcements and SARS interpretation notes trigger a procurement window. The enhanced Section 12BA (125%) expired 28 February 2025 — future renewals or new incentives would create procurement surges.",
+        "sources": [
+          {
+            "name": "SARS Renewable Energy Guide IT39",
+            "url": "https://www.sars.gov.za/wp-content/uploads/Ops/Guides/Legal-Pub-Guide-IT39-Guide-on-the-Allowances-and-Deductions-Relating-to-Assets-Used-in-the-Generation-of-Electricity.pdf"
+          },
+          {
+            "name": "National Treasury Budget Documentation",
+            "url": "https://www.treasury.gov.za/documents/national%20budget/"
+          },
+          {
+            "name": "DMRE — Department of Mineral Resources and Energy",
+            "url": "https://www.dmre.gov.za"
+          },
+          {
+            "name": "grantZA Section 12B Summary",
+            "url": "https://grantza.org.za/energy/12b-tax"
+          }
+        ]
+      }
+    ]
+  },
+
+  "tender_landscape": {
+    "portals": [
+      {
+        "name": "National Treasury eTenders Portal",
+        "url": "https://etenders.treasury.gov.za",
+        "description": "Primary portal for national and provincial government tenders (PFMA-mandated). Does NOT include municipal or SOE tenders — must monitor those separately."
+      },
+      {
+        "name": "Eskom Tender Bulletin",
+        "url": "https://tenderbulletin.eskom.co.za/search",
+        "description": "Eskom's official tender publication covering Generation, Transmission, and Distribution — electrical infrastructure, maintenance, supply, and construction services."
+      },
+      {
+        "name": "Eskom Tenders Page",
+        "url": "https://www.eskom.co.za/tenders/",
+        "description": "Direct Eskom capital procurement and major project tenders."
+      },
+      {
+        "name": "TenderPro SA",
+        "url": "https://tenderprosa.co.za/tenders/electrical-tenders",
+        "description": "Private aggregator covering government, SOE, and municipal tenders. Includes electrical and solar sub-categories. Provides email alerts."
+      },
+      {
+        "name": "eTender SA",
+        "url": "https://etendersa.co.za/electrical-tenders-south-africa/",
+        "description": "Specialist electrical tender aggregator covering municipalities and government entities. Guidance on pricing and winning."
+      },
+      {
+        "name": "TenderPipe",
+        "url": "https://tenderpipe.com/tenders-south-africa/",
+        "description": "National tender aggregator covering open bids and RFQs across sectors."
+      },
+      {
+        "name": "CIDB Contractor Register and Tender Bulletin",
+        "url": "https://www.cidb.org.za",
+        "description": "CIDB register portal and tender bulletin for construction category tenders requiring CIDB grading."
+      }
+    ],
+    "most_active_procurers": {
+      "government_departments": [
+        "Department of Public Works and Infrastructure (DPWI) — building electrification, generator replacements, solar for government buildings",
+        "Department of Mineral Resources and Energy (DMRE) — renewable energy programme administration and electrification projects",
+        "South African National Roads Agency (SANRAL) — road lighting, toll plazas, electrical infrastructure",
+        "Department of Water and Sanitation — pump station electrification and solar"
+      ],
+      "municipalities_and_metros": [
+        "City Power (Johannesburg) — grid maintenance, metering, streetlighting, substation works",
+        "City of Cape Town Electricity — SSEG rollout, smart metering, grid infrastructure",
+        "Tshwane Metro — building solar retrofit, electrical maintenance contracts",
+        "eThekwini Municipality — port area industrial electrical, solar for municipal facilities",
+        "Nelson Mandela Bay — industrial zone solar and electrical projects"
+      ],
+      "state_owned_enterprises": [
+        "Eskom — grid hardening, substation upgrades, transmission line work, renewable energy connection",
+        "Transnet — rail electrification, port crane power, depot solar",
+        "PRASA — station lighting and electrical upgrades",
+        "ACSA (Airports Company SA) — terminal solar and power infrastructure"
+      ],
+      "mining_and_industrial_corporates": [
+        "Glencore SA (ferrochrome, coal) — large private power procurement",
+        "Anglo American (platinum, iron ore) — solar and hybrid power plant tenders",
+        "Sibanye-Stillwater (gold, platinum) — mine surface solar and load-management",
+        "Sasol (chemicals, fuels) — industrial process solar and energy efficiency",
+        "Richards Bay Minerals / Rio Tinto — CPPA and private power"
+      ]
+    },
+    "registration_requirements": {
+      "CIDB": {
+        "relevant_classes": "EP (Electrical Engineering Infrastructure) or EB (Electrical Engineering Building); ME (Mechanical Engineering) for hybrid projects with HVAC or pump systems",
+        "grades_for_large_industrial_tenders": "Grade 7EP for tenders up to ~R40M; Grade 8EP for tenders up to ~R130M; Grade 9EP (no upper limit) required for major SOE and multinational mining contracts. Typical large industrial and mining contracts require Grade 7–9EP.",
+        "registration_body": "Construction Industry Development Board (CIDB)",
+        "registration_url": "https://portal.cidb.org.za/RegisterOfContractors/"
+      },
+      "DOL_electrical_contractor": {
+        "description": "Registration with the Department of Labour (DoL) as an electrical contractor is a legal requirement under the Electrical Installation Regulations (2009). Annual renewal fee of R120. Required before any paid electrical installation work.",
+        "registration_url": "https://www.labour.gov.za",
+        "guidance_url": "https://www.citiqprepaid.co.za/how-to-become-a-registered-electrical-contractor-the-dol-registration/"
+      },
+      "ECB": {
+        "description": "Electrical Conformance Board (ECB) listing is voluntary since DoL took over contractor registration in 2012, but ECB listing is viewed positively in tender evaluations for industrial and commercial projects. Provides added credibility marker.",
+        "registration_url": "https://ecb.org.za/register/"
+      },
+      "wiremans_licence": "A Wireman's Licence (issued by DoL via trade test) is required for the responsible person on all electrical installation work. Essential for electrical contractor operability.",
+      "BBBEE": "A valid B-BBEE certificate (or EME sworn affidavit for entities under R10M annual turnover) is mandatory for all government and SOE tender submissions. Level 1–4 preferred for scoring advantage.",
+      "additional_note": "ECA SA (Electrical Contractors Association South Africa) issued an April 2026 warning against unqualified solar installations. Membership of ECA SA and adherence to SANS 10142-1 (wiring code) are increasingly referenced in large tender specifications."
+    }
+  },
+
+  "market_context": {
+    "briefing": "South Africa recorded 12 consecutive months without load shedding as of mid-2026, with rolling power cuts last imposed in May 2025. Eskom's generation recovery was driven by reduced unplanned outages and improved maintenance, but retiring coal capacity from 2026 to 2030 creates a structural supply gap. New renewable additions must come online on schedule to prevent a return to outages — a credible risk that keeps energy-security arguments alive in industrial boardrooms.\n\nDespite the end of load shedding, demand for solar and electrical solutions remains strong. The investment driver has shifted from 'security' to 'cost reduction': NERSA-approved Eskom tariff increases of 12.74% (FY2026) and 8.76% (FY2027) continue to compress industrial electricity margins, delivering strong solar ROI for businesses. South Africa added 1.6 GW of new solar in 2025, with total installed capacity at 9.76 GW by 2026 and projected to reach 16.88 GW by 2031.\n\nOn regulation, NERSA approved a national net-billing framework (December 2024) that standardises prosumer credits for grid-exported solar. A March 2026 registration deadline for all SSEG systems up to 50 kW was set. DMRE's eased wheeling regulations and Eskom's Virtual Wheeling programme now allow industrial groups with multi-site footprints to contract solar power from remote generators without complex municipal billing adjustments. The NERSA MYPD6 congestion curtailment mechanism (4% cap) has unlocked ~1.5 GW of new capacity in the Western and Eastern Cape for private developers.\n\nOn incentives, the enhanced Section 12BA (125% first-year deduction) expired 28 February 2025. The permanent Section 12B remains active: solar PV up to 1 MW qualifies for a 100% first-year deduction; systems above 1 MW use the 50/30/20 schedule. VAT-registered businesses may additionally claim input VAT on installation costs. These incentives compress payback periods for CAPEX buyers, keeping both financed and direct-purchase pipelines active."
+  },
+
+  "competitive_positioning": {
+    "typical_system_sizes": {
+      "commercial_offices_retail_warehouses": "100 kW – 1 MW rooftop or ground-mount; suits light manufacturing, warehouses, retail chains, office parks",
+      "industrial_manufacturing_food_and_beverage_chemicals": "1 MW – 10 MW; multi-phase behind-the-meter rollouts; e.g., NCP Chlorchem 27 MWp (multi-phase)",
+      "mining_and_heavy_industry": "10 MW – 340+ MW; dedicated private power plants under CPPA or Eskom Virtual Wheeling; e.g., Glencore 100 MW ferrochrome plant (JUWI), Bolobedu 148 MW (Voltalia for Richards Bay Minerals)",
+      "context": "Approximately 100 MW of projects between 100 kW and 1 MW and ~250 MW of projects between 1 MW and 50 MW were registered in South Africa in the 12 months to mid-2026, confirming strong C&I mid-market activity."
+    },
+    "installed_cost_ranges_per_kW": {
+      "small_commercial_100kW_to_1MW": "R13,000 – R18,000 per kW (fully installed, including inverters, DC cabling, and balance-of-system; no BESS)",
+      "medium_industrial_1MW_to_10MW": "R10,000 – R14,000 per kW (EPC contract basis; economies of scale reduce BOS and design costs)",
+      "large_scale_mining_industrial_10MW_plus": "R7,000 – R12,000 per kW (competitive EPC bid pricing at scale; site-specific civil works can push costs higher)",
+      "battery_storage_add_on": "R2,000 – R5,000 per kWh for BESS co-located with solar; adds significantly to project capex",
+      "note": "Installed costs are highly project-specific. Large civil works (remote sites, grid connection infrastructure) can materially increase per-kW cost."
+    },
+    "financing_structures": [
+      {
+        "structure": "CAPEX (Direct Purchase)",
+        "description": "Client purchases and owns the system outright. Qualifies fully for Section 12B tax deductions. Preferred by balance-sheet-strong industrials and mining houses with access to corporate finance or green loan facilities.",
+        "typical_providers": "Absa, Standard Bank, Nedbank, FNB green/sustainability-linked finance at prime+1% to prime+3% over 5–7 years."
+      },
+      {
+        "structure": "Power Purchase Agreement (PPA)",
+        "description": "Developer finances, owns, and operates the system on the client's site. Client pays a fixed or escalating R/kWh rate below the Eskom tariff — zero upfront capital. Typical contract terms of 10–20 years.",
+        "typical_providers": "SolarAfrica, GreenYellow SA, GreenHouse Capital, Terra Firma, IMPOWER."
+      },
+      {
+        "structure": "Lease / Rent-to-Own",
+        "description": "Client leases the system with a buy-out option at end of term. Monthly payment replaces most of the Eskom bill. Popular in the SME and light-commercial segment.",
+        "typical_providers": "Alumo Energy, multiple commercial lenders."
+      },
+      {
+        "structure": "Corporate PPA via Wheeling (CPPA)",
+        "description": "A large-scale solar plant is built at a remote site; power is delivered to the industrial/mining client via Eskom's Virtual Wheeling programme. No physical installation at the client's site. Preferred for clients with very high demand (>5 MW).",
+        "typical_providers": "Voltalia, Pele Green Energy, JUWI, SolarAfrica for utility-scale industrial and mining clients."
+      }
+    ],
+    "common_customer_complaints_with_solar_installers": [
+      "Missed or late installation appointments after the initial quote; poor project scheduling and coordination.",
+      "Delayed equipment delivery; components collected from multiple locations rather than delivered as a coordinated project package.",
+      "Poor after-sales service: inverter faults go unresolved for weeks; warranty repairs handed off to third parties with no communication or status updates.",
+      "Inadequate structural assessments before installation — failure to evaluate roof integrity has led to solar array collapses during adverse weather events.",
+      "Use of substandard, uncertified, or grey-market components by installers who have no local technical support channels from their suppliers.",
+      "System underperformance of 30–50% below design yield due to incorrect sizing, shading analysis failures, or poor installation workmanship.",
+      "Non-compliance with Certificate of Compliance (CoC) and SSEG registration requirements — leaves clients exposed to insurance voidance and grid-connection penalties.",
+      "Unqualified or uncertified installers operating without DoL contractor registration or ECB listing — flagged specifically by ECA SA in an April 2026 industry warning.",
+      "Poor or no knowledge transfer to client operations team — clients unable to monitor or manage systems post-installation."
+    ]
+  },
+
+  "metadata": {
+    "research_date": "2026-06-24",
+    "target_company": "IO Green",
+    "target_company_description": "Electrical supply and installation services; solar supply and installation services; industrial, commercial, and mining clients in South Africa",
+    "sources_used": [
+      "https://solarafrica.com",
+      "https://www.juwi.co.za",
+      "https://greenyellowsa.co.za",
+      "https://alumo.co.za",
+      "https://www.voltalia.com",
+      "https://www.esi-africa.com",
+      "https://sapvia.co.za",
+      "https://www.sseg.org.za",
+      "https://etenders.treasury.gov.za",
+      "https://tenderbulletin.eskom.co.za",
+      "https://www.cidb.org.za",
+      "https://ecb.org.za",
+      "https://www.sars.gov.za",
+      "https://cleantechnica.com/2025/12/03/ncp-chlorchem-terra-firma-roll-out-one-of-south-africas-largest-behind-the-meter-industrial-solar-installations/",
+      "https://cleantechnica.com/2025/02/07/juwi-to-build-340mwp-solar-projects-for-south-african-mining-energy-data-center-leaders-in-2025/",
+      "https://solarquarter.com/2026/04/08/eca-sa-warns-against-unqualified-solar-installations-urges-strict-safety-compliance-in-south-africa/",
+      "https://energybee.co.za/guides/section-12b-solar-tax-deduction-south-africa",
+      "https://grantza.org.za/energy/12b-tax",
+      "https://techcentral.co.za/south-africa-marks-a-full-year-without-load-shedding/281384/",
+      "https://www.lopiletech.co.za/post/nersa-s-new-net-billing-rules-are-a-game-changer-for-south-africa-s-energy-landscape"
+    ],
+    "disclaimer": "This report is based on publicly available information as of June 2026. Competitor data, costs, and regulatory details should be independently verified before use in strategic decisions. Some competitor websites are flagged '(verify before use)' where the URL was not confirmed directly in source material."
+  }
+}

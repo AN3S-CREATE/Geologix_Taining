@@ -1,0 +1,87 @@
+﻿{
+  "section": "5 — COMMUNITY CONNECTIVITY OPPORTUNITY MAP",
+  "description": "Specific programmes, funding vehicles, and infrastructure initiatives currently creating new ISP business opportunities in South Africa. Each entry includes opportunity description, funding vehicle, procurement channel, and monitoring URL.",
+  "generated": "2026-06-25",
+  "enhancements_over_previous_version": [
+    "Enhanced tourism section with SANParks infrastructure detail, SATSA role, bleisure travel trend, Wi-Fi 6/Starlink solutions context",
+    "Enhanced mining SLP section with major mining house names and DMRE regulatory context",
+    "Enhanced smart city section with named municipalities and IMD Smart City Index 2026 rankings",
+    "Enhanced IHS Towers section with KwaMashu 2025 launch details",
+    "Added NEW: Project Isizwe partnership model as a replicable opportunity",
+    "All entries now have structured opportunity, funding_vehicle, procurement_channel, key_contacts, and monitor_url"
+  ],
+  "connectivity_opportunities": [
+    {
+      "opportunity": "SA Connect Phase 2 — Community Wi-Fi Hotspot Programme",
+      "description": "National SA Connect Phase 2 initiative targets 32,055 community Wi-Fi hotspots and household connectivity by 2026 covering schools, healthcare facilities, libraries, Thusong centres, SAPS sites, and tribal authorities. ISPs and managed Wi-Fi providers contracted as implementation partners for deployment, managed services, and SLA-based maintenance. Broadband Infraco (BBI) connected 3,401 hotspots between April 2023 and March 2025 — indicative of ongoing contract velocity.",
+      "funding_vehicle": "Department of Communications and Digital Technologies (DCDT) — direct procurement, USAF-subsidised",
+      "procurement_channel": "eTenders (https://www.etenders.gov.za) and DCDT supply chain portal",
+      "key_contacts": "DCDT Supply Chain Management — https://www.dcdt.gov.za",
+      "compliance_required": "CSD registration, ICASA licence (ECS/ECNS), BBBEE certificate, compulsory briefing session attendance",
+      "monitor_url": "https://www.gcis.gov.za/content/newsroom/blogs/2025-12/south-africa-connect"
+    },
+    {
+      "opportunity": "USAASA / USAF Digital Inclusion Fund — ISP Grant Applications",
+      "description": "R173 million allocated for FY2025/26 to fund ICT connectivity in unconnected and underserved communities. USAASA gazetted a draft USAF administration manual in February 2026 establishing a subsidy and project grant framework. Parliament Communications Committee noted recurring delays and unspent allocations — implying catch-up procurement opportunities mid-year. ISPs apply directly for project grants to deploy and manage community connectivity infrastructure.",
+      "funding_vehicle": "Universal Service and Access Fund (USAF) — grant and subsidy mechanism (not repayable)",
+      "procurement_channel": "USAASA project application process — https://usaasa.org.za. Monitor Government Gazette for grant application windows.",
+      "key_contacts": "USAASA CEO and Programme Management Office — https://usaasa.org.za/contact/",
+      "compliance_required": "ICASA licence, CSD registration, community development partnership documentation",
+      "monitor_url": "https://usaasa.org.za/2026/"
+    },
+    {
+      "opportunity": "Smart City Municipal Wi-Fi Initiatives",
+      "description": "South African municipalities are actively pursuing smart city digital infrastructure. IMD Smart City Index 2026: Cape Town ranks 3rd in Africa. Key smart city hubs: City of Cape Town (SmartCape Wi-Fi across libraries, smart street infrastructure), eThekwini — dedicated Smart City Office, Carrier Grade Network (active tender 34151-1i for network capacity), Wi-Fi 7 access point procurement (Ref: BS 750). Johannesburg — Metropolitan Trading Company (MTC) manages public Wi-Fi hotspot rollouts, Tshimologong Precinct. Ekurhuleni — active ICT infrastructure procurement. Operation Vulindlela (national initiative) is driving digitisation of all municipal services and citizen connectivity.",
+      "funding_vehicle": "Municipal capital budgets, DCDT smart city grants, Operation Vulindlela programme funding",
+      "procurement_channel": "Municipal eTender portals and SCM offices: Cape Town (https://www.capetown.gov.za), eThekwini (https://www.durban.gov.za), Johannesburg (https://www.joburg.org.za), Ekurhuleni (https://www.ekurhuleni.gov.za), Tshwane (gCommerce: https://ww1.gcommerce.gov.za)",
+      "key_contacts": "Each municipality SCM office and ICT department; Metropolitan Trading Company (MTC) for CoJ public Wi-Fi",
+      "compliance_required": "CSD registration, BBBEE certificate, ICASA licence, OEM authorisation letters for hardware-heavy bids",
+      "monitor_url": "https://www.ukesa.info/library/view/smart-city-initiatives-in-south-africa"
+    },
+    {
+      "opportunity": "Mining Community Social and Labour Plan (SLP) Connectivity",
+      "description": "Mining companies operating in SA must submit and implement Social and Labour Plans (SLPs) every 5 years under the Mineral and Petroleum Resources Development Act (MPRDA). Community development obligations under SLPs increasingly include broadband and Wi-Fi connectivity for host communities. ISPs partnering directly with mining houses can supply, deploy, and manage community hotspot infrastructure funded through SLP budgets — no formal tender process required (direct engagement). Key mining houses with active SLP cycles: Anglo American, Glencore, Sibanye-Stillwater, Exxaro, Sasol, African Rainbow Minerals, Harmony Gold. High-density opportunity areas: Limpopo (platinum belt), North West (Rustenburg), Mpumalanga (coal), Northern Cape (manganese/iron ore).",
+      "funding_vehicle": "Mining company SLP community development budgets (DMRE-regulated — not government grants)",
+      "procurement_channel": "Direct engagement with SLP Responsible Persons and Corporate Social Investment (CSI) officers at mining houses. Minerals Council SA SLP directory: https://www.mineralscouncil.org.za/sa-mining/slps",
+      "key_contacts": "Minerals Council SA — https://www.mineralscouncil.org.za. Target: Anglo American (https://www.angloamerican.com), Sibanye-Stillwater (https://www.sibanyestillwater.com), Exxaro (https://www.exxaro.com)",
+      "compliance_required": "No formal ICASA requirement for SLP-funded private projects, but ICASA licensing recommended for credibility. BBBEE level is important for mining house procurement preference.",
+      "monitor_url": "https://www.mineralscouncil.org.za/sa-mining/slps"
+    },
+    {
+      "opportunity": "Tourism and Hospitality Wi-Fi Infrastructure",
+      "description": "SA tourism sector — game lodges, boutique hotels, wine estates, bush camps, conference centres, and tourism hubs — requires managed Wi-Fi with analytics and bandwidth management for guests and staff. 2026 bleisure travel trend: guests expect stable Wi-Fi for video conferencing, cloud sync, and remote work — not just social media. Flagship facilities (SANParks Skukuza Safari Lodge, Sabi Sands private reserves, Kruger gate lodges) use Cisco Meraki APs, PoE switching, LAN/WAN setups. Remote lodges increasingly adopting Starlink + managed Wi-Fi hybrid deployments. Letaba Networks already serves this niche in the north-eastern region — direct competitive overlap. SATSA (Southern Africa Tourism Services Association) and FEDHASA (Federated Hospitality Association of SA) are the primary industry bodies.",
+      "funding_vehicle": "Private capital — hospitality operators own capex and opex. No government subsidy required for commercial lodges.",
+      "procurement_channel": "Direct B2B sales to SA tourism properties. Engage SATSA (https://www.satsa.com) and FEDHASA (https://www.fedhasa.co.za) member directories for target client lists. Target: lodges, wine estates, conference centres, boutique hotels in Bioniq operating regions.",
+      "key_contacts": "SATSA — https://www.satsa.com. FEDHASA — https://www.fedhasa.co.za. SANParks concessions and facilities management — https://www.sanparks.org",
+      "compliance_required": "POPIA-compliant captive portal with guest consent. ICASA licence for any Wi-Fi service provision. Guest network segregation from management network.",
+      "monitor_url": "https://www.satsa.com"
+    },
+    {
+      "opportunity": "IHS Towers / Tower Company Partnership Model",
+      "description": "IHS Towers SA manages passive telecom infrastructure (towers, rooftops, mast sites) across South Africa. June 2025: IHS Towers + Project Isizwe launched free uncapped public Wi-Fi in KwaMashu, Durban — demonstrating a replicable tower-owner + ISP partnership model for community connectivity. ISPs can co-locate managed Wi-Fi infrastructure at IHS tower sites and other tower company sites (TowerCo, Helios) in high-demand areas, providing backhaul reach without building new towers.",
+      "funding_vehicle": "Commercial partnership / revenue-sharing with tower companies, or community Wi-Fi funding via USAF grants",
+      "procurement_channel": "IHS Towers SA partnership inquiries — https://www.ihstowers.com. WAPA-registered provider partnerships. Direct engagement with tower company business development teams.",
+      "key_contacts": "IHS Towers SA — https://www.ihstowers.com/contact. TowerCo of Africa — https://www.towercoafrica.com",
+      "compliance_required": "ICASA licence for Wi-Fi service on co-located infrastructure. Site access agreement with tower owner. POPIA-compliant captive portal for community Wi-Fi deployments.",
+      "monitor_url": "https://www.ihstowers.com"
+    },
+    {
+      "opportunity": "Schools and Libraries Connectivity (DCDT / Provincial Education Departments)",
+      "description": "SA Connect Phase 2 targets 18,520 schools and 949 libraries for connectivity. Provincial education departments and national Department of Basic Education (DBE) issue dedicated school connectivity tenders. Project Isizwe model (free uncapped Wi-Fi in 69 schools, 20,000+ learners) demonstrates strong demand for managed educational hotspot solutions with content filtering, bandwidth controls, and analytics. SITA also issues RFQs for LAN and Wi-Fi equipment for government schools and clinics.",
+      "funding_vehicle": "USAF (via USAASA), DCDT, provincial education department budgets, SITA transversal contracts",
+      "procurement_channel": "Provincial education department SCM portals. eTenders for DCDT school connectivity bids. SITA Invitations (https://www.sita.co.za) for LAN/Wi-Fi hardware RFQs. USAASA partnerships for subsidised deployments.",
+      "key_contacts": "SITA Connectivity — https://www.sita.co.za. Department of Basic Education — https://www.education.gov.za. Provincial education SCM offices (Western Cape, Gauteng, KZN, Eastern Cape most active).",
+      "compliance_required": "CSD registration, SITA supplier accreditation (for SITA-managed bids), ICASA licence, BBBEE certificate, content filtering capability for school-safe Wi-Fi",
+      "monitor_url": "https://www.etenders.gov.za"
+    },
+    {
+      "opportunity": "Project Isizwe Partnership / Subcontractor Model",
+      "description": "Project Isizwe (non-profit) deploys free public Wi-Fi hotspots in low-income areas, townships, and schools by partnering with funders, municipalities, and ISPs. Over 1,000 active free Wi-Fi sites across SA. In June 2025, partnered with IHS Towers to launch uncapped public Wi-Fi in KwaMashu, Durban. Bioniq could partner with Project Isizwe as a regional ISP/managed service provider — supplying backhaul, managed Wi-Fi infrastructure, and network operations in regions where Bioniq has existing footprint. Model avoids the need for Bioniq to secure government funding directly.",
+      "funding_vehicle": "Project Isizwe funding (corporate CSI, government grants, international donors). Bioniq provides managed services under a commercial agreement with Project Isizwe.",
+      "procurement_channel": "Direct partnership inquiry with Project Isizwe — https://projectisizwe.org/contact. Propose regional ISP partnership for specific hotspot rollout areas.",
+      "key_contacts": "Project Isizwe — https://projectisizwe.org. IHS Towers partnership model reference — https://www.ihstowers.com",
+      "compliance_required": "ICASA licence, POPIA-compliant captive portal, open-access network capability for community deployments",
+      "monitor_url": "https://projectisizwe.org"
+    }
+  ]
+}

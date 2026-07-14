@@ -1,0 +1,112 @@
+﻿{
+    "total_chunks":  30,
+    "company":  "Salaria Safety Services",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__competitive_landscape_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__pricing_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__pricing_p2.json",
+                                                             "doc1_Salaria_Safety_Services20__pricing_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__recommendations_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__recommendations_p2.json",
+                                                             "doc1_Salaria_Safety_Services20__recommendations_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p10.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p2.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p3.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p4.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p5.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p6.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p7.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p8.json",
+                                                             "doc1_Salaria_Safety_Services20__regulatory_p9.json"
+                                                         ],
+                                               "parts":  10
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__technology_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__tender_landscape_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__tender_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Salaria_Safety_Services20__threats_risks_p1.json",
+                                                             "doc1_Salaria_Safety_Services20__threats_risks_p2.json",
+                                                             "doc1_Salaria_Safety_Services20__threats_risks_p3.json",
+                                                             "doc1_Salaria_Safety_Services20__threats_risks_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Salaria_Safety_Services20",
+                          "chunk_count":  30,
+                          "source_doc":  "Competitive and Market Intelligence for Salaria Safety Services_20260713110658.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

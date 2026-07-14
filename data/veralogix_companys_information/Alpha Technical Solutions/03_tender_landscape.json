@@ -1,0 +1,140 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Alpha Technical Solutions",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "primary_portals":  [
+                                         {
+                                             "portal":  "National Treasury eTender Publication Portal",
+                                             "url":  "https://www.etenders.gov.za",
+                                             "coverage":  "All national government departments and most provincial entities. Mining-related crushing tenders from SOEs such as AEMFC (African Exploration Mining \u0026 Finance Corporation) and government-linked quarrying operations.",
+                                             "search_keywords":  [
+                                                                     "crushing",
+                                                                     "screening",
+                                                                     "contract mining",
+                                                                     "material handling",
+                                                                     "quarry",
+                                                                     "aggregate supply"
+                                                                 ]
+                                         },
+                                         {
+                                             "portal":  "Tender Bulletins â€” Mining \u0026 Industry Services Category",
+                                             "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+                                             "coverage":  "SA Government, state departments, provinces, and SOE tenders for mining support services and equipment, including crushing plant tenders.",
+                                             "access":  "Free with registration"
+                                         },
+                                         {
+                                             "portal":  "AEMFC Open Tenders (African Exploration Mining \u0026 Finance Corporation)",
+                                             "url":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                             "coverage":  "State-owned mining entity. Publishes direct tenders for contract crushing, ore handling, and mining services at AEMFC\u0027s coal and other mineral operations.",
+                                             "notes":  "AEMFC is a key target for contract crushing services at state-owned coal mines."
+                                         },
+                                         {
+                                             "portal":  "Implats (Impala Platinum) Supplier Tenders",
+                                             "url":  "https://implats-ir.co.za/website/south-african-tenders.php",
+                                             "coverage":  "Platinum group metals crushing, milling, and material handling contracts at Implats\u0027 Rustenburg and Marula operations.",
+                                             "notes":  "One of the largest platinum producers; significant ongoing demand for crushing and material handling contract services."
+                                         },
+                                         {
+                                             "portal":  "TendersOnTime â€” South Africa Mining Tenders",
+                                             "url":  "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+                                             "coverage":  "Aggregates mining machinery, crushing plant, and services tenders from across SA government, SOEs, and mining houses.",
+                                             "access":  "Subscription-based aggregator"
+                                         },
+                                         {
+                                             "portal":  "GlobalTenders â€” South Africa Minerals \u0026 Mining",
+                                             "url":  "https://www.globaltenders.com/south-africa-minerals-mining-tenders",
+                                             "coverage":  "Broad mining tender aggregator covering quarrying, crushing, screening, and processing tenders across South Africa.",
+                                             "access":  "Subscription-based"
+                                         },
+                                         {
+                                             "portal":  "SANRAL Open Tenders (Road Construction Aggregate)",
+                                             "url":  "https://www.nra.co.za/open-tenders/",
+                                             "coverage":  "SANRAL road construction contracts that require aggregate crushing supply. Key demand signal for quarry-side contract crushing.",
+                                             "notes":  "NDB-SANRAL R7 billion loan (signed July 2025) will drive significant road rehabilitation aggregate demand."
+                                         },
+                                         {
+                                             "portal":  "Individual Mining House Procurement Portals",
+                                             "coverage":  "Anglo American, Glencore, Exxaro, Sibanye-Stillwater, Kumba Iron Ore, and Tronox all publish supplier opportunities on their own procurement portals or via SAP Ariba / Coupa platforms.",
+                                             "notes":  "Register as preferred supplier on each major house\u0027s vendor portal to receive RFQ notifications for crushing and screening services."
+                                         }
+                                     ],
+                 "largest_procurers_of_contract_crushing":  [
+                                                                {
+                                                                    "entity":  "Anglo American (Kumba Iron Ore, Anglo Platinum, Anglo Coal)",
+                                                                    "commodity":  [
+                                                                                      "iron ore",
+                                                                                      "platinum",
+                                                                                      "coal"
+                                                                                  ],
+                                                                    "notes":  "Sishen and Kolomela iron ore mines; Mogalakwena and Amandelbult PGM operations. Regular crushing and screening contract opportunities."
+                                                                },
+                                                                {
+                                                                    "entity":  "Exxaro Resources",
+                                                                    "commodity":  [
+                                                                                      "coal"
+                                                                                  ],
+                                                                    "notes":  "Grootegeluk, Belfast, and Leeuwpan coal mines. Material handling and crushing contracts for run-of-mine coal processing."
+                                                                },
+                                                                {
+                                                                    "entity":  "Glencore (Merafe Chrome JV, coal assets)",
+                                                                    "commodity":  [
+                                                                                      "chrome",
+                                                                                      "coal"
+                                                                                  ],
+                                                                    "notes":  "Significant chrome and ferrochrome ore crushing demand in the Bushveld. Extensive coal crushing and screening at Mpumalanga operations."
+                                                                },
+                                                                {
+                                                                    "entity":  "Sibanye-Stillwater",
+                                                                    "commodity":  [
+                                                                                      "gold",
+                                                                                      "platinum"
+                                                                                  ],
+                                                                    "notes":  "Klondike and other surface re-treatment operations generate ongoing screening and material handling demand."
+                                                                },
+                                                                {
+                                                                    "entity":  "AEMFC (African Exploration Mining \u0026 Finance Corporation)",
+                                                                    "commodity":  [
+                                                                                      "coal"
+                                                                                  ],
+                                                                    "notes":  "State-owned coal miner. Publishes tenders directly at aemfc.co.za. Key target for black-owned contract crushing operators."
+                                                                },
+                                                                {
+                                                                    "entity":  "Implats / Impala Platinum",
+                                                                    "commodity":  [
+                                                                                      "platinum group metals"
+                                                                                  ],
+                                                                    "notes":  "Rustenburg and Marula underground mines generate surface rock crushing demand for waste rock and ore handling."
+                                                                },
+                                                                {
+                                                                    "entity":  "SANRAL and Provincial Road Authorities",
+                                                                    "commodity":  [
+                                                                                      "aggregates"
+                                                                                  ],
+                                                                    "notes":  "R7 billion NDB loan (July 2025) plus R1.07 trillion infrastructure budget will drive significant road-base aggregate crushing demand over the next 3 years."
+                                                                }
+                                                            ],
+                 "contract_structures":  {
+                                             "rate_per_tonne":  {
+                                                                    "description":  "Most common structure for contract crushing. Contractor is paid a fixed or escalating rand-per-tonne rate for crushed and screened material delivered to spec. Incentivises throughput efficiency.",
+                                                                    "typical_application":  "Quarry, aggregate, and run-of-mine coal crushing"
+                                                                },
+                                             "day_rate":  {
+                                                              "description":  "Equipment and crew hired on a daily or hourly rate regardless of throughput. Preferred by clients for variable or uncertain feed. Contractor bears less volume risk.",
+                                                              "typical_application":  "Short-term campaigns, peak demand supplementation, pilot operations"
+                                                          },
+                                             "LSTK":  {
+                                                          "description":  "Lump-Sum Turn-Key: Contractor designs, supplies, installs, commissions, and (sometimes) operates a complete crushing and screening plant for a fixed price. High risk for contractor but premium margin if well scoped.",
+                                                          "typical_application":  "New mine or quarry greenfield plant installations"
+                                                      },
+                                             "EPCM":  {
+                                                          "description":  "Engineering, Procurement \u0026 Construction Management: Contractor manages the project on behalf of the owner but costs are reimbursable. The mining house owns all equipment. Reduces contractor balance sheet risk vs. LSTK.",
+                                                          "typical_application":  "Major mine expansion crushing plant upgrades; used by DRA Global, Worley, Hatch"
+                                                      },
+                                             "hybrid_rpt_plus_mobilisation":  {
+                                                                                  "description":  "Rate-per-tonne with a separate mobilisation and demobilisation allowance. Ensures contractor recovers plant setup costs even on lower-volume campaigns.",
+                                                                                  "typical_application":  "Remote mine sites, seasonal quarry operations"
+                                                                              }
+                                         }
+             }
+}

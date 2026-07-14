@@ -1,0 +1,105 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Glencore",
+                     "website":  "https://www.glencore.com",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "chrome ore",
+                                             "ferrochrome",
+                                             "iron ore",
+                                             "manganese"
+                                         ],
+                     "entity_type":  "Integrated producer and trader",
+                     "sa_presence":  "Major SA coal producer (Optimum, Goedgevonden); one of the world\u0027s largest third-party iron ore traders (70M+ tons/yr); active in chrome/ferrochrome through Merafe JV",
+                     "notable_activity":  "Glencore\u0027s metals trading division recorded record adjusted EBIT of $1.57 billion in H1 2025; active bidder for SA coal assets including Optimum Coal mines"
+                 },
+                 {
+                     "name":  "Trafigura",
+                     "website":  "https://www.trafigura.com",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "iron ore",
+                                             "base metals"
+                                         ],
+                     "entity_type":  "International commodity trading house",
+                     "sa_presence":  "Active trader of SA thermal coal through Richards Bay Coal Terminal; entered bidding for Optimum Coal (Gupta-linked mines); non-ferrous metals traders recorded record profits in FY2025",
+                     "notable_activity":  "Exploring SA coal mine acquisitions; expanding metals trading footprint to compete with Glencore"
+                 },
+                 {
+                     "name":  "Vitol / Noble Resources",
+                     "website":  "https://www.vitol.com",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "iron ore",
+                                             "industrial raw materials"
+                                         ],
+                     "entity_type":  "International commodity trading house",
+                     "sa_presence":  "Bidder for SA Optimum Coal; acquired Singapore-based Noble Resources (energy and industrial raw materials trader) to expand hard commodities desk",
+                     "notable_activity":  "Hired ex-Glencore and Trafigura iron ore traders in 2024 to build out metals trading; actively growing SA market presence"
+                 },
+                 {
+                     "name":  "SMJ SA",
+                     "website":  "https://smjsa.co.za",
+                     "commodity_focus":  [
+                                             "chrome ore",
+                                             "thermal coal",
+                                             "agricultural commodities"
+                                         ],
+                     "entity_type":  "Trader / broker",
+                     "sa_presence":  "SA-based; connects mines and producers in South Africa, Botswana, and Zimbabwe to international buyers; develops offtake agreements with bulk commodity producers",
+                     "notable_activity":  "Active pit-to-port facilitation for chrome and coal; focus on Southern African cross-border supply chains"
+                 },
+                 {
+                     "name":  "CSA Commodities",
+                     "website":  "https://www.csacommodities.com",
+                     "commodity_focus":  [
+                                             "thermal coal",
+                                             "metals"
+                                         ],
+                     "entity_type":  "Trader",
+                     "sa_presence":  "SA-based; trades thermal coal and metals both domestically and internationally; provides integrated pit-to-port management and vessel top-ups for coal exports",
+                     "notable_activity":  "Specialises in export logistics coordination alongside commodity trading; active at Richards Bay Coal Terminal"
+                 },
+                 {
+                     "name":  "AfriResources",
+                     "website":  "https://afri-resources.co.za",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "chrome ore",
+                                             "manganese"
+                                         ],
+                     "entity_type":  "Trader / broker",
+                     "sa_presence":  "100% Black-owned SA bulk commodity trading company; exports coal, chrome, and manganese; serves both export and domestic markets",
+                     "notable_activity":  "BBBEE-compliant trader appealing to transformation-sensitive buyers and state-linked procurement; growing export footprint"
+                 },
+                 {
+                     "name":  "Meidos Mining Group",
+                     "website":  "https://www.meidosmining.com",
+                     "commodity_focus":  [
+                                             "chrome ore",
+                                             "coal",
+                                             "manganese"
+                                         ],
+                     "entity_type":  "Trader / exporter",
+                     "sa_presence":  "One of Africa\u0027s leading exporters of chrome, coal, and manganese; operates 3 wash plants in SA; exported 588,000 metric tons in 2023",
+                     "notable_activity":  "Vertically integrated processing capability (wash plants); growing export volumes year-on-year"
+                 },
+                 {
+                     "name":  "Makhoba Commodities",
+                     "website":  "https://www.makhobacommodities.com",
+                     "commodity_focus":  [
+                                             "chrome ore",
+                                             "coal",
+                                             "manganese",
+                                             "iron ore"
+                                         ],
+                     "entity_type":  "Trader / broker",
+                     "sa_presence":  "SA-based bulk commodity sourcing and trading; sources from SA mines and connects to domestic and export buyers",
+                     "notable_activity":  "Active in multiple bulk mineral categories; positions as a sourcing and logistics bridge for international buyers"
+                 }
+             ]
+}

@@ -1,0 +1,80 @@
+﻿{
+  "section": "3 — REGULATORY WATCHLIST",
+  "description": "Key regulatory developments affecting South African ISPs and managed hotspot operators. Each entry has: status, detail, impact on Bioniq, action required, and monitoring URL.",
+  "generated": "2026-06-25",
+  "regulatory_watchlist": [
+    {
+      "area": "ICASA Innovation Spectrum — Lower 6GHz Band (5.925–6.425GHz)",
+      "status": "PUBLISHED — awaiting gazette commencement date",
+      "detail": "ICASA published final Innovation Spectrum Regulations May 2026 after 14-month consultation. Lower 6GHz band designated LICENCE-EXEMPT for WISPs, Wi-Fi operators, private entities, community operators on a shared basis — not auctioned to mobile carriers. Access managed via Unified Spectrum Switch (USS) geo-location database (CSIR likely operator) to prevent interference with satellite earth stations. WAPA projects R560 billion GDP contribution from 1.2GHz and 6GHz combined.",
+      "impact_on_bioniq": "OPPORTUNITY: Deploy higher-capacity managed Wi-Fi on 6GHz at zero additional licence cost. Enables Wi-Fi 6E and Wi-Fi 7 deployments for high-density venues (airports, malls, stadiums, conference centres). Competitive advantage over mobile carriers locked into auctioned spectrum.",
+      "action_required": "Register with USS database as operator when gazette commencement date is published. Review existing Wi-Fi hardware fleet for 6GHz compatibility (Wi-Fi 6E / Wi-Fi 7 APs).",
+      "monitor_url": "https://www.icasa.org.za/legislation-and-regulations/engineering-and-technology/radio-frequency-spectrum-licensing"
+    },
+    {
+      "area": "ICASA Spectrum — 3.8–4.2GHz Band",
+      "status": "OPEN — licensed on discounted basis",
+      "detail": "ICASA opened 3.8–4.2GHz on a licensed but discounted basis for standalone 5G and fixed wireless access. WISPs and enterprise Wi-Fi operators can apply for individual spectrum licences. Access also managed via the Unified Spectrum Switch (USS).",
+      "impact_on_bioniq": "Enables 5G-based fixed wireless or high-capacity managed hotspot services in dense commercial and industrial environments — data centres, warehouses, commercial estates.",
+      "action_required": "Monitor ICASA licensing portal for 3.8–4.2GHz licence applications and current fee schedule.",
+      "monitor_url": "https://www.icasa.org.za/pages/spectrum-licensing"
+    },
+    {
+      "area": "Electronic Communications Amendment Bill 2026",
+      "status": "DRAFT — public submissions close 21 August 2026",
+      "detail": "Major draft legislation open for public comment. Key provisions: (1) Use It or Share It — unused spectrum for 2+ years may be reassigned; ICASA prioritises community networks and SMMEs for secondary licences; secondary licensees exempt from spectrum fees for first 12 months. (2) Mandatory MVNO/roaming — large operators with IMT spectrum must provide MVNO access and national roaming upon request. (3) Wayleave standardisation — national standard by-law for wayleave approvals to replace inconsistent municipal processes; cost-based fees mandated. (4) Facilities leasing — improved access to ducts, poles, submarine cable stations. (5) ICASA-Competition Commission coordination strengthened.",
+      "impact_on_bioniq": "HIGH OPPORTUNITY: Wayleave standardisation directly reduces delays and costs when deploying Wi-Fi infrastructure on municipal land and buildings. SMME spectrum priority unlocks new access for Bioniq. Facilities leasing improvements may reduce backhaul costs.",
+      "action_required": "Submit public comment on wayleave and SMME spectrum provisions before 21 August 2026. Engage WAPA for collective industry submission. Monitor Parliament Portfolio Committee on Communications and Digital Technologies.",
+      "monitor_url": "https://www.parliament.gov.za"
+    },
+    {
+      "area": "USAASA and Universal Service and Access Fund (USAF)",
+      "status": "ACTIVE — R173 million digital inclusion fund FY2025/26",
+      "detail": "USAASA allocated R268 million for operations and R173 million in USAF digital inclusion funding for FY2025/26. Draft USAF administration manual gazetted 23 February 2026 — establishes subsidy and project grant distribution framework for ISPs deploying in underserved areas. Parliament Communications Committee flagged recurring implementation delays and unspent allocations — signals catch-up procurement cycles.",
+      "impact_on_bioniq": "USAF subsidies available to ISPs deploying community connectivity in underserved areas. Catch-up procurement from delayed budgets creates time-sensitive opportunities. Application windows announced via Government Gazette.",
+      "action_required": "Register on USAASA supplier database. Monitor Government Gazette for USAF grant windows. Track Parliament Communications Committee reports for procurement acceleration announcements.",
+      "monitor_url": "https://usaasa.org.za"
+    },
+    {
+      "area": "SA Connect Phase 2",
+      "status": "ACTIVE — ongoing rollout targeting 2026 completion",
+      "detail": "National broadband programme targets: 32,055 community Wi-Fi hotspots, 5.5 million households, 18,520 schools, 5,731 healthcare facilities, 949 libraries and Thusong centres, 567 SAPS sites, 8,241 tribal authorities. Managed by DCDT with ISPs contracted as implementation partners via eTenders and direct departmental procurement.",
+      "impact_on_bioniq": "Largest single connectivity procurement pipeline in SA. ISPs contracted for managed Wi-Fi deployment, SLA-based managed service delivery, and ongoing maintenance.",
+      "action_required": "Monitor eTenders daily for DCDT connectivity procurement. Ensure CSD registration is active. Verify ICASA licence is current. Confirm BBBEE certificate is up to date.",
+      "monitor_url": "https://www.gcis.gov.za/content/newsroom/blogs/2025-12/south-africa-connect"
+    },
+    {
+      "area": "POPIA — Data Privacy for Hotspot and Captive Portal Operators",
+      "status": "ENFORCED — April 2025 amendments in effect",
+      "detail": "POPIA applies to all organisations processing personal data in SA. April 2025 amendments: (1) Breach reporting ONLY via Information Regulator eServices Portal (https://eservices.inforegulator.org.za) — email reporting no longer accepted from 1 April 2025. (2) No materiality threshold — ALL breaches must be reported as soon as reasonably possible. (3) Data subject rights must be honoured free of charge via accessible channels (including WhatsApp, SMS, email). (4) Information Officer (IO) must be registered with Information Regulator. (5) Fines up to ZAR 10 million (payable in instalments). Captive portals collect personal information (names, emails, phone numbers, device MAC addresses) — all 8 Conditions for Lawful Processing apply: consent, purpose limitation, data minimisation, security safeguards, data subject rights.",
+      "impact_on_bioniq": "Captive portal login must display POPIA-compliant Privacy Policy. Informed consent required before data collection. Encryption and access controls on collected data mandatory. IO must be registered. Any breach must be reported via eServices portal. Non-compliance risks ZAR 10 million fine or criminal prosecution.",
+      "action_required": "Register Information Officer at https://eservices.inforegulator.org.za. Update captive portal Privacy Policy and consent flow. Audit data retention and deletion policies. Conduct annual POPIA compliance review.",
+      "monitor_url": "https://inforegulator.org.za",
+      "breach_reporting_portal": "https://eservices.inforegulator.org.za"
+    },
+    {
+      "area": "ISPA Membership and ECT Act Liability Protection",
+      "status": "ONGOING — active industry body",
+      "detail": "Internet Service Providers Association (ISPA) is formally recognised under ECT Act Section 71. Membership provides: (1) Limited liability for third-party content on Bioniq networks if ISPA Code of Conduct and take-down procedures are followed. (2) Regulatory advocacy at ICASA and Parliament. (3) Compliance toolkits, advisories, and guidance on ECA, ECT Act, POPIA. (4) Early regulatory intelligence via ISPA submissions.",
+      "impact_on_bioniq": "Reduces legal liability exposure for content traversing Bioniq managed hotspot networks. Early regulatory intelligence gives Bioniq lead time on compliance changes.",
+      "action_required": "Join ISPA if not already a member. Monitor ISPA regulatory advisories.",
+      "monitor_url": "https://www.ispa.org.za"
+    },
+    {
+      "area": "WAPA — Wireless Access Providers Association of SA",
+      "status": "ACTIVE — spectrum and wayleave advocacy ongoing",
+      "detail": "Industry body for WISPs and fixed wireless operators. Actively engaged in ICASA Innovation Spectrum consultations and ECA Amendment Bill submissions. Maintains WAPA-registered provider directory — signals to municipalities that a WISP meets minimum operational standards. Collective voice on spectrum licensing, wayleave fees, and ICASA compliance.",
+      "impact_on_bioniq": "WAPA membership signals credibility in government and municipal tenders. Access to early regulatory updates and collective industry advocacy. WAPA directory listing improves procurement visibility.",
+      "action_required": "Join or maintain WAPA membership. Monitor WAPA member portal for regulatory and spectrum updates.",
+      "monitor_url": "https://wapa.org.za"
+    },
+    {
+      "area": "Municipal Wireless Infrastructure By-Laws",
+      "status": "ACTIVE — inconsistent across municipalities; ECA Bill 2026 proposes standardisation",
+      "detail": "Municipalities adopt local by-laws for installation of wireless towers, rooftop antennae, and public Wi-Fi nodes. Cape Town, Johannesburg, eThekwini have most developed frameworks. ECA Amendment Bill 2026 proposes national wayleave standard by-law — but until enacted, inconsistencies persist. Some municipalities require full town planning approval per access point; others have simplified notification processes.",
+      "impact_on_bioniq": "Wayleave delays can extend deployment timelines by weeks to months. Each municipality must be treated separately until national standardisation is enacted.",
+      "action_required": "Maintain a compliance checklist per target municipality. Monitor ECA Amendment Bill 2026 progress. Engage each municipality SCM office before site deployment.",
+      "monitor_url": "https://www.icasa.org.za"
+    }
+  ]
+}

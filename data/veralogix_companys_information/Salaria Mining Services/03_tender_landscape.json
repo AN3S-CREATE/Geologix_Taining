@@ -1,0 +1,79 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Salaria Mining Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "key_procuring_entities":  [
+                                                {
+                                                    "entity":  "Department of Mineral Resources and Energy (DMRE)",
+                                                    "tender_portal":  "https://www.dmre.gov.za/tenders",
+                                                    "typical_scope":  "Geological mapping, mineral policy research, mine rehabilitation oversight, resource reporting verification, geotechnical studies for state mines"
+                                                },
+                                                {
+                                                    "entity":  "Council for Geoscience (CGS)",
+                                                    "tender_portal":  "https://www.geoscience.org.za",
+                                                    "typical_scope":  "Geoscientific data acquisition, geological surveys, geohazard assessments"
+                                                },
+                                                {
+                                                    "entity":  "Mintek (State metallurgical research body)",
+                                                    "tender_portal":  "https://tenderalerts.co.za/issuer/mintek",
+                                                    "typical_scope":  "Mineral processing studies, metallurgical testwork, feasibility support services"
+                                                },
+                                                {
+                                                    "entity":  "African Exploration Mining and Finance Corporation (AEMFC)",
+                                                    "tender_portal":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                                    "typical_scope":  "Coal exploration, resource estimation, mine planning for state-owned coal assets"
+                                                },
+                                                {
+                                                    "entity":  "Mine Health and Safety Council (MHSC)",
+                                                    "tender_portal":  "https://mhsc.org.za/open-tenders/",
+                                                    "typical_scope":  "Rock engineering research, geotechnical safety studies, seismic risk assessments"
+                                                },
+                                                {
+                                                    "entity":  "Eskom (state power utility)",
+                                                    "tender_portal":  "https://tenderbulletin.eskom.co.za/search",
+                                                    "typical_scope":  "Geotechnical investigations for power station and coal mine infrastructure, ash dam engineering"
+                                                },
+                                                {
+                                                    "entity":  "Transnet (state freight and ports utility)",
+                                                    "tender_portal":  "https://www.transnet.net/tenders",
+                                                    "typical_scope":  "Geotechnical investigations for rail and port infrastructure"
+                                                }
+                                            ],
+                 "professional_registration_requirements":  {
+                                                                "SACNASP":  "Statutory registration mandatory for all geoscientists practicing in South Africa under the Natural Scientific Professions Act. Required for Competent Person sign-off on SAMREC-compliant reports.",
+                                                                "ECSA":  "Statutory registration required for engineers performing identified engineering work under the Engineering Profession Act 46 of 2000. Required for rock and geotechnical engineers.",
+                                                                "GSSA_SAIMM_membership":  "Professional membership of the Geological Society of South Africa (GSSA) or the Southern African Institute of Mining and Metallurgy (SAIMM) is recognised as qualifying a practitioner as a Competent Person under SAMREC.",
+                                                                "CIDB_grading":  "CIDB (Construction Industry Development Board) grading applies primarily to construction contractors, not professional consulting services. However, consulting firms contracted by CIDB-regulated projects may need to demonstrate alignment with grading requirements. Professional service providers (geology, geotechnics) typically register under the EP (Engineering and Professional) category.",
+                                                                "BBBEE":  "Broad-Based Black Economic Empowerment compliance scoring is a standard evaluation criterion in government and SOE tenders, typically weighted under the Preferential Procurement Policy Framework Act (PPPFA).",
+                                                                "CSD_registration":  "All suppliers to government must be registered on the Central Supplier Database (csd.gov.za)."
+                                                            },
+                 "active_tender_portals":  [
+                                               {
+                                                   "portal_name":  "National Treasury eTender Portal",
+                                                   "url":  "https://www.etenders.gov.za",
+                                                   "notes":  "Official South African government e-procurement portal; the primary platform for national and provincial department tenders including DMRE"
+                                               },
+                                               {
+                                                   "portal_name":  "CIDB Tenders",
+                                                   "url":  "https://www.cidb.org.za/cidb-tenders/current-tenders/",
+                                                   "notes":  "Construction Industry Development Board tender listings; includes infrastructure-related geotechnical and mining support tenders"
+                                               },
+                                               {
+                                                   "portal_name":  "Tender Bulletins (Geotechnical \u0026 Geological Category)",
+                                                   "url":  "https://tenderbulletins.co.za/tender-category/geotechnical-and-geological-services/",
+                                                   "notes":  "Aggregator specifically filtering for geotechnical, hydrogeological and geological engineering tenders from SA government and SOEs"
+                                               },
+                                               {
+                                                   "portal_name":  "Tenders on Time (Mining Category)",
+                                                   "url":  "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+                                                   "notes":  "Third-party aggregator covering South African and Southern African mining procurement notices"
+                                               },
+                                               {
+                                                   "portal_name":  "DMRE Tenders (direct)",
+                                                   "url":  "https://www.dmre.gov.za/tenders",
+                                                   "notes":  "Direct portal for all DMRE procurement; most directly relevant to Salaria\u0027s service scope"
+                                               }
+                                           ]
+             }
+}

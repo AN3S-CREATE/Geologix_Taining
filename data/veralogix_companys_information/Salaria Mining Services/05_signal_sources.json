@@ -1,0 +1,55 @@
+﻿{
+    "_section":  "signal_sources",
+    "_company":  "Salaria Mining Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "source_name":  "Mining Review Africa",
+                     "url":  "https://www.miningreview.com",
+                     "signal_type":  "New mine project announcements, exploration results, feasibility study milestones, resource development news across Southern and Sub-Saharan Africa",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "source_name":  "Mining Weekly",
+                     "url":  "https://www.miningweekly.com",
+                     "signal_type":  "South African-focused mining industry news, commodity-specific project updates, regulatory changes, company announcements",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "source_name":  "African Mining Market",
+                     "url":  "https://africanminingmarket.com/country/south-africa/",
+                     "signal_type":  "Country-specific project and market news for South Africa; includes new exploration activity and resource development announcements",
+                     "update_frequency":  "Weekly"
+                 },
+                 {
+                     "source_name":  "SAMRAD â€” South African Mineral Resources Administration System",
+                     "url":  "https://www.samrad.gov.za",
+                     "signal_type":  "Primary signal for new prospecting rights and mining rights granted or applied for; leading indicator of future exploration and feasibility work pipelines",
+                     "update_frequency":  "Continuous (government portal)"
+                 },
+                 {
+                     "source_name":  "DMRE â€” South Africa\u0027s Mineral Industry (SAMI) Annual Report",
+                     "url":  "https://www.dmre.gov.za/mineral-resources/mineral-petroleum-regulations/overview",
+                     "signal_type":  "Annual statistical overview of South African mineral production, resource and reserve base, rights issued, investment flows; strategic context for consulting demand",
+                     "update_frequency":  "Annual"
+                 },
+                 {
+                     "source_name":  "SAIMM Journal of the Southern African Institute of Mining and Metallurgy",
+                     "url":  "https://www.saimm.co.za/journal",
+                     "signal_type":  "Peer-reviewed technical papers on resource estimation, geotechnics, mine planning and rock engineering; useful for tracking methodology trends and competitor activity",
+                     "update_frequency":  "Monthly"
+                 },
+                 {
+                     "source_name":  "GeoAfrica Earth Science Consultant and Supplier Directory",
+                     "url":  "https://www.geoafrica.co.za",
+                     "signal_type":  "Directory of South African geoscience projects, suppliers and consultants; useful for tracking new project registrations and competitor positioning",
+                     "update_frequency":  "Periodic"
+                 },
+                 {
+                     "source_name":  "Business Day / BusinessLIVE (Mining section)",
+                     "url":  "https://www.businesslive.co.za/bd/companies/mining/",
+                     "signal_type":  "Corporate announcements, JSE-listed mining company news, M\u0026A activity, new resource disclosures and feasibility study announcements",
+                     "update_frequency":  "Daily"
+                 }
+             ]
+}

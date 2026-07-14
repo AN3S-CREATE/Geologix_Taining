@@ -1,0 +1,54 @@
+{
+  "folder": "CROSS-PORTFOLIO",
+  "description": "Cross-company and cross-group market intelligence, tender monitoring signals, and strategic routing rules for the full Geologix Vanguard portfolio.",
+  "purpose": "AI agents should read this folder when performing cross-portfolio analysis, tender opportunity mapping, or strategic signal routing across multiple companies simultaneously.",
+  "ai_read_instructions": "Start with this index.json, then read the JSON and document files listed below for cross-portfolio intelligence. Do NOT move files from this folder into individual company folders.",
+  "last_updated": "2026-07-13",
+  "files": [
+    {
+      "filename": "Comprehensive Tender Monitoring System for South African Industrial Sectors.docx",
+      "type": "reference_document",
+      "description": "Full tender monitoring system covering mining, construction, transport, IT, energy, and security sectors in South Africa. Lists portal URLs, tender categories, alert setup, and monitoring cadence."
+    },
+    {
+      "filename": "Strategic Signal Routing Rules for Veralogix Group.docx",
+      "type": "reference_document",
+      "description": "Signal routing rules defining which market events trigger which Veralogix Group subsidiary to act. E.g. new mine opening triggers Rentals + Diesel + D&B + Security + Bioniq simultaneously."
+    },
+    {
+      "filename": "Strategic Marketing and Growth Analysis for Veralogix & Treadstone Logistics.pdf",
+      "type": "research_report",
+      "description": "Strategic marketing and growth analysis covering both Veralogix Group and Treadstone Logistics. Cross-portfolio growth strategies, market positioning, and key opportunity identification."
+    }
+  ],
+  "cross_portfolio_triggers": [
+    {
+      "event": "New mine opening — Mpumalanga/Limpopo",
+      "triggered_companies": ["Veralogix Rentals", "Veralogix Diesel", "Veralogix Drilling & Blasting", "Aiguille Security", "Bioniq (ISP)", "Treadstone Logistics", "Coal Processors International"]
+    },
+    {
+      "event": "Major mine expansion or strip ratio increase",
+      "triggered_companies": ["Veralogix Rentals", "Veralogix Mining (Pty) Ltd", "Veralogix Drilling & Blasting", "Veralift", "Endeto Project Services"]
+    },
+    {
+      "event": "Transnet Freight Rail failure / rail overflow",
+      "triggered_companies": ["Treadstone Logistics", "CG Transport", "Treadstone CPM", "Vera-Commodities"]
+    },
+    {
+      "event": "Contractor changeout at mining house",
+      "triggered_companies": ["Veralogix Mining (Pty) Ltd", "Veralogix Rentals", "Salaria Mining Services", "Mining Safety Services"]
+    },
+    {
+      "event": "Load-shedding escalation",
+      "triggered_companies": ["IO Green", "Veralogix Diesel", "Ritz International", "Bioniq (ISP)", "Aiguille Security"]
+    },
+    {
+      "event": "POPIA enforcement action / cyber incident",
+      "triggered_companies": ["YAL.ai", "Veramani IT", "Bioniq (ISP)"]
+    },
+    {
+      "event": "New township / peri-urban development",
+      "triggered_companies": ["Vcom", "Bioniq (ISP)", "IO Green"]
+    }
+  ]
+}

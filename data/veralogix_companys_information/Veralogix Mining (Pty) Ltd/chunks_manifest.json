@@ -1,0 +1,109 @@
+﻿{
+    "total_chunks":  27,
+    "company":  "Veralogix Mining (Pty) Ltd",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__competitive_landscape_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__executive_summary_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__executive_summary_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__recommendations_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__recommendations_p2.json",
+                                                             "doc1_Veralogix_Mining202607131__recommendations_p3.json",
+                                                             "doc1_Veralogix_Mining202607131__recommendations_p4.json",
+                                                             "doc1_Veralogix_Mining202607131__recommendations_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p2.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p3.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p4.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p5.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p6.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p7.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p8.json",
+                                                             "doc1_Veralogix_Mining202607131__regulatory_p9.json"
+                                                         ],
+                                               "parts":  9
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__technology_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Veralogix_Mining202607131__threats_risks_p1.json",
+                                                             "doc1_Veralogix_Mining202607131__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc0",
+                          "chunk_count":  27,
+                          "source_doc":  "Competitive and Market Intelligence for Veralogix Mining_20260713110545.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

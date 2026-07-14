@@ -1,0 +1,208 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Veralift",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Johnson Crane Hire (JCH)",
+                     "website":  "https://jch.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Hydraulic mobile cranes",
+                                                             "Crawler cranes",
+                                                             "All-terrain cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "18â€“800",
+                                               "fleet_size":  "Largest fleet in Africa"
+                                           },
+                     "geographic_coverage":  "18 branches throughout South Africa; subsidiary in Botswana",
+                     "key_sectors":  [
+                                         "Construction",
+                                         "Mining",
+                                         "Energy",
+                                         "Industrial"
+                                     ],
+                     "notable_recent_activity":  "Operating since 1976 with 40+ year track record; consistently cited as Africa\u0027s largest crane hire operator; fleet mobilised for REIPPPP wind farm construction projects"
+                 },
+                 {
+                     "name":  "Concord Cranes Group",
+                     "website":  "https://concordcranes.com",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes",
+                                                             "Crawler cranes",
+                                                             "Specialised heavy-lift units"
+                                                         ],
+                                               "capacity_range_tonnes":  "Up to 750",
+                                               "fleet_size":  "170+ cranes"
+                                           },
+                     "geographic_coverage":  "South Africa, Namibia, broader Southern Africa",
+                     "key_sectors":  [
+                                         "Mobile crane hire",
+                                         "Rigging services",
+                                         "Turnkey lifting",
+                                         "Specialised transport"
+                                     ],
+                     "notable_recent_activity":  "One of Africa\u0027s largest single-fleet operators with 750t crawler; turnkey lifting and specialised abnormal transport capability across the region"
+                 },
+                 {
+                     "name":  "Marlboro Crane Hire",
+                     "website":  "https://marlborocrane.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "All-terrain cranes",
+                                                             "Truck-mounted cranes",
+                                                             "Rough-terrain cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "4â€“1200",
+                                               "fleet_size":  "100+ cranes"
+                                           },
+                     "geographic_coverage":  "South Africa (national)",
+                     "key_sectors":  [
+                                         "Construction",
+                                         "Mining",
+                                         "Industrial",
+                                         "Petrochemical"
+                                     ],
+                     "notable_recent_activity":  "24-hour site support and sales team; maintains first-world equipment standards with highly-trained technicians"
+                 },
+                 {
+                     "name":  "CC Crane Hire",
+                     "website":  "https://cccranehire.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Heavy cranes",
+                                                             "Crane trucks",
+                                                             "Low-beds",
+                                                             "Abnormal load trailers",
+                                                             "Multi-axle trailers"
+                                                         ],
+                                               "capacity_range_tonnes":  "10â€“1200",
+                                               "fleet_size":  "Substantial fleet (exact size not disclosed)"
+                                           },
+                     "geographic_coverage":  "South Africa and broader Africa",
+                     "key_sectors":  [
+                                         "Heavy and extra-heavy lifting",
+                                         "Industrial",
+                                         "Mining",
+                                         "Infrastructure"
+                                     ],
+                     "notable_recent_activity":  "Recognised leader in the heavy and extra-heavy load segment; integrated abnormal transport offering complements crane hire"
+                 },
+                 {
+                     "name":  "Atlas Crane Hire",
+                     "website":  "https://atlascranehire.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Truck-mounted cranes",
+                                                             "All-terrain cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "7â€“440",
+                                               "fleet_size":  "25+ own cranes; access to 19 additional from sister company Hanmag Crane Hire"
+                                           },
+                     "geographic_coverage":  "Primarily South Africa (Gauteng base); cross-border experience in Namibia, Zimbabwe, Mozambique, Botswana, Zambia",
+                     "key_sectors":  [
+                                         "Construction",
+                                         "Mining",
+                                         "Infrastructure",
+                                         "Industrial"
+                                     ],
+                     "notable_recent_activity":  "Based in Germiston; leverages Hanmag Crane Hire sister-company fleet for surge capacity; active in cross-border African projects"
+                 },
+                 {
+                     "name":  "Teemane Cranes",
+                     "website":  "https://www.teemanecranes.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "7â€“440",
+                                               "fleet_size":  "40+ mobile cranes"
+                                           },
+                     "geographic_coverage":  "South Africa; headquartered in Cape Town (Western Cape focus)",
+                     "key_sectors":  [
+                                         "Mobile crane hire",
+                                         "Rigging",
+                                         "Industrial"
+                                     ],
+                     "notable_recent_activity":  "24/7 emergency response capability; strong Western Cape presence covering renewable energy construction in the Northern and Western Cape"
+                 },
+                 {
+                     "name":  "Babcock International (Plant Hire â€“ Crane Division)",
+                     "website":  "https://www.babcock.co.za/products-and-services/plant-hire-services/mobile-crane-hire/119/",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes",
+                                                             "Lattice boom cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "Up to 550+ (Liebherr LG1550 lattice boom)",
+                                               "fleet_size":  "Part of broader plant hire fleet"
+                                           },
+                     "geographic_coverage":  "South Africa (national)",
+                     "key_sectors":  [
+                                         "Wind farms",
+                                         "Mining",
+                                         "Large infrastructure"
+                                     ],
+                     "notable_recent_activity":  "Liebherr LG1550 lattice boom crane used for wind farm turbine erection; integrated into Babcock\u0027s broader plant hire, maintenance and asset management offering"
+                 },
+                 {
+                     "name":  "Allied Crane Hire",
+                     "website":  "https://alliedcranehire.com",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes",
+                                                             "Telehandlers",
+                                                             "Boom lifts",
+                                                             "Crane trucks",
+                                                             "Abnormal lowbeds"
+                                                         ],
+                                               "capacity_range_tonnes":  "Not specified; mid-to-heavy range",
+                                               "fleet_size":  "Multiple branch depots"
+                                           },
+                     "geographic_coverage":  "South Africa (multiple branches); sub-Saharan Africa: Botswana, Namibia, DRC, Angola, Zimbabwe, Zambia, Mozambique, Sierra Leone",
+                     "key_sectors":  [
+                                         "Crane hire",
+                                         "Rigging services",
+                                         "Abnormal transport"
+                                     ],
+                     "notable_recent_activity":  "Broadest sub-Saharan Africa geographic footprint among mid-tier operators; combined crane hire and rigging services model"
+                 },
+                 {
+                     "name":  "All Lift Crane Hire",
+                     "website":  "https://alllift.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "Not specified; light-to-medium range",
+                                               "fleet_size":  "Not disclosed"
+                                           },
+                     "geographic_coverage":  "South Africa (national)",
+                     "key_sectors":  [
+                                         "Construction",
+                                         "Mining",
+                                         "Heavy industry"
+                                     ],
+                     "notable_recent_activity":  "Founded 2010 by Robert Pritchard and Ian Harris; offers both short- and long-term mobile crane hire tailored to project requirements"
+                 },
+                 {
+                     "name":  "BrightRig Logistics (Crane Hire)",
+                     "website":  "https://brightrig.co.za",
+                     "fleet_composition":  {
+                                               "types":  [
+                                                             "Mobile cranes"
+                                                         ],
+                                               "capacity_range_tonnes":  "5â€“400",
+                                               "fleet_size":  "Not disclosed"
+                                           },
+                     "geographic_coverage":  "South Africa (Cape Town / Western Cape primary)",
+                     "key_sectors":  [
+                                         "Construction",
+                                         "Industrial",
+                                         "Commercial"
+                                     ],
+                     "notable_recent_activity":  "Published day rates from R4,000/day; certified operators included; price-competitive positioning in Western Cape market"
+                 }
+             ]
+}

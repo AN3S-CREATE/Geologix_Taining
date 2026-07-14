@@ -1,0 +1,53 @@
+﻿{
+    "_section":  "competitive_positioning",
+    "_company":  "IO Green",
+    "_source":  "doc_cf247c.json",
+    "data":  {
+                 "typical_system_sizes":  {
+                                              "commercial_offices_retail_warehouses":  "100 kW â€“ 1 MW rooftop or ground-mount; suits light manufacturing, warehouses, retail chains, office parks",
+                                              "industrial_manufacturing_food_and_beverage_chemicals":  "1 MW â€“ 10 MW; multi-phase behind-the-meter rollouts; e.g., NCP Chlorchem 27 MWp (multi-phase)",
+                                              "mining_and_heavy_industry":  "10 MW â€“ 340+ MW; dedicated private power plants under CPPA or Eskom Virtual Wheeling; e.g., Glencore 100 MW ferrochrome plant (JUWI), Bolobedu 148 MW (Voltalia for Richards Bay Minerals)",
+                                              "context":  "Approximately 100 MW of projects between 100 kW and 1 MW and ~250 MW of projects between 1 MW and 50 MW were registered in South Africa in the 12 months to mid-2026, confirming strong C\u0026I mid-market activity."
+                                          },
+                 "installed_cost_ranges_per_kW":  {
+                                                      "small_commercial_100kW_to_1MW":  "R13,000 â€“ R18,000 per kW (fully installed, including inverters, DC cabling, and balance-of-system; no BESS)",
+                                                      "medium_industrial_1MW_to_10MW":  "R10,000 â€“ R14,000 per kW (EPC contract basis; economies of scale reduce BOS and design costs)",
+                                                      "large_scale_mining_industrial_10MW_plus":  "R7,000 â€“ R12,000 per kW (competitive EPC bid pricing at scale; site-specific civil works can push costs higher)",
+                                                      "battery_storage_add_on":  "R2,000 â€“ R5,000 per kWh for BESS co-located with solar; adds significantly to project capex",
+                                                      "note":  "Installed costs are highly project-specific. Large civil works (remote sites, grid connection infrastructure) can materially increase per-kW cost."
+                                                  },
+                 "financing_structures":  [
+                                              {
+                                                  "structure":  "CAPEX (Direct Purchase)",
+                                                  "description":  "Client purchases and owns the system outright. Qualifies fully for Section 12B tax deductions. Preferred by balance-sheet-strong industrials and mining houses with access to corporate finance or green loan facilities.",
+                                                  "typical_providers":  "Absa, Standard Bank, Nedbank, FNB green/sustainability-linked finance at prime+1% to prime+3% over 5â€“7 years."
+                                              },
+                                              {
+                                                  "structure":  "Power Purchase Agreement (PPA)",
+                                                  "description":  "Developer finances, owns, and operates the system on the client\u0027s site. Client pays a fixed or escalating R/kWh rate below the Eskom tariff â€” zero upfront capital. Typical contract terms of 10â€“20 years.",
+                                                  "typical_providers":  "SolarAfrica, GreenYellow SA, GreenHouse Capital, Terra Firma, IMPOWER."
+                                              },
+                                              {
+                                                  "structure":  "Lease / Rent-to-Own",
+                                                  "description":  "Client leases the system with a buy-out option at end of term. Monthly payment replaces most of the Eskom bill. Popular in the SME and light-commercial segment.",
+                                                  "typical_providers":  "Alumo Energy, multiple commercial lenders."
+                                              },
+                                              {
+                                                  "structure":  "Corporate PPA via Wheeling (CPPA)",
+                                                  "description":  "A large-scale solar plant is built at a remote site; power is delivered to the industrial/mining client via Eskom\u0027s Virtual Wheeling programme. No physical installation at the client\u0027s site. Preferred for clients with very high demand (\u003e5 MW).",
+                                                  "typical_providers":  "Voltalia, Pele Green Energy, JUWI, SolarAfrica for utility-scale industrial and mining clients."
+                                              }
+                                          ],
+                 "common_customer_complaints_with_solar_installers":  [
+                                                                          "Missed or late installation appointments after the initial quote; poor project scheduling and coordination.",
+                                                                          "Delayed equipment delivery; components collected from multiple locations rather than delivered as a coordinated project package.",
+                                                                          "Poor after-sales service: inverter faults go unresolved for weeks; warranty repairs handed off to third parties with no communication or status updates.",
+                                                                          "Inadequate structural assessments before installation â€” failure to evaluate roof integrity has led to solar array collapses during adverse weather events.",
+                                                                          "Use of substandard, uncertified, or grey-market components by installers who have no local technical support channels from their suppliers.",
+                                                                          "System underperformance of 30â€“50% below design yield due to incorrect sizing, shading analysis failures, or poor installation workmanship.",
+                                                                          "Non-compliance with Certificate of Compliance (CoC) and SSEG registration requirements â€” leaves clients exposed to insurance voidance and grid-connection penalties.",
+                                                                          "Unqualified or uncertified installers operating without DoL contractor registration or ECB listing â€” flagged specifically by ECA SA in an April 2026 industry warning.",
+                                                                          "Poor or no knowledge transfer to client operations team â€” clients unable to monitor or manage systems post-installation."
+                                                                      ]
+             }
+}

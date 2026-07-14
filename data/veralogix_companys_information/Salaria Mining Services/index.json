@@ -1,0 +1,40 @@
+﻿{
+    "company":  "Salaria Mining Services",
+    "display_name":  "Salaria Mining Services",
+    "group":  "Salaria Group",
+    "sector":  "Mine Planning, Resource Management, Geotechnical",
+    "hq":  "South Africa",
+    "description":  "Technical mining services company providing mine planning, resource management, geotechnical engineering, and rock mechanics consulting to surface and underground mining operations in South Africa.",
+    "data_status":  "complete_chunked",
+    "last_updated":  "2026-07-13",
+    "related_companies":  [
+                              "Salaria Safety Services",
+                              "Mining Safety Services"
+                          ],
+    "file_summary":  {
+                         "has_market_intelligence":  true,
+                         "has_prompt":  true,
+                         "chunk_files_count":  58,
+                         "research_doc_count":  2,
+                         "sections_available":  [
+                                                    "bbbee_transformation",
+                                                    "competitive_landscape",
+                                                    "executive_summary",
+                                                    "financial",
+                                                    "opportunities",
+                                                    "recommendations",
+                                                    "regulatory",
+                                                    "service_offerings",
+                                                    "technology",
+                                                    "tender_landscape",
+                                                    "threats_risks"
+                                                ]
+                     },
+    "ai_read_order":  [
+                          "1. index.json (this file) — company overview and file map",
+                          "2. chunks_manifest.json — section-by-section table of contents",
+                          "3. market_intelligence.json — if available, structured intelligence",
+                          "4. doc1__[section].json, doc2__[section].json — research doc chunks by section",
+                          "5. Prompt.md — research context and data gaps"
+                      ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "_section":  "cross_sell_scenarios",
+    "_company":  "Alpha Technical Solutions",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "scenario_id":  1,
+                     "title":  "Contract Crushing Win Triggers Veralogix Rentals Auxiliary Fleet",
+                     "description":  "Alpha Technical Solutions wins a rate-per-tonne contract crushing agreement at a chrome or coal mine in Limpopo or Mpumalanga. The primary crushing and screening fleet (owned by Alpha) is mobilised, but the client also needs ancillary site support equipment â€” water bowsers for dust suppression, graders for haul road maintenance, TLBs for ramp cleanup, and diesel bowsers for plant refuelling.",
+                     "alpha_trigger":  "Alpha awarded contract crushing agreement; mobilisation phase begins",
+                     "veralogix_group_company":  "Veralogix Rentals",
+                     "veralogix_service":  "Short- to medium-term hire of water carts, motor graders, TLBs, and diesel bowsers to support Alpha\u0027s crushing operation at the mine site",
+                     "cross_sell_value":  "Alpha\u0027s on-site relationship allows Veralogix Rentals to place equipment directly without a competitive tender. Integrated billing to one client is a compelling value proposition for the mine. Typical rental contract: 6â€“24 months aligned to Alpha\u0027s crushing term."
+                 },
+                 {
+                     "scenario_id":  2,
+                     "title":  "ROM Crushing Output Feeds Veralogix Plant for Downstream Beneficiation",
+                     "description":  "Alpha Technical Solutions operates a crushing and screening circuit producing a sized product (e.g., chrome fines, coal middlings, or iron ore lump) that requires further beneficiation â€” dense media separation, jigging, flotation, or pelletising â€” before sale. Veralogix Plant can provide modular or fixed beneficiation plant capacity to process Alpha\u0027s crushed output.",
+                     "alpha_trigger":  "Alpha\u0027s crushing circuit is producing a product fraction (fines, middlings, or specific size class) that requires beneficiation to achieve final saleable grade",
+                     "veralogix_group_company":  "Veralogix Plant",
+                     "veralogix_service":  "Supply, install, and operate a downstream beneficiation plant (DMS, spiral concentrators, jig plant) co-located with Alpha\u0027s crushing circuit to upgrade the product to final saleable specification",
+                     "cross_sell_value":  "Vertical integration of crushing-to-beneficiation under the Veralogix Group creates a single-source full processing solution for the mine client, reducing their vendor management burden. The combined offering competes with Afrimat\u0027s integrated model and DRA EPCM projects."
+                 },
+                 {
+                     "scenario_id":  3,
+                     "title":  "Crushing Plant Maintenance and Fabrication by Endeto Project Services",
+                     "description":  "Alpha Technical Solutions operates a crushing plant â€” whether mobile or fixed â€” and incurs ongoing wear, structural damage, and planned maintenance requirements: liner replacements, chute refurbishment, structural steelwork repairs, conveyor transfers, and screen frame repairs. Endeto Project Services can provide on-site and workshop maintenance, fabrication, and modifications.",
+                     "alpha_trigger":  "Alpha\u0027s crushing or screening plant requires scheduled or breakdown maintenance, wear part fabrication, structural modifications, or chute and transfer point refurbishment",
+                     "veralogix_group_company":  "Endeto Project Services",
+                     "veralogix_service":  "On-site maintenance teams (boilermakers, welders, fitting and turning) for planned and emergency maintenance; workshop fabrication of custom wear liners, chute inserts, structural steelwork, and screen frame repairs",
+                     "cross_sell_value":  "Using an in-Group maintenance contractor (Endeto) instead of an independent maintenance firm eliminates margin leakage, accelerates callout response times, and allows Alpha to offer the mine client a more comprehensive SLA. Endeto benefits from a guaranteed intra-Group pipeline. Applicable to every Alpha plant from initial commissioning through the full contract term."
+                 }
+             ]
+}

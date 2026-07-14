@@ -1,0 +1,79 @@
+﻿{
+    "_section":  "regulatory_compliance",
+    "_company":  "Veralift",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "DMR_Regulation_18":  {
+                                           "full_name":  "Driven Machinery Regulations â€“ Regulation 18: Lifting Machines and Lifting Tackle",
+                                           "enabling_legislation":  "Occupational Health and Safety Act (Act 85 of 1993)",
+                                           "key_requirements":  [
+                                                                    "All cranes must be examined and subjected to a performance test by a registered Lifting Machinery Inspector (LMI) before first use",
+                                                                    "Re-examination and performance test required every time a crane is dismantled and re-erected at a new location",
+                                                                    "Annual examination at intervals not exceeding 12 months thereafter",
+                                                                    "Ropes, chains, hooks, attaching devices, sheaves, brakes, and safety devices to be examined by a competent person every 6 months",
+                                                                    "Maximum safe working load (SWL) must be clearly and permanently marked on the crane",
+                                                                    "Safety devices (brakes, load limiters, anti-two-block systems) must be functional at all times",
+                                                                    "Records of all inspections, tests, and examinations must be kept on-site"
+                                                                ],
+                                           "url":  "https://vula.uct.ac.za/access/content/group/c7716642-ada7-42a0-acee-0434c085df90/Electronic%20Resources/CD3/sow/Legislation/OHSA/dmr_18_lifting_machines_and_lifting_tackle.htm"
+                                       },
+                 "LMI_requirements":  {
+                                          "definition":  "Lifting Machinery Inspector â€“ a person registered by the Engineering Council of South Africa (ECSA) under the Engineering Profession Act (Act 46 of 2000)",
+                                          "role":  "Mandatory for all crane load tests and commissioning inspections in South Africa",
+                                          "requirements":  [
+                                                               "Must be registered with ECSA under the Specified Scope (Lifting Machinery Inspector) pathway",
+                                                               "Must demonstrate knowledge of erection, load-testing, and maintenance of the specific crane type",
+                                                               "Must be assessed by an ECSA Registration Committee and found competent for specific machine types",
+                                                               "Application requires: completed ECSA forms, qualifications, experience reports, developmental questionnaire, inspection and load test reports, and referee reports"
+                                                           ],
+                                          "application_url":  "https://ecsa.co.za/register/Professional%20Engineers/R-05-LMI-SC_Training_Requirements.pdf"
+                                      },
+                 "crane_operator_certification":  {
+                                                      "governing_body":  "Transport Education Training Authority (TETA) accredited under SAQA unit standards",
+                                                      "requirements":  [
+                                                                           "All crane operators must hold a TETA-accredited qualification aligned to the applicable SAQA unit standard for the crane type",
+                                                                           "Crane operator licenses expire every 2 years; renewal requires recertification",
+                                                                           "Minimum entry requirement: Grade 9/ABET 4 (NQF Level 1), minimum 18 years of age",
+                                                                           "Mobile crane operators: Grade 10 / NQF Level 2 equivalent + valid heavy vehicle driver\u0027s license (Code C or EC)",
+                                                                           "Assessment: 20% written (theory, safety, operational procedures) + 80% practical (hands-on supervised competence demonstration)",
+                                                                           "Training providers must be accredited with QCTO"
+                                                                       ],
+                                                      "accredited_providers":  [
+                                                                                   {
+                                                                                       "name":  "HRETD (Heavy Rescue Equipment and Training Division)",
+                                                                                       "url":  "https://www.hretd.co.za/mc.html"
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "Cranes Training SA",
+                                                                                       "url":  "https://cranestraining.com/"
+                                                                                   },
+                                                                                   {
+                                                                                       "name":  "TETA Accreditation Registry",
+                                                                                       "url":  "https://teta.org.za/index.php/chambers/accreditation"
+                                                                                   }
+                                                                               ],
+                                                      "national_code_of_practice_url":  "https://www.labour.gov.za/DocumentCenter/Code%20of%20Good%20Practice/Occupational%20Health%20and%20Safety/National%20Code%20of%20practice%20for%20the%20training%20providers%20of%20lifting%20machinery%20operators,%202024.pdf"
+                                                  },
+                 "lift_plan_requirements":  {
+                                                "description":  "A formal Lift Plan is required under the OHS Act and DMR 18 for all non-routine and complex lifts. Lift plans become mandatory above certain risk thresholds and are required by most large clients as a contractual condition.",
+                                                "thresholds_requiring_engineer_signoff":  [
+                                                                                              "Lifts exceeding 80% of the crane\u0027s rated capacity at any radius",
+                                                                                              "Tandem (multi-crane) lifts",
+                                                                                              "Lifts involving hazardous materials or restricted headroom",
+                                                                                              "Lifts on public roads or near overhead powerlines",
+                                                                                              "All critical lifts as defined by the client\u0027s safety management system"
+                                                                                          ],
+                                                "sign_off_requirement":  "Lift plans for complex or critical lifts must be reviewed and signed off by an ECSA-registered Professional Engineer (PR Eng) or Professional Engineering Technologist (PR Tech Eng) with relevant lifting experience",
+                                                "lift_plan_contents":  [
+                                                                           "Crane selection and configuration",
+                                                                           "Load weight, centre of gravity, and rigging attachment points",
+                                                                           "Ground bearing pressure calculations",
+                                                                           "Outrigger pad and mat specifications",
+                                                                           "Lift radius, boom angle, and capacity chart extraction",
+                                                                           "Exclusion zones and site risk assessment",
+                                                                           "Emergency procedures and communication plan",
+                                                                           "Operator and rigger qualifications"
+                                                                       ]
+                                            }
+             }
+}

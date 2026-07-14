@@ -1,0 +1,28 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Pencox Auto Air",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal":  "Summer Heat A/C Failure Peak",
+                     "description":  "South Africa\u0027s hottest months (Octoberâ€“February) drive a sharp spike in vehicle A/C failures as refrigerant leaks, compressor overloads, and clogged condensers manifest under sustained heat load. Workshop wait times extend to 2â€“3 weeks during peak demand in Gauteng, Limpopo, and the Northern Cape.",
+                     "affected_regions":  "Gauteng, North West, Limpopo, Northern Cape, Mpumalanga (semi-arid and bushveld zones); coastal cities experience milder but still elevated demand",
+                     "how_early_detectable":  "Detectable from Augustâ€“September as temperatures begin rising; service advisories and industry publications (e.g., RACA Journal) signal the pre-season window; fleet managers with scheduled maintenance contracts tend to book in August-September to avoid October backlogs",
+                     "commercial_opportunity":  "Pre-season fleet inspection campaigns in Augustâ€“September; offer fixed-price aircon service bundles to lock in fleet contracts before the rush"
+                 },
+                 {
+                     "signal":  "Mine and Construction Equipment Maintenance Shutdowns",
+                     "description":  "South African mines and large construction projects schedule planned maintenance shutdowns typically in Decemberâ€“January (aligned with reduced workforce availability over the festive period) and mid-year (Juneâ€“July). During shutdowns, all equipment A/C, electrical, and hydraulic systems are serviced.",
+                     "affected_sectors":  "Mining (gold, platinum, coal, iron ore); construction (infrastructure and civil projects)",
+                     "how_early_detectable":  "Shutdown schedules are planned 3â€“6 months in advance; procurement teams issue RFQs or RFPs 30â€“90 days prior. Monitoring eTender portal and direct engagement with mine maintenance managers from September and March provides advance warning.",
+                     "commercial_opportunity":  "Position as an approved specialist for shutdown-period A/C and auto electrical scope; build relationships with maintenance planners at target mines 3â€“6 months before scheduled shutdowns"
+                 },
+                 {
+                     "signal":  "R134a Refrigerant Phase-Down and R1234yf Transition",
+                     "description":  "South Africa, as a Kigali Amendment signatory, is committed to phasing down HFCs including R134a from 2020. New imported vehicles are increasingly fitted with R1234yf systems (Global Warming Potential \u003c1 vs R134a\u0027s ~1,430). Service providers must invest in R1234yf-compatible equipment and certified technicians to service newer fleet vehicles, as the installed base shifts over the next 5â€“10 years.",
+                     "regulatory_bodies":  "SARACCA (South African Refrigeration and Air Conditioning Contractors Association), Department of Forestry, Fisheries and Environment (DFFE), SABS/SANS standards framework",
+                     "how_early_detectable":  "Transition is already underway for new imported vehicles; the signal is structural rather than seasonal. Fleet operators replacing vehicles accelerate the shift. Watch SARACCA bulletins, RACA Journal, and OEM service manuals for model-year changeover timelines.",
+                     "commercial_opportunity":  "Early investment in R1234yf recovery/recharge equipment and technician certification creates a competitive moat; market to fleet operators as \u0027future-ready\u0027 A/C service before competitors are equipped"
+                 }
+             ]
+}

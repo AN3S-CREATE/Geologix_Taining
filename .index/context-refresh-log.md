@@ -4,3 +4,4 @@
 |------|---------|---------|
 | 2026-07-13 | Initial scaffold | Created `.index/` from repo reality after adding `data/`, `scripts/`, `models/`, `ask_legal.py` per setup doc. |
 | 2026-07-13 | Remote rename | Updated git remotes and renamed GitHub repos Geologi → Geologix. |
+| 2026-07-14 | Company context process | Added company-context SOP, ingest script, and `data/company_context/` outputs from Veralogix portfolio folder. |

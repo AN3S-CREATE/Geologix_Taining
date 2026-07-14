@@ -1,0 +1,162 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Veramani IT",
+    "_source":  "doc_169e4f.json",
+    "data":  [
+                 {
+                     "name":  "BCX (BT/NTT Data)",
+                     "website":  "https://www.bcx.co.za",
+                     "core_services":  [
+                                           "IoT and AI systems for mining operations",
+                                           "Cloud and connectivity solutions",
+                                           "Managed IT services",
+                                           "Industrial 4.0 / smart mining enablement",
+                                           "Cybersecurity"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Anglo American (publicly referenced in content)",
+                                                  "Multiple JSE-listed mining houses (named in case studies)"
+                                              ],
+                     "approximate_size":  "Large â€” one of the five largest IT players in SA, majority-owned by NTT Data. Revenue estimated above R5bn. 3,000+ employees."
+                 },
+                 {
+                     "name":  "4Sight Holdings",
+                     "website":  "https://4sight.cloud",
+                     "core_services":  [
+                                           "Operational Technology (OT) and industrial automation",
+                                           "AI and machine learning solutions",
+                                           "Cloud-first enterprise modernisation",
+                                           "Smart mining platforms",
+                                           "Supply chain and asset management software"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Undisclosed platinum and gold clients (referenced in Africa Mining Indaba 2024 coverage)"
+                                              ],
+                     "approximate_size":  "Mid-to-large â€” JSE-listed. Revenue R1.16bn FY2026 (16.3% growth). ~800â€“1,000 employees across SA and Africa."
+                 },
+                 {
+                     "name":  "iOCO (formerly EOH Holdings)",
+                     "website":  "https://www.ioco.tech",
+                     "core_services":  [
+                                           "IT managed services and outsourcing",
+                                           "Custom software development",
+                                           "Cloud and infrastructure services",
+                                           "Mining sector technology consulting",
+                                           "ERP and systems integration"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Multiple SOEs and mining sector clients (pre-rebrand EOH mining engagements widely documented)"
+                                              ],
+                     "approximate_size":  "Large â€” rebranded December 2024. Global reach (Europe, US, Middle East). JSE-listed predecessor entity. 5,000+ employees."
+                 },
+                 {
+                     "name":  "Altron Digital Business",
+                     "website":  "https://digitalbusiness.altron.com",
+                     "core_services":  [
+                                           "Digital transformation consulting",
+                                           "Managed IT and cloud services",
+                                           "Enterprise software and ERP",
+                                           "IT outsourcing",
+                                           "Microsoft licensing and solutions"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Eskom (energy/mining-adjacent)",
+                                                  "Various JSE-listed industrial companies"
+                                              ],
+                     "approximate_size":  "Large â€” JSE-listed Altron Group. Microsoft SA LSP. Revenue multi-billion rand. 6,000+ employees."
+                 },
+                 {
+                     "name":  "DVT (Development Vector Technology)",
+                     "website":  "https://www.dvt.co.za",
+                     "core_services":  [
+                                           "Custom software development for mining",
+                                           "Data engineering and analytics",
+                                           "Mobile and web application development",
+                                           "Systems integration",
+                                           "AI and ML solutions"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Multiple mining clients listed under mining sector page (names not individually disclosed publicly)"
+                                              ],
+                     "approximate_size":  "Mid-size â€” 500+ employees. Active in SA, UK, Ireland, Switzerland. Completed 500+ projects."
+                 },
+                 {
+                     "name":  "Gijima",
+                     "website":  "https://www.gijima.com",
+                     "core_services":  [
+                                           "ICT outsourcing and managed services",
+                                           "Telecommunications and connectivity",
+                                           "Cloud solutions",
+                                           "IT consulting",
+                                           "Government and enterprise IT"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "State-owned entities (primary focus); mining-adjacent public sector clients"
+                                              ],
+                     "approximate_size":  "Mid-size â€” 100% Black-owned (Level 1 B-BBEE). Strong government tender positioning. ~1,000 employees."
+                 },
+                 {
+                     "name":  "Accenture South Africa",
+                     "website":  "https://www.accenture.com/za-en",
+                     "core_services":  [
+                                           "Digital transformation strategy and execution",
+                                           "AI and data analytics",
+                                           "Industry X (mining/industrial technology)",
+                                           "Cloud migration",
+                                           "Process automation and ERP"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Anglo American (global engagement)",
+                                                  "Sasol",
+                                                  "Various large mining houses"
+                                              ],
+                     "approximate_size":  "Very large â€” global firm (500,000+ globally). SA office several thousand staff. One of the Big Five IT players controlling ~45% SA market share."
+                 },
+                 {
+                     "name":  "Dimension Data (NTT)",
+                     "website":  "https://www.dimensiondata.com/en-za",
+                     "core_services":  [
+                                           "Network and connectivity infrastructure",
+                                           "Cloud services",
+                                           "Cybersecurity",
+                                           "Digital workplace solutions",
+                                           "Managed IT services"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Anglo American Platinum",
+                                                  "Gold Fields (connectivity and infrastructure)"
+                                              ],
+                     "approximate_size":  "Very large â€” SA-founded, now part of NTT Group globally. Multi-billion rand SA revenue. Thousands of SA employees."
+                 },
+                 {
+                     "name":  "Realm Digital",
+                     "website":  "https://www.realmdigital.co.za",
+                     "core_services":  [
+                                           "Custom software development",
+                                           "Mobile app development",
+                                           "Application modernisation",
+                                           "AI solutions",
+                                           "BI and data analytics"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Vodacom, Standard Bank, Volkswagen SA (primary disclosed clients â€” mining indirect)"
+                                              ],
+                     "approximate_size":  "Small-to-mid â€” boutique software house, ~100â€“200 employees. Strong SA developer brand."
+                 },
+                 {
+                     "name":  "Wipro South Africa",
+                     "website":  "https://www.wipro.com/en-ZA",
+                     "core_services":  [
+                                           "IT consulting and systems integration",
+                                           "Digital transformation for industrial sectors",
+                                           "Application development and maintenance",
+                                           "Analytics and AI",
+                                           "Cloud services"
+                                       ],
+                     "known_mining_clients":  [
+                                                  "Undisclosed SA mining/energy clients (referenced in local industry reports)"
+                                              ],
+                     "approximate_size":  "Large â€” Indian multinational with significant SA footprint. Part of the broader enterprise IT market."
+                 }
+             ]
+}

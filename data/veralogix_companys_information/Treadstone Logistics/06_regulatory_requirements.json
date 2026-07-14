@@ -1,0 +1,56 @@
+﻿{
+    "_section":  "regulatory_requirements",
+    "_company":  "Treadstone Logistics",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "requirement":  "Operating Licence (Domestic)",
+                     "regulator":  "Provincial Regulatory Entity (PRE) â€” one per province",
+                     "description":  "All commercial road transport operators must hold an operating licence issued by the PRE of the province where the business is based. Separate licences may be required for each vehicle or a fleet licence for a defined number of vehicles. Required under the National Land Transport Act.",
+                     "legislative_basis":  "National Land Transport Act 5 of 2009",
+                     "reference_url":  "https://www.yebobusiness.co.za/how-to-start-transport-business-south-africa/"
+                 },
+                 {
+                     "requirement":  "C-BRTA Cross-Border Permits",
+                     "regulator":  "Cross-Border Road Transport Agency (C-BRTA)",
+                     "description":  "Required for all commercial road freight movements between South Africa and SADC neighbouring states (Mozambique, Zimbabwe, Botswana, Zambia, Eswatini, Lesotho, Namibia). Applications processed via C-BRTA\u0027s Cross-Easy online portal. Operators must create a portal profile, select permit type (freight/passenger), upload documentation, and pay fees. Permits are route-specific and commodity-specific for hazardous goods. Relevant for Treadstone if operating on Mozambique export corridor or into Zimbabwe.",
+                     "legislative_basis":  "Cross-Border Road Transport Act 4 of 1998",
+                     "reference_url":  "https://www.cbrta.co.za/permits"
+                 },
+                 {
+                     "requirement":  "RTMS (Road Transport Management System) Certification",
+                     "regulator":  "RTMS Scheme; SANAS-accredited certification bodies; SANS 1395-1:2019",
+                     "description":  "RTMS is a voluntary industry self-regulation initiative developed in partnership with the Department of Transport, SANRAL, and the CSIR. National standard: SANS 1395-1:2019 (published by SABS; audited by SANAS-accredited bodies). Over 11,000 vehicles operate under RTMS in SA. RTMS is not legally mandatory but is increasingly required by major mining company clients (Exxaro, Anglo American, Kumba, Glencore) as a supply chain qualification. Demonstrates commitment to legal load compliance, vehicle maintenance, and driver fatigue management â€” key differentiator for tender qualification.",
+                     "legislative_basis":  "Voluntary â€” SANS 1395-1:2019",
+                     "reference_url":  "https://rtms-sa.org/"
+                 },
+                 {
+                     "requirement":  "Dangerous Goods Transport Permits (Fuel/Diesel Loads)",
+                     "regulator":  "Local Authority (municipality where vehicle is licensed) / Department of Transport",
+                     "description":  "Dangerous Goods Transport Permits are issued for vehicles transporting Class 1â€“9 dangerous goods. Diesel/fuel loads fall under Class 3 (Flammable Liquids). Governed by National Road Traffic Act 93 of 1996 and SANS 10231 (operational requirements for DG road vehicles). Vehicles must display correct hazard placards, carry documentation, use certified tankers, and drivers must hold an approved DG driver training certificate. Permit is issued by the Emergency Services Responder/municipality where vehicle is licensed. Annual renewal required.",
+                     "legislative_basis":  "National Road Traffic Act 93 of 1996; SANS 10231; SANS 1157",
+                     "reference_url":  "https://www.transport.gov.za/?page_id=2388"
+                 },
+                 {
+                     "requirement":  "Vehicle Roadworthiness \u0026 Operator Fitness",
+                     "regulator":  "Road Traffic Management Corporation (RTMC); Provincial Traffic Departments",
+                     "description":  "All vehicles must hold valid roadworthy certificates (inspected at accredited testing stations). Operators must maintain vehicle maintenance records. For PBS (Performance-Based Standards) vehicles such as road trains or oversize configurations, additional authorisation from the RTMC is required under the PBS Scheme (Smart Truck Programme). Heavy haulage vehicles subject to annual fitness inspections.",
+                     "legislative_basis":  "National Road Traffic Act 93 of 1996; PBS Scheme Rules (Dec 2024)",
+                     "reference_url":  "https://rtms-sa.org/wp-content/uploads/2025/06/Rules-for-the-Development-and-Operation-of-PBS-vehicles-Dec-2024-v35.pdf"
+                 },
+                 {
+                     "requirement":  "Maximum Load \u0026 Axle Weight Compliance",
+                     "regulator":  "SANRAL; Provincial Traffic Authorities",
+                     "description":  "SA road freight load regulations set maximum gross vehicle mass and axle load limits under the National Road Traffic Act. Bulk tipper trucks for coal and chrome typically operate at 56-tonne GVM maximum on national routes. Overloading fines are imposed at weighbridges. Approximately 20% of weighed vehicles are found overloaded nationally. RTMS certification provides a compliance framework. Some PBS-certified operators can carry higher payloads on approved routes.",
+                     "legislative_basis":  "National Road Traffic Act 93 of 1996; SANRAL Load Limit Regulations",
+                     "reference_url":  "https://coldchainsa.com/south-african-road-freight-load-regulations-what-cold-chain-operators-need-to-know/"
+                 },
+                 {
+                     "requirement":  "BBBEE Compliance for Mining Procurement",
+                     "regulator":  "Department of Trade, Industry and Competition (DTIC); Mining Charter III",
+                     "description":  "Mining companies operating under the Mineral and Petroleum Resources Development Act (MPRDA) are required to meet Mining Charter III procurement targets: 70% of services procurement from BBBEE-compliant suppliers, with 11% from black women-owned businesses. Transport contractors must hold valid BBBEE certificates to qualify for mining company tenders. Exxaro\u0027s coal transport tender process explicitly weights BBBEE credentials. BBBEE levels 1â€“4 provide competitive advantage; non-compliance disqualifies from major mining tenders.",
+                     "legislative_basis":  "Mining Charter III (2018); B-BBEE Act 53 of 2003",
+                     "reference_url":  "https://www.exxaro.com/suppliers/"
+                 }
+             ]
+}

@@ -1,0 +1,364 @@
+﻿{
+    "total_chunks":  94,
+    "company":  "IO Green",
+    "total_docs":  3,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__competitive_landscape_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__executive_summary_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__executive_summary_p2.json",
+                                                             "doc1_South_Africas_Solar_and_E__executive_summary_p3.json",
+                                                             "doc1_South_Africas_Solar_and_E__executive_summary_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__financial_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__market_segments_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__market_segments_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__opportunities_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__opportunities_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__pricing_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__pricing_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__recommendations_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__recommendations_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__regulatory_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__regulatory_p2.json",
+                                                             "doc1_South_Africas_Solar_and_E__regulatory_p3.json",
+                                                             "doc1_South_Africas_Solar_and_E__regulatory_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__technology_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__technology_p2.json",
+                                                             "doc1_South_Africas_Solar_and_E__technology_p3.json",
+                                                             "doc1_South_Africas_Solar_and_E__technology_p4.json",
+                                                             "doc1_South_Africas_Solar_and_E__technology_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__tender_landscape_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__tender_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_South_Africas_Solar_and_E__threats_risks_p1.json",
+                                                             "doc1_South_Africas_Solar_and_E__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc1_South_Africas_Solar_and_E",
+                          "chunk_count":  32,
+                          "source_doc":  "Competitive and Market Analysis of South Africas Solar and Electrical Installation Industry.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__competitive_landscape_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__competitive_landscape_p2.json",
+                                                             "doc2_IO_Green_in_South_Africa__competitive_landscape_p3.json",
+                                                             "doc2_IO_Green_in_South_Africa__competitive_landscape_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__opportunities_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__opportunities_p2.json",
+                                                             "doc2_IO_Green_in_South_Africa__opportunities_p3.json",
+                                                             "doc2_IO_Green_in_South_Africa__opportunities_p4.json",
+                                                             "doc2_IO_Green_in_South_Africa__opportunities_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__pricing_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__pricing_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__recommendations_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__recommendations_p2.json",
+                                                             "doc2_IO_Green_in_South_Africa__recommendations_p3.json",
+                                                             "doc2_IO_Green_in_South_Africa__recommendations_p4.json",
+                                                             "doc2_IO_Green_in_South_Africa__recommendations_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__regulatory_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__regulatory_p2.json",
+                                                             "doc2_IO_Green_in_South_Africa__regulatory_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__service_offerings_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__service_offerings_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__technology_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__tender_landscape_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__tender_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc2_IO_Green_in_South_Africa__threats_risks_p1.json",
+                                                             "doc2_IO_Green_in_South_Africa__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc2_IO_Green_in_South_Africa",
+                          "chunk_count":  31,
+                          "source_doc":  "Competitive and Market Intelligence for IO Green in South Africa.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__competitive_landscape_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__competitive_landscape_p2.json",
+                                                             "doc3_IO_Green_in_South_Africa2__competitive_landscape_p3.json",
+                                                             "doc3_IO_Green_in_South_Africa2__competitive_landscape_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__opportunities_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__opportunities_p2.json",
+                                                             "doc3_IO_Green_in_South_Africa2__opportunities_p3.json",
+                                                             "doc3_IO_Green_in_South_Africa2__opportunities_p4.json",
+                                                             "doc3_IO_Green_in_South_Africa2__opportunities_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__pricing_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__pricing_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__recommendations_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__recommendations_p2.json",
+                                                             "doc3_IO_Green_in_South_Africa2__recommendations_p3.json",
+                                                             "doc3_IO_Green_in_South_Africa2__recommendations_p4.json",
+                                                             "doc3_IO_Green_in_South_Africa2__recommendations_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__regulatory_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__regulatory_p2.json",
+                                                             "doc3_IO_Green_in_South_Africa2__regulatory_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__service_offerings_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__service_offerings_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__technology_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__tender_landscape_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__tender_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc3_IO_Green_in_South_Africa2__threats_risks_p1.json",
+                                                             "doc3_IO_Green_in_South_Africa2__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc3_IO_Green_in_South_Africa2",
+                          "chunk_count":  31,
+                          "source_doc":  "Competitive and Market Intelligence for IO Green in South Africa_20260713154913.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

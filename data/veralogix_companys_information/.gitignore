@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────
+# Geologix Vanguard — Company Intelligence KB
+# .gitignore
+# ─────────────────────────────────────────────
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kate editor swap files
+*.kate-swp
+*.swp
+*.swo
+
+# VS Code local settings (keep extensions.json, ignore user settings)
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# OneDrive sync artefacts
+*.tmp
+~$*
+
+# Temporary / scratch directories
+tmp/
+scratch/
+.cache/
+
+# Placeholder dirs created by AI tools (empty, no content)
+dir_1fd26c/
+dir_442e47/
+dir_91b98b/
+dir_a0b047/
+
+# Compiled or packaged outputs (if any scripts added later)
+__pycache__/
+*.pyc
+node_modules/
+dist/
+
+# Secrets / credentials (never commit)
+.env
+*.key
+*.pem
+secrets/
+
+# ProjectIntel living analysis (local agent state)
+.project-intel/

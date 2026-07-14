@@ -1,0 +1,76 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Veramani IT",
+    "_source":  "doc_169e4f.json",
+    "data":  {
+                 "tender_portals":  [
+                                        {
+                                            "name":  "eTenders Publication Portal (National Treasury)",
+                                            "url":  "https://www.etenders.gov.za",
+                                            "description":  "The official national government procurement portal. Covers all national departments, provincial governments, and most SOEs. Publishes IT services tenders (software development, systems integration, digital transformation) as they open. Free to monitor."
+                                        },
+                                        {
+                                            "name":  "ProTenders South Africa â€” IT Services",
+                                            "url":  "https://www.protenders.co.za/category/it-services",
+                                            "description":  "Aggregator that pulls and enhances government IT tenders with richer categorisation, closing date alerts, and value estimates. Covers software development, ICT infrastructure, cybersecurity, and digital transformation notices."
+                                        },
+                                        {
+                                            "name":  "Tender Alerts â€” IT Services Category",
+                                            "url":  "https://tenderalerts.co.za/categories/view/29/IT-services-programming-consulting-and-software",
+                                            "description":  "Subscription alert service specifically for IT services, programming, consulting, and software tenders in South Africa. Good for same-day tender notifications."
+                                        },
+                                        {
+                                            "name":  "Tender Bulletins â€” Mining Support Services",
+                                            "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+                                            "description":  "Aggregates tenders specifically in mining support and services, including digital and operational technology procurement in the mining sector."
+                                        },
+                                        {
+                                            "name":  "Eskom Tender Bulletin",
+                                            "url":  "https://tenderbulletin.eskom.co.za/search",
+                                            "description":  "Eskom publishes its own ICT and infrastructure tenders independently of the eTenders portal. Relevant for energy/mining-adjacent software and connectivity projects."
+                                        },
+                                        {
+                                            "name":  "DMRE Tenders (Dept. of Mineral Resources and Energy)",
+                                            "url":  "https://www.dmre.gov.za/tenders",
+                                            "description":  "The regulatory department for mining publishes IT and digital systems tenders for its own operations; also signals sector investment priorities."
+                                        },
+                                        {
+                                            "name":  "TendersOnTime â€” SA Mining Tenders",
+                                            "url":  "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+                                            "description":  "Aggregates mining-specific tenders including operational technology, software, and support service tenders across SA mining companies and public buyers."
+                                        }
+                                    ],
+                 "mining_tech_announcements":  [
+                                                   {
+                                                       "name":  "Mining Weekly",
+                                                       "url":  "https://www.miningweekly.com",
+                                                       "description":  "SA\u0027s premier weekly mining news source. Technology investment announcements, digital transformation project launches, and IT procurement signals appear here first. Look for press releases and project announcements from mining companies."
+                                                   },
+                                                   {
+                                                       "name":  "Engineering News â€” Mining Desk",
+                                                       "url":  "https://www.engineeringnews.co.za/page/mining",
+                                                       "description":  "Covers capital project announcements, technology partnerships, and digital transformation deals in the SA mining and industrial sector."
+                                                   },
+                                                   {
+                                                       "name":  "Mining Review Africa",
+                                                       "url":  "https://www.miningreview.com",
+                                                       "description":  "Covers IoT, AI, and connectivity investments by African mining companies. Technology supplier profiles and project case studies signal active buyers."
+                                                   },
+                                                   {
+                                                       "name":  "Minerals Council South Africa â€” Industry News",
+                                                       "url":  "https://www.mineralscouncil.org.za/industry-news/in-the-news",
+                                                       "description":  "Industry body representing SA mines. Technology working group publications and member announcements signal where collective digital investment is flowing."
+                                                   },
+                                                   {
+                                                       "name":  "IT-Online â€” Mining Technology Coverage",
+                                                       "url":  "https://it-online.co.za",
+                                                       "description":  "Covers digital transformation announcements across SA industries including mining. Press releases from IT vendors winning mining contracts appear here."
+                                                   },
+                                                   {
+                                                       "name":  "African Mining Online",
+                                                       "url":  "https://www.africanmining.co.za",
+                                                       "description":  "Covers emerging technology adoption across African mines. AI, automation, and connectivity project announcements relevant to pipeline identification."
+                                                   }
+                                               ]
+             }
+}

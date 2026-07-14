@@ -1,0 +1,235 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Alpha Technical Solutions",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Seneca Crushing \u0026 Screening (Pty) Ltd",
+                     "website":  "https://seneca-crushing.co.za",
+                     "service_focus":  [
+                                           "contract crushing",
+                                           "contract screening",
+                                           "mobile plant hire",
+                                           "fixed processing plants"
+                                       ],
+                     "equipment_brands":  [
+                                              "Sandvik",
+                                              "Terex",
+                                              "McCloskey",
+                                              "proprietary mobile units"
+                                          ],
+                     "key_sectors":  [
+                                         "mining",
+                                         "civil construction",
+                                         "quarrying",
+                                         "aggregates"
+                                     ],
+                     "notes":  "30 years of experience. Offers mobile and fixed plant solutions. Serves mining, civil, and construction sectors across South Africa. Strong in mobile crushing hire and fixed plant installations."
+                 },
+                 {
+                     "name":  "Eco-Match",
+                     "website":  "https://www.ecomatch.co.za",
+                     "service_focus":  [
+                                           "mobile crushing",
+                                           "mobile screening",
+                                           "plant hire",
+                                           "single- and multi-stage crushing"
+                                       ],
+                     "equipment_brands":  [
+                                              "Metso",
+                                              "Sandvik",
+                                              "Terex â€” publicly listed on their plant hire fleet"
+                                          ],
+                     "key_sectors":  [
+                                         "mining",
+                                         "industrial",
+                                         "construction",
+                                         "aggregates",
+                                         "quarrying"
+                                     ],
+                     "notes":  "Specialises in provision of mobile crushing and screening equipment and associated services. Also provides scalping and multi-stage circuits. Strong presence in mining and industrial sector contracts."
+                 },
+                 {
+                     "name":  "SupaCrush Crushing \u0026 Mining Contractors",
+                     "website":  "https://supacrush.co.za",
+                     "service_focus":  [
+                                           "contract crushing",
+                                           "bulk aggregate supply",
+                                           "crushing to spec"
+                                       ],
+                     "equipment_brands":  [
+                                              "Not publicly disclosed"
+                                          ],
+                     "key_sectors":  [
+                                         "aggregates",
+                                         "civil construction",
+                                         "mining",
+                                         "quarrying"
+                                     ],
+                     "notes":  "45 years of combined crushing experience. Positions as both a contractor and bulk aggregate supplier. Operates across South Africa with a focus on civils aggregate output to client specifications."
+                 },
+                 {
+                     "name":  "Trollope Group",
+                     "website":  "https://trollopegroup.co.za",
+                     "service_focus":  [
+                                           "contract crushing and screening",
+                                           "open-cast mining",
+                                           "bulk earthworks",
+                                           "mine infrastructure",
+                                           "plant hire",
+                                           "rehabilitation"
+                                       ],
+                     "equipment_brands":  [
+                                              "Sandvik",
+                                              "Metso",
+                                              "Terex",
+                                              "Caterpillar support fleet"
+                                          ],
+                     "key_sectors":  [
+                                         "coal",
+                                         "iron ore",
+                                         "chrome",
+                                         "platinum",
+                                         "aggregates",
+                                         "manganese"
+                                     ],
+                     "notes":  "Market-leading open-cast mining contractor. Substantial expertise in crushing various ore types to diverse product specifications. Medium-to-large scale mining projects. Full pit-to-stockpile capability."
+                 },
+                 {
+                     "name":  "Afrimat Contract Mining",
+                     "website":  "https://www.afrimat.co.za/contract-mining-services/",
+                     "service_focus":  [
+                                           "full contract mining",
+                                           "drilling and blasting",
+                                           "load and haul",
+                                           "crushing",
+                                           "screening",
+                                           "delivery (pit-to-port)"
+                                       ],
+                     "equipment_brands":  [
+                                              "Sandvik",
+                                              "Epiroc",
+                                              "Metso",
+                                              "Caterpillar"
+                                          ],
+                     "key_sectors":  [
+                                         "iron ore",
+                                         "aggregates",
+                                         "construction materials",
+                                         "anthracite",
+                                         "manganese"
+                                     ],
+                     "notes":  "Delivers integrated contract mining including crushing and screening as part of its full-value-chain offering. Listed company with diversified commodity exposure and strong track record of large mine-operator contracts."
+                 },
+                 {
+                     "name":  "Build Afrika Holding",
+                     "website":  "https://www.buildafrikaholding.com/crushing-screening/",
+                     "service_focus":  [
+                                           "crushing",
+                                           "screening",
+                                           "civil construction"
+                                       ],
+                     "equipment_brands":  [
+                                              "Not publicly disclosed"
+                                          ],
+                     "key_sectors":  [
+                                         "aggregates",
+                                         "civil construction",
+                                         "quarrying"
+                                     ],
+                     "notes":  "Offers crushing and screening as part of a broader civil and construction capability. B-BBEE positioned contractor with growing contract mining exposure."
+                 },
+                 {
+                     "name":  "Mobile Crushing CC",
+                     "website":  "https://www.mobilecrushing.co.za",
+                     "service_focus":  [
+                                           "mobile crushing",
+                                           "screening",
+                                           "earthworks"
+                                       ],
+                     "equipment_brands":  [
+                                              "Not publicly disclosed"
+                                          ],
+                     "key_sectors":  [
+                                         "quarrying",
+                                         "aggregates",
+                                         "civil",
+                                         "mining"
+                                     ],
+                     "notes":  "Specialist mobile crushing and earthworks contractor. Operates primarily in the quarrying and civil aggregates space."
+                 },
+                 {
+                     "name":  "Pilot Crushtec International (Pty) Ltd",
+                     "website":  "https://pilotcrushtec.com",
+                     "service_focus":  [
+                                           "contract crushing",
+                                           "plant hire",
+                                           "modular plant supply",
+                                           "turn-key plant installations",
+                                           "aftermarket support"
+                                       ],
+                     "equipment_brands":  [
+                                              "Metso (exclusive Southern Africa distributor)",
+                                              "Sandvik (mobile range distributor)",
+                                              "Pilot Modular (proprietary)",
+                                              "Twister VSI (proprietary)"
+                                          ],
+                     "key_sectors":  [
+                                         "mining",
+                                         "quarrying",
+                                         "aggregates",
+                                         "recycling",
+                                         "coal",
+                                         "iron ore",
+                                         "chrome",
+                                         "platinum"
+                                     ],
+                     "notes":  "Founded 1990; Southern Africa\u0027s leading supplier of mobile, semi-mobile, and modular crushing, screening, recycling, sand washing, and material handling solutions. Competes both as equipment supplier and contract operator. Maintains 110,000+ genuine OEM spare parts."
+                 },
+                 {
+                     "name":  "Multotec Group",
+                     "website":  "https://www.multotec.com",
+                     "service_focus":  [
+                                           "screening media",
+                                           "cyclones",
+                                           "material handling",
+                                           "classification",
+                                           "mineral processing"
+                                       ],
+                     "equipment_brands":  [
+                                              "Multotec (proprietary screens, cyclones, samplers, wear liners)"
+                                          ],
+                     "key_sectors":  [
+                                         "coal",
+                                         "iron ore",
+                                         "chrome",
+                                         "platinum",
+                                         "gold",
+                                         "manganese",
+                                         "aggregates"
+                                     ],
+                     "notes":  "Dominant South African supplier of screening media, panels, and wear components. Competes primarily in screen media supply and replacement rather than full contract crushing, but cross-over exists in fixed plant supply and upgrades. Has global OEM relationships with Derrick, Imerys, and others."
+                 },
+                 {
+                     "name":  "DRA Global",
+                     "website":  "https://www.draglobal.com",
+                     "service_focus":  [
+                                           "EPCM project delivery",
+                                           "crushing and screening plant design and commissioning",
+                                           "material handling systems"
+                                       ],
+                     "equipment_brands":  [
+                                              "OEM-agnostic (specifies Metso, Sandvik, FLS, Weir as appropriate)"
+                                          ],
+                     "key_sectors":  [
+                                         "gold",
+                                         "platinum",
+                                         "chrome",
+                                         "copper",
+                                         "iron ore",
+                                         "coal"
+                                     ],
+                     "notes":  "Major South African EPCM contractor with strong comminution and material handling engineering capability. Competes in the engineering and project delivery layer of large crushing plant installations rather than day-to-day contract crushing operations."
+                 }
+             ]
+}

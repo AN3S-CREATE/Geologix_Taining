@@ -1,0 +1,80 @@
+﻿{
+    "_section":  "regulatory_requirements",
+    "_company":  "Endeto Project Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "pressure_equipment_regulations":  {
+                                                        "legislation":  "Pressure Equipment Regulations (PER), GNR 734 of 2009 under the Occupational Health and Safety Act (Act 85 of 1993)",
+                                                        "key_requirements":  [
+                                                                                 "All pressure equipment manufactured, repaired, or maintained must conform to SANS 347:2000 (Categorisation and conformity assessment criteria for pressure equipment)",
+                                                                                 "Manufacturers and repair contractors must hold a valid Approved Inspection Authority (AIA) registration or work under an AIA",
+                                                                                 "Welding on pressure vessels must comply with ISO 3834 quality requirements for fusion welding",
+                                                                                 "Imported pressure equipment bearing the ASME stamp (ASME VIII Division 1) is accepted as meeting PER requirements provided full ASME Code of Construction compliance is demonstrated",
+                                                                                 "Competent Persons (CPs) for pressure equipment must be certified by the SAQCC CP certification body under the SAIW",
+                                                                                 "Inspectors of Pressurised Equipment (IPEs) must be certified by SAQCC IPE"
+                                                                             ],
+                                                        "recommended_certifications":  [
+                                                                                           "ISO 3834-2 (Company Quality Certification via SAIW)",
+                                                                                           "SAQCC CP and IPE personnel certification",
+                                                                                           "ASME Section IX (Welding and Brazing Qualifications)"
+                                                                                       ],
+                                                        "regulator":  "Department of Employment and Labour (via Inspection and Enforcement Services)"
+                                                    },
+                 "welding_certifications":  {
+                                                "primary_standard":  "ISO 3834 â€” Quality requirements for fusion welding of metallic materials",
+                                                "asme_relevance":  "ASME Section IX applies to welding procedure qualifications (WPSs and PQRs) and welder performance qualifications (WPQs) for pressure-containing components",
+                                                "local_certification_body":  "SAIW (South African Institute of Welding) â€” https://www.saiw.co.za",
+                                                "requirements":  [
+                                                                     "Welding Procedure Specifications (WPS) must be qualified per ISO 15614 or ASME IX",
+                                                                     "Welders must hold current Welder Qualification Test (WQT) certificates issued by SAIW or TÃœV Rheinland South Africa",
+                                                                     "NDT inspectors must be qualified to ASNT Level II or PCN Level 2 (per SANS 10227)",
+                                                                     "All welding records must be retained per ISO 3834-2 documentation requirements"
+                                                                 ]
+                                            },
+                 "sacpcmp_registration":  {
+                                              "legislation":  "Construction Industry Development Board Act (Act 38 of 2000) and Project and Construction Management Professions Act (Act 48 of 2000)",
+                                              "body":  "South African Council for the Project and Construction Management Professions (SACPCMP) â€” https://sacpcmp.org.za",
+                                              "requirements":  [
+                                                                   "Construction Health and Safety Officers (CHSOs) on construction sites must be registered with SACPCMP; unregistered CHSOs cannot lawfully practise",
+                                                                   "Construction Health and Safety Managers (CHSMs) responsible for project OHS files must hold SACPCMP Professional registration (Pr.CHSM)",
+                                                                   "Project Managers on CIDB-registered contracts above Grade 5 are expected to hold Pr.PM (Professional Project Manager) registration",
+                                                                   "Registration requires prescribed qualifications (relevant degree or diploma), documented experience, and a professional examination"
+                                                               ]
+                                          },
+                 "ohs_act_obligations":  {
+                                             "legislation":  "Occupational Health and Safety Act (Act 85 of 1993), with the Construction Regulations 2014 and General Machinery Regulations applying to onsite work",
+                                             "key_contractor_obligations":  [
+                                                                                "Section 37(2): Written agreement required between the client (mandator) and the contractor outlining OHS responsibilities before work commences",
+                                                                                "Construction Regulations Regulation 5: Principal contractor must prepare a detailed Health and Safety Plan (HSP) before commencing work on a construction site",
+                                                                                "Construction Regulations Regulation 6: Baseline risk assessment required for all construction activities",
+                                                                                "Onsite maintenance at mines is also subject to the Mine Health and Safety Act (Act 29 of 1996) when conducted on a mine site â€” contractors must comply with the mine\u0027s Section 11 Occupational Health and Safety Management System (OHSMS)",
+                                                                                "COID Act (Act 130 of 1993): All employees must be registered with the Compensation Fund (or an approved mutual association); letter of good standing required before site access is granted by most mining clients",
+                                                                                "Machinery operators must hold a valid Certificate of Competence issued under the Driven Machinery Regulations (DMR)"
+                                                                            ],
+                                             "recommended_certifications":  [
+                                                                                "ISO 45001 Occupational Health and Safety Management System (replaces OHSAS 18001)",
+                                                                                "NOSA NOSCAR or equivalent 5-Star safety rating (widely required by mining house clients as a prequalification criterion)",
+                                                                                "ISO 9001 Quality Management System",
+                                                                                "ISO 14001 Environmental Management System"
+                                                                            ]
+                                         },
+                 "additional_requirements":  [
+                                                 {
+                                                     "requirement":  "CIDB Registration",
+                                                     "description":  "Required for all contractors on government and SOE projects; Endeto should target Grade 5ME and Grade 6ME as minimum for mining maintenance contracts; upgrade path to Grade 7+ for major shutdown contracts"
+                                                 },
+                                                 {
+                                                     "requirement":  "BEE / B-BBEE Compliance",
+                                                     "description":  "Mining Charter III (2018) and Broad-Based Black Economic Empowerment require mining house suppliers to hold a valid B-BBEE Level 4 or better certificate; Level 1-2 provides procurement recognition points for mining clients"
+                                                 },
+                                                 {
+                                                     "requirement":  "ECSA Registration",
+                                                     "description":  "Engineers signing off on designs or structural calculations must be registered with the Engineering Council of South Africa (ECSA) as Professional Engineers (Pr.Eng)"
+                                                 },
+                                                 {
+                                                     "requirement":  "MHSA Section 11 Compliance",
+                                                     "description":  "When working on a mine as a contractor, Endeto must comply with Mine Health and Safety Act (Act 29 of 1996) Section 11 requirements including appointment documentation and compliance with the mine\u0027s risk management system"
+                                                 }
+                                             ]
+             }
+}

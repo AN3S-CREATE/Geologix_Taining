@@ -1,0 +1,110 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Ritz International",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Sebokeng Fuels (Pty) Ltd",
+                     "website":  "https://sebokengfuels.co.za",
+                     "geographic_focus":  "Gauteng (Vereeniging HQ) + Limpopo; national delivery capability",
+                     "customer_segments":  [
+                                               "transport",
+                                               "manufacturing",
+                                               "mining",
+                                               "construction",
+                                               "agriculture"
+                                           ],
+                     "known_partnerships":  "Listed on ProcureActiv national procurement platform",
+                     "notes":  "30+ year track record. Supplies premium-grade diesel, lubricants, and paraffin. Presence in Modimolle (Limpopo) as well as Gauteng."
+                 },
+                 {
+                     "name":  "Nonke Petroleum",
+                     "website":  "https://www.nonkepetroleum.co.za",
+                     "geographic_focus":  "National (operating since 1990)",
+                     "customer_segments":  [
+                                               "mining",
+                                               "agriculture",
+                                               "transport",
+                                               "retail / petrol station operators",
+                                               "manufacturing"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "One of SA\u0027s oldest independent bulk diesel distributors. Wholesale and commercial diesel focus."
+                 },
+                 {
+                     "name":  "Monoka Energy (Pty) Ltd",
+                     "website":  "http://monokaenergy.com",
+                     "geographic_focus":  "Gauteng, Limpopo, Mpumalanga, North West, Free State, KwaZulu-Natal",
+                     "customer_segments":  [
+                                               "mining",
+                                               "manufacturing",
+                                               "construction",
+                                               "transport"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "100% black-owned, B-BBEE Level 1 licensed petroleum wholesaler. Actively markets to mining houses in the Limpopo (Burgersfort) and Mpumalanga mining corridors."
+                 },
+                 {
+                     "name":  "Eagle Distributors",
+                     "website":  "https://eagledistributors.co.za",
+                     "geographic_focus":  "Gauteng, KwaZulu-Natal, Western Cape, Mpumalanga, Limpopo",
+                     "customer_segments":  [
+                                               "mining",
+                                               "commercial fleet operators",
+                                               "construction",
+                                               "retail fuel sites"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "Leader in non-refined bulk fuel wholesale. Distributes Diesel (all grades), Petrol (all grades), and Lubricants. Strong presence in Mpumalanga (White River) mining corridor."
+                 },
+                 {
+                     "name":  "SA Oil",
+                     "website":  "https://saoil.co.za",
+                     "geographic_focus":  "South Africa and sub-Saharan Africa (cross-border supply capability)",
+                     "customer_segments":  [
+                                               "industrial",
+                                               "mining",
+                                               "agriculture",
+                                               "transport"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "Cross-border fuel supply into Africa is a key differentiator."
+                 },
+                 {
+                     "name":  "Bohlale Energy",
+                     "website":  "https://bohlaleenergy.co.za",
+                     "geographic_focus":  "National",
+                     "customer_segments":  [
+                                               "agriculture",
+                                               "mining",
+                                               "construction",
+                                               "commercial"
+                                           ],
+                     "known_partnerships":  "Joint venture between African Rainbow Capital Services (Patrice Motsepe) and Agrisa Commodities",
+                     "notes":  "Strong B-BBEE credentials. Also trades under the Agrisa Fuel brand. Well-positioned for BEE-scored government tenders."
+                 },
+                 {
+                     "name":  "Super Petroleum Group",
+                     "website":  "https://superpetroleum.co.za",
+                     "geographic_focus":  "South Africa (regional detail not publicly disclosed)",
+                     "customer_segments":  [
+                                               "commercial",
+                                               "industrial",
+                                               "mining"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "Recognised independent fuel trader. Limited public information available."
+                 },
+                 {
+                     "name":  "Bulk Fuel Services",
+                     "website":  "https://bulkfuel.co.za",
+                     "geographic_focus":  "National",
+                     "customer_segments":  [
+                                               "mining",
+                                               "service station retail sites"
+                                           ],
+                     "known_partnerships":  null,
+                     "notes":  "Specialises in wholesale and distribution with a stated focus on the mining sector. Also serves service station operators."
+                 }
+             ]
+}

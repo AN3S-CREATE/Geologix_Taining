@@ -1,0 +1,103 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Veralogix Plant (Woestalleen)",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Phola Coal Processing Plant",
+                     "website":  "https://www.thungela.com/about-us/where-we-operate",
+                     "processing_type":  "DMS (Dense Media Separation) â€” dual module",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "16 Mtpa (one of the largest single-site coal processing plants in South Africa)",
+                     "rail_siding_access":  true,
+                     "notes":  "Joint venture (Thungela 50%, Anglo American historical) near Ogies, Mpumalanga. Processes coal from multiple mine sources; historically accepted third-party ROM feeds; large-scale DMS cyclone plant",
+                     "competitive_threat_level":  "High â€” direct DMS competitor with massive scale"
+                 },
+                 {
+                     "name":  "Msobo Coal",
+                     "website":  "https://www.mining-outlook.com/commodities/coal-mining-sector/msobo-coal-mining-in-majestic-mpumalanga",
+                     "processing_type":  "Coal washing plants (DMS and screening)",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "Not publicly disclosed",
+                     "rail_siding_access":  true,
+                     "notes":  "Headquartered in Breyten, Msukaligwa Municipality, Mpumalanga. Manages multiple coal washing plants and four (4) rail sidings â€” strong logistics advantage. Processes for own operations; potential third-party capacity unknown",
+                     "competitive_threat_level":  "Medium â€” similar rail-siding model to Veralogix Plant; local competitor"
+                 },
+                 {
+                     "name":  "LI Coal Resources",
+                     "website":  "https://www.licoal.co.za",
+                     "processing_type":  "Washing plants (Elendspruite and Madin plants); produces 27CV, duff, peas, small nuts, 0-50mm RB1",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "Not publicly disclosed",
+                     "rail_siding_access":  "Unknown",
+                     "notes":  "Operates Elendspruite and Madin washing plants in Mpumalanga and Limpopo. Business spans prospecting, exploration, coal trading, and blending sites across Mpumalanga, Limpopo, and KZN. Multi-site processing presence is a competitive advantage",
+                     "competitive_threat_level":  "Medium â€” multi-site processing presence across Mpumalanga and Limpopo"
+                 },
+                 {
+                     "name":  "Optimum Coal / Liberty Coal (Woestalleen area)",
+                     "website":  "https://www.miningweekly.com",
+                     "processing_type":  "DMS coal washing plant (large scale)",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "8 Mtpa RBCT allocation entitlement",
+                     "rail_siding_access":  true,
+                     "notes":  "Former BHP/Glencore/Gupta-era asset; wash plant has a complex ownership and operational history. Illegal use of the wash plant was reported in 2025 (via artisanal miners). Now under Liberty Coal management. Proximity to Woestalleen makes this a direct geographic competitor",
+                     "competitive_threat_level":  "High â€” geographically proximate; large-scale DMS plant; same export corridor"
+                 },
+                 {
+                     "name":  "Mafube Coal Mine (Exxaro / Thungela 50/50 JV)",
+                     "website":  "https://www.exxaro.com/operations/where-we-operate",
+                     "processing_type":  "DMS coal handling and processing plant",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "~3 Mtpa run of mine",
+                     "rail_siding_access":  true,
+                     "notes":  "Located 30 km east of Middelburg, Mpumalanga. Joint operation between Exxaro and Thungela. Integrated mine-to-washery with own processing infrastructure; not a known toll washer but competes for the same ROM coal feed",
+                     "competitive_threat_level":  "Medium â€” integrated captive plant, not a toll washing competitor per se, but reduces available ROM coal for third-party processors"
+                 },
+                 {
+                     "name":  "Seriti Power (Kriel / Matla / Goedgevonden area plants)",
+                     "website":  "https://seritiza.com",
+                     "processing_type":  "Coal beneficiation (DMS and screening)",
+                     "commodity_focus":  [
+                                             "thermal coal (Eskom supply and export)"
+                                         ],
+                     "approximate_throughput":  "Largest supplier to Eskom; total group production ~70 Mtpa",
+                     "rail_siding_access":  true,
+                     "notes":  "Largest SA coal supplier to Eskom and significant RBCT exporter. Integrated processing operations across multiple Mpumalanga mines. Not a toll washer, but the scale and rail access of Seriti operations sets the competitive pricing floor for processing in the region",
+                     "competitive_threat_level":  "Low-Medium â€” not a direct toll washing competitor but influences market pricing and rail slot availability"
+                 },
+                 {
+                     "name":  "Kangala Coal Mine DMS Plant (Universal Coal / Menar)",
+                     "website":  "https://www.mining-technology.com/projects/kangala-coal-mine/",
+                     "processing_type":  "DMS washing plant (320 tph dual stage)",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "320 tph DMS capacity (~2.5 Mtpa)",
+                     "rail_siding_access":  "Unknown",
+                     "notes":  "Located in Witbank, Mpumalanga. Two-stage processing: 320 tph DMS plant plus crushing and screening. Integrated mine plant; potential spare capacity for third-party processing not publicly confirmed",
+                     "competitive_threat_level":  "Low-Medium â€” integrated plant, limited toll washing appetite known"
+                 },
+                 {
+                     "name":  "DMO / Douglas-Middelburg Plant (South32 legacy)",
+                     "website":  "https://www.draglobal.com/projects/douglas-middelburg-coal-plant/",
+                     "processing_type":  "DMS (twin 1150mm cyclone, 4.2m vibrating screens) â€” one of the world\u0027s largest 2-module DMS configurations",
+                     "commodity_focus":  [
+                                             "thermal coal"
+                                         ],
+                     "approximate_throughput":  "14 Mtpa (design capacity)",
+                     "rail_siding_access":  true,
+                     "notes":  "Originally built for BHP Billiton Energy Coal SA (BECSA) by DRA Global; designed for export and Eskom supply until 2034. Massive scale; now under South32 operations. Not a toll washer, but defines the benchmark for DMS plant technology and throughput in the Mpumalanga region",
+                     "competitive_threat_level":  "Low â€” different ownership tier; not a toll washing competitor directly"
+                 }
+             ]
+}

@@ -1,0 +1,131 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Mining Safety Services",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "key_portals":  [
+                                     {
+                                         "portal":  "National Treasury eTenders Portal",
+                                         "url":  "https://www.etenders.gov.za",
+                                         "description":  "Primary government procurement portal for all national and provincial departments including DMRE; CSD registration required to respond.",
+                                         "relevance":  "DMRE and parastatal safety service tenders; compliance consulting; training services"
+                                     },
+                                     {
+                                         "portal":  "Mine Health and Safety Council (MHSC) Tenders",
+                                         "url":  "https://mhsc.org.za/open-tenders/",
+                                         "description":  "MHSC issues its own procurement for OHS research, training programme development, and advisory services.",
+                                         "relevance":  "High priority for safety research and training content development tenders"
+                                     },
+                                     {
+                                         "portal":  "DMRE Tenders",
+                                         "url":  "https://www.dmre.gov.za/tenders",
+                                         "description":  "Department of Mineral Resources and Energy direct procurement.",
+                                         "relevance":  "Inspector training, safety systems, compliance software"
+                                     },
+                                     {
+                                         "portal":  "AI Tenders â€” Mining Support Services",
+                                         "url":  "https://aitenders.co.za/tenders/mining-support-service-activities",
+                                         "description":  "Aggregates mining-sector tenders from multiple SA sources.",
+                                         "relevance":  "Useful monitoring feed for mining safety service opportunities"
+                                     },
+                                     {
+                                         "portal":  "Tender Bulletins â€” Mining Support Service Activities",
+                                         "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+                                         "description":  "Consolidated tender bulletin for mining support activities.",
+                                         "relevance":  "Safety audits, training, compliance services"
+                                     },
+                                     {
+                                         "portal":  "Tenders on Time â€” South Africa Mining Tenders",
+                                         "url":  "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+                                         "description":  "Real-time aggregator of SA mining tenders.",
+                                         "relevance":  "Broad mining-related opportunity monitoring"
+                                     },
+                                     {
+                                         "portal":  "AEMFC (African Exploration Mining \u0026 Finance Corporation) Open Tenders",
+                                         "url":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                         "description":  "State-owned mining entity procurement.",
+                                         "relevance":  "State-sector safety and compliance services"
+                                     },
+                                     {
+                                         "portal":  "Tenders SA â€” Mining \u0026 Quarrying",
+                                         "url":  "https://www.tenders-sa.org/industries/mining",
+                                         "description":  "Sector-filtered tender listings with accreditation requirement details.",
+                                         "relevance":  "Certification and accreditation requirements per tender"
+                                     }
+                                 ],
+                 "accreditations_required_to_tender":  [
+                                                           {
+                                                               "accreditation":  "CSD (Central Supplier Database) Registration",
+                                                               "issuing_body":  "National Treasury",
+                                                               "url":  "https://www.csd.gov.za",
+                                                               "mandatory_for":  "All government and parastatal tenders",
+                                                               "notes":  "Tax compliance, BBBEE certificate, and company registration documents required"
+                                                           },
+                                                           {
+                                                               "accreditation":  "BBBEE Level Certification",
+                                                               "issuing_body":  "SANAS-accredited verification agencies",
+                                                               "mandatory_for":  "Most government tenders; scoring favours Level 1â€“4",
+                                                               "notes":  "Mining charter compliance expected for major mining house procurement"
+                                                           },
+                                                           {
+                                                               "accreditation":  "MQA Accreditation (Sector Education and Training Authority)",
+                                                               "issuing_body":  "Mining Qualifications Authority",
+                                                               "url":  "https://mqa.org.za",
+                                                               "mandatory_for":  "Delivery of NQF-registered training programmes; learnerships",
+                                                               "notes":  "Required for any funded learnership or skills programme delivery"
+                                                           },
+                                                           {
+                                                               "accreditation":  "NOSA / SafetyCloud Accreditation",
+                                                               "issuing_body":  "NOSA",
+                                                               "mandatory_for":  "Clients requiring NOSA-branded safety management system audits",
+                                                               "notes":  "Widely recognized by large mining houses as a quality indicator"
+                                                           },
+                                                           {
+                                                               "accreditation":  "ISO 45001 Certification (for own operations)",
+                                                               "issuing_body":  "SANAS-accredited certification bodies (SGS, Bureau Veritas)",
+                                                               "mandatory_for":  "Increasingly required by Tier 1 mining houses for safety service suppliers",
+                                                               "notes":  "Demonstrates that the consultancy operates a certified OHS management system"
+                                                           },
+                                                           {
+                                                               "accreditation":  "SACPCMP Registration (PrCHSA â€” Professional Construction Health and Safety Agent)",
+                                                               "issuing_body":  "South African Council for Project and Construction Management Professions",
+                                                               "url":  "https://sacpcmp.org.za",
+                                                               "mandatory_for":  "Construction-phase mining projects and surface infrastructure safety mandates",
+                                                               "notes":  "Required under OHS Act regulations for construction work; rules updated August 2025"
+                                                           },
+                                                           {
+                                                               "accreditation":  "DMRE GCC-related authorizations",
+                                                               "issuing_body":  "DMRE",
+                                                               "mandatory_for":  "Provision of certain statutory competency training and examination preparation",
+                                                               "notes":  "Training providers coaching candidates for GCC exams must demonstrate mine-specific expertise"
+                                                           }
+                                                       ],
+                 "major_mining_companies_running_safety_programmes":  [
+                                                                          {
+                                                                              "company":  "Sibanye-Stillwater",
+                                                                              "programme":  "OHS Training Programme (now available sector-wide)",
+                                                                              "notes":  "Developed in-house with external support; now offered to broader sector. Runs Visible Felt Leadership (VFL) as part of Khumbul\u0027ekhaya."
+                                                                          },
+                                                                          {
+                                                                              "company":  "Anglo American",
+                                                                              "programme":  "FatalityFree operations; Safety Leadership programme",
+                                                                              "notes":  "Engages external safety consultants for audit and training; supplier diversity requirements."
+                                                                          },
+                                                                          {
+                                                                              "company":  "Impala Platinum (Implats)",
+                                                                              "programme":  "Zero Harm safety culture programme",
+                                                                              "notes":  "Regular external safety audit procurement; COMSOC-qualified safety officer requirement."
+                                                                          },
+                                                                          {
+                                                                              "company":  "Glencore SA",
+                                                                              "programme":  "VFL site visits under Khumbul\u0027ekhaya Version 2.0 (first visit at Glencore Rhovan, July 2025)",
+                                                                              "notes":  "Active participant in Minerals Council safety programmes."
+                                                                          },
+                                                                          {
+                                                                              "company":  "Gold Fields",
+                                                                              "programme":  "Total Recordable Injury Frequency Rate (TRIFR) reduction programmes",
+                                                                              "notes":  "Procures external compliance audits and MHSA Section 11 training."
+                                                                          }
+                                                                      ]
+             }
+}

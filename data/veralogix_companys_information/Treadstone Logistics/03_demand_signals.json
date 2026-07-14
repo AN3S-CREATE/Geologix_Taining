@@ -1,0 +1,59 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Treadstone Logistics",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "summary":  "Demand for road haulage of coal, chrome, and iron ore is driven by mine output levels, Transnet rail capacity constraints, port export volumes, and commodity price movements. Over 300,000 trucks per year enter Richards Bay port as rail shortfalls force bulk minerals onto road transport.",
+                 "sources":  [
+                                 {
+                                     "signal_type":  "Transnet Rail Capacity \u0026 Port Volumes",
+                                     "description":  "Richards Bay Coal Terminal (RBCT) exported 57.66 million tonnes in 2025, up 10%+ year-on-year. RBCT CEO targets 65 million tonnes by end of 2026. Rail recovery reduces some road pressure but residual rail shortfalls continue to drive road haulage demand. The government\u0027s target is to restore 77 million tonnes annual rail capacity on the coal line.",
+                                     "source":  "Daily Maverick / S\u0026P Global Energy",
+                                     "url":  "https://www.dailymaverick.co.za/article/2026-01-27-richards-bay-coal-terminal-exports-rise-s-rise-over-10-in-2025-in-latest-sign-of/",
+                                     "monitoring_frequency":  "Monthly port statistics"
+                                 },
+                                 {
+                                     "signal_type":  "Transnet Freight Rail Notices \u0026 Capacity Announcements",
+                                     "description":  "Transnet publishes freight rail capacity updates, corridor performance reports, and tender notices. Rail liberalisation underway; third-party operators entering TFR network will shift rail/road balance. Monitor for corridor outages that divert volumes to road.",
+                                     "source":  "Transnet Freight Rail",
+                                     "url":  "https://www.transnetfreightrail-tfr.net",
+                                     "monitoring_frequency":  "Weekly"
+                                 },
+                                 {
+                                     "signal_type":  "Mine Production Announcements",
+                                     "description":  "Mining company quarterly and annual production reports signal changes in commodity volumes requiring transport. Mineral sales reached R332 billion Jan-Apr 2026, up 36.5% YoY. Chromium ore up 17.5%, iron ore up 19%, manganese up 40.4% in recent periods. Coal output under ESG pressure but remains significant.",
+                                     "source":  "Mining Weekly / Stats SA",
+                                     "url":  "https://www.miningweekly.com",
+                                     "monitoring_frequency":  "Quarterly earnings cycles"
+                                 },
+                                 {
+                                     "signal_type":  "New Mine Developments \u0026 Expansions",
+                                     "description":  "Government designated platinum, manganese, iron ore, coal, and chrome as high-criticality minerals in 2025 Critical Minerals Strategy. New mine commissions and expansions signal emerging transport demand. Ten African mining projects set to reach key milestones in 2026.",
+                                     "source":  "Mining Review Africa",
+                                     "url":  "https://www.miningreview.com/news/ten-african-mining-projects-set-to-reach-key-milestones-in-2026/",
+                                     "monitoring_frequency":  "Monthly"
+                                 },
+                                 {
+                                     "signal_type":  "DMRE (Department of Mineral Resources \u0026 Energy) Publications",
+                                     "description":  "Mining rights approvals, Environmental Impact Assessments, and production licence updates appear first in DMRE gazettes and tender portals. These signal upcoming mine activity and associated transport demand.",
+                                     "source":  "DMRE",
+                                     "url":  "https://www.dmre.gov.za",
+                                     "monitoring_frequency":  "Weekly"
+                                 },
+                                 {
+                                     "signal_type":  "Commodity Price Movements",
+                                     "description":  "China\u0027s steel exports reached record 119 million tonnes in 2025 (+7.2% YoY), driving demand for SA chrome and iron ore. Track seaborne thermal coal, coking coal, chrome ore, and iron ore prices â€” production volumes (and road transport demand) correlate with export price strength. Monitor benchmark indices from Platts, Argus, and Fastmarkets.",
+                                     "source":  "Fastmarkets / S\u0026P Global Platts / Argus Media",
+                                     "url":  "https://www.fastmarkets.com",
+                                     "monitoring_frequency":  "Daily"
+                                 },
+                                 {
+                                     "signal_type":  "Mining News Publications",
+                                     "description":  "Mining Weekly, Engineering News, and Mining Review Africa publish mine expansion announcements, production updates, and logistics contracts that signal new haulage demand.",
+                                     "source":  "Mining Weekly",
+                                     "url":  "https://www.miningweekly.com",
+                                     "monitoring_frequency":  "Daily"
+                                 }
+                             ]
+             }
+}

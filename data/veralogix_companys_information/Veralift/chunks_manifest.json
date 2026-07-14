@@ -1,0 +1,453 @@
+﻿{
+    "total_chunks":  116,
+    "company":  "Veralift",
+    "total_docs":  4,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__bbbee_transformation_p1.json",
+                                                             "doc1_South_African_Crane_Hire__bbbee_transformation_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__competitive_landscape_p1.json",
+                                                             "doc1_South_African_Crane_Hire__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__opportunities_p1.json",
+                                                             "doc1_South_African_Crane_Hire__opportunities_p2.json",
+                                                             "doc1_South_African_Crane_Hire__opportunities_p3.json",
+                                                             "doc1_South_African_Crane_Hire__opportunities_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__recommendations_p1.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p2.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p3.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p4.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p5.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p6.json",
+                                                             "doc1_South_African_Crane_Hire__recommendations_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__regulatory.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__technology_p1.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p2.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p3.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p4.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p5.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p6.json",
+                                                             "doc1_South_African_Crane_Hire__technology_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_South_African_Crane_Hire__threats_risks_p1.json",
+                                                             "doc1_South_African_Crane_Hire__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc1_South_African_Crane_Hire",
+                          "chunk_count":  32,
+                          "source_doc":  "Competitive and Market Analysis of South African Crane Hire Industry.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__bbbee_transformation_p1.json",
+                                                             "doc2_South_African_Crane_Hire__bbbee_transformation_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__competitive_landscape_p1.json",
+                                                             "doc2_South_African_Crane_Hire__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__opportunities_p1.json",
+                                                             "doc2_South_African_Crane_Hire__opportunities_p2.json",
+                                                             "doc2_South_African_Crane_Hire__opportunities_p3.json",
+                                                             "doc2_South_African_Crane_Hire__opportunities_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__recommendations_p1.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p2.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p3.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p4.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p5.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p6.json",
+                                                             "doc2_South_African_Crane_Hire__recommendations_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__regulatory.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__technology_p1.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p2.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p3.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p4.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p5.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p6.json",
+                                                             "doc2_South_African_Crane_Hire__technology_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc2_South_African_Crane_Hire__threats_risks_p1.json",
+                                                             "doc2_South_African_Crane_Hire__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc2_South_African_Crane_Hire",
+                          "chunk_count":  32,
+                          "source_doc":  "Competitive and Market Analysis of South African Crane Hire Industry_20260713123335.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__competitive_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__pricing_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__pricing_p2.json",
+                                                             "doc3_Market_Intelligence_Resea__pricing_p3.json",
+                                                             "doc3_Market_Intelligence_Resea__pricing_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__recommendations_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__recommendations_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__regulatory_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__regulatory_p2.json",
+                                                             "doc3_Market_Intelligence_Resea__regulatory_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__technology_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__technology_p2.json",
+                                                             "doc3_Market_Intelligence_Resea__technology_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p2.json",
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p3.json",
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p4.json",
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p5.json",
+                                                             "doc3_Market_Intelligence_Resea__tender_landscape_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc3_Market_Intelligence_Resea__threats_risks_p1.json",
+                                                             "doc3_Market_Intelligence_Resea__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc3_Market_Intelligence_Resea",
+                          "chunk_count":  25,
+                          "source_doc":  "Market Intelligence Research Veralift Crane Hire in South Africa.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__competitive_landscape_p1.json",
+                                                             "doc4_South_African_Crane_Hire__competitive_landscape_p2.json",
+                                                             "doc4_South_African_Crane_Hire__competitive_landscape_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__recommendations_p1.json",
+                                                             "doc4_South_African_Crane_Hire__recommendations_p2.json",
+                                                             "doc4_South_African_Crane_Hire__recommendations_p3.json",
+                                                             "doc4_South_African_Crane_Hire__recommendations_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__regulatory_p1.json",
+                                                             "doc4_South_African_Crane_Hire__regulatory_p2.json",
+                                                             "doc4_South_African_Crane_Hire__regulatory_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__technology_p1.json",
+                                                             "doc4_South_African_Crane_Hire__technology_p2.json",
+                                                             "doc4_South_African_Crane_Hire__technology_p3.json",
+                                                             "doc4_South_African_Crane_Hire__technology_p4.json",
+                                                             "doc4_South_African_Crane_Hire__technology_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p1.json",
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p2.json",
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p3.json",
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p4.json",
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p5.json",
+                                                             "doc4_South_African_Crane_Hire__tender_landscape_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc4_South_African_Crane_Hire__threats_risks.json"
+                                                         ],
+                                               "parts":  1
+                                           }
+                                       ],
+                          "doc_key":  "doc4_South_African_Crane_Hire",
+                          "chunk_count":  27,
+                          "source_doc":  "South African Crane Hire Market Analysis and Competitive Landscape_20260713110325.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

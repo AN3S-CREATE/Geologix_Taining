@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "title": "Geologix Vanguard Group — Signal Routing Intelligence",
+    "description": "Event-driven signal routing rules: which of the 16 Veralogix Group companies should be notified for each market signal, what opportunity it represents, and what to do within 48 hours",
+    "compiled_date": "2026-06-25",
+    "compiled_by": "Claude Code (Anthropic) — automated market intelligence",
+    "group_companies": [
+      "Salaria Mining Services",
+      "Coal Processors International",
+      "Mining Safety Services",
+      "Veralogix Rentals",
+      "Veralift (Crane Hire)",
+      "Veralogix Plant (Woestalleen)",
+      "Alpha Technical Solutions",
+      "Treadstone (Logistics)",
+      "Vera-Commodities",
+      "Ritz International (Diesel Trading)",
+      "IO Green",
+      "Endeto Project Services",
+      "Aiguille Security",
+      "Veramani (IT Division)",
+      "Pencox Auto Air",
+      "Bioniq (ISP)"
+    ],
+    "live_market_context": {
+      "coal_expansion_2026": "Exxaro Matla shaft expansion opened May 2026 (Mpumalanga) — 9Mt/year to Eskom for 17 years. Makhado Coal Mine Phase 2 (Limpopo) development active.",
+      "eskom_grid_status": "As of June 2026, South Africa has had 300+ consecutive days without load shedding. Grid stability is highest in nine years. EAF at 65.85%.",
+      "transnet_coal_rail": "Confirmed 12-day planned maintenance closure: 21 July – 1 August 2026 (North Corridor / RBCT). Derailment near Ermelo in April 2026 caused 1-week disruption. TFR targeting 63.5Mt/year delivery to RBCT.",
+      "solar_pipeline": "Active major projects: Ilikwa 50MW (Free State, Mainstream RE — under construction), Scatec 846MW (awarded), Red Rocket 650MW (awarded). Multiple IPP rounds ongoing.",
+      "mining_safety_regulation": "New MHSA Code of Practice for road and rail safety in mines effective 1 October 2025 — DMPR can now issue Section 54 stoppages for non-compliance. 2024 MHSA Amendment Bill proceeding.",
+      "security_market": "Fidelity acquired SSG Holdings (Competition Commission approved). PSIRA issued facial recognition tender. Mining security demand elevated due to illegal mining (zama-zamas) and infrastructure theft."
+    }
+  },
+
+  "signal_1": {
+    "signal": "A new coal mine or coal mine expansion is announced in Mpumalanga or Limpopo",
+    "real_world_trigger_example": "Exxaro Matla mine expansion (May 2026, Mpumalanga) — new shaft infrastructure, 9Mt/year supply contract with Eskom for 17 years. Makhado Coal Mine Phase 2 in Limpopo.",
+    "affected_companies": [
+      {
+        "company": "Coal Processors International",
+        "urgency": "immediate",
+        "opportunity": "New or expanded coal processing volume — RFP for coal screening, washing, crushing, blending, or stockpile management services at the expanded mine or adjacent processing facility. Direct supply relationship with coal producer.",
+        "recommended_action_48h": "Identify mine ownership, operator, and coal off-take contract details. Contact mine's supply chain manager or SCM department. Request pre-registration as processing services vendor. Prepare capability statement referencing comparable tonnage and commodity type."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "immediate",
+        "opportunity": "Contractor safety management services, MHSA compliance auditing, Section 11 principal hazard management plans, and mandatory safety officer placement contracts required at all new/expanded SA coal mines before first blast.",
+        "recommended_action_48h": "File vendor registration on mining house's supplier portal (SAP Ariba, Coupa, or proprietary). Contact Principal Agent or Safety Manager on-site. Prepare a pre-appointment safety capability document per MHSA requirements."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "Capital equipment rental demand spike: LHDs, haul trucks, drill rigs, compressors, generators, water bowsers, and ancillary plant for ramp-up and construction phases. Mine operators prefer rental to capex during construction.",
+        "recommended_action_48h": "Contact mine's operations or engineering procurement team. Identify equipment categories required for development phase. Submit fleet availability and rental rate schedule. Shortlist equipment to pre-position in the region."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "this_week",
+        "opportunity": "Engineering, procurement, fabrication, and construction (EPFC) services for shaft fitout, surface infrastructure, conveyor systems, and plant construction. Especially relevant for brownfield expansions like Matla.",
+        "recommended_action_48h": "Identify EPC contractor awarded the infrastructure contract. Register as subcontractor on CIDB portal at the appropriate grade. Contact project engineering manager with relevant project references."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "Coal logistics contracts — road haulage from mine to rail depot (Richards Bay Coal Terminal or road-to-consumer), bulk commodity transport for plant materials during construction, and long-term product movement if rail capacity is constrained.",
+        "recommended_action_48h": "Contact mine logistics or supply chain coordinator. Register as preferred transport service provider. Submit vehicle fleet schedule and route rates for Mpumalanga-to-RBCT corridor."
+      },
+      {
+        "company": "Salaria Mining Services",
+        "urgency": "this_week",
+        "opportunity": "Underground and surface mining services including drilling, blasting support, stoping, development, waste stripping, or contract mining — especially if the mining house is operator-managed but services-dependent.",
+        "recommended_action_48h": "Contact the mine's Senior Mine Manager or Projects Manager. Identify whether operations model is own-account or contractor-mining. Submit expression of interest for trial section or scope pilot."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "this_month",
+        "opportunity": "Connectivity infrastructure for new mine site — LTE/VSAT for operations, SCADA links, CCTV backhaul, and staff connectivity. Remote Mpumalanga/Limpopo locations often have poor terrestrial fibre coverage.",
+        "recommended_action_48h": "Conduct coverage check for the mine site coordinates. Prepare site connectivity solution (LTE/VSAT/microwave). Contact mine's IT or telecommunications manager."
+      },
+      {
+        "company": "Aiguille Security",
+        "urgency": "this_month",
+        "opportunity": "Integrated site security system tender — AI surveillance, biometric access control for shafts and processing plants, patrol management, and centralised control room. New mines require full security system from commissioning.",
+        "recommended_action_48h": "Flag the mine announcement for tender monitoring. Register on mine's supplier portal. Prepare integrated security capability statement highlighting mining sector experience."
+      },
+      {
+        "company": "IO Green",
+        "urgency": "this_month",
+        "opportunity": "Off-grid and hybrid solar + storage systems for surface mining infrastructure — reducing diesel generation costs during construction phase and powering auxiliary facilities. New mines evaluate energy alternatives early.",
+        "recommended_action_48h": "Identify the mine's energy cost structure and grid connection timeline. Prepare preliminary solar + storage business case. Contact mine's engineering or sustainability manager."
+      }
+    ]
+  },
+
+  "signal_2": {
+    "signal": "A major mining company announces a planned 3-week maintenance shutdown at one of their operations",
+    "real_world_trigger_example": "Planned maintenance shutdowns occur at Exxaro, Sasol, Anglo American, Sibanye-Stillwater, and Implats operations annually. These are typically 2–6 week windows for major plant overhaul, conveyor replacement, furnace relining, or shaft inspection.",
+    "affected_companies": [
+      {
+        "company": "Endeto Project Services",
+        "urgency": "immediate",
+        "opportunity": "Shutdown maintenance is the single highest-margin engineering opportunity in the SA mining sector. Scope includes mechanical, structural, electrical, piping, and instrumentation work — compressed into a fixed window. Endeto must be on the approved contractor list in advance.",
+        "recommended_action_48h": "Contact the mine's shutdown planner or project engineer immediately. If not on approved list, escalate to register via procurement portal NOW (approval lead times of 4–8 weeks apply). If already approved, submit resource mobilisation plan and scope quotations."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "Short-term plant hire for shutdown scope: mobile cranes, elevated work platforms (EWPs/cherry pickers), compressors, generators, welding sets, lighting towers, forklifts, and rigging equipment. Demand spikes sharply during shutdown window and then terminates — rental preferred over purchase.",
+        "recommended_action_48h": "Confirm which equipment categories are needed and rental duration. Issue indicative quotation with equipment availability confirmation. Arrange pre-shutdown delivery inspection and sign rental agreement."
+      },
+      {
+        "company": "Veralift (Crane Hire)",
+        "urgency": "immediate",
+        "opportunity": "Heavy lift contracts for plant shutdown: replacing major components (motors, gear boxes, conveyor pulleys, pressure vessels, furnace roofs). Crane hire is a critical path service — the shutdown schedule depends on crane availability.",
+        "recommended_action_48h": "Contact shutdown project manager and get lift register or heavy lift schedule. Submit crane fleet availability with rated capacities and mobilisation time. Book crane in advance — competing crane hire companies will respond same day."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "immediate",
+        "opportunity": "Shutdown brings a surge of contractors on-site simultaneously — MHSA contractor management, induction coordination, permit-to-work systems, and safety officer supervision services are mandatory. Mine principal must manage Section 37(2) agreements with all contractors.",
+        "recommended_action_48h": "Contact mine Safety Manager and offer contractor induction, permit-to-work management, and on-site safety officer services. If not pre-approved, register immediately as safety service provider."
+      },
+      {
+        "company": "Salaria Mining Services",
+        "urgency": "this_week",
+        "opportunity": "Shutdown scope for mining services companies includes underground support installation, shaft inspection, re-equipping, conveyor belt replacement, and raise drilling — if Salaria has the trade capability.",
+        "recommended_action_48h": "Identify specific mining services scope within the shutdown (underground vs. surface). Submit expression of interest to shutdown coordinator."
+      },
+      {
+        "company": "Alpha Technical Solutions",
+        "urgency": "this_week",
+        "opportunity": "Instrumentation, automation, and control system upgrades are typically batched into shutdowns when process plant is offline. Alpha Technical can provide PLC/SCADA upgrades, sensor calibration, and electrical panel work.",
+        "recommended_action_48h": "Contact mine's instrumentation or automation engineer. Identify I&C scope in shutdown plan. Submit quotation for calibration services and any planned automation upgrades."
+      },
+      {
+        "company": "Ritz International (Diesel Trading)",
+        "urgency": "this_week",
+        "opportunity": "Shutdown phase dramatically increases diesel consumption — generators, mobile plant, diesel-driven tools, and transport equipment all surge. Bulk diesel supply or on-site storage and dispensing contracts are available.",
+        "recommended_action_48h": "Contact mine's fuel or logistics coordinator. Submit bulk diesel pricing for the shutdown period and propose on-site bunded tank installation if not already in place."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "Shutdown logistics: delivering replacement parts, equipment, and materials to site; removing scrap, old plant, and hazardous waste; transporting contractor teams and tooling. Time-critical logistics during shutdown window.",
+        "recommended_action_48h": "Contact mine's shutdown logistics coordinator. Confirm whether a dedicated transport contract is available for the shutdown window. Quote for daily linehaul and courier services."
+      },
+      {
+        "company": "Veralogix Plant (Woestalleen)",
+        "urgency": "this_month",
+        "opportunity": "If the shutdown involves process plant work and Veralogix Plant has processing service capability, there may be opportunity to supply processing support or take over partial production during recovery ramp-up.",
+        "recommended_action_48h": "Assess whether the shutdown creates a processing gap that Veralogix Plant can fill. Contact mine's processing manager."
+      }
+    ]
+  },
+
+  "signal_3": {
+    "signal": "Eskom announces load-shedding escalation to Stage 4 or higher for an extended period",
+    "real_world_trigger_example": "South Africa is currently (June 2026) 300+ days load-shedding free. However, historically Stage 4–6 created severe disruption to mining and industrial production. This signal rules specify what to do IF load shedding returns.",
+    "current_grid_status_note": "As of 2026-06-25: no load shedding. EAF at 65.85%. Winter 2026 projected stable. Monitor Eskom power system dashboard at https://www.eskom.co.za/power-system-status/",
+    "affected_companies": [
+      {
+        "company": "IO Green",
+        "urgency": "immediate",
+        "opportunity": "Immediate surge in C&I solar + storage demand across the entire Veralogix industrial client base and externally. Businesses will fast-track solar procurement to avoid production losses. IO Green should be ready to activate a pre-built rapid-response solar proposal template.",
+        "recommended_action_48h": "Activate load-shedding response campaign — email and LinkedIn. Push pre-qualified solar quotations to pipeline clients. Prioritise existing Veralogix Group sites for urgent feasibility assessments. Subcontract if IO Green's own installation capacity is exceeded."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "Generator rental demand goes vertical within 24 hours of Stage 4 announcement. Industrial and mining clients need backup generation for processing plants, control rooms, compressors, and data centres. The rental fleet must be pre-positioned.",
+        "recommended_action_48h": "Activate generator rental pre-positioning. Contact top 20 mining and industrial clients immediately. Set a 72-hour hold window on all available diesel generators. Agree on pricing — do not exploit the crisis with price-gouging as it damages long-term relationships."
+      },
+      {
+        "company": "Ritz International (Diesel Trading)",
+        "urgency": "immediate",
+        "opportunity": "Diesel demand for generators spikes sharply. Bulk diesel supply to backup generators across mining, construction, and industrial clients — including other Veralogix companies' deployed assets. Secure supply from bulk suppliers immediately as diesel can be hard to source at short notice.",
+        "recommended_action_48h": "Contact diesel supply chain immediately to lock in stock. Communicate availability and pricing to existing clients. Coordinate with Veralogix Rentals to supply diesel for all Veralogix-deployed generators."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "immediate",
+        "opportunity": "Network infrastructure — towers, base stations, and data centres — needs backup power. Bioniq should ensure its own infrastructure is resilient, and market this resilience as a differentiator. Also: businesses losing connectivity due to power cuts will upgrade to a resilient ISP.",
+        "recommended_action_48h": "Verify all Bioniq base stations and PoPs have functional backup generation. Test failover. Activate a 'resilient connectivity' marketing push. Contact clients whose premises are known to be vulnerable to load shedding."
+      },
+      {
+        "company": "Veramani (IT Division)",
+        "urgency": "this_week",
+        "opportunity": "IT resilience services spike — UPS provisioning, backup power for server rooms, cloud migration to reduce on-premise power dependency, and disaster recovery. Mining and industrial clients with on-premise infrastructure are most vulnerable.",
+        "recommended_action_48h": "Prepare a load-shedding IT resilience checklist for clients. Push UPS and power conditioning proposals. Identify Veramani clients with inadequate backup power and prioritise outreach."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "this_week",
+        "opportunity": "Structural and electrical installation services for solar carports, battery storage rooms, and backup generation infrastructure. Industrial clients fast-tracking solar + storage projects need EPC contractors.",
+        "recommended_action_48h": "Activate construction pipeline for IO Green solar projects requiring civil and electrical work. Contact clients with stalled solar projects and offer to fast-track construction schedule."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "Transport of generators, transformers, solar equipment, and diesel to client sites across mining and industrial regions. Load shedding creates a transport surge for energy equipment.",
+        "recommended_action_48h": "Alert fleet to standby for emergency equipment movement. Coordinate with Veralogix Rentals and IO Green for delivery logistics of deployed assets."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "this_month",
+        "opportunity": "Load shedding creates new safety hazards at mining operations (loss of ventilation, emergency lighting, and winding equipment). Mines must update emergency procedures. Mining Safety Services can provide revised emergency preparedness audits.",
+        "recommended_action_48h": "Issue an advisory to mining clients on load-shedding-related safety risks. Offer emergency preparedness audit as a chargeable service."
+      }
+    ]
+  },
+
+  "signal_4": {
+    "signal": "A new solar or renewable energy project (50MW+) breaks ground in South Africa",
+    "real_world_trigger_example": "Ilikwa Solar PV Plant (50MW, Free State, Mainstream Renewable Power) — under construction 2025/2026. Scatec awarded 846MW SA projects (July 2025). Red Rocket 650MW awarded (Dec 2025).",
+    "affected_companies": [
+      {
+        "company": "IO Green",
+        "urgency": "immediate",
+        "opportunity": "Subcontractor opportunities within the large IPP project — O&M services, community solar component, or scope for IO Green's smaller C&I solar clients in the project's service region. Large projects also raise awareness and accelerate C&I solar procurement in the same area.",
+        "recommended_action_48h": "Identify the project developer, EPC contractor, and O&M provider. Contact the EPC contractor to explore local content subcontracting under REIPPP local content requirements (minimum 40% local content). Register on IPP Office supplier portal."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "immediate",
+        "opportunity": "Civil engineering subcontracting — solar farm earthworks, access roads, cable trenching, fencing, foundations for inverter stations, and grid connection substation civil works. Large solar projects require civil contractors with CIDB grading.",
+        "recommended_action_48h": "Identify the EPC contractor (typically a Consolidated Infrastructure Group, Murray & Roberts Energy, or similar) and contact their project procurement manager. Submit CIDB grading and relevant project list."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "Bulk material transport for the solar project: solar panel delivery (often from port), inverter and transformer haulage, cable reel transport, and aggregate/concrete supply for civil works. Large projects need a dedicated logistics partner.",
+        "recommended_action_48h": "Contact the EPC contractor's logistics coordinator. Submit a fleet schedule and proposed site logistics plan for the project duration."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "this_week",
+        "opportunity": "Construction equipment rental for the solar farm: excavators, TLBs, bobcats, mobile cranes, forklifts, and aerial work platforms for panel installation. Solar farm construction typically lasts 12–18 months — a significant rental period.",
+        "recommended_action_48h": "Contact EPC contractor's plant hire department. Submit available fleet and mobilisation rates. Highlight proximity of fleet depot to the project site."
+      },
+      {
+        "company": "Veralift (Crane Hire)",
+        "urgency": "this_week",
+        "opportunity": "Transformer lifts, inverter installation, and substation erection require crane services. Large solar projects may have multiple 50–200t lift requirements during the construction phase.",
+        "recommended_action_48h": "Contact EPC contractor's project manager. Request lift register. Submit crane availability and indicative pricing."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "this_month",
+        "opportunity": "Solar farm operators require reliable SCADA backhaul and operational connectivity for remote monitoring, inverter management, and grid dispatch signalling. Remote sites often have poor existing coverage.",
+        "recommended_action_48h": "Conduct coverage assessment for the project site. Propose an LTE or microwave backhaul solution for SCADA and operational connectivity. Contact the O&M provider or asset manager."
+      },
+      {
+        "company": "Aiguille Security",
+        "urgency": "this_month",
+        "opportunity": "Solar farm perimeter security — AI CCTV, thermal perimeter detection, and access control are standard requirements. Solar farms are high-value targets for copper cable theft and panel theft. Security system must be operational before first power-on.",
+        "recommended_action_48h": "Contact the O&M provider or IPP asset manager. Submit an integrated perimeter security proposal (thermal perimeter + CCTV + access control). Highlight solar-specific threat profile (cable theft, panel theft)."
+      }
+    ]
+  },
+
+  "signal_5": {
+    "signal": "A large construction project (R500m+) is awarded in a mining region",
+    "real_world_trigger_example": "Kumba Iron Ore deploying R11.2bn Sishen Ultra-High Dense-Media Separation plant (Northern Cape, construction from Nov 2024). Qala Shallows Gold Mine (Witwatersrand, first gold 2026). Multiple coal processing plant expansions in Mpumalanga.",
+    "affected_companies": [
+      {
+        "company": "Endeto Project Services",
+        "urgency": "immediate",
+        "opportunity": "Structural, mechanical, piping, and electrical (SMPE) construction subcontracting within the main project. CIDB-graded contractors are eligible for project subcontract packages. Identify the main contractor and contact their procurement team immediately — subcontract packages are awarded early.",
+        "recommended_action_48h": "Identify the main contractor from tender award notice. Contact their procurement or commercial manager. Submit CIDB registration certificate and project reference list. Ask about mechanical, structural, and piping subcontract packages available."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "Plant hire for the construction phase: excavators, graders, cranes, concrete equipment, compressors, and support plant. Large projects sustain rental demand for 12–36 months.",
+        "recommended_action_48h": "Contact main contractor's plant coordinator. Submit fleet schedule and daily/weekly hire rates. Offer to pre-position equipment at the project site for rapid mobilisation."
+      },
+      {
+        "company": "Veralift (Crane Hire)",
+        "urgency": "immediate",
+        "opportunity": "Large construction projects require heavy lift services for structural steel, process vessels, and module placement. Projects over R500m almost always have multiple crane lifts in the critical path.",
+        "recommended_action_48h": "Request the project's heavy lift schedule from the main contractor. Submit crane capacity and availability. Confirm travel time from Veralift depot to site."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "Construction logistics for the project: bulk material haulage, oversized load transport, equipment delivery, and daily on-site material movement. Large mining region projects often need a dedicated transport partner.",
+        "recommended_action_48h": "Contact main contractor's logistics coordinator. Offer to serve as preferred haulage partner for the project duration. Submit fleet capability and abnormal load experience."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "this_week",
+        "opportunity": "On-site safety management for the construction phase — mandatory under the Construction Regulations and MHSA (if on a mine). Large projects require a dedicated safety officer and contractor management system throughout construction.",
+        "recommended_action_48h": "Contact the project's construction safety manager. Register as a safety services provider for the project. Confirm whether the site falls under MHSA or Construction Regulations jurisdiction."
+      },
+      {
+        "company": "Alpha Technical Solutions",
+        "urgency": "this_week",
+        "opportunity": "Instrumentation and automation commissioning for the process plant — I&C installation, PLC programming, SCADA setup, and commissioning services towards project completion.",
+        "recommended_action_48h": "Contact the project's instrumentation lead or commissioning manager. Submit capability statement for I&C installation and commissioning work."
+      },
+      {
+        "company": "Ritz International (Diesel Trading)",
+        "urgency": "this_week",
+        "opportunity": "Bulk diesel supply for construction plant, generators, and mobile equipment on-site. Long-running projects offer multi-year diesel supply contracts.",
+        "recommended_action_48h": "Contact the project's site administrator or plant coordinator. Submit bulk diesel pricing and propose on-site bunded tank installation."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "this_month",
+        "opportunity": "Construction site connectivity — project management, CCTV monitoring backhaul, and site communications. Remote mining region sites need temporary LTE or VSAT links during construction.",
+        "recommended_action_48h": "Contact the project's site manager. Propose a temporary construction site connectivity package (LTE/VSAT + WiFi for site offices)."
+      },
+      {
+        "company": "Aiguille Security",
+        "urgency": "this_month",
+        "opportunity": "Construction site security — temporary perimeter fencing monitoring, AI-enabled CCTV for equipment and materials protection, and access control for contractors and visitors. Construction sites in mining regions face high equipment theft risk.",
+        "recommended_action_48h": "Contact main contractor's site manager. Submit a temporary construction site security proposal. Highlight rapid-deployment CCTV and access control capability."
+      }
+    ]
+  },
+
+  "signal_6": {
+    "signal": "A major mining company publishes an RFP for a 3-year equipment rental contract",
+    "real_world_trigger_example": "Exxaro transitioning to Coupa Digital Sourcing (2025/2026). Sibanye-Stillwater active tenders on supplier portal. AEMFC RFP with 120-day validity. Implats tender portal active. These companies collectively spend billions per year on plant rental.",
+    "affected_companies": [
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "This is the primary and highest-value signal for Veralogix Rentals. A 3-year preferred supplier agreement (PSA) for equipment rental provides contracted revenue and locked-in relationships with the mining house. Must respond within the closing date — these RFPs have strict submission requirements.",
+        "recommended_action_48h": "Download the RFP document immediately. Review equipment categories, specifications, pricing structure (day/week/month rates), mobilisation terms, and SLA requirements. Confirm fleet availability matching the scope. Assign a bid coordinator and complete CSD/PSIRA/tax compliance documents. Submit before deadline."
+      },
+      {
+        "company": "Veralift (Crane Hire)",
+        "urgency": "immediate",
+        "opportunity": "Many equipment rental RFPs include crane hire as a separate lot or category. Mining companies prefer a pre-approved panel for crane hire rather than ad-hoc spot-market sourcing. A 3-year panel position is highly valuable.",
+        "recommended_action_48h": "Check if the RFP includes a crane hire category or heavy lift schedule. If yes, submit for that category in parallel with Veralogix Rentals' submission."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "this_week",
+        "opportunity": "If the RFP includes a wet-hire component (equipment + operator + maintenance), Endeto may qualify as the operator/maintenance subcontractor within Veralogix Rentals' bid. Also, preferred equipment rental panel status opens the door for maintenance and shutdown subcontracts.",
+        "recommended_action_48h": "Assess whether Endeto's operational and technical capability strengthens the Veralogix Rentals bid. Offer to join as a subcontractor if wet-hire is requested."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "this_week",
+        "opportunity": "Equipment rental contracts at mining sites require MHSA Section 37(2) agreements and mandatory safety documentation. Mining Safety Services can provide the safety compliance package that strengthens the Veralogix Rentals bid.",
+        "recommended_action_48h": "Prepare MHSA-compliant safety management documentation (SHEQ plan, legal appointment structure, emergency procedures) to include in the Veralogix Rentals RFP response."
+      },
+      {
+        "company": "Ritz International (Diesel Trading)",
+        "urgency": "this_week",
+        "opportunity": "Equipment rental contracts often include a diesel supply component or a preferred fuel supplier designation. Position Ritz International as the fuel supply partner for Veralogix Rentals' deployed fleet.",
+        "recommended_action_48h": "Coordinate with Veralogix Rentals on whether the RFP includes a fuel supply component. Submit joint capability if applicable."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_month",
+        "opportunity": "Equipment delivery, collection, and repositioning logistics between client sites is part of the rental service model. Treadstone's fleet logistics capability improves Veralogix Rentals' service delivery.",
+        "recommended_action_48h": "Confirm Treadstone's logistics capacity for the mining house's footprint. Include transport rates in the Veralogix Rentals bid for equipment delivery/collection."
+      }
+    ]
+  },
+
+  "signal_7": {
+    "signal": "A competitor to one of the Veralogix companies is acquired, closes, or significantly downsizes",
+    "real_world_trigger_example": "Fidelity Services Group (SA's largest private security company) acquired SSG Holdings (guarding, electronic security, facilities management) — Competition Commission approved with conditions (2025). Glencore smelter rescue talks create potential for supplier displacement. PGM sector retrenchments at Sibanye-Stillwater (11,000 jobs cut) and Implats (3,900 jobs at risk).",
+    "affected_companies": [
+      {
+        "company": "Aiguille Security",
+        "urgency": "immediate",
+        "opportunity": "When a security competitor is acquired (e.g. SSG Holdings absorbed into Fidelity), the acquired company's clients often experience service disruption, change of account management, or price increases. These clients are actively looking for alternatives. Fidelity-SSG integration is currently underway.",
+        "recommended_action_48h": "Identify SSG Holdings' known client list through public tender awards and LinkedIn. Contact SSG clients proactively with an alternative proposal. Highlight continuity of service and independent (non-conglomerate) ownership as differentiators."
+      },
+      {
+        "company": "Salaria Mining Services",
+        "urgency": "immediate",
+        "opportunity": "If a competing contract mining company downsizes or closes, their clients (mining houses) face an urgent gap in mining services and need to source an alternative contractor quickly. This is a window of 2–4 weeks before the client fills the gap.",
+        "recommended_action_48h": "Identify the competitor's known clients and which mine sites they operate on. Contact the mine's production or operations manager immediately with a mobilisation capability statement. Emphasise rapid deployment."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "immediate",
+        "opportunity": "If a plant hire competitor closes or exits a region, their clients need to source alternative equipment. Former equipment on the competitor's fleet (sold at auction) may be acquirable at depressed prices to grow Veralogix Rentals' fleet.",
+        "recommended_action_48h": "Contact the competitor's clients directly. Monitor auction platforms (e.g. Bidspotter, Ritchie Bros, BA Equipment) for fleet liquidation sales. Purchase relevant equipment at auction for fleet expansion."
+      },
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "this_week",
+        "opportunity": "If a logistics or haulage competitor downsizes, their long-term transport contracts and driver pool become available. Approach the competitor's key clients and consider recruiting their experienced drivers.",
+        "recommended_action_48h": "Identify the competitor's known contract routes and clients. Contact clients with a service continuity proposal. Assess whether experienced drivers can be recruited."
+      },
+      {
+        "company": "IO Green",
+        "urgency": "this_week",
+        "opportunity": "If a solar EPC competitor closes, their pipeline projects are left without an installer. These clients need a replacement EPC urgently — pipeline projects may already have customer deposits and grid approvals in place.",
+        "recommended_action_48h": "Contact the solar competitor's known clients and offer to take over the installation pipeline. Review any publicly announced projects by the competitor that are incomplete."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "this_week",
+        "opportunity": "If a safety consultancy or occupational health company downsizes, mining house clients face a regulatory compliance gap. Offer to absorb clients on an interim basis with a structured transition plan.",
+        "recommended_action_48h": "Identify the competitor's known mining clients. Contact safety managers and offer to take over legal appointments (Section 2(1), 2(2), appointment of safety officer) without disruption."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "this_month",
+        "opportunity": "If a rural or mining-region ISP closes or exits, their clients face imminent connectivity disruption. These are often long-term B2B clients with stable revenue. Approach with a migration offer and assume their VSAT or LTE infrastructure if available.",
+        "recommended_action_48h": "Identify the ISP's footprint in mining regions. Contact their business clients with a migration offer. Assess whether their tower or base station infrastructure can be acquired."
+      },
+      {
+        "company": "Veramani (IT Division)",
+        "urgency": "this_month",
+        "opportunity": "If an IT MSP or systems integrator competitor downsizes, their clients face support gaps. Approach affected clients with a managed services transition offer.",
+        "recommended_action_48h": "Identify the competitor's key clients. Contact IT managers with an immediate support and managed services proposal."
+      }
+    ]
+  },
+
+  "signal_8": {
+    "signal": "Transnet announces a significant disruption to coal export rail capacity",
+    "real_world_trigger_example": "Confirmed 12-day planned maintenance closure: 21 July – 1 August 2026 (North Corridor/RBCT). Derailment near Ermelo April 2026 (1-week disruption). Coal shippers targeting 63.5Mt/year vs 65Mt ambition due to ongoing cable theft, locomotive shortages, and vandalism. RBCT targeting 60Mt+ deliveries in 2026.",
+    "affected_companies": [
+      {
+        "company": "Treadstone (Logistics)",
+        "urgency": "immediate",
+        "opportunity": "Rail disruptions create an immediate road haulage surge as coal producers divert product to road transport. The Mpumalanga–Richards Bay corridor by road is roughly 600km — trucking rates increase sharply during rail outages. This is Treadstone's highest-value demand signal.",
+        "recommended_action_48h": "Contact coal producers (Exxaro, Glencore, Sasol, Anglo American Coal) immediately and offer road haulage capacity on the Mpumalanga-RBCT corridor. Pre-position trucks. Set pricing in advance to avoid delay — coal producers need to move product within hours of a rail outage."
+      },
+      {
+        "company": "Vera-Commodities",
+        "urgency": "immediate",
+        "opportunity": "Rail disruptions cause coal supply-side squeeze at RBCT — export coal spot prices typically spike during Transnet outages. Vera-Commodities can exploit pricing differentials or help clients manage forward contracts. Domestic coal prices may also shift if power stations have to adjust supply.",
+        "recommended_action_48h": "Monitor API4 and Newcastle coal spot prices in real time. Assess whether any Vera-Commodities clients have exposed positions. Contact coal producer clients to identify any uncommitted tonnage that can be traded during the disruption window."
+      },
+      {
+        "company": "Coal Processors International",
+        "urgency": "immediate",
+        "opportunity": "Rail disruptions affect the stockpile cycle at coal mines and processing plants — coal piles up at the mine, potentially halting processing. CPI may be asked to accelerate processing, adjust blending, or manage stockpile overflow. Alternatively, if road haulage is activated, product specification may need adjustment for domestic market.",
+        "recommended_action_48h": "Contact client mine operations managers to understand the stockpile position and processing implications. Assess whether CPI can adjust processing rates to accommodate road-haulage product."
+      },
+      {
+        "company": "Ritz International (Diesel Trading)",
+        "urgency": "immediate",
+        "opportunity": "A surge in road haulage increases diesel demand dramatically. Road trucks carry approximately 40 tonnes per load — replacing 1Mt of rail volume requires 25,000 truck trips. Diesel demand scales with truck trips. Ensure diesel supply is secured before spot shortages emerge.",
+        "recommended_action_48h": "Lock in diesel supply from bulk suppliers immediately. Contact Treadstone and other transport clients with pricing and availability assurance. Pre-position diesel at strategic depots along the haulage corridor."
+      },
+      {
+        "company": "Salaria Mining Services",
+        "urgency": "this_week",
+        "opportunity": "Stockpile build-up at the mine during rail disruptions may create opportunities for additional mining services — managing overburden or adjusting the mining plan to reduce extraction during the disruption window, or pre-stripping for acceleration once rail resumes.",
+        "recommended_action_48h": "Contact mine operations managers to understand the impact on the mining schedule. Offer flexible mining services scheduling to match disrupted rail operations."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "this_week",
+        "opportunity": "Road haulage surge may require additional equipment (side-tippers, belly-dump trucks) that coal companies don't own. Also, stockpile management at mines requires front-end loaders and stockpile reclaimers.",
+        "recommended_action_48h": "Contact coal producer logistics managers and offer road-haulage-capable equipment (tippers, belly dumps, front-end loaders) on short-term rental."
+      }
+    ]
+  },
+
+  "signal_9": {
+    "signal": "A government department issues a new mining safety directive or amendment",
+    "real_world_trigger_example": "New MHSA Code of Practice for road and rail safety in mines (effective 1 October 2025) — DMPR can now issue Section 54 stoppages for non-compliance. 2024 MHSA Amendment Bill (strengthens managerial responsibility). Mine Health and Safety Inspectorate (MHSI) enforcement blitzes are announced periodically.",
+    "regulation_monitoring_sources": [
+      "https://www.dmpr.gov.za",
+      "https://mhsc.org.za/legislation/",
+      "https://www.saflii.org/za/legis/consol_reg/mhasr301/",
+      "https://www.miningsafety.co.za"
+    ],
+    "affected_companies": [
+      {
+        "company": "Mining Safety Services",
+        "urgency": "immediate",
+        "opportunity": "Every new safety directive creates an immediate compliance gap for mining clients that must be closed before an MHSI inspection. Mining Safety Services is positioned to provide rapid gap analysis, updated legal appointments, revised risk assessments, and new code-of-practice documents. This is the core business driver.",
+        "recommended_action_48h": "Obtain and analyse the new directive within 24 hours of publication. Issue a client advisory bulletin explaining the new requirement and compliance timeline. Offer a paid gap analysis audit to all active mining clients. Update standard safety documentation templates to reflect the new requirement."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "this_week",
+        "opportunity": "New safety requirements often mandate physical modifications to mine infrastructure — road upgrades, rail crossing safety devices, lighting upgrades, emergency escape routes, or ventilation improvements. Endeto can provide the engineering and construction component of compliance projects.",
+        "recommended_action_48h": "Review the directive for any physical infrastructure compliance requirements. Contact mining clients' engineering teams to offer compliance construction services. Coordinate with Mining Safety Services on the full compliance package."
+      },
+      {
+        "company": "Veramani (IT Division)",
+        "urgency": "this_week",
+        "opportunity": "New safety directives increasingly require digital compliance tools — electronic permit-to-work systems, incident management platforms, contractor management software, or safety monitoring systems. Veramani can provide or integrate these systems.",
+        "recommended_action_48h": "Assess the directive for digital/IT compliance requirements. Prepare a proposal for any required safety management software or monitoring system."
+      },
+      {
+        "company": "Aiguille Security",
+        "urgency": "this_week",
+        "opportunity": "Mining safety directives often include access control and personnel tracking requirements — biometric shaft access, proximity detection for trackless mobile machinery, and headcount verification systems. Aiguille Security can provide the technology layer.",
+        "recommended_action_48h": "Review the directive for any access control or personnel tracking requirements. Prepare a compliance-aligned biometric access control proposal for mining clients."
+      },
+      {
+        "company": "Salaria Mining Services",
+        "urgency": "this_month",
+        "opportunity": "New directives directly impact how Salaria Mining Services operates underground or on surface. The company must update its own SHEQ documentation and operational procedures to remain compliant and keep its contracts.",
+        "recommended_action_48h": "Engage Mining Safety Services to conduct an internal compliance gap analysis for Salaria's own operations. Update standard operating procedures (SOPs) and risk assessments."
+      },
+      {
+        "company": "Veralogix Rentals",
+        "urgency": "this_month",
+        "opportunity": "Equipment deployed on mine sites must comply with new safety standards — especially if the directive affects mobile equipment, proximity detection, or operator certification. Non-compliant equipment will be stopped.",
+        "recommended_action_48h": "Assess whether any deployed or fleet equipment is affected by the new directive. Contact Mining Safety Services for a compliance assessment. Retrofit or replace non-compliant equipment before next MHSI inspection cycle."
+      }
+    ]
+  },
+
+  "signal_10": {
+    "signal": "A mining company publishes a tender for integrated site security services",
+    "real_world_trigger_example": "Mining security tenders published on: TenderBulletins.co.za (security services category), eTenderSA, ProTenders, and individual mining house supplier portals. PSIRA also issued a facial recognition tender (Jan 2025). Mining security demand elevated due to illegal mining (zama-zamas), infrastructure theft, and cable theft.",
+    "tender_monitoring_urls": [
+      "https://tenderbulletins.co.za/tender-category/security-services/",
+      "https://etendersa.co.za/security-tenders-south-africa/",
+      "https://www.protenders.co.za",
+      "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders/",
+      "https://implats-ir.co.za/website/south-african-tenders.php"
+    ],
+    "affected_companies": [
+      {
+        "company": "Aiguille Security",
+        "urgency": "immediate",
+        "opportunity": "This is Aiguille Security's primary trigger signal. An integrated site security tender for a mine covers exactly the company's full service offering: AI surveillance, biometric shaft access, GPS patrol management, and centralised control room. Mining security tenders are typically 3–5 year contracts at high value.",
+        "recommended_action_48h": "Download the tender document immediately. Confirm PSIRA registration, CSD registration, and tax clearance are current. Review the scope for AI surveillance, biometric access, and patrol system requirements. Assign a bid team. If Aiguille Security is not yet registered on the mining house's supplier portal, register now — late registration disqualifies the bid."
+      },
+      {
+        "company": "Veramani (IT Division)",
+        "urgency": "immediate",
+        "opportunity": "Mining security tenders with a technology integration component (SCADA integration, video management software, IT network infrastructure for control rooms, cybersecurity for OT networks) can be served by Veramani as a subcontractor within Aiguille Security's bid.",
+        "recommended_action_48h": "Review the tender for IT integration, network infrastructure, or cybersecurity scope. Confirm with Aiguille Security whether a joint submission or subcontract arrangement strengthens the bid. Prepare a technology integration capability statement."
+      },
+      {
+        "company": "Bioniq (ISP)",
+        "urgency": "this_week",
+        "opportunity": "Integrated security systems require high-availability connectivity for CCTV backhaul, control room monitoring, and remote access. Bioniq can provide the connectivity layer as a subcontractor within Aiguille Security's bid — or secure a separate connectivity contract with the mine.",
+        "recommended_action_48h": "Assess connectivity requirements in the security tender. Propose a dedicated VSAT or LTE backhaul solution for the security system. Coordinate with Aiguille Security on whether to include Bioniq in the submission."
+      },
+      {
+        "company": "Endeto Project Services",
+        "urgency": "this_month",
+        "opportunity": "Physical installation of the security infrastructure — cable containment, camera poles, access control foundations, control room fitout, and security boom gates — may be subcontracted to Endeto as part of the Aiguille Security delivery.",
+        "recommended_action_48h": "Confirm with Aiguille Security whether physical installation scope is included in the bid and whether Endeto's civil and mechanical capability strengthens the submission."
+      },
+      {
+        "company": "Mining Safety Services",
+        "urgency": "this_month",
+        "opportunity": "Security on mine sites must comply with MHSA — security officers require MHSA induction, and the security system must be integrated with the mine's emergency and evacuation procedures. Mining Safety Services can provide the MHSA compliance layer within Aiguille Security's offering.",
+        "recommended_action_48h": "Confirm with Aiguille Security whether MHSA-compliant security officer management and emergency procedure integration is part of the scope. Prepare an MHSA security management plan."
+      }
+    ]
+  }
+}

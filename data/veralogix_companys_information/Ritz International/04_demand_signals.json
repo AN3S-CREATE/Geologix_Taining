@@ -1,0 +1,63 @@
+﻿{
+    "_section":  "demand_signals",
+    "_company":  "Ritz International",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "Mining Production Index",
+                     "description":  "Monthly P2041 report from Statistics South Africa tracks mining output by commodity. Production increases correlate directly with higher diesel consumption for haulage trucks, drills, compressors, and mine generators. SA mining production increased 2.5% YoY in March 2026.",
+                     "monitoring_source":  "Statistics South Africa â€” Mining: Production and Sales (P2041)",
+                     "url":  "https://www.statssa.gov.za/?cat=41",
+                     "update_frequency":  "Monthly"
+                 },
+                 {
+                     "signal_type":  "Mineral Rights and Exploration Permit Activity",
+                     "description":  "New mining right grants and exploration permits signal future mine ramp-ups and associated diesel demand growth. Key commodities to monitor: platinum (Limpopo), coal (Mpumalanga), chrome (North West), iron ore (Northern Cape).",
+                     "monitoring_source":  "DMPR SAMRAD Online Portal",
+                     "url":  "https://portal-samradonline.dmre.gov.za/",
+                     "update_frequency":  "Ongoing / real-time"
+                 },
+                 {
+                     "signal_type":  "Construction Project Starts (CIDB Pipeline)",
+                     "description":  "Infrastructure project awards and construction contracts signal demand for diesel-powered plant and equipment. Monitor CIDB contractor register, national infrastructure pipeline announcements, and large public procurement awards.",
+                     "monitoring_source":  "Construction Industry Development Board (CIDB) â€” Register of Contractors",
+                     "url":  "https://www.cidb.org.za/information/registers/",
+                     "update_frequency":  "Monthly / quarterly"
+                 },
+                 {
+                     "signal_type":  "Agricultural Season Signals",
+                     "description":  "Planting and harvesting seasons drive diesel demand for tractors, irrigation pumps, and transport. Summer maize planting peaks Novemberâ€“February; winter wheat Mayâ€“June. Monitor GrainSA Crop Estimation Committee (CEC) reports for planted area intentions.",
+                     "monitoring_source":  "GrainSA â€” Crop Estimate Reports",
+                     "url":  "https://www.grainsa.co.za/pages/industry-information/crop-estimates",
+                     "update_frequency":  "11 CEC reports per year"
+                 },
+                 {
+                     "signal_type":  "SARS Diesel Refund Claim Volumes (Lagging Indicator)",
+                     "description":  "Upticks in SARS diesel refund claims from qualifying agricultural and mining users reflect real increases in sector diesel consumption. Published in SARS statistical releases with a lag.",
+                     "monitoring_source":  "SARS â€” Diesel Refund System",
+                     "url":  "https://www.sars.gov.za/customs-and-excise/excise/diesel-refund-system/",
+                     "update_frequency":  "Quarterly SARS statistical releases"
+                 },
+                 {
+                     "signal_type":  "Eskom Load Shedding Escalation (Generator Demand)",
+                     "description":  "Eskom Stage 2+ load shedding triggers large spikes in emergency diesel demand across mines, hospitals, telecoms towers, data centres, and commercial buildings. SA achieved 308 consecutive days without load shedding as of May 2026, reducing this demand signal temporarily â€” but any return to shedding will revive it rapidly. Industrial CAGR for diesel generators forecast at 9.35% to 2031.",
+                     "monitoring_source":  "Eskom â€” Load Shedding Status",
+                     "url":  "https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/",
+                     "update_frequency":  "Real-time"
+                 },
+                 {
+                     "signal_type":  "Eskom OCGT Peaking Plant Dispatch",
+                     "description":  "When Eskom dispatches diesel-fired open-cycle gas turbine (OCGT) peaking plants (Ankerlig, Gourikwa), it is a direct indicator of very high short-term bulk diesel procurement volumes. Eskom\u0027s OCGT fleet can consume hundreds of millions of litres per dispatch cycle.",
+                     "monitoring_source":  "Eskom â€” Daily System Status (System Operator)",
+                     "url":  "https://www.eskom.co.za/eskom-divisions/tx/system-operator/",
+                     "update_frequency":  "Daily"
+                 },
+                 {
+                     "signal_type":  "Mining Production â€” TradingEconomics Tracker",
+                     "description":  "Aggregated YoY mining production data with historical charts for quick trend monitoring, without needing to access Stats SA raw P2041 reports.",
+                     "monitoring_source":  "TradingEconomics â€” South Africa Mining Production",
+                     "url":  "https://tradingeconomics.com/south-africa/mining-production",
+                     "update_frequency":  "Monthly, updated after Stats SA release"
+                 }
+             ]
+}

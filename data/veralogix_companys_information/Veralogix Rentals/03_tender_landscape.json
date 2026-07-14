@@ -1,0 +1,318 @@
+﻿{
+    "_section":  "tender_landscape",
+    "_company":  "Veralogix Rentals",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "tender_portals":  [
+                                        {
+                                            "portal_name":  "National Treasury eTender Publication Portal",
+                                            "url":  "https://www.etenders.gov.za",
+                                            "data_api_url":  "https://ocds-api.etenders.gov.za",
+                                            "transparency_portal_url":  "https://data.etenders.gov.za",
+                                            "update_frequency":  "Real-time as tenders are published",
+                                            "data_format":  "Web portal (HTML) + OCDS-compliant JSON REST API + bulk CSV/JSON/XLSX downloads (beta). Monthly bulk files at data.etenders.gov.za/Home/DownloadFile. Coverage from May 2021.",
+                                            "registration_requirements":  "CSD registration required (secure.csd.gov.za). Free to access and search.",
+                                            "description":  "Primary South African government tender portal. All national and provincial departments required to advertise here. Does NOT include most municipal tenders. OCDS API available at ocds-api.etenders.gov.za â€” currently in public beta but functional for programmatic consumption.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining services",
+                                                                        "Construction",
+                                                                        "Equipment hire",
+                                                                        "Security",
+                                                                        "IT",
+                                                                        "Energy"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "CIDB Tender Search",
+                                            "url":  "https://www.cidb.org.za",
+                                            "contractor_register":  "https://registers.cidb.org.za",
+                                            "update_frequency":  "Real-time as CIDB-registered tenders are published",
+                                            "data_format":  "Web portal (HTML). No known public API.",
+                                            "registration_requirements":  "CIDB registration (Grade 1â€“9) required to bid on construction-classified tenders. Mandatory for contracts over R200,000 with public entities in construction/civil engineering/mechanical engineering.",
+                                            "description":  "Separate from eTenders â€” focuses on construction and civil engineering works. Relevant for earthmoving, civil works, mine infrastructure development. Grade 9 (unlimited value, R200M+ annual turnover, R90M+ track record) required for large mining construction tenders.",
+                                            "grade_table":  [
+                                                                {
+                                                                    "grade":  1,
+                                                                    "max_contract_value":  "R500,000",
+                                                                    "track_record_required":  "R0",
+                                                                    "available_capital":  "Not specified"
+                                                                },
+                                                                {
+                                                                    "grade":  2,
+                                                                    "max_contract_value":  "R1,000,000",
+                                                                    "track_record_required":  "R130,000",
+                                                                    "available_capital":  "Not specified"
+                                                                },
+                                                                {
+                                                                    "grade":  3,
+                                                                    "max_contract_value":  "R3,000,000",
+                                                                    "track_record_required":  "R450,000",
+                                                                    "available_capital":  "R100,000"
+                                                                },
+                                                                {
+                                                                    "grade":  4,
+                                                                    "max_contract_value":  "R6,000,000",
+                                                                    "track_record_required":  "R900,000",
+                                                                    "available_capital":  "R200,000"
+                                                                },
+                                                                {
+                                                                    "grade":  5,
+                                                                    "max_contract_value":  "R10,000,000",
+                                                                    "track_record_required":  "R1,500,000",
+                                                                    "available_capital":  "R650,000"
+                                                                },
+                                                                {
+                                                                    "grade":  6,
+                                                                    "max_contract_value":  "R20,000,000",
+                                                                    "track_record_required":  "R3,000,000",
+                                                                    "available_capital":  "R1,300,000"
+                                                                },
+                                                                {
+                                                                    "grade":  7,
+                                                                    "max_contract_value":  "R60,000,000",
+                                                                    "track_record_required":  "R9,000,000",
+                                                                    "available_capital":  "R4,000,000"
+                                                                },
+                                                                {
+                                                                    "grade":  8,
+                                                                    "max_contract_value":  "R200,000,000",
+                                                                    "track_record_required":  "R30,000,000",
+                                                                    "available_capital":  "R13,000,000"
+                                                                },
+                                                                {
+                                                                    "grade":  9,
+                                                                    "max_contract_value":  "No limit",
+                                                                    "track_record_required":  "R90,000,000",
+                                                                    "available_capital":  "R40,000,000"
+                                                                }
+                                                            ],
+                                            "sectors_benefitting":  [
+                                                                        "Construction",
+                                                                        "Mining civil works",
+                                                                        "Equipment hire (construction classification)",
+                                                                        "Mine infrastructure"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "AEMFC Open Tenders (State Coal Miner)",
+                                            "url":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                            "update_frequency":  "Ongoing (51+ pages of active tenders confirmed)",
+                                            "data_format":  "Web portal (HTML). PDF tender documents. Email submission to quotations@aemfc.co.za",
+                                            "registration_requirements":  "Requires valid Purchase Order Number before commencing work. No pre-registration listed â€” open tender process.",
+                                            "description":  "African Exploration Mining and Finance Corporation â€” South Africa\u0027s state coal mining company, subsidiary of CEF (SOC). Operates Vlakfontein Coal Mine (Ogies, Mpumalanga) supplying Kendal Power Station. Active tenders include crushing/screening plant components, pit dewatering, coal stockpile rehandling, pipeline supply. High-value relevant target for equipment rental.",
+                                            "live_tender_examples_june_2026":  [
+                                                                                   {
+                                                                                       "ref":  "6000008281",
+                                                                                       "description":  "Supply, installation, repair of crushing/screening plant components at Vlakfontein Mine",
+                                                                                       "est_value":  "Below R50M",
+                                                                                       "closing":  "2026-07-02"
+                                                                                   },
+                                                                                   {
+                                                                                       "ref":  "6000008278",
+                                                                                       "description":  "Rehandling and compaction of coal stockpiles",
+                                                                                       "est_value":  "Below R50M",
+                                                                                       "closing":  "2026-06-02"
+                                                                                   },
+                                                                                   {
+                                                                                       "ref":  "6000008276",
+                                                                                       "description":  "Pit dewatering services (5-month period) at Vlakfontein",
+                                                                                       "est_value":  "Below R50M",
+                                                                                       "closing":  "2026-05-28"
+                                                                                   }
+                                                                               ],
+                                            "sectors_benefitting":  [
+                                                                        "Mining equipment hire",
+                                                                        "Earthmoving services",
+                                                                        "Coal stockpile management",
+                                                                        "Mine dewatering"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "Sibanye-Stillwater Tender Portal (Coupa)",
+                                            "url":  "https://www.sibanyestillwater.com/suppliers/south-africa/available-tenders/",
+                                            "registration_url":  "https://www.sibanyestillwater.com/suppliers/south-africa/register-login/",
+                                            "update_frequency":  "Ongoing â€” live portal",
+                                            "data_format":  "Coupa procurement platform (web portal). Tender documents downloadable.",
+                                            "registration_requirements":  "Registration via Coupa platform. CSD registration required.",
+                                            "description":  "Largest PGM and gold producer in SA. High-value tenders across gold and platinum operations. Live tenders (June 2026): Loading \u0026 Hauling of SRD Material (RFI), PPE market testing (2 tenders), ICT systems, medical services. Equipment hire tenders appear regularly.",
+                                            "live_tender_examples_june_2026":  [
+                                                                                   {
+                                                                                       "ref":  "352825",
+                                                                                       "description":  "Loading \u0026 Hauling of SRD Material (RFI)",
+                                                                                       "closing":  "2026-06-25"
+                                                                                   },
+                                                                                   {
+                                                                                       "ref":  "351293",
+                                                                                       "description":  "Market Testing â€” PPE (Marikana)",
+                                                                                       "closing":  "2026-06-26"
+                                                                                   },
+                                                                                   {
+                                                                                       "ref":  "351295",
+                                                                                       "description":  "Market Testing â€” PPE (Gold \u0026 SRPM)",
+                                                                                       "closing":  "2026-06-26"
+                                                                                   }
+                                                                               ],
+                                            "sectors_benefitting":  [
+                                                                        "Equipment rental",
+                                                                        "Mining services",
+                                                                        "Materials handling",
+                                                                        "Security",
+                                                                        "IT"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "TendersOnTime â€” Mining \u0026 Mining Machinery",
+                                            "url":  "https://www.tendersontime.com/southern-africa-tenders/mining-machinery-tenders/",
+                                            "update_frequency":  "Daily",
+                                            "data_format":  "Web portal (HTML). Email alerts.",
+                                            "registration_requirements":  "Account registration (free or paid). Alert subscription available.",
+                                            "description":  "Aggregator covering RFI, RFQ, RFP, EOI and RFT notices for mining machinery across Southern Africa. Includes eProcurement and government bids from multiple countries.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining equipment hire",
+                                                                        "Mining machinery",
+                                                                        "Mining services",
+                                                                        "Construction"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "TenderAlerts â€” Mining Services",
+                                            "url":  "https://tenderalerts.co.za/categories/view/32/Mining-services-and-supplies",
+                                            "update_frequency":  "Daily (1,000+ new tenders/week platform-wide)",
+                                            "data_format":  "Web portal (HTML). Email daily digest.",
+                                            "registration_requirements":  "Free account for basic access. Paid for full tender document access.",
+                                            "description":  "South Africa-focused. Mining services and equipment hire tenders. Tracks by issuer â€” useful for monitoring specific mining companies.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining equipment hire",
+                                                                        "Mining support services",
+                                                                        "Construction"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "Tender Bulletins â€” Mining Support Activities",
+                                            "url":  "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+                                            "update_frequency":  "Daily",
+                                            "data_format":  "Web portal (HTML). Bulletin PDFs.",
+                                            "registration_requirements":  "Account registration.",
+                                            "description":  "Specialist mining tender category listing. Covers mining equipment hire, maintenance, support services and supply contracts.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining equipment hire",
+                                                                        "Mining services",
+                                                                        "Construction"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "DMRE Tenders",
+                                            "url":  "https://www.dmre.gov.za/tenders",
+                                            "update_frequency":  "As published by DMRE",
+                                            "data_format":  "Web portal (HTML). PDF tender documents.",
+                                            "description":  "Department of Mineral Resources and Energy tender notices.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining services",
+                                                                        "Energy",
+                                                                        "Construction"
+                                                                    ]
+                                        },
+                                        {
+                                            "portal_name":  "GlobalTenders â€” South Africa Mining",
+                                            "url":  "https://www.globaltenders.com/tenders-south-africa/south-africa-minerals-mining-tenders",
+                                            "update_frequency":  "Daily",
+                                            "data_format":  "Web portal (HTML). Email alerts.",
+                                            "description":  "International aggregator covering South African mining tenders.",
+                                            "sectors_benefitting":  [
+                                                                        "Mining equipment hire",
+                                                                        "Mining services"
+                                                                    ]
+                                        }
+                                    ],
+                 "typical_contract_durations":  {
+                                                    "short_term_hire":  "1â€“6 months (spot and project-specific hire)",
+                                                    "medium_term_hire":  "6â€“12 months (most common band for mining equipment rental tenders)",
+                                                    "long_term_hire":  "12â€“36 months (strategic fleet hire, optional extension clauses common)",
+                                                    "notes":  "24-month plant hire durations documented in concluded contracts. AEMFC\u0027s pit dewatering contract published as 5-month duration. Multi-year framework agreements with annual renewal options common for large mining groups."
+                                                },
+                 "typical_value_bands":  {
+                                             "small_contracts_R":  "R1Mâ€“R10M (single unit hire, short duration, minor operations)",
+                                             "medium_contracts_R":  "R10Mâ€“R50M (fleet hire for medium-scale opencast operations; AEMFC tenders published \u0027below R50M\u0027)",
+                                             "large_contracts_R":  "R50Mâ€“R200M (full fleet provision for large opencast operations)",
+                                             "mega_contracts_R":  "R200M+ (major mining group multi-year fleet contracts, e.g. Sibanye, Anglo American)",
+                                             "documented_examples":  [
+                                                                         "Load and haul contract: R21.6M for 45,000 tons/month volume",
+                                                                         "Hauling contract: R50.8M for 90,000 tons/month volume",
+                                                                         "AEMFC crushing/screening: below R50M threshold"
+                                                                     ]
+                                         },
+                 "largest_rental_equipment_procurers":  [
+                                                            {
+                                                                "name":  "Sibanye-Stillwater",
+                                                                "sector":  "Gold, PGMs (platinum, palladium, rhodium)",
+                                                                "supplier_portal":  "https://www.sibanyestillwater.com/suppliers/south-africa/",
+                                                                "procurement_platform":  "Coupa",
+                                                                "registration_url":  "https://www.sibanyestillwater.com/suppliers/south-africa/register-login/",
+                                                                "notes":  "South Africa\u0027s largest gold and PGM producer. Active tender portal. Regular equipment hire RFIs/RFPs. Loading and hauling tenders confirmed live June 2026."
+                                                            },
+                                                            {
+                                                                "name":  "Anglo American / Kumba Iron Ore",
+                                                                "sector":  "Iron ore, PGMs, diamonds",
+                                                                "supplier_portal":  "https://southafrica.angloamerican.com/suppliers",
+                                                                "procurement_platform":  "SAP Ariba SLP (Supplier Lifecycle and Performance)",
+                                                                "registration_url":  "https://www.angloamerican.com/suppliers/how-to-become-a-supplier",
+                                                                "notes":  "Kumba deploying R11.2bn Sishen UHD-MS project. Uses SAP Ariba. Kumba-specific local procurement portal at angloamericankumba.com/suppliers."
+                                                            },
+                                                            {
+                                                                "name":  "Valterra Platinum (formerly Anglo American Platinum / Amplats)",
+                                                                "sector":  "Platinum, palladium, rhodium",
+                                                                "supplier_portal":  "https://www.valterraplatinum.com/suppliers",
+                                                                "procurement_platform":  "SAP Ariba",
+                                                                "registration_url":  "https://745548588.sourcing-eu.ariba.com/ad/selfRegistration",
+                                                                "notes":  "World\u0027s largest platinum producer. Rebranded from Anglo American Platinum. SAP Ariba registration portal confirmed. Phone: +27 (0)11 373 6111."
+                                                            },
+                                                            {
+                                                                "name":  "Implats (Impala Platinum)",
+                                                                "sector":  "Platinum, palladium",
+                                                                "supplier_portal":  "https://www.implats.co.za/south-african-prospective-supplier.php",
+                                                                "procurement_platform":  "SAP Ariba (two-stage: RFI on implats.co.za + SAP Ariba RFP)",
+                                                                "registration_url":  "https://implats-ir.co.za/pvas/public/implats/welcome.php",
+                                                                "notes":  "Second largest SA platinum producer. Covers Impala Rustenburg, Impala Refineries and Marula operations. Two-stage formal tender process."
+                                                            },
+                                                            {
+                                                                "name":  "Glencore South Africa",
+                                                                "sector":  "Coal, Chrome/Ferroalloys",
+                                                                "supplier_portal":  "https://www.glencore.com/south-africa/suppliers",
+                                                                "procurement_platform":  "Coal: Convene (convene.scp-app.com); Alloys: Coupa (supplier.coupahost.com); Rhovan: rhovanpsv.co.za",
+                                                                "registration_url":  "https://d0y000001j2rquaa.my.salesforce-sites.com/esd/",
+                                                                "notes":  "Major SA coal operator (Mpumalanga) and chrome/ferroalloys (Steelpoort). Three separate supplier portals by division. Contact offices in Bethanie, Witbank and Steelpoort. Prioritises local, black-owned businesses."
+                                                            },
+                                                            {
+                                                                "name":  "South32",
+                                                                "sector":  "Manganese, Chrome",
+                                                                "supplier_portal":  "https://www.south32.net/suppliers",
+                                                                "procurement_platform":  "Ariba Network (SAP Business Network)",
+                                                                "notes":  "Manganese (Hotazel, Northern Cape) and chrome operations. Significant equipment hire demand."
+                                                            },
+                                                            {
+                                                                "name":  "AEMFC (African Exploration Mining and Finance Corporation)",
+                                                                "sector":  "Coal (state entity)",
+                                                                "supplier_portal":  "https://www.aemfc.co.za/procurement/open-tenders",
+                                                                "registration_notes":  "Email quotations to quotations@aemfc.co.za. PO required before work commences.",
+                                                                "notes":  "State coal miner. Vlakfontein Coal Mine (Ogies, Mpumalanga). 51+ pages of active tenders. Equipment and services tenders posted directly on website. High-frequency procurement."
+                                                            },
+                                                            {
+                                                                "name":  "Eskom (coal supply chain)",
+                                                                "sector":  "Coal (indirect â€” through mining contractor supply chain)",
+                                                                "supplier_portal":  "https://supplier.eskom.co.za/",
+                                                                "registration_notes":  "CSD registration required. 4â€“6 week processing time. B-BBEE certificate required.",
+                                                                "notes":  "Tenders advertised on Eskom Tender Bulletin. e-Tendering system for formal tenders. Equipment rental demand is indirect â€” through coal mining contractors who supply Eskom."
+                                                            },
+                                                            {
+                                                                "name":  "Impala Rustenburg / Marula Mine",
+                                                                "sector":  "Platinum",
+                                                                "notes":  "North West and Limpopo. Active procurement. Covered under Implats SAP Ariba portal."
+                                                            },
+                                                            {
+                                                                "name":  "Anglo American Racing (ARM)",
+                                                                "sector":  "Iron ore, Chrome, Manganese, Platinum",
+                                                                "notes":  "African Rainbow Minerals. Diversified miner. Uses contractors across opencast and underground."
+                                                            }
+                                                        ]
+             }
+}

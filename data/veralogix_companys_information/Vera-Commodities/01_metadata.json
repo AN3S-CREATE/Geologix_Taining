@@ -1,0 +1,17 @@
+﻿{
+    "_section":  "metadata",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "company":  "Vera-Commodities",
+                 "report_date":  "2026-06-24",
+                 "scope":  "South Africa bulk commodity trading â€” competitive and market intelligence",
+                 "commodities_covered":  [
+                                             "coal",
+                                             "chrome ore",
+                                             "ferrochrome",
+                                             "iron ore",
+                                             "manganese"
+                                         ]
+             }
+}

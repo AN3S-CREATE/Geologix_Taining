@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "company": "Ritz International",
+    "sector": "Diesel Trading — South Africa",
+    "generated_date": "2026-06-24",
+    "description": "Competitive and market intelligence for an independent South African diesel trading operation supplying industrial, mining, and commercial clients."
+  },
+
+  "competitors": [
+    {
+      "name": "Sebokeng Fuels (Pty) Ltd",
+      "website": "https://sebokengfuels.co.za",
+      "geographic_focus": "Gauteng (Vereeniging HQ) + Limpopo; national delivery capability",
+      "customer_segments": ["transport", "manufacturing", "mining", "construction", "agriculture"],
+      "known_partnerships": "Listed on ProcureActiv national procurement platform",
+      "notes": "30+ year track record. Supplies premium-grade diesel, lubricants, and paraffin. Presence in Modimolle (Limpopo) as well as Gauteng."
+    },
+    {
+      "name": "Nonke Petroleum",
+      "website": "https://www.nonkepetroleum.co.za",
+      "geographic_focus": "National (operating since 1990)",
+      "customer_segments": ["mining", "agriculture", "transport", "retail / petrol station operators", "manufacturing"],
+      "known_partnerships": null,
+      "notes": "One of SA's oldest independent bulk diesel distributors. Wholesale and commercial diesel focus."
+    },
+    {
+      "name": "Monoka Energy (Pty) Ltd",
+      "website": "http://monokaenergy.com",
+      "geographic_focus": "Gauteng, Limpopo, Mpumalanga, North West, Free State, KwaZulu-Natal",
+      "customer_segments": ["mining", "manufacturing", "construction", "transport"],
+      "known_partnerships": null,
+      "notes": "100% black-owned, B-BBEE Level 1 licensed petroleum wholesaler. Actively markets to mining houses in the Limpopo (Burgersfort) and Mpumalanga mining corridors."
+    },
+    {
+      "name": "Eagle Distributors",
+      "website": "https://eagledistributors.co.za",
+      "geographic_focus": "Gauteng, KwaZulu-Natal, Western Cape, Mpumalanga, Limpopo",
+      "customer_segments": ["mining", "commercial fleet operators", "construction", "retail fuel sites"],
+      "known_partnerships": null,
+      "notes": "Leader in non-refined bulk fuel wholesale. Distributes Diesel (all grades), Petrol (all grades), and Lubricants. Strong presence in Mpumalanga (White River) mining corridor."
+    },
+    {
+      "name": "SA Oil",
+      "website": "https://saoil.co.za",
+      "geographic_focus": "South Africa and sub-Saharan Africa (cross-border supply capability)",
+      "customer_segments": ["industrial", "mining", "agriculture", "transport"],
+      "known_partnerships": null,
+      "notes": "Cross-border fuel supply into Africa is a key differentiator."
+    },
+    {
+      "name": "Bohlale Energy",
+      "website": "https://bohlaleenergy.co.za",
+      "geographic_focus": "National",
+      "customer_segments": ["agriculture", "mining", "construction", "commercial"],
+      "known_partnerships": "Joint venture between African Rainbow Capital Services (Patrice Motsepe) and Agrisa Commodities",
+      "notes": "Strong B-BBEE credentials. Also trades under the Agrisa Fuel brand. Well-positioned for BEE-scored government tenders."
+    },
+    {
+      "name": "Super Petroleum Group",
+      "website": "https://superpetroleum.co.za",
+      "geographic_focus": "South Africa (regional detail not publicly disclosed)",
+      "customer_segments": ["commercial", "industrial", "mining"],
+      "known_partnerships": null,
+      "notes": "Recognised independent fuel trader. Limited public information available."
+    },
+    {
+      "name": "Bulk Fuel Services",
+      "website": "https://bulkfuel.co.za",
+      "geographic_focus": "National",
+      "customer_segments": ["mining", "service station retail sites"],
+      "known_partnerships": null,
+      "notes": "Specialises in wholesale and distribution with a stated focus on the mining sector. Also serves service station operators."
+    }
+  ],
+
+  "price_signal_sources": [
+    {
+      "name": "Department of Mineral and Petroleum Resources (DMPR) — Monthly Fuel Price Announcements",
+      "url": "https://www.dmre.gov.za/news-room",
+      "alternate_gov_url": "https://www.gov.za/services/petroleum",
+      "update_frequency": "Monthly — announced first Wednesday of each month; effective from the 1st of each month",
+      "description": "Primary authoritative source for SA retail and wholesale diesel prices. Zone-level (coastal vs inland) price breakdowns published as PDFs. June 2026: diesel 0.005% sulphur decreased 261.96 c/l. May 2026 included a corrected announcement after a DMPR calculation error raised diesel to R32/l before being reduced to R31.17/l. The next adjustment is 1 July 2026.",
+      "archive_url": "https://www.dmre.gov.za/Portals/0/Resources/Fuel%20Prices%20Adjustments/"
+    },
+    {
+      "name": "OilPrices.co.za — Next SA Adjustment Tracker",
+      "url": "https://oilprices.co.za/diesel-price-increase",
+      "update_frequency": "Daily auto-sync from official DMPR data",
+      "description": "Aggregates DMPR announcements and provides mid-month forward projections of the upcoming diesel price change based on current Brent crude and ZAR/USD exchange rate inputs. Useful for forward pricing visibility ahead of the official announcement."
+    },
+    {
+      "name": "FIASA (Fuels Industry Association of South Africa) — formerly SAPIA",
+      "url": "https://fuelsindustry.org.za/publications/",
+      "update_frequency": "Annual report; periodic statistical releases",
+      "description": "Renamed from SAPIA in 2024. Publishes SA liquid fuel demand data, annual reports, and industry statistics. Total domestic consumption is approximately 17.5 billion litres per year; KwaZulu-Natal and the inland market account for 71% of domestic demand."
+    },
+    {
+      "name": "Investing.com — Brent Crude Spot Price (UKOIL)",
+      "url": "https://www.investing.com/commodities/brent-oil",
+      "update_frequency": "Real-time during market hours",
+      "description": "Primary reference for Brent crude spot price in USD/barrel. South African diesel prices are directly driven by the DMPR's Basic Fuel Price (BFP) formula, which uses a 30-day average of Dated Brent crude plus a crack spread."
+    },
+    {
+      "name": "ICE — Brent Crude Futures",
+      "url": "https://www.theice.com/products/219/Brent-Crude-Futures",
+      "update_frequency": "Real-time during market hours",
+      "description": "Brent futures curve for forward price exposure monitoring. Useful for anticipating future DMPR adjustments before the 30-day average crystallises."
+    },
+    {
+      "name": "TradingEconomics — South Africa Fuel Price Historical Data",
+      "url": "https://tradingeconomics.com/south-africa/gasoline-prices",
+      "update_frequency": "Monthly (updated after each DMPR release)",
+      "description": "Historical SA fuel price series with Brent crude as a correlated indicator. Useful for trend analysis, seasonality, and forecasting fuel cost movements."
+    },
+    {
+      "name": "DMPR — SAMRAD Online Portal (Mineral Economics Data)",
+      "url": "https://portal-samradonline.dmre.gov.za/",
+      "update_frequency": "Periodic; linked mineral production data published monthly by Stats SA",
+      "description": "DMPR's mineral resources administration portal. Tracks exploration and production activity that correlates with diesel demand from the mining sector. Energy pricing methodology and fuel data also accessible."
+    }
+  ],
+
+  "demand_signals": [
+    {
+      "signal_type": "Mining Production Index",
+      "description": "Monthly P2041 report from Statistics South Africa tracks mining output by commodity. Production increases correlate directly with higher diesel consumption for haulage trucks, drills, compressors, and mine generators. SA mining production increased 2.5% YoY in March 2026.",
+      "monitoring_source": "Statistics South Africa — Mining: Production and Sales (P2041)",
+      "url": "https://www.statssa.gov.za/?cat=41",
+      "update_frequency": "Monthly"
+    },
+    {
+      "signal_type": "Mineral Rights and Exploration Permit Activity",
+      "description": "New mining right grants and exploration permits signal future mine ramp-ups and associated diesel demand growth. Key commodities to monitor: platinum (Limpopo), coal (Mpumalanga), chrome (North West), iron ore (Northern Cape).",
+      "monitoring_source": "DMPR SAMRAD Online Portal",
+      "url": "https://portal-samradonline.dmre.gov.za/",
+      "update_frequency": "Ongoing / real-time"
+    },
+    {
+      "signal_type": "Construction Project Starts (CIDB Pipeline)",
+      "description": "Infrastructure project awards and construction contracts signal demand for diesel-powered plant and equipment. Monitor CIDB contractor register, national infrastructure pipeline announcements, and large public procurement awards.",
+      "monitoring_source": "Construction Industry Development Board (CIDB) — Register of Contractors",
+      "url": "https://www.cidb.org.za/information/registers/",
+      "update_frequency": "Monthly / quarterly"
+    },
+    {
+      "signal_type": "Agricultural Season Signals",
+      "description": "Planting and harvesting seasons drive diesel demand for tractors, irrigation pumps, and transport. Summer maize planting peaks November–February; winter wheat May–June. Monitor GrainSA Crop Estimation Committee (CEC) reports for planted area intentions.",
+      "monitoring_source": "GrainSA — Crop Estimate Reports",
+      "url": "https://www.grainsa.co.za/pages/industry-information/crop-estimates",
+      "update_frequency": "11 CEC reports per year"
+    },
+    {
+      "signal_type": "SARS Diesel Refund Claim Volumes (Lagging Indicator)",
+      "description": "Upticks in SARS diesel refund claims from qualifying agricultural and mining users reflect real increases in sector diesel consumption. Published in SARS statistical releases with a lag.",
+      "monitoring_source": "SARS — Diesel Refund System",
+      "url": "https://www.sars.gov.za/customs-and-excise/excise/diesel-refund-system/",
+      "update_frequency": "Quarterly SARS statistical releases"
+    },
+    {
+      "signal_type": "Eskom Load Shedding Escalation (Generator Demand)",
+      "description": "Eskom Stage 2+ load shedding triggers large spikes in emergency diesel demand across mines, hospitals, telecoms towers, data centres, and commercial buildings. SA achieved 308 consecutive days without load shedding as of May 2026, reducing this demand signal temporarily — but any return to shedding will revive it rapidly. Industrial CAGR for diesel generators forecast at 9.35% to 2031.",
+      "monitoring_source": "Eskom — Load Shedding Status",
+      "url": "https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/",
+      "update_frequency": "Real-time"
+    },
+    {
+      "signal_type": "Eskom OCGT Peaking Plant Dispatch",
+      "description": "When Eskom dispatches diesel-fired open-cycle gas turbine (OCGT) peaking plants (Ankerlig, Gourikwa), it is a direct indicator of very high short-term bulk diesel procurement volumes. Eskom's OCGT fleet can consume hundreds of millions of litres per dispatch cycle.",
+      "monitoring_source": "Eskom — Daily System Status (System Operator)",
+      "url": "https://www.eskom.co.za/eskom-divisions/tx/system-operator/",
+      "update_frequency": "Daily"
+    },
+    {
+      "signal_type": "Mining Production — TradingEconomics Tracker",
+      "description": "Aggregated YoY mining production data with historical charts for quick trend monitoring, without needing to access Stats SA raw P2041 reports.",
+      "monitoring_source": "TradingEconomics — South Africa Mining Production",
+      "url": "https://tradingeconomics.com/south-africa/mining-production",
+      "update_frequency": "Monthly, updated after Stats SA release"
+    }
+  ],
+
+  "tender_landscape": {
+    "primary_portals": [
+      {
+        "portal": "National Treasury eTender Publication Portal",
+        "url": "https://www.etenders.gov.za",
+        "coverage": "All national departments and most provincial entities (PFMA-mandated). Does NOT automatically include municipal or most SOE tenders.",
+        "search_keywords": ["diesel", "bulk fuel", "petroleum supply", "fuel delivery"],
+        "access": "Free"
+      },
+      {
+        "portal": "Government Tender Bulletin (Government Gazette)",
+        "url": "https://tenderprosa.co.za/tender-bulletin",
+        "coverage": "Official Gazette tender notices including those not listed on eTenders. Published weekly.",
+        "access": "Free via Gazette; aggregators offer paid enhanced search"
+      },
+      {
+        "portal": "Eskom Tender Bulletin",
+        "url": "https://tenderbulletin.eskom.co.za/",
+        "coverage": "All Eskom diesel supply tenders including OCGT peaking plants (Ankerlig, Gourikwa) and site-level operations across Eskom's 400+ facilities. Eskom is SA's single largest diesel buyer.",
+        "notes": "Eskom's R21bn OCGT contract (MWP2197GX) involved a multi-supplier panel; minimum 5 million litres on-hand stock required; 60-day payment terms standard."
+      },
+      {
+        "portal": "Transnet Tender Bulletin",
+        "url": "https://www.transnet.net/TenderBulletins/Pages/default.aspx",
+        "coverage": "Bulk refined fuel for freight rail, port equipment, and pipeline operations. Uses a Refined Bulk Fuel Master Services Agreement (MSA) framework — review published draft Annexure E before bidding."
+      },
+      {
+        "portal": "Individual Municipal Tender Portals",
+        "url": "https://www.tenderflow.co.za/blog/tenders-in-south-africa/government-tenders/government-tenders-south-africa-find-apply/",
+        "coverage": "Each municipality publishes its own tenders. Key diesel-procuring metros: City of Johannesburg, eThekwini, City of Cape Town, Tshwane, Ekurhuleni, Buffalo City.",
+        "notes": "Use ProTenders or TendersInfo to aggregate municipal tenders in one feed."
+      },
+      {
+        "portal": "ProTenders SA — Aggregated Tender Feed",
+        "url": "https://www.protenders.co.za",
+        "coverage": "Aggregates national, provincial, municipal, and SOE (PRASA, Transnet, Eskom, eThekwini) tenders. Updated daily. Most comprehensive single source.",
+        "access": "Paid subscription"
+      },
+      {
+        "portal": "PRASA Procurement Portal",
+        "url": "https://www.prasa.com/index.php/procurement",
+        "coverage": "Diesel for maintenance vehicles and backup generation at rail infrastructure sites nationwide."
+      }
+    ],
+    "contract_structures": {
+      "spot": {
+        "description": "Ad hoc or emergency supply at prevailing DMPR wholesale or negotiated price. No volume commitment. Suited for urgent or top-up procurement.",
+        "typical_duration": "Single delivery or call-off basis"
+      },
+      "term_contract": {
+        "description": "12–36 month supply agreements with fixed delivery schedules and volume commitments. Government entities typically use 2-year terms; SOEs use 5-year frameworks. Requires DMRE wholesale licence, ISO certification, and valid BEE certificate.",
+        "typical_duration": "12–36 months for municipalities; up to 60 months for SOEs"
+      },
+      "framework_agreement": {
+        "description": "Multi-supplier panel model used by large SOEs and metros. Pre-qualified suppliers receive volume allocations by the buyer on a rotational or quota basis. Eskom's R21bn contract used this structure with panel suppliers including Astron Energy, Lanele Resources, Nutinox, African Forwarding and Shipping, and Severino Industries (awarded December 2024).",
+        "typical_duration": "3–5 years"
+      },
+      "typical_volume_thresholds": {
+        "small_municipality": "500,000–5,000,000 litres per annum",
+        "large_metro": "5,000,000–50,000,000 litres per annum",
+        "eskom_ocgt_scale": "Up to 1,000,000,000 litres over a 5-year contract period"
+      },
+      "pricing_mechanism": "Most tenders reference the DMPR coastal or inland wholesale price at the time of delivery, with a logistics and delivery differential negotiated per delivery zone. Some framework contracts use a fixed margin above the DMPR price rather than a fixed rand-per-litre price.",
+      "payment_terms": "30–60 days EFT is standard for government entities. Eskom OCGT contract required 60-day payment terms with significant working capital (minimum ~R100m stock on hand) required from suppliers."
+    },
+    "largest_diesel_procurers": [
+      {
+        "entity": "Eskom",
+        "type": "SOE",
+        "estimated_volume": "Up to 1 billion litres over 5 years for OCGT peaking plants alone",
+        "tender_portal": "https://tenderbulletin.eskom.co.za/"
+      },
+      {
+        "entity": "Transnet",
+        "type": "SOE",
+        "estimated_volume": "Bulk fuel for freight rail, port equipment, and pipeline operations nationally",
+        "tender_portal": "https://www.transnet.net/TenderBulletins/Pages/default.aspx"
+      },
+      {
+        "entity": "eThekwini Metro",
+        "type": "Municipality",
+        "estimated_volume": "Diesel for bulk water pumping, emergency services, and municipal fleet",
+        "tender_portal": "https://www.etenders.gov.za"
+      },
+      {
+        "entity": "City of Johannesburg (CoJ)",
+        "type": "Municipality",
+        "estimated_volume": "Large fleet, emergency generator pool, and bulk water operations",
+        "tender_portal": "https://www.joburg.org.za/business/suppliers/tenders/"
+      },
+      {
+        "entity": "PRASA",
+        "type": "SOE",
+        "estimated_volume": "Diesel for maintenance vehicles and backup generation at rail infrastructure",
+        "tender_portal": "https://www.prasa.com/index.php/procurement"
+      },
+      {
+        "entity": "Department of Defence / SANDF",
+        "type": "National Government",
+        "estimated_volume": "Operational diesel for vehicle fleets and aircraft ground support",
+        "tender_portal": "https://www.etenders.gov.za"
+      }
+    ]
+  },
+
+  "regulatory_requirements": {
+    "dmre_petroleum_wholesale_licence": {
+      "governing_legislation": "Petroleum Products Act 120 of 1977 (as amended); Petroleum Products Wholesale Licence Regulations (GNR 287 of 2006)",
+      "licence_form": "DMRE-38 — Application for Wholesale Licence",
+      "key_requirements": [
+        "Complete and submit DMRE Form 38 to the relevant DMRE regional office",
+        "Publish notice of application in four newspapers (two national, two regional) and submit proof of publication to DMRE",
+        "Demonstrate financial capacity to hold minimum prescribed stock levels",
+        "Provide proof of storage infrastructure (owned or contracted) and logistics capability",
+        "DMRE must process applications and respond within 90 days of receiving proof of publication",
+        "A wholesale transaction is defined as any sale of 1,500 litres or more per transaction",
+        "Licence conditions specify approved products, reportable volumes, and licensed site addresses"
+      ],
+      "forms_and_guidelines": [
+        "https://www.dmre.gov.za/Portals/0/Energy_Website/files/households/dmre-petroleum-forms/DMRE-38-Application-for-Wholesale-Licence.pdf",
+        "https://www.dmre.gov.za/Portals/0/Energy_Website/files/households/guidelines_petroleumproducts_wholesalelicense.pdf"
+      ],
+      "reference_url": "https://www.gov.za/node/727470"
+    },
+    "storage_and_handling_regulations": {
+      "primary_standards": [
+        {
+          "standard": "SANS 10089-1",
+          "scope": "Above-ground petroleum storage tanks — design, installation, inspection, and maintenance. Covers bunding requirements, foundations, venting, fire protection, and safety separation distances."
+        },
+        {
+          "standard": "SANS 10089-3",
+          "scope": "Underground petroleum storage tanks — excavation requirements, cathodic protection, leak detection systems, and ongoing monitoring obligations."
+        },
+        {
+          "standard": "SANS 10087",
+          "scope": "Handling, storage, and distribution of liquefied petroleum gas — supplementary reference for multi-product traders operating at the same site."
+        }
+      ],
+      "bunding_requirement": "All above-ground diesel storage tanks must be enclosed within a bunded (secondary containment) area capable of holding 110% of the largest single tank's capacity. Bund walls must be impermeable and chemically resistant to petroleum products.",
+      "licensing_threshold": "Storage installations above approximately 30,000 litres typically require a DMRE licence. Smaller volumes may require DMRE registration only. All storage installations require local authority approval (land use/zoning) and fire department sign-off.",
+      "reference_url": "https://www.servicelinksa.co.za/bulk-diesel-storage-regulations-south-africa/"
+    },
+    "environmental_compliance": {
+      "key_legislation": [
+        "National Environmental Management Act (NEMA) 107 of 1998 — general framework; Section 30 requires immediate notification to authorities for significant spills",
+        "National Water Act 36 of 1998 — prohibits fuel contamination of surface and ground water",
+        "National Environmental Management: Waste Act 59 of 2008 — governs fuel waste, contaminated soil classification, and spill remediation obligations"
+      ],
+      "key_requirements": [
+        "Environmental Impact Assessment (EIA) may be required for new bulk fuel storage installations above threshold volumes under the EIA Regulations (listed activities)",
+        "A documented and tested spill containment and emergency response plan must be maintained",
+        "Stormwater management plan required at all storage facilities to prevent petroleum run-off into water courses",
+        "Contaminated land remediation obligations rest with the licence holder in the event of a spill or tank leak",
+        "NEMA Section 30 — report significant spills to the relevant authority (DFFE and/or municipality) immediately"
+      ],
+      "reference_url": "https://www.gov.za/about-government/government-system/legislation/national-environmental-management-act-107-1998"
+    },
+    "sars_customs_and_excise": {
+      "governing_legislation": "Customs and Excise Act 91 of 1964 — Schedule 1 Part 5A (Fuel Levy and RAF Levy); Schedule 6 (Diesel Refund provisions)",
+      "licensing_requirement": "All entities that manufacture, import, or otherwise deal in petroleum products on which Excise Duty and Levies have not yet been paid must licence with SARS Excise before commencing operations.",
+      "import_permit": "An import permit from ITAC (International Trade Administration Commission of South Africa) must be obtained before importing any petroleum products.",
+      "key_obligations": [
+        "Self-assess applicable Excise Duty and Fuel Levies on a monthly SARS Excise Account submitted via eFiling",
+        "Submit Excise Account monthly or quarterly depending on licence type — eFiling is mandatory (no paper submissions accepted)",
+        "Register for VAT and charge VAT at 15% on all domestic diesel sales",
+        "Maintain comprehensive records of all purchases, sales, and stock movements for a minimum of 5 years for SARS audit purposes"
+      ],
+      "current_levies_2026": {
+        "general_fuel_levy_diesel": "396 c/litre (increased by 15 c/l from 370 c/l effective June 2025 per 2025 budget; check SARS Schedule 1 Part 5A for the latest rate)",
+        "road_accident_fund_levy": "218 c/litre",
+        "schedule_reference": "https://www.sars.gov.za/wp-content/uploads/Legal/SCEA1964/Legal-LPrim-CE-Sch1P5A-Schedule-No-1-Part-5A.pdf"
+      },
+      "diesel_refund_scheme": {
+        "description": "Qualifying downstream users of diesel (mining operations, agriculture, rail) may reclaim a portion of the general fuel levy under Schedule 6. Diesel traders and wholesalers who sell to these eligible users must register on the SARS Diesel Refund System as approved sellers to facilitate the users' refund claims. SARS is currently modernising this system into a standalone platform decoupled from the VAT system.",
+        "url": "https://www.sars.gov.za/customs-and-excise/excise/diesel-refund-system/"
+      },
+      "reference_url": "https://www.sars.gov.za/customs-and-excise/excise/petroleum-products/"
+    }
+  }
+}

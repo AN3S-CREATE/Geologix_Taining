@@ -1,0 +1,158 @@
+﻿{
+    "_section":  "regulatory_watchlist",
+    "_company":  "Mining Safety Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "body":  "Department of Mineral Resources and Energy (DMRE)",
+                     "description":  "Primary regulator for all South African mining operations; administers the MHSA and issues safety directives, GCC examinations, and stoppages",
+                     "key_publications_and_resources":  [
+                                                            {
+                                                                "title":  "Mine Health and Safety Resource Centre",
+                                                                "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/resource-center",
+                                                                "update_frequency":  "As-published; key notices appear in Government Gazette"
+                                                            },
+                                                            {
+                                                                "title":  "Mine Accidents and Disasters register",
+                                                                "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/mine-accidents-and-disasters",
+                                                                "update_frequency":  "Ongoing"
+                                                            },
+                                                            {
+                                                                "title":  "GCC Examinations and Certifications",
+                                                                "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/gcc-examinations",
+                                                                "update_frequency":  "Annual exam calendar (June and November sittings)"
+                                                            },
+                                                            {
+                                                                "title":  "DMRE Tenders",
+                                                                "url":  "https://www.dmre.gov.za/tenders",
+                                                                "update_frequency":  "Ongoing"
+                                                            },
+                                                            {
+                                                                "title":  "DMRE Annual Mining Sector Performance Report (R141/2025)",
+                                                                "url":  "https://www.dmre.gov.za/Portals/0/Resources/Publications/Mineral%20Economics/Mineral%20Economic%20Reports/R141%20-%202025%20SA%20Mining%20Performance%202024.pdf",
+                                                                "update_frequency":  "Annual"
+                                                            }
+                                                        ]
+                 },
+                 {
+                     "body":  "Mine Health and Safety Act (MHSA), No. 29 of 1996",
+                     "description":  "Principal legislation governing health and safety at all South African mines; frequently amended via Government Gazette",
+                     "recent_amendments":  [
+                                               {
+                                                   "title":  "MHSA Amendment Bill 2024 (B 2024)",
+                                                   "url":  "https://www.dmre.gov.za/Portals/0/Resource%20Center/Mine%20Health%20and%20Safety%20Act%20and%20its%20Regulations/MHS%20Amendment%20Bill%20-%20B%202024.pdf",
+                                                   "summary":  "Strengthens enforcement provisions, simplifies the fine system, and significantly enhances inspector powers including a new s50(7A) prohibition power. Employers can no longer delegate OHS responsibility."
+                                               },
+                                               {
+                                                   "title":  "Chapter 22 Amendment â€” Occupational Exposure Limits (Notice 6053, GG 52388, 28 March 2025)",
+                                                   "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/resource-center",
+                                                   "summary":  "Amended table of Occupational Exposure Limits for Airborne Pollutants. Came into operation 26 June 2025. Critical for dust and chemical exposure compliance."
+                                               },
+                                               {
+                                                   "title":  "Chapter 8 Amendment â€” Shafts and Winding Operations (Notice 6267, GG 52781, 30 May 2025)",
+                                                   "url":  "https://www.dmre.gov.za/mineral-resources/mine-health-and-safety/resource-center",
+                                                   "summary":  "New regulations added after Reg 8.12 specifically governing shaft and winding operations. Critical for underground mines."
+                                               }
+                                           ],
+                     "consolidated_regulations":  {
+                                                      "url":  "https://www.saflii.org/za/legis/consol_reg/mhasr301/",
+                                                      "update_frequency":  "Consolidated on SAFLII after each amendment"
+                                                  }
+                 },
+                 {
+                     "body":  "Mine Health and Safety Council (MHSC)",
+                     "description":  "Schedule 3A national public entity; advises the Minister on OHS legislation and funds research. Key tripartite body (government, unions, employers).",
+                     "key_resources":  [
+                                           {
+                                               "title":  "MHSC Publications (research reports, guidelines)",
+                                               "url":  "https://mhsc.org.za/publications/",
+                                               "update_frequency":  "Ongoing; major reports quarterly/annually"
+                                           },
+                                           {
+                                               "title":  "MHSC Annual Report 2024/25",
+                                               "url":  "https://mhsc.org.za/wp-content/uploads/2025/12/MHSC-Annual-Report-2024-25-Final.pdf",
+                                               "update_frequency":  "Annual"
+                                           },
+                                           {
+                                               "title":  "Mine Health and Safety Inspectorate Annual Report 2024/25",
+                                               "url":  "https://static.pmg.org.za/MHSI_Annual_Report_2024-25.pdf",
+                                               "update_frequency":  "Annual"
+                                           },
+                                           {
+                                               "title":  "Promulgated Regulations (MHSC portal)",
+                                               "url":  "https://mhsc.org.za/promulgated-regulations/",
+                                               "update_frequency":  "Updated on promulgation"
+                                           },
+                                           {
+                                               "title":  "MHSC Legislation page",
+                                               "url":  "https://mhsc.org.za/legislation/",
+                                               "update_frequency":  "Updated as legislation changes"
+                                           },
+                                           {
+                                               "title":  "MHSC Open Tenders",
+                                               "url":  "https://mhsc.org.za/open-tenders/",
+                                               "update_frequency":  "Ongoing"
+                                           }
+                                       ],
+                     "notes":  "The MHSC\u0027s 2024 Tripartite Summit (October 2024) set the agenda for 2025/26. Four new Mandatory Codes of Practice took effect in Octâ€“Nov 2025: fire prevention, road and railway safety, change management, and mental health and non-communicable diseases."
+                 },
+                 {
+                     "body":  "Section 54 and Section 55 Stoppage Notices (MHSA enforcement)",
+                     "description":  "Section 54 allows inspectors to halt operations immediately where there is an imminent danger. Section 55 requires employers to take specified remedial steps within set periods. These are the most operationally disruptive regulatory instruments.",
+                     "key_statistics":  {
+                                            "2025_2026_period":  "8,292 inspections and audits conducted by the DMRE; Section 54/55 notices issued where necessary.",
+                                            "trend":  "Continued increase in inspector activity; Amendment Bill 2024 adds new prohibition power under s50(7A)."
+                                        },
+                     "monitoring_sources":  [
+                                                {
+                                                    "title":  "Miningmx â€” Section 54 news",
+                                                    "url":  "https://www.miningmx.com",
+                                                    "update_frequency":  "Daily news coverage"
+                                                },
+                                                {
+                                                    "title":  "Parliamentary Monitoring Group (PMG) â€” DMRE committee questions",
+                                                    "url":  "https://pmg.org.za",
+                                                    "update_frequency":  "As published after committee sittings"
+                                                },
+                                                {
+                                                    "title":  "Lexology â€” Legal analysis of stoppage notices",
+                                                    "url":  "https://www.lexology.com",
+                                                    "update_frequency":  "As legal commentary is published"
+                                                }
+                                            ]
+                 },
+                 {
+                     "body":  "DMRE Quarterly Injury and Fatality Statistics",
+                     "description":  "The Department releases annual and periodic statistics on mining injuries, fatalities, and stoppages.",
+                     "key_2024_statistics":  {
+                                                 "fatalities_2024":  42,
+                                                 "fatalities_2023":  55,
+                                                 "improvement_yoy":  "24%",
+                                                 "injuries_2024":  1841,
+                                                 "injuries_2023":  2181,
+                                                 "gold_fatalities":  11,
+                                                 "platinum_fatalities":  19,
+                                                 "coal_fatalities":  6,
+                                                 "other_fatalities":  6,
+                                                 "note":  "Lowest fatality count in SA mining history (records from 1993: 615 fatalities)"
+                                             },
+                     "key_2025_statistics":  {
+                                                 "fatalities_2025_to_nov":  41,
+                                                 "trend":  "Continued decline; fall-of-ground remains leading cause (15 deaths, up from 12 in 2024)",
+                                                 "serious_injuries_change":  "-12% year-on-year"
+                                             },
+                     "sources":  [
+                                     {
+                                         "title":  "DMRE 2024 mine health and safety statistics release (23 Jan 2025)",
+                                         "url":  "https://www.gov.za/news/speeches/minister-gwede-mantashe-release-2024-mine-health-and-safety-statistics-23-jan-2025",
+                                         "update_frequency":  "Annual (January release)"
+                                     },
+                                     {
+                                         "title":  "DMRE Sector Performance Report 2024",
+                                         "url":  "https://www.dmre.gov.za/Portals/0/Resources/Publications/Mineral%20Economics/Mineral%20Economic%20Reports/R141%20-%202025%20SA%20Mining%20Performance%202024.pdf",
+                                         "update_frequency":  "Annual"
+                                     }
+                                 ]
+                 }
+             ]
+}

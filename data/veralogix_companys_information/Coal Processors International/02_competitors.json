@@ -1,0 +1,105 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Coal Processors International",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "company_name":  "STA Coal Mining Company (Pty) Ltd",
+                     "website":  "https://stacoalmining.co.za",
+                     "service_focus":  "both",
+                     "service_description":  "Underground contract mining (bord and pillar, continuous miner), drill and blast, and plant operations management. Positions itself as a full outsourced coal mining services provider enabling clients to reduce labour risk and operating costs.",
+                     "known_clients":  [
+                                           "Undisclosed collieries in Mpumalanga / Ermelo district"
+                                       ],
+                     "location":  "Ermelo, Mpumalanga",
+                     "founded":  2004,
+                     "recent_contracts_or_disputes":  "No publicly confirmed specific contracts post-2023; company continues active marketing of underground mining outsourcing in Mpumalanga coalfields.",
+                     "notes":  "Directly comparable to CPI â€” coal-specialist underground labour and plant management outsourcer."
+                 },
+                 {
+                     "company_name":  "Boipelo Mining Contractors (Pty) Ltd",
+                     "website":  "https://www.boipelominingcontractors.com",
+                     "service_focus":  "both",
+                     "service_description":  "BBBEE Level 1 underground coal mining contractor providing comprehensive underground mining services including mine development, stoping, and plant management. JV between Cementation Africa (formerly Murray \u0026 Roberts Cementation, 49%) and Amandla TM (51%, 100% Black-owned).",
+                     "known_clients":  [
+                                           "Arnot Coal Mine (Menar Holdings)",
+                                           "New Clydesdale Colliery (Mpumalanga)"
+                                       ],
+                     "recent_contracts_or_disputes":  "Awarded R3.2-billion underground mining services contract at Arnot Coal Mine (June 2021, multi-year). Boipelo also held the New Clydesdale Colliery underground contract. Parent company Cementation Africa rebranded from Murray \u0026 Roberts Cementation effective July 2025 following acquisition by Differential Capital consortium.",
+                     "notes":  "Highest-profile coal underground management contractor in SA. Scale and BBBEE credentials make it a tier-1 competitor for large operational management tenders."
+                 },
+                 {
+                     "company_name":  "Trollope Mining Services (Trollope Group)",
+                     "website":  "https://trollopegroup.co.za",
+                     "service_focus":  "plant management",
+                     "service_description":  "Opencast contract mining and plant management specialist. Services include drill and blast, load and haul, crushing and screening, and ROM coal production. One of the largest private equipment fleets in Africa. Produces over 1 million tonnes ROM coal monthly across active Mpumalanga and Waterberg contracts.",
+                     "known_clients":  [
+                                           "Ntshovelo / Vlakvarkfontein Colliery (contract since 2010)",
+                                           "Salungano / Moabsvelden (Delmas, Mpumalanga)",
+                                           "Various Waterberg and Soutpansberg coal clients"
+                                       ],
+                     "recent_contracts_or_disputes":  "Multiple active long-term opencast coal contracts in Mpumalanga and Limpopo. No publicly reported labour disputes as of mid-2026.",
+                     "notes":  "Primarily opencast focus; less direct overlap with CPI\u0027s plant operations management model but competes for surface processing contracts."
+                 },
+                 {
+                     "company_name":  "Afrimat Mining Services (Pty) Ltd",
+                     "website":  "https://www.afrimat.co.za/contract-mining-services",
+                     "service_focus":  "plant management",
+                     "service_description":  "Full pit-to-port contract mining services including resource modelling, mine planning, drill and blast, load and haul, crushing and screening, beneficiation, rail loadout management, and logistics. Part of JSE-listed Afrimat Ltd.",
+                     "known_clients":  [
+                                           "Nkomati Anthracite Mine (coal/anthracite operations)",
+                                           "Various undisclosed coal clients in Mpumalanga"
+                                       ],
+                     "recent_contracts_or_disputes":  "Actively expanding mining services division. No public labour disputes. Operates 4 DTH drill rigs 24/7 at Nkomati achieving ~600,000 cbm overburden monthly.",
+                     "notes":  "JSE-listed backing gives Afrimat financial stability and bonding capacity competitive advantage. Vertically integrated model preferred by large mining houses."
+                 },
+                 {
+                     "company_name":  "Ritluka Resources (Pty) Ltd",
+                     "website":  "https://www.ritluka.co.za",
+                     "service_focus":  "both",
+                     "service_description":  "100% Black-owned opencast and underground coal mining contractor founded in 2014. Specialises in coal extraction, underground road construction and maintenance, earthmoving, drill and blast, and plant operations in both surface and underground environments.",
+                     "known_clients":  [
+                                           "Exxaro â€” Matla Coal Mine (underground geologically affected area mining and road maintenance)",
+                                           "Exxaro â€” Arnot Coal Mine (underground services)",
+                                           "Unnamed colliery near Kriel, Mpumalanga (surface thermal coal)"
+                                       ],
+                     "recent_contracts_or_disputes":  "Holds active contracts at two Exxaro Mpumalanga operations (Matla and Arnot). Founded by mining engineer Rhandzu Ngobeni and geologist Bonga Myeza. Strong BBBEE profile is a competitive advantage for BEE-compliant procurement.",
+                     "notes":  "Fastest-growing Black-owned coal services contractor in Mpumalanga â€” BBBEE advantage increasingly decisive in Exxaro, Seriti, and Thungela procurement."
+                 },
+                 {
+                     "company_name":  "Workforce Staffing (Workforce Holdings Ltd)",
+                     "website":  "https://workforcestaffing.co.za/mining",
+                     "service_focus":  "labour",
+                     "service_description":  "Large-scale mining labour outsourcing and TES (Temporary Employment Services) provider. Supplies permanent and temporary staff, manages contractor workforces, payroll, IR, HR, employee benefits, and health services. Recognised Top Employer 2026. Subsidiary of JSE AltX-listed Workforce Holdings Limited.",
+                     "known_clients":  [
+                                           "Undisclosed â€” serves clients across manufacturing, logistics, mining, and renewable energy sectors"
+                                       ],
+                     "recent_contracts_or_disputes":  "No specific mining contract disclosures publicly available. Employs over 1,100 permanent staff and pays approximately 35,000 temporary contractors weekly across all sectors.",
+                     "notes":  "Competes with CPI on pure labour deployment (TES) side rather than operational plant management. Largest scale TES competitor in the SA mining labour space."
+                 },
+                 {
+                     "company_name":  "Cementation Africa (formerly Murray \u0026 Roberts Cementation)",
+                     "website":  "https://cementation.murrob.com",
+                     "service_focus":  "both",
+                     "service_description":  "Underground mining contractor providing shaft construction, mine development, specialist mining services (raise boring, grouting), and contract mining. Has coal mining capability via its Boipelo JV. Rebranded from Murray \u0026 Roberts Cementation following acquisition by Differential Capital consortium (effective 1 July 2025).",
+                     "known_clients":  [
+                                           "Arnot Coal Mine (via Boipelo JV)",
+                                           "New Clydesdale Colliery (via Boipelo JV â€” historical)",
+                                           "Matla Colliery (stonework and development â€” historical)"
+                                       ],
+                     "recent_contracts_or_disputes":  "Parent Murray \u0026 Roberts Holdings entered business rescue in 2024-2025 and is being wound up; Cementation Africa was ring-fenced and acquired independently. De Beers descoped Venetia contract (Nov 2024), which represented \u003e50% of prior revenue â€” company actively rebuilding order book including coal sector.",
+                     "notes":  "Post-restructure, Cementation Africa may aggressively pursue coal management contracts to rebuild revenue. Track carefully for new coal tenders in H2 2025â€“2026."
+                 },
+                 {
+                     "company_name":  "TRS Staffing Solutions",
+                     "website":  "https://www.trsstaffing.com/south-africa",
+                     "service_focus":  "labour",
+                     "service_description":  "International technical staffing and recruitment agency providing contract and permanent placement of engineering, technical, and field services personnel including mining plant operators, processing technicians, project managers, and commissioning specialists to opencast and underground mines.",
+                     "known_clients":  [
+                                           "Undisclosed â€” multinational client base across SA mining sector"
+                                       ],
+                     "recent_contracts_or_disputes":  "No specific coal contract disclosures. Operating Johannesburg office serving SA mining industry.",
+                     "notes":  "Primarily competes on technical and specialist recruitment rather than full workforce deployment or plant management. Less direct overlap with CPI than labour outsourcers but relevant for sourcing specialist plant operators."
+                 }
+             ]
+}

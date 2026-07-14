@@ -1,0 +1,89 @@
+﻿{
+    "_section":  "labour_market_intelligence",
+    "_company":  "Coal Processors International",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "skilled_labour_shortage_areas":  {
+                                                       "summary":  "South Africa\u0027s coal mining sector faces a structural shortage of specialized technical and supervisory mining personnel, exacerbated by emigration of qualified professionals and underinvestment in vocational training.",
+                                                       "critical_shortage_roles":  [
+                                                                                       {
+                                                                                           "role":  "Underground coal mining supervisors and section managers",
+                                                                                           "detail":  "Blasting certificate holders and competent persons for coal underground are in chronic undersupply, particularly for bord-and-pillar operations."
+                                                                                       },
+                                                                                       {
+                                                                                           "role":  "Coal processing plant operators",
+                                                                                           "detail":  "Plant and machine operators constitute 35% of the coal workforce; demand exceeds supply as processing plant expansions at Matla, Zibulo, and Naudesbank ramp up."
+                                                                                       },
+                                                                                       {
+                                                                                           "role":  "Electrical and instrumentation technicians",
+                                                                                           "detail":  "Electrical engineering technicians (20% of skilled technician roles) and electronics technicians (16%) are scarce. Companies are importing expatriate workers at premium costs."
+                                                                                       },
+                                                                                       {
+                                                                                           "role":  "Safety, Health and Environmental (SHE) officers",
+                                                                                           "detail":  "SHE officers constitute 32% of skilled technician occupations in coal mining; regulatory scrutiny under MHSA intensifies demand."
+                                                                                       },
+                                                                                       {
+                                                                                           "role":  "Mining engineers and geologists",
+                                                                                           "detail":  "Across the broader mining sector, mining engineers, geologists with exploration expertise, and metallurgists are in chronic undersupply, with companies poaching talent from competitors."
+                                                                                       }
+                                                                                   ]
+                                                   },
+                 "union_activity":  {
+                                        "NUM":  {
+                                                    "full_name":  "National Union of Mineworkers",
+                                                    "website":  "https://num.org.za",
+                                                    "coal_sector_relevance":  "Dominant union in South Africa\u0027s coal mining sector.",
+                                                    "current_wage_agreement":  {
+                                                                                   "terms":  "Three-year agreement reached approximately 2023â€“2024 at 7% per annum increases across all years.",
+                                                                                   "negotiation_note":  "NUM opened 2023 coal negotiations with a 15% demand before settling at 7% p.a. â€” deal averted sector-wide strike that would have impacted Eskom coal supply.",
+                                                                                   "expiry_outlook":  "Agreement expected to expire in 2025/2026, triggering next negotiation round. NUM has stated no agreement should be below CPI."
+                                                                               },
+                                                    "posture":  "NUM supports coal as part of SA\u0027s energy mix and opposes rapid just transition timelines. Likely to negotiate aggressively in the next round given CPI trajectory."
+                                                },
+                                        "AMCU":  {
+                                                     "full_name":  "Association of Mineworkers and Construction Union",
+                                                     "coal_sector_relevance":  "Minor presence in coal; predominantly active in platinum and gold sectors. Opportunistic recruitment attempts in coal during NUM disputes.",
+                                                     "current_activity":  "Wage talks in platinum sector continuing 2025â€“2026; limited coal-specific activity."
+                                                 }
+                                    },
+                 "employment_trends":  {
+                                           "total_coal_sector_employment":  "Approximately 91,000 direct employees as of 2022 (down from 108,000 in 2019). Mining sector total employment reached 476,028 persons in March 2026, up from 443,825 in December 2025.",
+                                           "contractor_ratio":  "43% of the coal mining workforce are contract workers (up from 5% in 1987). This creates sustained demand for labour outsourcing services.",
+                                           "skills_level":  "Only 30% of permanent coal employees and 10% of contractors have higher education or specialized training. 53% of all workers are unskilled or semi-skilled.",
+                                           "commodity_trend":  "Coal employment under long-term structural pressure due to global energy transition. However, near-term (2025â€“2030) employment remains supported by Eskom supply agreements and export demand from Asia.",
+                                           "sector_growth_2026":  "Modest 2,000 job gain year-on-year in mining to Q3 2025. Coal-specific employment broadly stable with offsetting forces: new mines and expansions vs. older mine closures."
+                                       },
+                 "labour_broking_regulation":  {
+                                                   "governing_legislation":  "Labour Relations Act 66 of 1995, Sections 198, 198Aâ€“D (Temporary Employment Services / TES)",
+                                                   "key_provisions":  [
+                                                                          {
+                                                                              "provision":  "Section 198(1) â€” TES as employer",
+                                                                              "detail":  "The TES (labour broker) is the legal employer of any worker placed with a client."
+                                                                          },
+                                                                          {
+                                                                              "provision":  "Section 198A â€” Three-month deeming rule",
+                                                                              "detail":  "Once a worker earning below the earnings threshold (currently ZAR 205,433.30 p.a.) has been placed at the same client for more than three months, the client is deemed to be the employer for all LRA purposes. The worker is then entitled to the same employment conditions as comparable permanent employees of the client."
+                                                                          },
+                                                                          {
+                                                                              "provision":  "Section 200B â€” Joint and several liability",
+                                                                              "detail":  "Both TES and client are jointly and severally liable if they structure arrangements to evade obligations under the LRA or BCEA."
+                                                                          },
+                                                                          {
+                                                                              "provision":  "Pending LRA Amendments (2025)",
+                                                                              "detail":  "Government proposed 47 amendments to the LRA in 2025, including amendments affecting TES arrangements and employment equity. Final legislation not yet enacted as of mid-2026. CPI should monitor the Labour Amendment Bill progress."
+                                                                          }
+                                                                      ],
+                                                   "compliance_implication_for_CPI":  "CPI must ensure that workers deployed to coal mines for \u003e3 months who earn below ZAR 205,433.30 p.a. are treated as client employees for LRA purposes, with equal conditions to comparable permanent staff. Failure creates joint liability exposure for both CPI and its mining house clients.",
+                                                   "resources":  [
+                                                                     {
+                                                                         "source":  "CCMA â€” TES and Section 198 Guidance",
+                                                                         "url":  "https://www.ccma.org.za"
+                                                                     },
+                                                                     {
+                                                                         "source":  "Department of Labour â€” Acts",
+                                                                         "url":  "https://www.labour.gov.za/DocumentCenter/Pages/Acts.aspx"
+                                                                     }
+                                                                 ]
+                                               }
+             }
+}

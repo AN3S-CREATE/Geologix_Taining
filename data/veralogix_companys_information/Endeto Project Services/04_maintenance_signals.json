@@ -1,0 +1,88 @@
+﻿{
+    "_section":  "maintenance_signals",
+    "_company":  "Endeto Project Services",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "signal_type":  "JSE SENS Production Reports",
+                     "description":  "JSE-listed mining companies publish quarterly and interim production reports via the SENS newsfeed. These often include references to planned maintenance stoppages, reduced production guidance, or shutdown windows.",
+                     "monitoring_source":  "https://www.jse.co.za/current/company-announcements",
+                     "commodities_most_affected":  [
+                                                       "platinum",
+                                                       "gold",
+                                                       "iron ore",
+                                                       "coal"
+                                                   ],
+                     "lead_time":  "1-3 months before shutdown"
+                 },
+                 {
+                     "signal_type":  "Stats SA Mining Production and Sales Release",
+                     "description":  "Monthly report by Statistics South Africa covering mine-level production by commodity. Declines in specific commodities month-on-month indicate shutdowns or equipment failures.",
+                     "monitoring_source":  "https://www.statssa.gov.za/?page_id=1854\u0026PPN=P2041",
+                     "monitoring_frequency":  "Monthly (released approx. 6 weeks after reference month)",
+                     "lead_time":  "Lagging indicator; use for post-event analysis and future planning"
+                 },
+                 {
+                     "signal_type":  "Mining Weekly and Engineering News Project Tracker",
+                     "description":  "Trade press publishes planned shutdown schedules, plant upgrades, and capital project announcements for major operations.",
+                     "monitoring_source":  "https://www.miningweekly.com / https://www.engineeringnews.co.za",
+                     "lead_time":  "1-6 months"
+                 },
+                 {
+                     "signal_type":  "Mine Health and Safety Council (MHSC) Incident Reports",
+                     "description":  "MHSC publishes reportable equipment failures, structural incidents, and Section 54/55 stoppages under the MHSA. Stoppages signal urgent repair and maintenance opportunities.",
+                     "monitoring_source":  "https://www.mhsc.org.za/incidents",
+                     "lead_time":  "Immediate to 2 weeks (reactive opportunity)"
+                 },
+                 {
+                     "signal_type":  "Department of Mineral and Petroleum Resources (DMPR) Notices",
+                     "description":  "DMPR issues Section 54 work stoppages following safety incidents; these force immediate maintenance and remediation work.",
+                     "monitoring_source":  "https://www.dmr.gov.za",
+                     "lead_time":  "Immediate"
+                 },
+                 {
+                     "signal_type":  "Annual Shutdown Season Patterns by Commodity",
+                     "description":  "Predictable annual patterns based on commodity and operation type.",
+                     "patterns":  [
+                                      {
+                                          "commodity":  "Coal (Mpumalanga collieries)",
+                                          "typical_shutdown_window":  "Decemberâ€“January (holiday season); additional Q2 planned maintenance",
+                                          "driver":  "Holiday staffing and OEM availability"
+                                      },
+                                      {
+                                          "commodity":  "Platinum Group Metals (Rustenburg/Limpopo)",
+                                          "typical_shutdown_window":  "Annual smelter \u0027blow\u0027 every 6-12 months; major plant maintenance Q1 and Q3",
+                                          "driver":  "Smelter furnace lining life and converter maintenance cycles"
+                                      },
+                                      {
+                                          "commodity":  "Chrome / Ferrochrome Smelters",
+                                          "typical_shutdown_window":  "Furnace rebuilds every 5-7 years; annual refractory repairs Q4",
+                                          "driver":  "Furnace lining wear and electrode replacement schedules"
+                                      },
+                                      {
+                                          "commodity":  "Iron Ore (Northern Cape)",
+                                          "typical_shutdown_window":  "Octoberâ€“November (Transnet rail maintenance corridor shutdown)",
+                                          "driver":  "Transnet Ore Export Channel annual maintenance on the Sishen-Saldanha line"
+                                      },
+                                      {
+                                          "commodity":  "Gold (deep-level mines)",
+                                          "typical_shutdown_window":  "Decemberâ€“January; also Q2 for winder and hoisting equipment overhauls",
+                                          "driver":  "Labour cycle and shaft equipment certification requirements"
+                                      }
+                                  ],
+                     "monitoring_source":  "Cross-reference SENS announcements with commodity-specific trade press"
+                 },
+                 {
+                     "signal_type":  "Supplier Tender Portals Opening New RFQs",
+                     "description":  "Mining houses post Request for Quotations (RFQs) for maintenance services 4-8 weeks before planned shutdown. Monitor procurement portals for RFQ openings in fabrication, machining, and repairs categories.",
+                     "monitoring_source":  "Anglo American eSourcing, Sibanye Suppliers Portal, Exxaro Procurement Portal",
+                     "lead_time":  "4-8 weeks before shutdown"
+                 },
+                 {
+                     "signal_type":  "LinkedIn / Company News Announcements",
+                     "description":  "Operations managers and procurement staff post shutdown preparation notices, contractor onboarding calls, and plant upgrade announcements on LinkedIn and company news sections.",
+                     "monitoring_source":  "https://www.linkedin.com (follow target mining operations and procurement personnel)",
+                     "lead_time":  "2-8 weeks"
+                 }
+             ]
+}

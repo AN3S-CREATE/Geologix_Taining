@@ -1,0 +1,167 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Treadstone Logistics",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Reinhardt Transport Group",
+                     "website":  "https://reinhardt.co.za",
+                     "commodity_focus":  [
+                                             "chrome",
+                                             "coal",
+                                             "manganese"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Mpumalanga",
+                                                "Limpopo",
+                                                "Northern Cape",
+                                                "cross-border SADC corridors"
+                                            ],
+                     "fleet_size":  "1,000+ specialised vehicles across 10 divisions",
+                     "divisions":  [
+                                       "Chrome Carriers",
+                                       "BM Hauliers",
+                                       "Nkwe Bulk"
+                                   ],
+                     "recent_developments":  "Operates dedicated Chrome Carriers division connecting mines to smelters and export corridors; expanding into lithium commodity as demand grows; Nkwe Bulk division focuses on short-haul high-turnover mine haulage with 25â€“45mÂ³ tipper bins"
+                 },
+                 {
+                     "name":  "Unitrans Africa",
+                     "website":  "https://www.unitransafrica.com",
+                     "commodity_focus":  [
+                                             "chrome",
+                                             "coal",
+                                             "copper",
+                                             "mineral sand",
+                                             "nickel",
+                                             "platinum"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Sub-Saharan Africa",
+                                                "South Africa",
+                                                "Mozambique",
+                                                "Zambia",
+                                                "Botswana",
+                                                "Namibia"
+                                            ],
+                     "fleet_size":  "1,500+ vehicles including 50+ PBS (Performance-Based Standards) road trains; Africa\u0027s largest road train operator with ~35 road trains, hauling up to 130 tonnes per train",
+                     "recent_developments":  "2023 \u0026 2024 Rio Tinto Global Best Contractor Partner award and QMM Best Performance Contractor (High Risk) award; achieved 20%+ reduction in fuel consumption per tonne and 54% reduction in vehicle requirements through PBS configuration optimisation"
+                 },
+                 {
+                     "name":  "Simeliza Transport",
+                     "website":  "https://www.simelizatransport.co.za",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "chrome",
+                                             "manganese",
+                                             "iron ore",
+                                             "aggregates"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Mpumalanga",
+                                                "Steelpoort",
+                                                "Burgersfort",
+                                                "Polokwane",
+                                                "mine-to-port corridors"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Strong operational base in Mpumalanga; services include side-tipper transport, mine-to-siding, pit-to-stockpile, and mine-to-port haulage; positioned as a leading coal transport company in Mpumalanga"
+                 },
+                 {
+                     "name":  "Nkwe Bulk (Reinhardt division)",
+                     "website":  "https://reinhardt.co.za/nkwe-bulk/",
+                     "commodity_focus":  [
+                                             "chrome",
+                                             "coal",
+                                             "bulk minerals"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Western Chrome Limb",
+                                                "North West",
+                                                "Limpopo",
+                                                "Mpumalanga"
+                                            ],
+                     "fleet_size":  "Not separately disclosed",
+                     "recent_developments":  "Focuses on high-turnover, low-mileage short-haul within active mining operations; deep expertise in mine safety and access protocols; rapid cycle efficiency model"
+                 },
+                 {
+                     "name":  "Tshepo Transport",
+                     "website":  "https://www.tshepotransport.co.za",
+                     "commodity_focus":  [
+                                             "bulk freight",
+                                             "mining commodities"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Nationwide South Africa"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Freight logistics, nationwide coverage with plant hire services"
+                 },
+                 {
+                     "name":  "Mthabane Transport",
+                     "website":  "https://mthabanetransport.co.za",
+                     "commodity_focus":  [
+                                             "bulk mining minerals"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Limpopo",
+                                                "Mpumalanga"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Specialist in bulk mining transport services across Limpopo and Mpumalanga"
+                 },
+                 {
+                     "name":  "Local Bulk Haulage",
+                     "website":  "https://www.localbulk.co.za",
+                     "commodity_focus":  [
+                                             "coal",
+                                             "bulk minerals"
+                                         ],
+                     "key_routes_regions":  [
+                                                "South Africa regional networks"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Regional bulk haulage operator focused on local short-haul mining routes"
+                 },
+                 {
+                     "name":  "Mixcorp Transport",
+                     "website":  "https://mixcorp.co.za",
+                     "commodity_focus":  [
+                                             "chrome",
+                                             "chrome concentrate"
+                                         ],
+                     "key_routes_regions":  [
+                                                "Steelpoort",
+                                                "Port of Mozambique (Maputo)"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Transports approximately 650,000 tonnes of chrome and chrome concentrate out of Steelpoort for export via Port of Mozambique"
+                 },
+                 {
+                     "name":  "Khensa Investment Group",
+                     "website":  "http://khensa.co.za",
+                     "commodity_focus":  [
+                                             "mining logistics"
+                                         ],
+                     "key_routes_regions":  [
+                                                "South Africa"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Mining logistics and transport services provider"
+                 },
+                 {
+                     "name":  "AGEN Logistics",
+                     "website":  "https://agenlogistics.com",
+                     "commodity_focus":  [
+                                             "bulk cargo",
+                                             "coal",
+                                             "mining commodities"
+                                         ],
+                     "key_routes_regions":  [
+                                                "South Africa national routes"
+                                            ],
+                     "fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Bulk cargo transport specialist; identified 4 key trends shaping SA bulk logistics in 2026: rail liberalisation impact, fuel price volatility, ESG compliance demands, and digital fleet management adoption"
+                 }
+             ]
+}

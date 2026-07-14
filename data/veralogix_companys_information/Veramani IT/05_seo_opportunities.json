@@ -1,0 +1,70 @@
+﻿{
+    "_section":  "seo_opportunities",
+    "_company":  "Veramani IT",
+    "_source":  "doc_169e4f.json",
+    "data":  {
+                 "rationale":  "The following 15 keyword phrases are identified as high buyer-intent, low-to-medium competition search terms for a South African IT company targeting the mining and industrial sector. They are specific enough to attract qualified buyers rather than general traffic.",
+                 "keywords":  [
+                                  {
+                                      "phrase":  "mining software development South Africa",
+                                      "intent":  "Direct buyer intent â€” company seeking a developer for a mining software project"
+                                  },
+                                  {
+                                      "phrase":  "custom software for mining companies South Africa",
+                                      "intent":  "Procurement-stage query â€” buyer comparing bespoke vs off-shelf solutions"
+                                  },
+                                  {
+                                      "phrase":  "digital transformation mining sector South Africa",
+                                      "intent":  "Research-to-buy stage â€” mining executive exploring digital strategy partners"
+                                  },
+                                  {
+                                      "phrase":  "IoT solutions mining South Africa",
+                                      "intent":  "Technology evaluation query â€” operational manager assessing IoT platforms"
+                                  },
+                                  {
+                                      "phrase":  "mine operations management system developer South Africa",
+                                      "intent":  "High-value, very specific â€” buyer seeking a supplier for an OMMS build"
+                                  },
+                                  {
+                                      "phrase":  "mining connectivity solutions South Africa",
+                                      "intent":  "Direct service query â€” aligns to Veramani\u0027s connectivity offering"
+                                  },
+                                  {
+                                      "phrase":  "industrial automation software development South Africa",
+                                      "intent":  "Covers industrial sector adjacency; buyers in manufacturing and processing"
+                                  },
+                                  {
+                                      "phrase":  "4IR solutions mining Gauteng",
+                                      "intent":  "Location + trend term â€” captures Gauteng-based mining company buyers"
+                                  },
+                                  {
+                                      "phrase":  "website design mining company South Africa",
+                                      "intent":  "Lower funnel, quick-conversion â€” mining companies seeking web presence upgrades"
+                                  },
+                                  {
+                                      "phrase":  "predictive maintenance software South Africa mining",
+                                      "intent":  "Specific technology need â€” high commercial value engagement"
+                                  },
+                                  {
+                                      "phrase":  "mine health and safety app development South Africa",
+                                      "intent":  "Regulated compliance driver â€” mining companies must invest in H\u0026S systems"
+                                  },
+                                  {
+                                      "phrase":  "geoscience data management software South Africa",
+                                      "intent":  "Niche â€” aligns with Veralogix Group\u0027s geological roots; very low competition"
+                                  },
+                                  {
+                                      "phrase":  "mining fleet management software South Africa",
+                                      "intent":  "Operational technology â€” high recurring-revenue product opportunity"
+                                  },
+                                  {
+                                      "phrase":  "B-BBEE IT company mining software South Africa",
+                                      "intent":  "Procurement-critical filter â€” buyers specifically seeking BEE-compliant vendors"
+                                  },
+                                  {
+                                      "phrase":  "mineral processing software developers South Africa",
+                                      "intent":  "Process-industry specific â€” targets metallurgical and beneficiation operations"
+                                  }
+                              ]
+             }
+}

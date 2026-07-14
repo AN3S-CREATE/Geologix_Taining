@@ -1,0 +1,290 @@
+{
+  "portfolio": "Geologix Vanguard — Veralogix Group Portfolio",
+  "last_updated": "2026-07-13",
+  "total_companies": 30,
+  "structure": "flat — each company folder at root level",
+  "ai_traversal_instructions": "To research a specific company, navigate to its folder and read index.json first. Each index.json contains the company overview, available data files, and quick facts. For cross-portfolio signals, read CROSS-PORTFOLIO/index.json.",
+  "companies": [
+    {
+      "folder": "Veralogix Group",
+      "display_name": "Veralogix Group (Holding)",
+      "group": "Veralogix Group",
+      "sector": "Mining Services Conglomerate — Holding Entity",
+      "hq": "Middelburg, Mpumalanga, South Africa",
+      "data_status": "prompt_only",
+      "files": ["Prompt.md", "Market Intelligence Framework for Veralogix Holdings and Subsidiaries.docx"]
+    },
+    {
+      "folder": "Veralogix Mining (Pty) Ltd",
+      "display_name": "Veralogix Mining (Pty) Ltd",
+      "group": "Veralogix Group",
+      "sector": "Contract Mining / Holding Company",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md", "Competitive and Market Intelligence for Veralogix Mining_20260713110545.docx"]
+    },
+    {
+      "folder": "Veralogix Rentals",
+      "display_name": "Veralogix Rentals",
+      "group": "Veralogix Group",
+      "sector": "Heavy Equipment Rental — 320+ unit fleet",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Veralogix Plant (Woestalleen)",
+      "display_name": "Veralogix Plant (Woestalleen)",
+      "group": "Veralogix Group",
+      "sector": "ROM Crushing, DMS Coal Washing, Rail Siding",
+      "hq": "Woestalleen, Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Veralogix Diesel",
+      "display_name": "Veralogix Diesel",
+      "group": "Veralogix Group",
+      "sector": "Bulk Diesel & Fuel Supply",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Veralogix Drilling & Blasting",
+      "display_name": "Veralogix Drilling & Blasting",
+      "group": "Veralogix Group",
+      "sector": "Contract Drilling & Blasting — Open-cast Mining",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Veralogix Projects (Pty) Ltd",
+      "display_name": "Veralogix Projects (Pty) Ltd",
+      "group": "Veralogix Group",
+      "sector": "Project Delivery / EPCM / Corporate Vehicle",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "prompt_only",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Veralogix Properties (Pty) Ltd",
+      "display_name": "Veralogix Properties (Pty) Ltd",
+      "group": "Veralogix Group",
+      "sector": "Property Holding — Industrial & Commercial",
+      "hq": "3A Laver Street, Middelburg",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Alpha Industries SA",
+      "display_name": "Alpha Industries SA",
+      "group": "Veralogix Group",
+      "sector": "Crushing, Screening & Material Handling",
+      "hq": "Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Alpha Technical Solutions",
+      "display_name": "Alpha Technical Solutions",
+      "group": "Veralogix Group",
+      "sector": "Technical Engineering Solutions",
+      "hq": "Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Endeto Project Services",
+      "display_name": "Endeto Project Services",
+      "group": "Veralogix Group",
+      "sector": "Engineering, Fabrication, Maintenance, OEM",
+      "hq": "Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Coal Processors International",
+      "display_name": "Coal Processors International",
+      "group": "Veralogix Group",
+      "sector": "Coal Plant Labour & Operational Management",
+      "hq": "Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Veralift",
+      "display_name": "Veralift",
+      "group": "Veralogix Group",
+      "sector": "Mobile Crane Hire & Heavy Lifting",
+      "hq": "Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Treadstone Logistics",
+      "display_name": "Treadstone Logistics",
+      "group": "Treadstone Group",
+      "sector": "Bulk Road Haulage — Coal, Chrome, Iron Ore",
+      "hq": "Mpumalanga",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Treadstone CPM",
+      "display_name": "Treadstone CPM",
+      "group": "Treadstone Group",
+      "sector": "Logistics Management / Contract Project Management",
+      "hq": "Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "CG Transport",
+      "display_name": "CG Transport",
+      "group": "Treadstone Group",
+      "sector": "Bulk Commodity Road Transport",
+      "hq": "Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Salaria Mining Services",
+      "display_name": "Salaria Mining Services",
+      "group": "Salaria Group",
+      "sector": "Mine Planning, Resource Management, Geotechnical",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Salaria Safety Services",
+      "display_name": "Salaria Safety Services",
+      "group": "Salaria Group",
+      "sector": "Integrated Mine Safety Management",
+      "hq": "South Africa",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Mining Safety Services",
+      "display_name": "Mining Safety Services",
+      "group": "Salaria Group",
+      "sector": "Standalone Mine Safety Audits, Training & Compliance",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Aiguille Security",
+      "display_name": "Aiguille Security",
+      "group": "Aiguille Group",
+      "sector": "Mining & Industrial Security Services",
+      "hq": "Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Aiguille Tools & Edges",
+      "display_name": "Aiguille Tools & Edges",
+      "group": "Aiguille Group",
+      "sector": "Ground Engaging Tools, Cutting Edges, Wear Parts",
+      "hq": "Mpumalanga",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Veramani IT",
+      "display_name": "Veramani IT",
+      "group": "Veramani Group",
+      "sector": "Software Development, Web, Connectivity Solutions",
+      "hq": "South Africa",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Veramani IT Holding",
+      "display_name": "Veramani IT Holding",
+      "group": "Veramani Group",
+      "sector": "IT Holding Company — Bioniq, Vcom, YAL.ai",
+      "hq": "South Africa",
+      "data_status": "prompt_only",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Bioniq (ISP)",
+      "display_name": "Bioniq",
+      "group": "Veramani Group",
+      "sector": "Internet Service Provider — Managed Wi-Fi, Hotspot Analytics",
+      "hq": "Middelburg, Mpumalanga",
+      "data_status": "complete_chunked",
+      "files": ["Prompt.md", "market_intelligence.json", "01_competitors.json", "02_tender_landscape.json", "03_regulatory_watchlist.json", "04_churn_signals.json", "05_connectivity_opportunities.json"]
+    },
+    {
+      "folder": "Vcom",
+      "display_name": "Vcom",
+      "group": "Veramani Group",
+      "sector": "Aerial Fibre Network Operator (FNO) — Townships",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "YAL.ai",
+      "display_name": "YAL.ai",
+      "group": "Veramani Group",
+      "sector": "AI Anti-Phishing Cybersecurity SaaS",
+      "hq": "South Africa",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Vera-Commodities",
+      "display_name": "Vera-Commodities",
+      "group": "Commodities & Trading",
+      "sector": "Bulk Mineral Commodity Trading",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "Ritz International",
+      "display_name": "Ritz International",
+      "group": "Commodities & Trading",
+      "sector": "Diesel Trading & Bulk Fuel Supply",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    },
+    {
+      "folder": "IO Green",
+      "display_name": "IO Green",
+      "group": "Energy & Engineering",
+      "sector": "Solar & Electrical Supply and Installation",
+      "hq": "South Africa",
+      "data_status": "prompt_plus_docs",
+      "files": ["Prompt.md"]
+    },
+    {
+      "folder": "Pencox Auto Air",
+      "display_name": "Pencox Auto Air",
+      "group": "Equipment & Fleet",
+      "sector": "Vehicle & Earthmoving A/C and Auto Electrical",
+      "hq": "South Africa",
+      "data_status": "complete",
+      "files": ["Prompt.md", "market_intelligence.json"]
+    }
+  ],
+  "data_status_legend": {
+    "complete_chunked": "Has market_intelligence.json AND chunked 01_-05_ sectional files",
+    "complete": "Has market_intelligence.json populated",
+    "prompt_plus_docs": "Has Prompt.md and .docx research docs — needs JSON generation",
+    "prompt_only": "Has Prompt.md only — needs research and JSON generation"
+  },
+  "cross_portfolio": {
+    "folder": "CROSS-PORTFOLIO",
+    "description": "Cross-group market intelligence, tender monitoring, and signal routing",
+    "files": 10
+  }
+}

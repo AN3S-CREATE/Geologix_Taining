@@ -1,0 +1,292 @@
+﻿{
+    "total_chunks":  70,
+    "company":  "Veramani IT Holding",
+    "total_docs":  3,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__executive_summary_p1.json",
+                                                             "doc1_Veramani_IT_Group_Structu__executive_summary_p2.json",
+                                                             "doc1_Veramani_IT_Group_Structu__executive_summary_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__financial_p1.json",
+                                                             "doc1_Veramani_IT_Group_Structu__financial_p2.json",
+                                                             "doc1_Veramani_IT_Group_Structu__financial_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__recommendations.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__regulatory_p1.json",
+                                                             "doc1_Veramani_IT_Group_Structu__regulatory_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__technology.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Veramani_IT_Group_Structu__threats_risks.json"
+                                                         ],
+                                               "parts":  1
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Veramani_IT_Group_Structu",
+                          "chunk_count":  14,
+                          "source_doc":  "Veramani IT Group Structure Research.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__bbbee_transformation_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__bbbee_transformation_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__bbbee_transformation_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p3.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p4.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p5.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__financial_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__pricing_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__pricing_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__recommendations_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__recommendations_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__recommendations_p3.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__recommendations_p4.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__recommendations_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p10.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p11.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p3.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p4.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p5.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p6.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p7.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p8.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__regulatory_p9.json"
+                                                         ],
+                                               "parts":  11
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__technology_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__technology_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__technology_p3.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__technology_p4.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__technology_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc2_Veramani_IT_Holding_Compa__threats_risks_p1.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__threats_risks_p2.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__threats_risks_p3.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__threats_risks_p4.json",
+                                                             "doc2_Veramani_IT_Holding_Compa__threats_risks_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           }
+                                       ],
+                          "doc_key":  "doc2_Veramani_IT_Holding_Compa",
+                          "chunk_count":  41,
+                          "source_doc":  "Veramani IT Holding Company Structure and Sector Analysis_20260713204046.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__competitive_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__market_segments_p1.json",
+                                                             "doc3_Veramani_Market_Intellige__market_segments_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__recommendations.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__regulatory.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__technology.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc3_Veramani_Market_Intellige__tender_landscape_p1.json",
+                                                             "doc3_Veramani_Market_Intellige__tender_landscape_p2.json",
+                                                             "doc3_Veramani_Market_Intellige__tender_landscape_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           }
+                                       ],
+                          "doc_key":  "doc3_Veramani_Market_Intellige",
+                          "chunk_count":  15,
+                          "source_doc":  "Veramani Market Intelligence Strategy.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

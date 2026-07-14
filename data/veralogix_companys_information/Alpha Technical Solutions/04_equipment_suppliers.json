@@ -1,0 +1,91 @@
+﻿{
+    "_section":  "equipment_suppliers",
+    "_company":  "Alpha Technical Solutions",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "name":  "Pilot Crushtec International (Pty) Ltd",
+                     "website":  "https://pilotcrushtec.com",
+                     "brands_represented":  [
+                                                "Metso (exclusive Southern Africa distributor)",
+                                                "Sandvik Mobile Range (Southern Africa distributor)",
+                                                "Pilot Modular (own brand â€” modular plants)",
+                                                "Twister VSI (own brand â€” vertical shaft impactors)"
+                                            ],
+                     "new_developments":  "Exclusive Metso and Sandvik mobile dealership covers jaw, cone, impact, and VSI crushers plus track-mounted screening plants. Pilot Modular \u0027ready-to-run\u0027 plants provide rapid deployment capacity for contract operators. 110,000+ OEM spare parts held in stock for fast-turnaround support.",
+                     "notes":  "Founded 1990; headquartered in Johannesburg. Dominant position in mobile and semi-mobile supply to Southern Africa. Also offers contract crushing alongside equipment supply."
+                 },
+                 {
+                     "name":  "FLS (formerly FLSmidth)",
+                     "website":  "https://fls.com",
+                     "brands_represented":  [
+                                                "FLS Ludowici screens",
+                                                "FLS KREBS cyclones",
+                                                "FLS RAHCO material handling",
+                                                "FLS EVO gyratory crushers"
+                                            ],
+                     "new_developments":  "In June 2025, FLS acquired Scott Specialized Rubber \u0026 Engineering (SSRE) in Pretoria, adding mid-sized regional mill liner manufacturing capacity to serve African mining customers faster. FLS operates a screening solutions manufacturing hub in Delmas (Mpumalanga) producing locally for Africa, Middle East, and South Asia. Positions as a full minerals processing technology provider.",
+                     "notes":  "Strong in fixed crushing and screening plant solutions for large mines. Delmas manufacturing base gives SA-local supply and support advantage. SSRE acquisition strengthens wear parts offering."
+                 },
+                 {
+                     "name":  "Weir Minerals Africa",
+                     "website":  "https://www.global.weir/our-products/minerals/",
+                     "brands_represented":  [
+                                                "EnduronÂ® (crushing and screening)",
+                                                "WarmanÂ® (slurry pumps)",
+                                                "TrioÂ® (cone and jaw crushers)",
+                                                "LINATEXÂ® (rubber wear liners)"
+                                            ],
+                     "new_developments":  "March 2026: Weir won an order to supply an EnduronÂ® modular crushing plant for the Hope and Gorob Copper-Gold Project in Namibia (150 tph). Enduron modular range is actively marketed to SA mines for rapid-deploy greenfield and brownfield upgrades. Weir Minerals Africa is expanding capacity as mining activity surges across Southern Africa.",
+                     "notes":  "Key competitor to Pilot Crushtec and FLS in the modular and fixed crushing plant space. Strong position in platinum and chrome crushing applications."
+                 },
+                 {
+                     "name":  "Sandvik Rock Processing Solutions",
+                     "website":  "https://www.home.sandvik/en/about-us/business-areas/sandvik-rock-processing-solutions/",
+                     "brands_represented":  [
+                                                "Sandvik jaw crushers",
+                                                "Sandvik cone crushers (CH/CS series)",
+                                                "Sandvik horizontal shaft impactors",
+                                                "Sandvik vibrating screens",
+                                                "Sandvik feeders"
+                                            ],
+                     "new_developments":  "Sandvik has a direct SA presence through its Rock Processing Solutions business unit and also has Pilot Crushtec as its mobile range distributor. The stationary plant range is supported through Sandvik\u0027s own regional team.",
+                     "notes":  "World-leading manufacturer. Serves large fixed plant installations in coal, iron ore, and hard rock. Strong aftermarket parts and service network in SA."
+                 },
+                 {
+                     "name":  "Haver \u0026 Boecker Niagara",
+                     "website":  "https://haverniagara.com",
+                     "brands_represented":  [
+                                                "Niagara vibrating screens",
+                                                "Haver woven wire screen media",
+                                                "Haver pelletizing equipment"
+                                            ],
+                     "new_developments":  "Active in Southern Africa for industrial screening and pelletizing applications. Specialises in high-capacity screening and challenging wet applications where conventional screen media struggles.",
+                     "notes":  "Niche but high-quality position in the screening market. Frequently specified for iron ore and manganese screening applications."
+                 },
+                 {
+                     "name":  "Tenova TAKRAF Africa",
+                     "website":  "https://www.takraf.tenova.com",
+                     "brands_represented":  [
+                                                "TAKRAF bulk material handling systems",
+                                                "TAKRAF conveyors and stackers",
+                                                "TAKRAF in-pit crushing and conveying (IPCC)",
+                                                "Tenova HumX (comminution)"
+                                            ],
+                     "new_developments":  "TAKRAF designs and supplies comminution systems and bulk material handling for coal, mineral sands, iron ore, and non-metallic mining. In-Pit Crushing and Conveying (IPCC) solutions are increasingly relevant as SA open-cut mines look to reduce truck haulage costs.",
+                     "notes":  "Tenova has had an environmental compliance success track record in SA. Competes primarily in large-scale integrated material handling and IPCC contracts rather than mobile contract crushing."
+                 },
+                 {
+                     "name":  "Multotec",
+                     "website":  "https://www.multotec.com",
+                     "brands_represented":  [
+                                                "Multotec screening panels",
+                                                "Multotec cyclones",
+                                                "Multotec spiral concentrators",
+                                                "Multotec samplers"
+                                            ],
+                     "new_developments":  "Dominant SA-origin supplier of screening media, wear liners, and cyclone clusters. Essential aftermarket supplier to any contractor running screening circuits. Strong local manufacturing gives cost and lead-time advantage over imported alternatives.",
+                     "notes":  "Not a primary equipment OEM but critical to contract operators\u0027 screening consumable supply chain. Partnerships with Multotec for screen media supply can reduce contractor downtime costs significantly."
+                 }
+             ]
+}

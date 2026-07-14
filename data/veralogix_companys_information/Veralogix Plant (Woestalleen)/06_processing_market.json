@@ -1,0 +1,59 @@
+﻿{
+    "_section":  "processing_market",
+    "_company":  "Veralogix Plant (Woestalleen)",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "toll_washing_rates":  {
+                                            "indicative_market_rate_zar_per_tonne":  {
+                                                                                         "low_complexity_feed":  "R35â€“R55 per ROM tonne (clean feed, high yield, short circuit)",
+                                                                                         "standard_DMS_processing":  "R55â€“R80 per ROM tonne (typical thermal coal, dual-module DMS with magnetite recovery)",
+                                                                                         "high_complexity_or_low_yield":  "R80â€“R120+ per ROM tonne (difficult feed, low yield, extended circuit or blending requirement)"
+                                                                                     },
+                                            "note":  "Toll washing rates are not publicly published and are negotiated commercially. These are indicative market estimates based on industry knowledge and coal sector economics. Rates are heavily influenced by yield (% product recovery from ROM feed), haul distance, rail access, and contract tenure. Plants with rail siding access can typically command a premium or discount logistics costs to attract volume.",
+                                            "contract_structure":  "Typically structured as a fixed rate per ROM tonne fed or per product tonne produced, plus variable charges for magnetite consumption. Longer-term contracts (12â€“36 months) attract lower rates; spot/short-term processing at market premium."
+                                        },
+                 "coal_quality_specifications":  {
+                                                     "RB1_API4_export_grade":  {
+                                                                                   "calorific_value_NAR":  "6,000 kcal/kg minimum (some buyers specify 6,000â€“6,300 kcal/kg range)",
+                                                                                   "total_moisture_ARB":  "â‰¤12% (typically 8â€“12%)",
+                                                                                   "ash_content_ADB":  "â‰¤15% (RB1 premium grade typically targets 10â€“14%)",
+                                                                                   "sulfur_content_ADB":  "â‰¤1.0%",
+                                                                                   "volatile_matter_ADB":  "22â€“30%",
+                                                                                   "when_DMS_required":  "ROM coal with ash \u003e20â€“25% ADB typically requires DMS beneficiation to reach RB1 spec. Raw feed ash of 30â€“40% ADB (common in deeper Mpumalanga seams) requires effective DMS to yield commercially viable product."
+                                                                               },
+                                                     "RB2_grade":  {
+                                                                       "calorific_value_NAR":  "5,500 kcal/kg minimum",
+                                                                       "ash_content_ADB":  "â‰¤19%",
+                                                                       "total_moisture_ARB":  "â‰¤15%",
+                                                                       "sulfur_content_ADB":  "â‰¤1.0%",
+                                                                       "when_DMS_required":  "ROM coal with moderate ash (22â€“28% ADB) may achieve RB2 spec with DMS; lower-cost jig or dense medium drum processing sometimes used for RB2 production"
+                                                                   },
+                                                     "RB3_Eskom_domestic_grade":  {
+                                                                                      "calorific_value_NAR":  "â‰¥4,200 kcal/kg (varies by Eskom power station contract)",
+                                                                                      "ash_content_ADB":  "Up to 35â€“38% (Eskom accepts higher-ash coal)",
+                                                                                      "when_DMS_required":  "DMS generally not required for RB3/Eskom supply; screening and sizing sufficient. DMS processing is predominantly driven by export quality requirements."
+                                                                                  }
+                                                 },
+                 "export_terminal_quality_requirements":  [
+                                                              {
+                                                                  "terminal":  "Richards Bay Coal Terminal (RBCT)",
+                                                                  "location":  "Richards Bay, KwaZulu-Natal",
+                                                                  "quality_gate":  "API4 RB1 (6,000 kcal/kg NAR) is the primary export benchmark. Blending of RB1 and lower grades allowed to achieve contract spec. Vessel loading requires cargo to meet buyer contract specification; quality failure at load port is a commercial and contractual risk.",
+                                                                  "url":  "https://rbct.co.za"
+                                                              },
+                                                              {
+                                                                  "terminal":  "Matola Coal Terminal (MCT), Maputo",
+                                                                  "location":  "Maputo, Mozambique",
+                                                                  "quality_gate":  "Accepts various grades but export contracts typically require 5,500â€“6,000 kcal/kg. Growing alternative for northern Mpumalanga and Limpopo producers.",
+                                                                  "url":  "https://www.portomaputo.com"
+                                                              }
+                                                          ],
+                 "key_buyers_specifying_quality":  [
+                                                       "Indian power utilities (NTPC, TANGEDCO) â€” specify minimum 5,500â€“6,000 kcal/kg with ash â‰¤15â€“20%",
+                                                       "Japanese buyers (JERA, Tokyo Electric) â€” strict quality specifications including sulfur and moisture limits; predominantly RB1 or blend to equivalent",
+                                                       "Chinese steel mills and power plants â€” varying acceptance but predominantly 5,500â€“6,000 kcal/kg; increasing selectivity as energy transition affects demand",
+                                                       "European ARA hub traders (via Richards Bay) â€” blend to API4 spec; quality shortfall creates rejection and price adjustment risk"
+                                                   ],
+                 "why_DMS_is_the_preferred_technology":  "DMS using magnetite provides the most precise specific gravity-based separation, delivering consistent product ash and calorific value regardless of seam variability. For export coal production, DMS cyclone plants achieve the tightest cut-point control compared to jigs or spirals, maximising product yield at specification while minimising yield loss to discard. Dual-module DMS configurations (like Veralogix Plant\u0027s) provide redundancy and the ability to process different size fractions (coarse and fine) in parallel, improving overall recovery."
+             }
+}

@@ -1,0 +1,245 @@
+﻿{
+    "total_chunks":  60,
+    "company":  "Treadstone Logistics",
+    "total_docs":  2,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__competitive_landscape_p1.json",
+                                                             "doc1_South_African_Road_Freigh__competitive_landscape_p2.json",
+                                                             "doc1_South_African_Road_Freigh__competitive_landscape_p3.json",
+                                                             "doc1_South_African_Road_Freigh__competitive_landscape_p4.json",
+                                                             "doc1_South_African_Road_Freigh__competitive_landscape_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "conclusion",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__conclusion.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__executive_summary_p1.json",
+                                                             "doc1_South_African_Road_Freigh__executive_summary_p2.json",
+                                                             "doc1_South_African_Road_Freigh__executive_summary_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__financial.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__market_trends_p1.json",
+                                                             "doc1_South_African_Road_Freigh__market_trends_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__pricing_p1.json",
+                                                             "doc1_South_African_Road_Freigh__pricing_p2.json",
+                                                             "doc1_South_African_Road_Freigh__pricing_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__recommendations_p1.json",
+                                                             "doc1_South_African_Road_Freigh__recommendations_p2.json",
+                                                             "doc1_South_African_Road_Freigh__recommendations_p3.json",
+                                                             "doc1_South_African_Road_Freigh__recommendations_p4.json",
+                                                             "doc1_South_African_Road_Freigh__recommendations_p5.json"
+                                                         ],
+                                               "parts":  5
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__regulatory_p1.json",
+                                                             "doc1_South_African_Road_Freigh__regulatory_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__technology.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__tender_landscape.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_South_African_Road_Freigh__threats_risks_p1.json",
+                                                             "doc1_South_African_Road_Freigh__threats_risks_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           }
+                                       ],
+                          "doc_key":  "doc1_South_African_Road_Freigh",
+                          "chunk_count":  29,
+                          "source_doc":  "Competitive and Market Analysis of South African Road Freight and Vehicle Transport_20260713111131.docx"
+                      },
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__bbbee_transformation.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__competitive_landscape_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__competitive_landscape_p2.json",
+                                                             "doc2_Treadstone_Logistics_in_S__competitive_landscape_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__executive_summary.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__financial_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_trends",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__market_trends.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__opportunities.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p2.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p3.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p4.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p5.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p6.json",
+                                                             "doc2_Treadstone_Logistics_in_S__pricing_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__recommendations_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__recommendations_p2.json",
+                                                             "doc2_Treadstone_Logistics_in_S__recommendations_p3.json",
+                                                             "doc2_Treadstone_Logistics_in_S__recommendations_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__regulatory.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__technology_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__technology_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__tender_landscape_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__tender_landscape_p2.json",
+                                                             "doc2_Treadstone_Logistics_in_S__tender_landscape_p3.json"
+                                                         ],
+                                               "parts":  3
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc2_Treadstone_Logistics_in_S__threats_risks_p1.json",
+                                                             "doc2_Treadstone_Logistics_in_S__threats_risks_p2.json",
+                                                             "doc2_Treadstone_Logistics_in_S__threats_risks_p3.json",
+                                                             "doc2_Treadstone_Logistics_in_S__threats_risks_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           }
+                                       ],
+                          "doc_key":  "doc2_Treadstone_Logistics_in_S",
+                          "chunk_count":  31,
+                          "source_doc":  "Competitive and Market Intelligence for Treadstone Logistics in South Africa.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

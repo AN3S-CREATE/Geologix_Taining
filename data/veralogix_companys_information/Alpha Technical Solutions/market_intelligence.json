@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "company": "Alpha Technical Solutions",
+    "sector": "Contract Crushing, Screening & Material Handling — South African Mining & Quarrying",
+    "generated_date": "2026-06-24",
+    "description": "Competitive and market intelligence for a South African crushing, screening, and material handling contractor serving the mining and quarrying sector."
+  },
+
+  "competitors": [
+    {
+      "name": "Seneca Crushing & Screening (Pty) Ltd",
+      "website": "https://seneca-crushing.co.za",
+      "service_focus": ["contract crushing", "contract screening", "mobile plant hire", "fixed processing plants"],
+      "equipment_brands": ["Sandvik", "Terex", "McCloskey", "proprietary mobile units"],
+      "key_sectors": ["mining", "civil construction", "quarrying", "aggregates"],
+      "notes": "30 years of experience. Offers mobile and fixed plant solutions. Serves mining, civil, and construction sectors across South Africa. Strong in mobile crushing hire and fixed plant installations."
+    },
+    {
+      "name": "Eco-Match",
+      "website": "https://www.ecomatch.co.za",
+      "service_focus": ["mobile crushing", "mobile screening", "plant hire", "single- and multi-stage crushing"],
+      "equipment_brands": ["Metso", "Sandvik", "Terex — publicly listed on their plant hire fleet"],
+      "key_sectors": ["mining", "industrial", "construction", "aggregates", "quarrying"],
+      "notes": "Specialises in provision of mobile crushing and screening equipment and associated services. Also provides scalping and multi-stage circuits. Strong presence in mining and industrial sector contracts."
+    },
+    {
+      "name": "SupaCrush Crushing & Mining Contractors",
+      "website": "https://supacrush.co.za",
+      "service_focus": ["contract crushing", "bulk aggregate supply", "crushing to spec"],
+      "equipment_brands": ["Not publicly disclosed"],
+      "key_sectors": ["aggregates", "civil construction", "mining", "quarrying"],
+      "notes": "45 years of combined crushing experience. Positions as both a contractor and bulk aggregate supplier. Operates across South Africa with a focus on civils aggregate output to client specifications."
+    },
+    {
+      "name": "Trollope Group",
+      "website": "https://trollopegroup.co.za",
+      "service_focus": ["contract crushing and screening", "open-cast mining", "bulk earthworks", "mine infrastructure", "plant hire", "rehabilitation"],
+      "equipment_brands": ["Sandvik", "Metso", "Terex", "Caterpillar support fleet"],
+      "key_sectors": ["coal", "iron ore", "chrome", "platinum", "aggregates", "manganese"],
+      "notes": "Market-leading open-cast mining contractor. Substantial expertise in crushing various ore types to diverse product specifications. Medium-to-large scale mining projects. Full pit-to-stockpile capability."
+    },
+    {
+      "name": "Afrimat Contract Mining",
+      "website": "https://www.afrimat.co.za/contract-mining-services/",
+      "service_focus": ["full contract mining", "drilling and blasting", "load and haul", "crushing", "screening", "delivery (pit-to-port)"],
+      "equipment_brands": ["Sandvik", "Epiroc", "Metso", "Caterpillar"],
+      "key_sectors": ["iron ore", "aggregates", "construction materials", "anthracite", "manganese"],
+      "notes": "Delivers integrated contract mining including crushing and screening as part of its full-value-chain offering. Listed company with diversified commodity exposure and strong track record of large mine-operator contracts."
+    },
+    {
+      "name": "Build Afrika Holding",
+      "website": "https://www.buildafrikaholding.com/crushing-screening/",
+      "service_focus": ["crushing", "screening", "civil construction"],
+      "equipment_brands": ["Not publicly disclosed"],
+      "key_sectors": ["aggregates", "civil construction", "quarrying"],
+      "notes": "Offers crushing and screening as part of a broader civil and construction capability. B-BBEE positioned contractor with growing contract mining exposure."
+    },
+    {
+      "name": "Mobile Crushing CC",
+      "website": "https://www.mobilecrushing.co.za",
+      "service_focus": ["mobile crushing", "screening", "earthworks"],
+      "equipment_brands": ["Not publicly disclosed"],
+      "key_sectors": ["quarrying", "aggregates", "civil", "mining"],
+      "notes": "Specialist mobile crushing and earthworks contractor. Operates primarily in the quarrying and civil aggregates space."
+    },
+    {
+      "name": "Pilot Crushtec International (Pty) Ltd",
+      "website": "https://pilotcrushtec.com",
+      "service_focus": ["contract crushing", "plant hire", "modular plant supply", "turn-key plant installations", "aftermarket support"],
+      "equipment_brands": ["Metso (exclusive Southern Africa distributor)", "Sandvik (mobile range distributor)", "Pilot Modular (proprietary)", "Twister VSI (proprietary)"],
+      "key_sectors": ["mining", "quarrying", "aggregates", "recycling", "coal", "iron ore", "chrome", "platinum"],
+      "notes": "Founded 1990; Southern Africa's leading supplier of mobile, semi-mobile, and modular crushing, screening, recycling, sand washing, and material handling solutions. Competes both as equipment supplier and contract operator. Maintains 110,000+ genuine OEM spare parts."
+    },
+    {
+      "name": "Multotec Group",
+      "website": "https://www.multotec.com",
+      "service_focus": ["screening media", "cyclones", "material handling", "classification", "mineral processing"],
+      "equipment_brands": ["Multotec (proprietary screens, cyclones, samplers, wear liners)"],
+      "key_sectors": ["coal", "iron ore", "chrome", "platinum", "gold", "manganese", "aggregates"],
+      "notes": "Dominant South African supplier of screening media, panels, and wear components. Competes primarily in screen media supply and replacement rather than full contract crushing, but cross-over exists in fixed plant supply and upgrades. Has global OEM relationships with Derrick, Imerys, and others."
+    },
+    {
+      "name": "DRA Global",
+      "website": "https://www.draglobal.com",
+      "service_focus": ["EPCM project delivery", "crushing and screening plant design and commissioning", "material handling systems"],
+      "equipment_brands": ["OEM-agnostic (specifies Metso, Sandvik, FLS, Weir as appropriate)"],
+      "key_sectors": ["gold", "platinum", "chrome", "copper", "iron ore", "coal"],
+      "notes": "Major South African EPCM contractor with strong comminution and material handling engineering capability. Competes in the engineering and project delivery layer of large crushing plant installations rather than day-to-day contract crushing operations."
+    }
+  ],
+
+  "tender_landscape": {
+    "primary_portals": [
+      {
+        "portal": "National Treasury eTender Publication Portal",
+        "url": "https://www.etenders.gov.za",
+        "coverage": "All national government departments and most provincial entities. Mining-related crushing tenders from SOEs such as AEMFC (African Exploration Mining & Finance Corporation) and government-linked quarrying operations.",
+        "search_keywords": ["crushing", "screening", "contract mining", "material handling", "quarry", "aggregate supply"]
+      },
+      {
+        "portal": "Tender Bulletins — Mining & Industry Services Category",
+        "url": "https://tenderbulletins.co.za/tender-category/mining-support-service-activities/",
+        "coverage": "SA Government, state departments, provinces, and SOE tenders for mining support services and equipment, including crushing plant tenders.",
+        "access": "Free with registration"
+      },
+      {
+        "portal": "AEMFC Open Tenders (African Exploration Mining & Finance Corporation)",
+        "url": "https://www.aemfc.co.za/procurement/open-tenders",
+        "coverage": "State-owned mining entity. Publishes direct tenders for contract crushing, ore handling, and mining services at AEMFC's coal and other mineral operations.",
+        "notes": "AEMFC is a key target for contract crushing services at state-owned coal mines."
+      },
+      {
+        "portal": "Implats (Impala Platinum) Supplier Tenders",
+        "url": "https://implats-ir.co.za/website/south-african-tenders.php",
+        "coverage": "Platinum group metals crushing, milling, and material handling contracts at Implats' Rustenburg and Marula operations.",
+        "notes": "One of the largest platinum producers; significant ongoing demand for crushing and material handling contract services."
+      },
+      {
+        "portal": "TendersOnTime — South Africa Mining Tenders",
+        "url": "https://www.tendersontime.com/south-africa-tenders/mining-tenders/",
+        "coverage": "Aggregates mining machinery, crushing plant, and services tenders from across SA government, SOEs, and mining houses.",
+        "access": "Subscription-based aggregator"
+      },
+      {
+        "portal": "GlobalTenders — South Africa Minerals & Mining",
+        "url": "https://www.globaltenders.com/south-africa-minerals-mining-tenders",
+        "coverage": "Broad mining tender aggregator covering quarrying, crushing, screening, and processing tenders across South Africa.",
+        "access": "Subscription-based"
+      },
+      {
+        "portal": "SANRAL Open Tenders (Road Construction Aggregate)",
+        "url": "https://www.nra.co.za/open-tenders/",
+        "coverage": "SANRAL road construction contracts that require aggregate crushing supply. Key demand signal for quarry-side contract crushing.",
+        "notes": "NDB-SANRAL R7 billion loan (signed July 2025) will drive significant road rehabilitation aggregate demand."
+      },
+      {
+        "portal": "Individual Mining House Procurement Portals",
+        "coverage": "Anglo American, Glencore, Exxaro, Sibanye-Stillwater, Kumba Iron Ore, and Tronox all publish supplier opportunities on their own procurement portals or via SAP Ariba / Coupa platforms.",
+        "notes": "Register as preferred supplier on each major house's vendor portal to receive RFQ notifications for crushing and screening services."
+      }
+    ],
+    "largest_procurers_of_contract_crushing": [
+      {
+        "entity": "Anglo American (Kumba Iron Ore, Anglo Platinum, Anglo Coal)",
+        "commodity": ["iron ore", "platinum", "coal"],
+        "notes": "Sishen and Kolomela iron ore mines; Mogalakwena and Amandelbult PGM operations. Regular crushing and screening contract opportunities."
+      },
+      {
+        "entity": "Exxaro Resources",
+        "commodity": ["coal"],
+        "notes": "Grootegeluk, Belfast, and Leeuwpan coal mines. Material handling and crushing contracts for run-of-mine coal processing."
+      },
+      {
+        "entity": "Glencore (Merafe Chrome JV, coal assets)",
+        "commodity": ["chrome", "coal"],
+        "notes": "Significant chrome and ferrochrome ore crushing demand in the Bushveld. Extensive coal crushing and screening at Mpumalanga operations."
+      },
+      {
+        "entity": "Sibanye-Stillwater",
+        "commodity": ["gold", "platinum"],
+        "notes": "Klondike and other surface re-treatment operations generate ongoing screening and material handling demand."
+      },
+      {
+        "entity": "AEMFC (African Exploration Mining & Finance Corporation)",
+        "commodity": ["coal"],
+        "notes": "State-owned coal miner. Publishes tenders directly at aemfc.co.za. Key target for black-owned contract crushing operators."
+      },
+      {
+        "entity": "Implats / Impala Platinum",
+        "commodity": ["platinum group metals"],
+        "notes": "Rustenburg and Marula underground mines generate surface rock crushing demand for waste rock and ore handling."
+      },
+      {
+        "entity": "SANRAL and Provincial Road Authorities",
+        "commodity": ["aggregates"],
+        "notes": "R7 billion NDB loan (July 2025) plus R1.07 trillion infrastructure budget will drive significant road-base aggregate crushing demand over the next 3 years."
+      }
+    ],
+    "contract_structures": {
+      "rate_per_tonne": {
+        "description": "Most common structure for contract crushing. Contractor is paid a fixed or escalating rand-per-tonne rate for crushed and screened material delivered to spec. Incentivises throughput efficiency.",
+        "typical_application": "Quarry, aggregate, and run-of-mine coal crushing"
+      },
+      "day_rate": {
+        "description": "Equipment and crew hired on a daily or hourly rate regardless of throughput. Preferred by clients for variable or uncertain feed. Contractor bears less volume risk.",
+        "typical_application": "Short-term campaigns, peak demand supplementation, pilot operations"
+      },
+      "LSTK": {
+        "description": "Lump-Sum Turn-Key: Contractor designs, supplies, installs, commissions, and (sometimes) operates a complete crushing and screening plant for a fixed price. High risk for contractor but premium margin if well scoped.",
+        "typical_application": "New mine or quarry greenfield plant installations"
+      },
+      "EPCM": {
+        "description": "Engineering, Procurement & Construction Management: Contractor manages the project on behalf of the owner but costs are reimbursable. The mining house owns all equipment. Reduces contractor balance sheet risk vs. LSTK.",
+        "typical_application": "Major mine expansion crushing plant upgrades; used by DRA Global, Worley, Hatch"
+      },
+      "hybrid_rpt_plus_mobilisation": {
+        "description": "Rate-per-tonne with a separate mobilisation and demobilisation allowance. Ensures contractor recovers plant setup costs even on lower-volume campaigns.",
+        "typical_application": "Remote mine sites, seasonal quarry operations"
+      }
+    }
+  },
+
+  "equipment_suppliers": [
+    {
+      "name": "Pilot Crushtec International (Pty) Ltd",
+      "website": "https://pilotcrushtec.com",
+      "brands_represented": ["Metso (exclusive Southern Africa distributor)", "Sandvik Mobile Range (Southern Africa distributor)", "Pilot Modular (own brand — modular plants)", "Twister VSI (own brand — vertical shaft impactors)"],
+      "new_developments": "Exclusive Metso and Sandvik mobile dealership covers jaw, cone, impact, and VSI crushers plus track-mounted screening plants. Pilot Modular 'ready-to-run' plants provide rapid deployment capacity for contract operators. 110,000+ OEM spare parts held in stock for fast-turnaround support.",
+      "notes": "Founded 1990; headquartered in Johannesburg. Dominant position in mobile and semi-mobile supply to Southern Africa. Also offers contract crushing alongside equipment supply."
+    },
+    {
+      "name": "FLS (formerly FLSmidth)",
+      "website": "https://fls.com",
+      "brands_represented": ["FLS Ludowici screens", "FLS KREBS cyclones", "FLS RAHCO material handling", "FLS EVO gyratory crushers"],
+      "new_developments": "In June 2025, FLS acquired Scott Specialized Rubber & Engineering (SSRE) in Pretoria, adding mid-sized regional mill liner manufacturing capacity to serve African mining customers faster. FLS operates a screening solutions manufacturing hub in Delmas (Mpumalanga) producing locally for Africa, Middle East, and South Asia. Positions as a full minerals processing technology provider.",
+      "notes": "Strong in fixed crushing and screening plant solutions for large mines. Delmas manufacturing base gives SA-local supply and support advantage. SSRE acquisition strengthens wear parts offering."
+    },
+    {
+      "name": "Weir Minerals Africa",
+      "website": "https://www.global.weir/our-products/minerals/",
+      "brands_represented": ["Enduron® (crushing and screening)", "Warman® (slurry pumps)", "Trio® (cone and jaw crushers)", "LINATEX® (rubber wear liners)"],
+      "new_developments": "March 2026: Weir won an order to supply an Enduron® modular crushing plant for the Hope and Gorob Copper-Gold Project in Namibia (150 tph). Enduron modular range is actively marketed to SA mines for rapid-deploy greenfield and brownfield upgrades. Weir Minerals Africa is expanding capacity as mining activity surges across Southern Africa.",
+      "notes": "Key competitor to Pilot Crushtec and FLS in the modular and fixed crushing plant space. Strong position in platinum and chrome crushing applications."
+    },
+    {
+      "name": "Sandvik Rock Processing Solutions",
+      "website": "https://www.home.sandvik/en/about-us/business-areas/sandvik-rock-processing-solutions/",
+      "brands_represented": ["Sandvik jaw crushers", "Sandvik cone crushers (CH/CS series)", "Sandvik horizontal shaft impactors", "Sandvik vibrating screens", "Sandvik feeders"],
+      "new_developments": "Sandvik has a direct SA presence through its Rock Processing Solutions business unit and also has Pilot Crushtec as its mobile range distributor. The stationary plant range is supported through Sandvik's own regional team.",
+      "notes": "World-leading manufacturer. Serves large fixed plant installations in coal, iron ore, and hard rock. Strong aftermarket parts and service network in SA."
+    },
+    {
+      "name": "Haver & Boecker Niagara",
+      "website": "https://haverniagara.com",
+      "brands_represented": ["Niagara vibrating screens", "Haver woven wire screen media", "Haver pelletizing equipment"],
+      "new_developments": "Active in Southern Africa for industrial screening and pelletizing applications. Specialises in high-capacity screening and challenging wet applications where conventional screen media struggles.",
+      "notes": "Niche but high-quality position in the screening market. Frequently specified for iron ore and manganese screening applications."
+    },
+    {
+      "name": "Tenova TAKRAF Africa",
+      "website": "https://www.takraf.tenova.com",
+      "brands_represented": ["TAKRAF bulk material handling systems", "TAKRAF conveyors and stackers", "TAKRAF in-pit crushing and conveying (IPCC)", "Tenova HumX (comminution)"],
+      "new_developments": "TAKRAF designs and supplies comminution systems and bulk material handling for coal, mineral sands, iron ore, and non-metallic mining. In-Pit Crushing and Conveying (IPCC) solutions are increasingly relevant as SA open-cut mines look to reduce truck haulage costs.",
+      "notes": "Tenova has had an environmental compliance success track record in SA. Competes primarily in large-scale integrated material handling and IPCC contracts rather than mobile contract crushing."
+    },
+    {
+      "name": "Multotec",
+      "website": "https://www.multotec.com",
+      "brands_represented": ["Multotec screening panels", "Multotec cyclones", "Multotec spiral concentrators", "Multotec samplers"],
+      "new_developments": "Dominant SA-origin supplier of screening media, wear liners, and cyclone clusters. Essential aftermarket supplier to any contractor running screening circuits. Strong local manufacturing gives cost and lead-time advantage over imported alternatives.",
+      "notes": "Not a primary equipment OEM but critical to contract operators' screening consumable supply chain. Partnerships with Multotec for screen media supply can reduce contractor downtime costs significantly."
+    }
+  ],
+
+  "demand_signals": [
+    {
+      "signal_type": "New Mining Right and Permit Approvals",
+      "description": "DMPR grants of new prospecting rights and mining rights indicate greenfield and brownfield mine developments that will require crushing and screening capacity. Monitor the SAMRAD Online Portal for new applications and approvals in chrome, platinum, iron ore, manganese, and coal — the highest-volume crushing commodities.",
+      "monitoring_source": "DMPR SAMRAD Online Portal",
+      "url": "https://portal-samradonline.dmre.gov.za/",
+      "update_frequency": "Ongoing / real-time"
+    },
+    {
+      "signal_type": "Mine Expansion Announcements",
+      "description": "Listed mining houses publish capital expansion plans in quarterly production reports and investor presentations. Projects adding pit capacity, new production shafts, or ROM tonnage increases directly create crushing and screening contract demand. Key events to watch: Anglo American's Minas-Rio expansion, Kumba's Sishen life-of-mine extension, Glencore chrome brownfields.",
+      "monitoring_source": "Engineering News SA — Mining Projects",
+      "url": "https://www.engineeringnews.co.za/topic/mining",
+      "update_frequency": "Daily"
+    },
+    {
+      "signal_type": "Quarrying Africa Industry News",
+      "description": "Dedicated South African quarrying and aggregates industry publication. Tracks new quarry licences, aggregate demand forecasts, and contract awards. Key leading indicator for aggregate-side crushing and screening demand.",
+      "monitoring_source": "Quarrying Africa",
+      "url": "https://quarryingafrica.com/industry-news/south-africa/",
+      "update_frequency": "Weekly / ad hoc"
+    },
+    {
+      "signal_type": "SANRAL Road Infrastructure Awards",
+      "description": "SANRAL road construction and rehabilitation contracts drive primary aggregate crushing demand for base course and surfacing material. The NDB-SANRAL R7 billion loan (signed July 2025) for national road rehabilitation will sustain elevated aggregate demand. Monitor SANRAL's open tenders for major road package awards.",
+      "monitoring_source": "SANRAL Open Tenders",
+      "url": "https://www.nra.co.za/open-tenders/",
+      "update_frequency": "Weekly"
+    },
+    {
+      "signal_type": "DBSA and Government Infrastructure Pipeline",
+      "description": "DBSA-funded infrastructure projects (water, housing, energy, transport) require aggregates and material handling. Government has committed R1.07 trillion in infrastructure spending over 3 years (Bloomberg, Feb 2026). N'wamitwa Dam (USD 220m) and Berg River Diversion Project (USD 660m) are current large-scale projects requiring significant stone aggregate.",
+      "monitoring_source": "DBSA Project Pipeline",
+      "url": "https://www.dbsa.org/project-pipeline",
+      "update_frequency": "Quarterly infrastructure project releases"
+    },
+    {
+      "signal_type": "Minerals Council SA — Production Statistics",
+      "description": "Minerals Council publishes production statistics and capital expenditure data for all major mineral groups. Increasing capex in chrome (+3.9% production growth 2025), iron ore (+3.0%), and manganese (+5.0%) signals growing crushing and material handling demand from those commodity sectors.",
+      "monitoring_source": "Minerals Council South Africa",
+      "url": "https://www.mineralscouncil.org.za",
+      "update_frequency": "Quarterly / annual"
+    },
+    {
+      "signal_type": "Stats SA Mining Production Monthly (P2041)",
+      "description": "Month-on-month mining production index by commodity. Rising production in iron ore, manganese, or chrome directly indicates increased ore throughput requiring crushing, screening, and material handling capacity at affected mines.",
+      "monitoring_source": "Statistics South Africa — P2041",
+      "url": "https://www.statssa.gov.za/?cat=41",
+      "update_frequency": "Monthly"
+    },
+    {
+      "signal_type": "African Mining Market — Crushing & Screening News Feed",
+      "description": "Dedicated topic page aggregating crushing and screening news across South and sub-Saharan Africa. Covers new contracts, plant commissionings, technology adoptions, and expansions.",
+      "monitoring_source": "African Mining Market — Crushing & Screening",
+      "url": "https://africanminingmarket.com/topic/services-news/crushing-screening/",
+      "update_frequency": "Weekly"
+    },
+    {
+      "signal_type": "Northern Cape R105 Billion Investment Pipeline",
+      "description": "Over R105 billion in pledged investment in new and expanded mining, energy, and agriculture in the Northern Cape (April 2026). Expected to create 19,800 jobs and drive significant iron ore, manganese, and lithium crushing and material handling demand over the next 3–5 years.",
+      "monitoring_source": "Engineering News — Northern Cape Investment",
+      "url": "https://www.engineeringnews.co.za/article/investors-commit-over-r105-billion-to-northern-cape-economic-development-2026-04-22",
+      "update_frequency": "Track follow-on project announcements from this pipeline"
+    }
+  ],
+
+  "cross_sell_scenarios": [
+    {
+      "scenario_id": 1,
+      "title": "Contract Crushing Win Triggers Veralogix Rentals Auxiliary Fleet",
+      "description": "Alpha Technical Solutions wins a rate-per-tonne contract crushing agreement at a chrome or coal mine in Limpopo or Mpumalanga. The primary crushing and screening fleet (owned by Alpha) is mobilised, but the client also needs ancillary site support equipment — water bowsers for dust suppression, graders for haul road maintenance, TLBs for ramp cleanup, and diesel bowsers for plant refuelling.",
+      "alpha_trigger": "Alpha awarded contract crushing agreement; mobilisation phase begins",
+      "veralogix_group_company": "Veralogix Rentals",
+      "veralogix_service": "Short- to medium-term hire of water carts, motor graders, TLBs, and diesel bowsers to support Alpha's crushing operation at the mine site",
+      "cross_sell_value": "Alpha's on-site relationship allows Veralogix Rentals to place equipment directly without a competitive tender. Integrated billing to one client is a compelling value proposition for the mine. Typical rental contract: 6–24 months aligned to Alpha's crushing term."
+    },
+    {
+      "scenario_id": 2,
+      "title": "ROM Crushing Output Feeds Veralogix Plant for Downstream Beneficiation",
+      "description": "Alpha Technical Solutions operates a crushing and screening circuit producing a sized product (e.g., chrome fines, coal middlings, or iron ore lump) that requires further beneficiation — dense media separation, jigging, flotation, or pelletising — before sale. Veralogix Plant can provide modular or fixed beneficiation plant capacity to process Alpha's crushed output.",
+      "alpha_trigger": "Alpha's crushing circuit is producing a product fraction (fines, middlings, or specific size class) that requires beneficiation to achieve final saleable grade",
+      "veralogix_group_company": "Veralogix Plant",
+      "veralogix_service": "Supply, install, and operate a downstream beneficiation plant (DMS, spiral concentrators, jig plant) co-located with Alpha's crushing circuit to upgrade the product to final saleable specification",
+      "cross_sell_value": "Vertical integration of crushing-to-beneficiation under the Veralogix Group creates a single-source full processing solution for the mine client, reducing their vendor management burden. The combined offering competes with Afrimat's integrated model and DRA EPCM projects."
+    },
+    {
+      "scenario_id": 3,
+      "title": "Crushing Plant Maintenance and Fabrication by Endeto Project Services",
+      "description": "Alpha Technical Solutions operates a crushing plant — whether mobile or fixed — and incurs ongoing wear, structural damage, and planned maintenance requirements: liner replacements, chute refurbishment, structural steelwork repairs, conveyor transfers, and screen frame repairs. Endeto Project Services can provide on-site and workshop maintenance, fabrication, and modifications.",
+      "alpha_trigger": "Alpha's crushing or screening plant requires scheduled or breakdown maintenance, wear part fabrication, structural modifications, or chute and transfer point refurbishment",
+      "veralogix_group_company": "Endeto Project Services",
+      "veralogix_service": "On-site maintenance teams (boilermakers, welders, fitting and turning) for planned and emergency maintenance; workshop fabrication of custom wear liners, chute inserts, structural steelwork, and screen frame repairs",
+      "cross_sell_value": "Using an in-Group maintenance contractor (Endeto) instead of an independent maintenance firm eliminates margin leakage, accelerates callout response times, and allows Alpha to offer the mine client a more comprehensive SLA. Endeto benefits from a guaranteed intra-Group pipeline. Applicable to every Alpha plant from initial commissioning through the full contract term."
+    }
+  ]
+}

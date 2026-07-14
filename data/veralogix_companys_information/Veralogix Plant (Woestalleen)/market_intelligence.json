@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "company": "Veralogix Plant — Woestalleen Facility",
+    "report_date": "2026-06-24",
+    "scope": "South Africa toll washing and DMS processing market intelligence — Mpumalanga and Limpopo coal regions",
+    "note": "Toll washing is rarely marketed as a standalone commercial offering; many operators are integrated mine-washeries with selective third-party capacity. Data compiled from public sources; processing rates are indicative industry estimates."
+  },
+
+  "competitors": [
+    {
+      "name": "Phola Coal Processing Plant",
+      "website": "https://www.thungela.com/about-us/where-we-operate",
+      "processing_type": "DMS (Dense Media Separation) — dual module",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "16 Mtpa (one of the largest single-site coal processing plants in South Africa)",
+      "rail_siding_access": true,
+      "notes": "Joint venture (Thungela 50%, Anglo American historical) near Ogies, Mpumalanga. Processes coal from multiple mine sources; historically accepted third-party ROM feeds; large-scale DMS cyclone plant",
+      "competitive_threat_level": "High — direct DMS competitor with massive scale"
+    },
+    {
+      "name": "Msobo Coal",
+      "website": "https://www.mining-outlook.com/commodities/coal-mining-sector/msobo-coal-mining-in-majestic-mpumalanga",
+      "processing_type": "Coal washing plants (DMS and screening)",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "Not publicly disclosed",
+      "rail_siding_access": true,
+      "notes": "Headquartered in Breyten, Msukaligwa Municipality, Mpumalanga. Manages multiple coal washing plants and four (4) rail sidings — strong logistics advantage. Processes for own operations; potential third-party capacity unknown",
+      "competitive_threat_level": "Medium — similar rail-siding model to Veralogix Plant; local competitor"
+    },
+    {
+      "name": "LI Coal Resources",
+      "website": "https://www.licoal.co.za",
+      "processing_type": "Washing plants (Elendspruite and Madin plants); produces 27CV, duff, peas, small nuts, 0-50mm RB1",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "Not publicly disclosed",
+      "rail_siding_access": "Unknown",
+      "notes": "Operates Elendspruite and Madin washing plants in Mpumalanga and Limpopo. Business spans prospecting, exploration, coal trading, and blending sites across Mpumalanga, Limpopo, and KZN. Multi-site processing presence is a competitive advantage",
+      "competitive_threat_level": "Medium — multi-site processing presence across Mpumalanga and Limpopo"
+    },
+    {
+      "name": "Optimum Coal / Liberty Coal (Woestalleen area)",
+      "website": "https://www.miningweekly.com",
+      "processing_type": "DMS coal washing plant (large scale)",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "8 Mtpa RBCT allocation entitlement",
+      "rail_siding_access": true,
+      "notes": "Former BHP/Glencore/Gupta-era asset; wash plant has a complex ownership and operational history. Illegal use of the wash plant was reported in 2025 (via artisanal miners). Now under Liberty Coal management. Proximity to Woestalleen makes this a direct geographic competitor",
+      "competitive_threat_level": "High — geographically proximate; large-scale DMS plant; same export corridor"
+    },
+    {
+      "name": "Mafube Coal Mine (Exxaro / Thungela 50/50 JV)",
+      "website": "https://www.exxaro.com/operations/where-we-operate",
+      "processing_type": "DMS coal handling and processing plant",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "~3 Mtpa run of mine",
+      "rail_siding_access": true,
+      "notes": "Located 30 km east of Middelburg, Mpumalanga. Joint operation between Exxaro and Thungela. Integrated mine-to-washery with own processing infrastructure; not a known toll washer but competes for the same ROM coal feed",
+      "competitive_threat_level": "Medium — integrated captive plant, not a toll washing competitor per se, but reduces available ROM coal for third-party processors"
+    },
+    {
+      "name": "Seriti Power (Kriel / Matla / Goedgevonden area plants)",
+      "website": "https://seritiza.com",
+      "processing_type": "Coal beneficiation (DMS and screening)",
+      "commodity_focus": ["thermal coal (Eskom supply and export)"],
+      "approximate_throughput": "Largest supplier to Eskom; total group production ~70 Mtpa",
+      "rail_siding_access": true,
+      "notes": "Largest SA coal supplier to Eskom and significant RBCT exporter. Integrated processing operations across multiple Mpumalanga mines. Not a toll washer, but the scale and rail access of Seriti operations sets the competitive pricing floor for processing in the region",
+      "competitive_threat_level": "Low-Medium — not a direct toll washing competitor but influences market pricing and rail slot availability"
+    },
+    {
+      "name": "Kangala Coal Mine DMS Plant (Universal Coal / Menar)",
+      "website": "https://www.mining-technology.com/projects/kangala-coal-mine/",
+      "processing_type": "DMS washing plant (320 tph dual stage)",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "320 tph DMS capacity (~2.5 Mtpa)",
+      "rail_siding_access": "Unknown",
+      "notes": "Located in Witbank, Mpumalanga. Two-stage processing: 320 tph DMS plant plus crushing and screening. Integrated mine plant; potential spare capacity for third-party processing not publicly confirmed",
+      "competitive_threat_level": "Low-Medium — integrated plant, limited toll washing appetite known"
+    },
+    {
+      "name": "DMO / Douglas-Middelburg Plant (South32 legacy)",
+      "website": "https://www.draglobal.com/projects/douglas-middelburg-coal-plant/",
+      "processing_type": "DMS (twin 1150mm cyclone, 4.2m vibrating screens) — one of the world's largest 2-module DMS configurations",
+      "commodity_focus": ["thermal coal"],
+      "approximate_throughput": "14 Mtpa (design capacity)",
+      "rail_siding_access": true,
+      "notes": "Originally built for BHP Billiton Energy Coal SA (BECSA) by DRA Global; designed for export and Eskom supply until 2034. Massive scale; now under South32 operations. Not a toll washer, but defines the benchmark for DMS plant technology and throughput in the Mpumalanga region",
+      "competitive_threat_level": "Low — different ownership tier; not a toll washing competitor directly"
+    }
+  ],
+
+  "demand_signals": [
+    {
+      "signal_type": "Junior and mid-tier miners awarded DMRE mining rights without on-site processing infrastructure",
+      "description": "New mining rights granted in Mpumalanga often go to junior miners and BEE mining companies who do not have capital to build dedicated washing plants. These operations produce ROM coal that requires third-party toll washing before it can meet export or even Eskom quality specifications.",
+      "monitoring_sources": [
+        {
+          "name": "DMRE Mining Rights Register — Mpumalanga",
+          "url": "https://www.dmre.gov.za/mining-minerals-energy-policy-development/operating-mines/province/mpumalanga"
+        },
+        {
+          "name": "Mining Weekly — new project announcements",
+          "url": "https://www.miningweekly.com"
+        },
+        {
+          "name": "Mining Review Africa — junior miner activity",
+          "url": "https://www.miningreview.com"
+        }
+      ]
+    },
+    {
+      "signal_type": "Washery shutdowns, maintenance outages, or closures at integrated mine plants",
+      "description": "When a major integrated mine-washery goes offline for planned or unplanned maintenance, the displaced ROM coal requires diversion to third-party toll washing facilities. Optimum Coal's complex history and illegal mining activity at its wash plant signals recurring operational instability in the Woestalleen corridor.",
+      "monitoring_sources": [
+        {
+          "name": "Mining Weekly — operational alerts",
+          "url": "https://www.miningweekly.com"
+        },
+        {
+          "name": "Miningmx — company operational news",
+          "url": "https://www.miningmx.com"
+        },
+        {
+          "name": "DMRE Section 54 / Section 55 safety stoppage notices",
+          "url": "https://www.dmre.gov.za"
+        }
+      ]
+    },
+    {
+      "signal_type": "Coal mines approaching production capacity with processing bottlenecks",
+      "description": "As Transnet Freight Rail improves throughput (from 57.66Mt in 2025 toward 60–65Mt in 2026), more coal is economically viable to export. Mines with rail access but insufficient washing capacity create overflow demand for third-party toll processors.",
+      "monitoring_sources": [
+        {
+          "name": "Richards Bay Coal Terminal — monthly throughput statistics",
+          "url": "https://rbct.co.za"
+        },
+        {
+          "name": "S&P Global — TFR coal corridor capacity reporting",
+          "url": "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+        },
+        {
+          "name": "Annual reports from Thungela, Exxaro, Seriti",
+          "url": "https://www.thungela.com"
+        }
+      ]
+    },
+    {
+      "signal_type": "Tightening export quality specifications (API4/RB1 compliance pressure)",
+      "description": "Export buyers and shipping counterparties increasingly enforce strict quality gates. ROM coal with ash content above 20–25% ADB cannot be sold into RB1 or RB2 markets without DMS processing. As the thermal coal export market tightens quality requirements, more ROM coal requires beneficiation before it can be placed with export buyers.",
+      "monitoring_sources": [
+        {
+          "name": "Argus Media — API4 price methodology and quality thresholds",
+          "url": "https://www.argusmedia.com/en/methodology/key-commodity-prices/argus-mccloskeys-api-4"
+        },
+        {
+          "name": "National Coal — RB grade specifications explainer",
+          "url": "https://www.nationalcoal.co.za/post/difference-between-rb1-rb2-rb3-coal-south-africa"
+        },
+        {
+          "name": "globalCOAL SCoTA specifications",
+          "url": "https://www.globalcoal.com/scota/specifications.cfm"
+        }
+      ]
+    },
+    {
+      "signal_type": "Artisanal and small-scale miners (ASMs) and informal operators lacking processing access",
+      "description": "The 2025 parliamentary oversight visit to Mpumalanga noted widespread illegal mining activity and illegal use of wash plant infrastructure (including Optimum Coal). This signals an unmet demand for accessible, legally compliant toll washing services for small-scale operators. Veralogix Plant is positioned to capture the compliant segment of this demand.",
+      "monitoring_sources": [
+        {
+          "name": "Parliamentary Monitoring Group — Mineral Resources Committee",
+          "url": "https://pmg.org.za"
+        },
+        {
+          "name": "DMRE — artisanal mining policy and formalisation",
+          "url": "https://www.dmre.gov.za"
+        }
+      ]
+    }
+  ],
+
+  "logistics_intelligence": {
+    "key_rail_routes": [
+      {
+        "corridor": "TFR Coal Line — Mpumalanga to Richards Bay Coal Terminal (RBCT)",
+        "description": "The primary export coal rail corridor in South Africa; second-largest coal railway in the world. Runs from the Witbank/eMalahleni coalfields through to Richards Bay, KwaZulu-Natal. Woestalleen is positioned along or adjacent to this corridor.",
+        "current_capacity": "Approximately 1.17 million tonnes/week as of April 2026 (annualised ~60.8 Mtpa); target 77 Mtpa after infrastructure investment programme",
+        "planned_closure": "21 July – 1 August 2026 (12-day annual maintenance window; both single-line and double-line closures)",
+        "investment": "R21.9 billion approved for five major coal corridor infrastructure projects through the Budget Facility for Infrastructure"
+      },
+      {
+        "corridor": "North Corridor (Mpumalanga to Maputo/Matola, Mozambique)",
+        "description": "Alternative export route serving coal mines in the northern Mpumalanga and Limpopo regions. Provides access to Matola Coal Terminal (MCT) and Maputo Port as an alternative to RBCT. Rail sidings along this corridor offer a secondary market for toll-washed coal.",
+        "current_capacity": "Constrained; lower volumes than coal line but recovering with TFR investment",
+        "key_sidings": "Watervalboven, Kaapmuiden area sidings relevant for northern Mpumalanga operators"
+      }
+    ],
+    "rail_siding_relevance": "A plant with its own rail siding (like Veralogix Plant at Woestalleen) holds a significant competitive advantage over road-only processors. Rail-siding access reduces trucking costs, allows direct loading to export trains, and makes the facility attractive to mine operators who want door-to-export-terminal throughput via a single service provider.",
+    "how_rail_affects_toll_washing_demand": [
+      "When TFR rail slots are allocated and throughput increases, demand for toll washing rises because more coal is viable for export — but only if it meets RB1/RB2 quality spec, requiring DMS processing.",
+      "During TFR maintenance closures (e.g., the July 2026 window), stockpile buildup at plant level creates throughput pressure; mines continue to produce ROM coal that needs processing even when rail is offline.",
+      "Rail liberalisation discussions (third-party rail access policy under review) may open new opportunities for toll washing plants with private siding infrastructure to offer integrated siding-to-RBCT services under future access regimes."
+    ],
+    "monitoring_sources": [
+      {
+        "name": "Transnet Freight Rail — Coal Business Unit Overview",
+        "url": "https://www.transnetfreightrail-tfr.net/BU/Coal/Pages/Overview.aspx"
+      },
+      {
+        "name": "S&P Global — RBCT and Transnet coal corridor reporting",
+        "url": "https://www.spglobal.com/energy/en/news-research/latest-news/coal"
+      },
+      {
+        "name": "Railways Africa — TFR policy and investment news",
+        "url": "https://www.railwaysafrica.com"
+      },
+      {
+        "name": "Freight News SA — logistics and port/rail disruptions",
+        "url": "https://www.freightnews.co.za"
+      },
+      {
+        "name": "Mpumalanga Province Freight Data Bank — rail overview",
+        "url": "http://safiri.co.za/mpfdb/rail-overview.html"
+      },
+      {
+        "name": "Daily Maverick — Transnet recovery and logistics",
+        "url": "https://www.dailymaverick.co.za"
+      }
+    ]
+  },
+
+  "regulatory_compliance": [
+    {
+      "requirement": "Environmental Authorisation (EA) — NEMA",
+      "legislation": "National Environmental Management Act, No. 107 of 1998 (NEMA); EIA Regulations GNR 982–984 of 2014 (as amended to February 2025)",
+      "regulatory_body": "Department of Forestry, Fisheries and the Environment (DFFE) or delegated provincial authority (Mpumalanga Department of Agriculture, Rural Development, Land and Environmental Affairs — DARDLEA)",
+      "description": "A coal processing plant (crushing, DMS, and associated infrastructure) constitutes a Listed Activity under NEMA EIA Regulations. Category A (Basic Assessment) or Category B (Scoping + full EIA) depending on throughput and environmental sensitivity. Environmental Authorisation must be in place before construction or expansion.",
+      "monitoring_url": "https://www.dffe.gov.za/projectprogrammes/environmental_management_instruments",
+      "key_triggers_for_veralogix": [
+        "Any increase in processing capacity (throughput) may trigger a fresh BA or amendment to existing EA",
+        "Addition of a second DMS module would likely be a listed expansion activity",
+        "Changes to tailings disposal footprint require EA amendment"
+      ]
+    },
+    {
+      "requirement": "Water Use Licence (WUL) — National Water Act",
+      "legislation": "National Water Act, No. 36 of 1998 (NWA); Water Use Licence procedural requirements under GN R267 of 24 March 2017",
+      "regulatory_body": "Department of Water and Sanitation (DWS)",
+      "description": "DMS plants use significant water volumes in the separation circuit and generate process effluent and slurry. Relevant Section 21 water uses include: 21(a) taking water from a water resource; 21(b) storing water; 21(c) impeding or diverting watercourse flow; 21(g) disposing of waste in a manner that may impact a water resource; 21(i) altering the bed, banks, or characteristics of a watercourse. WUL application process takes approximately 300 days from initial submission to decision.",
+      "monitoring_url": "https://www.dws.gov.za/ewulaas/WUA.aspx",
+      "key_triggers_for_veralogix": [
+        "DMS circuit expansion requires WUL amendment for increased water abstraction and effluent volumes",
+        "Magnetite recovery circuit water use must be covered under existing WUL",
+        "Any new tailings impoundment or slimes dam requires WUL and NEMA authorisation"
+      ]
+    },
+    {
+      "requirement": "Atmospheric Emission Licence (AEL) — Air Quality",
+      "legislation": "National Environmental Management: Air Quality Act, No. 39 of 2004 (NEMAQA); Listed Activities and Associated Minimum Emission Standards (GN R893 of 2013, as amended)",
+      "regulatory_body": "DFFE (national) and Mpumalanga Department of Agriculture, Rural Development, Land and Environmental Affairs (DARDLEA) as licencing authority for Mpumalanga",
+      "description": "Coal processing and crushing operations are listed activities under NEMAQA due to dust generation (fugitive particulate emissions from ROM handling, crushing circuits, conveyor transfer points, and stockpiles). An Atmospheric Emission Licence (AEL) is required. Mpumalanga is a Priority Area under NEMAQA due to the regional air quality challenge from concentrated mining and power generation.",
+      "monitoring_url": "https://www.dffe.gov.za",
+      "key_triggers_for_veralogix": [
+        "Expansion of crushing capacity may require AEL amendment",
+        "Mpumalanga Priority Area designation means more stringent fugitive dust management requirements",
+        "Annual compliance reporting to Mpumalanga DARDLEA required"
+      ]
+    },
+    {
+      "requirement": "Mine Health and Safety Act (MHSA) Compliance",
+      "legislation": "Mine Health and Safety Act, No. 29 of 1996 (MHSA); Mine Health and Safety Amendment Bill B2024 (in process); Mine Health and Safety Regulations (Chapter 22 Occupational Hygiene Regulations — amended June 2025)",
+      "regulatory_body": "Chief Inspector of Mines, Department of Mineral Resources and Energy (DMRE)",
+      "description": "Coal processing operations (crushing, DMS, conveying) are classified as mining operations under the MHSA. Key 2025 compliance updates: (1) Amended Chapter 22 Occupational Hygiene Regulations effective 26 June 2025 — revised occupational exposure limits for coal dust (respirable particulate) and silica; (2) Mandatory Code of Practice on Prevention of Fires at Mines — effective 1 October 2025 — specifically addresses spontaneous combustion risk at coal plants and surface operations. Employers must maintain Codes of Practice, conduct regular audits, and operate health and safety committees.",
+      "monitoring_url": "https://www.dmre.gov.za/Resource%20Center/Mine%20Health%20and%20Safety%20Act",
+      "key_triggers_for_veralogix": [
+        "Coal dust (respirable) monitoring mandatory under amended June 2025 Occupational Hygiene Regulations",
+        "Fire Prevention Code of Practice (Oct 2025) requires written spontaneous combustion risk management plan for coal surface stockpiles and processing areas",
+        "Section 54 (unsafe condition stoppage) risk if dust suppression or fire prevention systems are inadequate",
+        "MHSA Amendment Bill (B2024) may introduce new requirements once enacted — monitor DMRE for enactment date"
+      ]
+    }
+  ],
+
+  "processing_market": {
+    "toll_washing_rates": {
+      "indicative_market_rate_zar_per_tonne": {
+        "low_complexity_feed": "R35–R55 per ROM tonne (clean feed, high yield, short circuit)",
+        "standard_DMS_processing": "R55–R80 per ROM tonne (typical thermal coal, dual-module DMS with magnetite recovery)",
+        "high_complexity_or_low_yield": "R80–R120+ per ROM tonne (difficult feed, low yield, extended circuit or blending requirement)"
+      },
+      "note": "Toll washing rates are not publicly published and are negotiated commercially. These are indicative market estimates based on industry knowledge and coal sector economics. Rates are heavily influenced by yield (% product recovery from ROM feed), haul distance, rail access, and contract tenure. Plants with rail siding access can typically command a premium or discount logistics costs to attract volume.",
+      "contract_structure": "Typically structured as a fixed rate per ROM tonne fed or per product tonne produced, plus variable charges for magnetite consumption. Longer-term contracts (12–36 months) attract lower rates; spot/short-term processing at market premium."
+    },
+    "coal_quality_specifications": {
+      "RB1_API4_export_grade": {
+        "calorific_value_NAR": "6,000 kcal/kg minimum (some buyers specify 6,000–6,300 kcal/kg range)",
+        "total_moisture_ARB": "≤12% (typically 8–12%)",
+        "ash_content_ADB": "≤15% (RB1 premium grade typically targets 10–14%)",
+        "sulfur_content_ADB": "≤1.0%",
+        "volatile_matter_ADB": "22–30%",
+        "when_DMS_required": "ROM coal with ash >20–25% ADB typically requires DMS beneficiation to reach RB1 spec. Raw feed ash of 30–40% ADB (common in deeper Mpumalanga seams) requires effective DMS to yield commercially viable product."
+      },
+      "RB2_grade": {
+        "calorific_value_NAR": "5,500 kcal/kg minimum",
+        "ash_content_ADB": "≤19%",
+        "total_moisture_ARB": "≤15%",
+        "sulfur_content_ADB": "≤1.0%",
+        "when_DMS_required": "ROM coal with moderate ash (22–28% ADB) may achieve RB2 spec with DMS; lower-cost jig or dense medium drum processing sometimes used for RB2 production"
+      },
+      "RB3_Eskom_domestic_grade": {
+        "calorific_value_NAR": "≥4,200 kcal/kg (varies by Eskom power station contract)",
+        "ash_content_ADB": "Up to 35–38% (Eskom accepts higher-ash coal)",
+        "when_DMS_required": "DMS generally not required for RB3/Eskom supply; screening and sizing sufficient. DMS processing is predominantly driven by export quality requirements."
+      }
+    },
+    "export_terminal_quality_requirements": [
+      {
+        "terminal": "Richards Bay Coal Terminal (RBCT)",
+        "location": "Richards Bay, KwaZulu-Natal",
+        "quality_gate": "API4 RB1 (6,000 kcal/kg NAR) is the primary export benchmark. Blending of RB1 and lower grades allowed to achieve contract spec. Vessel loading requires cargo to meet buyer contract specification; quality failure at load port is a commercial and contractual risk.",
+        "url": "https://rbct.co.za"
+      },
+      {
+        "terminal": "Matola Coal Terminal (MCT), Maputo",
+        "location": "Maputo, Mozambique",
+        "quality_gate": "Accepts various grades but export contracts typically require 5,500–6,000 kcal/kg. Growing alternative for northern Mpumalanga and Limpopo producers.",
+        "url": "https://www.portomaputo.com"
+      }
+    ],
+    "key_buyers_specifying_quality": [
+      "Indian power utilities (NTPC, TANGEDCO) — specify minimum 5,500–6,000 kcal/kg with ash ≤15–20%",
+      "Japanese buyers (JERA, Tokyo Electric) — strict quality specifications including sulfur and moisture limits; predominantly RB1 or blend to equivalent",
+      "Chinese steel mills and power plants — varying acceptance but predominantly 5,500–6,000 kcal/kg; increasing selectivity as energy transition affects demand",
+      "European ARA hub traders (via Richards Bay) — blend to API4 spec; quality shortfall creates rejection and price adjustment risk"
+    ],
+    "why_DMS_is_the_preferred_technology": "DMS using magnetite provides the most precise specific gravity-based separation, delivering consistent product ash and calorific value regardless of seam variability. For export coal production, DMS cyclone plants achieve the tightest cut-point control compared to jigs or spirals, maximising product yield at specification while minimising yield loss to discard. Dual-module DMS configurations (like Veralogix Plant's) provide redundancy and the ability to process different size fractions (coarse and fine) in parallel, improving overall recovery."
+  }
+}

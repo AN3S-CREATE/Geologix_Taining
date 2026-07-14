@@ -1,0 +1,147 @@
+﻿{
+    "_section":  "coal_sector_briefing",
+    "_company":  "Coal Processors International",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "production_volumes":  {
+                                            "total_annual_production":  "Approximately 250 million tonnes per annum (2024â€“2025 estimate); Mpumalanga accounts for ~83% (~207 Mt), Limpopo (Waterberg) for most of the remainder.",
+                                            "production_trend":  "Overall production broadly stable with modest growth in 2025. January 2026 mining production data showed a 4.6% year-on-year increase across all commodities; however, coal-specific production declined 0.7% year-on-year as older mines closed.",
+                                            "export_vs_domestic_split":  "Approximately 50â€“55% exported; 45â€“50% used domestically (Eskom power generation primary domestic consumer).",
+                                            "iea_outlook":  "The International Energy Agency projects South Africa will add 31 million tonnes of new coal production capacity through existing planned projects."
+                                        },
+                 "key_active_coal_mines":  {
+                                               "mpumalanga":  [
+                                                                  {
+                                                                      "mine":  "Matla Colliery",
+                                                                      "operator":  "Exxaro Resources",
+                                                                      "output":  "~9+ Mt/y (contracted to Eskom under 17-year CSA from April 2026)",
+                                                                      "status":  "Active â€” R5.2bn LOME project underway; New Mine 1 opened May 2026"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Arnot Coal Mine",
+                                                                      "operator":  "Menar Holdings (via Arnot OpCo)",
+                                                                      "output":  "~3 Mt/y (three shafts at ~1 Mt/y each)",
+                                                                      "status":  "Active â€” underground mining services by Boipelo Mining Contractors"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Zibulo Colliery",
+                                                                      "operator":  "Thungela Resources",
+                                                                      "output":  "Up to 5 Mt/y",
+                                                                      "status":  "Active and expanding â€” North Shaft Extension (R2.5bn) extends underground operations to 2038"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Mafube Colliery",
+                                                                      "operator":  "Exxaro/Thungela (50/50 JV)",
+                                                                      "output":  "~4 Mt/y",
+                                                                      "status":  "Active"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Naudesbank Colliery",
+                                                                      "operator":  "Seriti Resources",
+                                                                      "output":  "~1 Mt/y (opencast); underground phase from ~2027",
+                                                                      "status":  "Newly opened March 2025. R500m+ invested. Mine life ~12 years."
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Klipspruit, Optimum/Koornfontein, Kriel Collieries",
+                                                                      "operator":  "Seriti Resources",
+                                                                      "output":  "Multiple large operations combined \u003e30 Mt/y",
+                                                                      "status":  "Active"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "New Clydesdale Colliery",
+                                                                      "operator":  "Undisclosed/various",
+                                                                      "output":  "Underground bord-and-pillar",
+                                                                      "status":  "Active â€” previously contracted to Boipelo"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Msobo Coal (Breyten / Msukaligwa)",
+                                                                      "operator":  "Msobo Coal",
+                                                                      "output":  "Significant",
+                                                                      "status":  "Active â€” 900 employees and 1,500 contractors (90% local)"
+                                                                  },
+                                                                  {
+                                                                      "mine":  "Vlakvarkfontein Colliery",
+                                                                      "operator":  "Ntshovelo / undisclosed",
+                                                                      "output":  "~1+ Mt/y",
+                                                                      "status":  "Active â€” opencast contract with Trollope since 2010"
+                                                                  }
+                                                              ],
+                                               "limpopo":  [
+                                                               {
+                                                                   "mine":  "Grootegeluk Mine",
+                                                                   "operator":  "Exxaro Resources",
+                                                                   "output":  "~30.4 Mt/y (2023)",
+                                                                   "status":  "Active surface mine; operational life to 2041. R5.2bn expansion underway."
+                                                               },
+                                                               {
+                                                                   "mine":  "Makhado Coking Coal Project",
+                                                                   "operator":  "MC Mining",
+                                                                   "output":  "Phase 2 targeting coking and thermal coal",
+                                                                   "status":  "Phase 2 announced; operations expected 2026"
+                                                               }
+                                                           ]
+                                           },
+                 "export_demand_and_rbct":  {
+                                                "rbct_2025_exports":  "57.66 million tonnes exported through Richards Bay Coal Terminal in 2025 â€” highest in four years, up \u003e10% year-on-year.",
+                                                "rbct_2026_target":  "CEO Alan Waller indicated 60+ million tonnes \u0027on the cards\u0027 for 2026, targeting a consistent 65 Mt/y run rate by year-end.",
+                                                "rbct_design_capacity":  "91 million tonnes per annum (significantly underutilised; 76 Mt shipped in 2017 peak).",
+                                                "export_destinations":  "~80% to Asia (India the largest single market); Europe 7.2%; Africa ~7% (Morocco largest African market).",
+                                                "coal_price":  "API4 benchmark approximately $88.4 per tonne in 2025, down 12.5% year-on-year, reflecting weak European thermal demand.",
+                                                "rail_improvement":  "Transnet\u0027s rail recovery plan bearing fruit â€” Richards Bay exports up 11% on rail improvements (January 2026 data). Rail reliability remains the single biggest constraint on export volume growth.",
+                                                "rbct_website":  "https://rbct.co.za"
+                                            },
+                 "mine_closures_and_expansions":  {
+                                                      "closures":  {
+                                                                       "summary":  "Approximately 4 mines expected to close by 2025; 11 more between 2026 and 2030. Five coal-fired power stations and 15 coal mines projected to close by 2030.",
+                                                                       "notable_closures":  [
+                                                                                                {
+                                                                                                    "site":  "Komati Power Station",
+                                                                                                    "location":  "Bethal, Mpumalanga",
+                                                                                                    "status":  "Retired â€” first SA coal power station decommissioned (114MW capacity ended)",
+                                                                                                    "impact":  "Reduces domestic offtake from adjacent collieries"
+                                                                                                }
+                                                                                            ],
+                                                                       "closure_context":  "As of April 2026, 14 coal-fired power stations in Mpumalanga and Limpopo still anchor the national grid with ~38,000MW installed capacity. Government granted time-limited compliance exemptions in 2025, allowing several plants to operate beyond air quality deadlines. Closures will impact livelihoods of ~2.5 million people in 69 mining host communities.",
+                                                                       "implication_for_CPI":  "Mine closures create near-term demand for care-and-maintenance management and managed wind-down operational services â€” a niche CPI could target."
+                                                                   },
+                                                      "expansions":  [
+                                                                         {
+                                                                             "project":  "Exxaro Matla LOME",
+                                                                             "value":  "R5.2 billion",
+                                                                             "output":  "New Mine 1 adds ~4.2 Mt/y; total contracted supply 9.3+ Mt/y to Eskom",
+                                                                             "status":  "New Mine 1 opened May 2026; further sections under development"
+                                                                         },
+                                                                         {
+                                                                             "project":  "Seriti Naudesbank Colliery",
+                                                                             "value":  "R500m+",
+                                                                             "output":  "1 Mt/y opencast; underground phase commencing ~2027",
+                                                                             "status":  "Operational since March 2025"
+                                                                         },
+                                                                         {
+                                                                             "project":  "Thungela Zibulo North Shaft Extension",
+                                                                             "value":  "R2.5 billion (aggregate expansionary capex)",
+                                                                             "output":  "Extends Zibulo underground production to 2038; up to 5 Mt/y",
+                                                                             "status":  "In progress"
+                                                                         },
+                                                                         {
+                                                                             "project":  "Exxaro Grootegeluk Expansion",
+                                                                             "value":  "Part of R5.2bn capex programme",
+                                                                             "output":  "Surface mine expansion in Limpopo Waterberg",
+                                                                             "status":  "Active"
+                                                                         },
+                                                                         {
+                                                                             "project":  "MC Mining Makhado Phase 2",
+                                                                             "value":  "Undisclosed",
+                                                                             "output":  "Coking and thermal coal in Limpopo Soutpansberg",
+                                                                             "status":  "Operations expected to commence 2026"
+                                                                         },
+                                                                         {
+                                                                             "project":  "Exxaro Matla \u0027Aviemore, Khwezela, Kangala\u0027 life extensions",
+                                                                             "value":  "Included in broader LOME capex",
+                                                                             "output":  "Not published in life-of-mine data; planned extensions",
+                                                                             "status":  "Planned"
+                                                                         }
+                                                                     ]
+                                                  }
+             }
+}

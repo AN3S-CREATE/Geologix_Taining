@@ -1,0 +1,131 @@
+﻿{
+    "_section":  "buyer_intelligence",
+    "_company":  "Vera-Commodities",
+    "_source":  "market_intelligence.json",
+    "data":  {
+                 "export_destinations_by_commodity":  {
+                                                          "thermal_coal":  {
+                                                                               "primary_buyers":  [
+                                                                                                      "India",
+                                                                                                      "China",
+                                                                                                      "Japan",
+                                                                                                      "South Korea",
+                                                                                                      "Netherlands (ARA hub for European distribution)"
+                                                                                                  ],
+                                                                               "notes":  "Richards Bay Coal Terminal (RBCT) is the primary export gateway; shipped 57.66M tonnes in 2025, targeting 60â€“65M tonnes in 2026. India has emerged as the largest growth market for SA thermal coal as China reduced volumes."
+                                                                           },
+                                                          "chrome_ore":  {
+                                                                             "primary_buyers":  [
+                                                                                                    "China (dominant â€” \u003e70% of SA chrome exports)",
+                                                                                                    "India",
+                                                                                                    "Japan",
+                                                                                                    "Kazakhstan"
+                                                                                                ],
+                                                                             "notes":  "South Africa holds ~72% of global chrome reserves. Chinese buyers (SinoSteel, Tsingshan, Xinganglian) are dominant offtakers; ferrochrome smelting in SA supplies stainless steel producers globally."
+                                                                         },
+                                                          "iron_ore":  {
+                                                                           "primary_buyers":  [
+                                                                                                  "China",
+                                                                                                  "Japan",
+                                                                                                  "South Korea",
+                                                                                                  "Germany",
+                                                                                                  "UAE"
+                                                                                              ],
+                                                                           "notes":  "Kumba Iron Ore (Anglo American subsidiary) is the dominant SA iron ore exporter via Saldanha Bay terminal. Chinese steel mills are the primary destination. OEC data confirms China as the #1 destination by volume."
+                                                                       },
+                                                          "manganese":  {
+                                                                            "primary_buyers":  [
+                                                                                                   "China (dominant)",
+                                                                                                   "India",
+                                                                                                   "Japan",
+                                                                                                   "South Korea"
+                                                                                               ],
+                                                                            "notes":  "South Africa is the world\u0027s largest manganese producer (7.4M tonnes in 2024). India\u0027s import volumes rose 56.78% MoM in Jan 2025 and 74.25% YoY in Feb 2025. Japan showed 92% MoM import growth in Feb 2025."
+                                                                        }
+                                                      },
+                 "major_domestic_buyers":  [
+                                               {
+                                                   "name":  "Sasol",
+                                                   "commodity":  "Thermal coal",
+                                                   "role":  "End-user (coal-to-liquids / chemicals feedstock)",
+                                                   "notes":  "Sasol\u0027s Secunda plant is one of the world\u0027s largest coal-to-liquids operations; large domestic thermal coal buyer"
+                                               },
+                                               {
+                                                   "name":  "Eskom",
+                                                   "commodity":  "Thermal coal",
+                                                   "role":  "End-user (power generation)",
+                                                   "notes":  "Historically the largest domestic coal buyer in SA; procurement volumes are declining as ageing coal plants are decommissioned, but still a significant offtaker"
+                                               },
+                                               {
+                                                   "name":  "ArcelorMittal South Africa",
+                                                   "commodity":  "Iron ore, coking coal, manganese",
+                                                   "role":  "End-user (steel manufacturing)",
+                                                   "notes":  "Largest SA steel producer; sources iron ore (primarily from Kumba/Sishen), coking coal, and manganese for steelmaking"
+                                               },
+                                               {
+                                                   "name":  "Samancor Chrome",
+                                                   "commodity":  "Chrome ore",
+                                                   "role":  "Producer / integrated buyer for ferrochrome smelting",
+                                                   "notes":  "Joint venture between South32 and Kermas Group; one of the world\u0027s largest integrated chrome ore miners and ferrochrome producers; a price-setting benchmark entity"
+                                               }
+                                           ],
+                 "active_international_trading_houses":  [
+                                                             {
+                                                                 "name":  "Glencore",
+                                                                 "commodities":  [
+                                                                                     "coal",
+                                                                                     "chrome/ferrochrome",
+                                                                                     "iron ore",
+                                                                                     "manganese"
+                                                                                 ],
+                                                                 "sa_role":  "Producer and major third-party trader; trades 70M+ tonnes/yr of iron ore; controls large SA coal production"
+                                                             },
+                                                             {
+                                                                 "name":  "Trafigura",
+                                                                 "commodities":  [
+                                                                                     "coal",
+                                                                                     "iron ore",
+                                                                                     "base metals"
+                                                                                 ],
+                                                                 "sa_role":  "Major SA coal exporter via RBCT; expanding metals trading; bidder for SA coal mining assets"
+                                                             },
+                                                             {
+                                                                 "name":  "Vitol / Noble Resources",
+                                                                 "commodities":  [
+                                                                                     "coal",
+                                                                                     "iron ore",
+                                                                                     "industrial raw materials"
+                                                                                 ],
+                                                                 "sa_role":  "Growing SA metals presence via Noble Resources acquisition; hiring iron ore traders; bidder for SA coal assets"
+                                                             },
+                                                             {
+                                                                 "name":  "Louis Dreyfus Company",
+                                                                 "commodities":  [
+                                                                                     "coal",
+                                                                                     "metals"
+                                                                                 ],
+                                                                 "sa_role":  "International trading house with SA commodity exposure; active in bulk material flows through Southern Africa"
+                                                             }
+                                                         ],
+                 "buying_tenders_and_offtake_calls":  [
+                                                          {
+                                                              "entity":  "Eskom",
+                                                              "type":  "Coal supply tenders",
+                                                              "source":  "Eskom Procurement â€” eskom.co.za/procurement",
+                                                              "notes":  "Eskom issues periodic coal supply tenders for its power stations; tender notices published on the Eskom website and National Treasury eTender portal"
+                                                          },
+                                                          {
+                                                              "entity":  "National Treasury eTender Portal",
+                                                              "type":  "Government and parastatal commodity procurement",
+                                                              "source":  "https://www.etenders.gov.za",
+                                                              "notes":  "Central portal for all South African public sector tenders including commodity procurement by Eskom, Transnet, and other state entities"
+                                                          },
+                                                          {
+                                                              "entity":  "Transnet",
+                                                              "type":  "Rail and port logistics tenders (indirectly impacts offtake economics)",
+                                                              "source":  "https://www.transnet.net/BusinessWithUs/Pages/Tenders.aspx",
+                                                              "notes":  "Transnet publishes logistics and service tenders; rail allocation agreements are critical for coal and iron ore offtake viability"
+                                                          }
+                                                      ]
+             }
+}

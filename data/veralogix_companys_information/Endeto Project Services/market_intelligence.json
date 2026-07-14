@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "company": "Endeto Project Services",
+    "description": "Market intelligence for multi-disciplinary engineering, steel fabrication, machining, onsite maintenance, repairs, and OEM services to South African mining and industrial clients",
+    "generated_date": "2026-06-24",
+    "version": "1.0"
+  },
+  "competitors": [
+    {
+      "name": "Steinmüller Africa (Bilfinger Power Africa)",
+      "website": "https://steinmullerafrica.com",
+      "core_capabilities": ["pressure vessel fabrication", "boiler manufacturing", "onsite construction and maintenance", "pre-fabrication", "structural steelwork"],
+      "industries_served": ["mining", "power generation", "pulp and paper", "petrochemical"],
+      "notable": "Established 1962; part of Bilfinger group; ISO 3834 and ASME-certified for pressure equipment; active across Africa and internationally; strong footprint in Mpumalanga power and mining belt"
+    },
+    {
+      "name": "ACTOM (Pty) Ltd",
+      "website": "https://actom.co.za",
+      "core_capabilities": ["electro-mechanical manufacturing", "equipment repairs and maintenance", "motor and generator rewinds", "transformer manufacturing", "projects and distribution"],
+      "industries_served": ["mining", "energy", "industrial", "rail", "municipalities"],
+      "notable": "33 outlets across sub-Saharan Africa; ISO 9001 certified; registered with CIDB; key supplier to Eskom, Transnet, and major mining houses"
+    },
+    {
+      "name": "Aveng Grinaker-LTA",
+      "website": "https://www.aveng.co.za",
+      "core_capabilities": ["structural steelwork", "civil and mechanical construction", "plant maintenance", "shutdowns", "industrial installations"],
+      "industries_served": ["mining", "oil and gas", "power", "industrial"],
+      "notable": "JSE-listed; CIDB Grade 9 contractor; ISO 9001, ISO 14001, OHSAS 18001 certified; long-term maintenance contracts with Anglo American and Eskom"
+    },
+    {
+      "name": "DRA Global",
+      "website": "https://www.draglobal.com",
+      "core_capabilities": ["EPCM services", "mineral processing plant design and construction", "mechanical fabrication", "plant commissioning", "shutdown management"],
+      "industries_served": ["mining", "minerals processing", "industrial"],
+      "notable": "Listed on JSE; ISO 9001 certified; Joburg-headquartered; active on Anglo American, Gold Fields, and Impala projects"
+    },
+    {
+      "name": "Leita Steel",
+      "website": "https://www.leitasteel.co.za",
+      "core_capabilities": ["structural steel design and manufacturing", "CNC robotic fabrication", "heavy industrial steelwork", "commercial and mining structures"],
+      "industries_served": ["mining", "heavy industrial", "commercial construction"],
+      "notable": "Established 1968; advanced robotic and CNC machinery; ISO 9001 certified; over 50 years in heavy industrial and mining fabrication"
+    },
+    {
+      "name": "Rollfab (Pty) Ltd",
+      "website": "https://www.rollfab.co.za",
+      "core_capabilities": ["medium to heavy engineering fabrication", "CNC bending and plate rolling", "pressure vessels", "mining equipment fabrication"],
+      "industries_served": ["coal", "gold", "platinum", "steel"],
+      "notable": "Specialist in plate rolling and section bending; ASME-aligned capabilities; active in Witwatersrand and Mpumalanga mining corridors"
+    },
+    {
+      "name": "Weld-Fab Engineering",
+      "website": "https://weldfab.co.za",
+      "core_capabilities": ["precision metal fabrication", "CNC plasma cutting", "TIG/MIG/SAW welding", "structural fabrication", "mining equipment components"],
+      "industries_served": ["mining", "industrial", "petrochemical"],
+      "notable": "SAIW-qualified welders; ISO 3834 compliant workshop; competitive on short-run and specialist component fabrication"
+    },
+    {
+      "name": "Conco Services",
+      "website": "https://www.conco.co.za",
+      "core_capabilities": ["power plant maintenance", "shutdown management", "boiler and turbine maintenance", "mechanical and civil construction", "onsite industrial services"],
+      "industries_served": ["power generation", "mining", "petrochemical"],
+      "notable": "Long-term Eskom maintenance contractor; strong on scheduled shutdowns and plant outage management; ISO 9001 and ISO 14001 certified"
+    },
+    {
+      "name": "Eduardo Construction (EC)",
+      "website": "https://eduardoconstruction.co.za",
+      "core_capabilities": ["industrial maintenance labour supply", "skilled welders and artisans", "QC and NDT inspection", "heat treatment services", "shutdown staffing"],
+      "industries_served": ["power generation", "steelmaking", "petrochemical", "mining"],
+      "notable": "CIDB-registered; SACPCMP-compliant health and safety officers; specialist in providing accredited welding and inspection personnel to EPCM contractors"
+    },
+    {
+      "name": "Zest WEG Group",
+      "website": "https://www.zest.co.za",
+      "core_capabilities": ["electrical and mechanical engineering", "motor and drive repairs", "custom engineered solutions", "transformer manufacturing", "onsite commissioning"],
+      "industries_served": ["mining", "water and wastewater", "industrial", "energy"],
+      "notable": "Part of WEG Group (Brazil); ISO 9001 certified; strong presence in motor repair and drive systems for mining pumps and conveyor applications"
+    }
+  ],
+  "tender_landscape": {
+    "portals": [
+      {
+        "name": "National Treasury eTender Portal",
+        "url": "https://etenders.gov.za",
+        "description": "Official South African government tender portal; publishes all state department and SOE procurement notices; filterable by category (engineering, mechanical, maintenance)"
+      },
+      {
+        "name": "CIDB Tender Database",
+        "url": "https://www.cidb.org.za/cidb-tenders/current-tenders/",
+        "description": "CIDB-registered contractor portal listing tenders requiring CIDB grading; includes structural steel, mechanical engineering, and civil works"
+      },
+      {
+        "name": "Tender Bulletins SA",
+        "url": "https://tenderbulletins.co.za",
+        "description": "Aggregated government and SOE tender bulletin with category filtering including Steel Structures, Mechanical Engineering, and Maintenance Services"
+      },
+      {
+        "name": "Online Tenders SA",
+        "url": "https://www.onlinetenders.co.za",
+        "description": "Commercial aggregator covering engineering consultants, civil, mechanical, and industrial tenders from government and private sector"
+      },
+      {
+        "name": "Eskom Supplier Portal",
+        "url": "https://www.eskom.co.za/procurement",
+        "description": "Eskom's own procurement portal for plant maintenance, fabrication, and engineering services tenders; covers Generation, Transmission, and Distribution divisions"
+      },
+      {
+        "name": "Transnet Procurement",
+        "url": "https://www.transnet.net/Supplier/Pages/Sourcing.aspx",
+        "description": "Transnet SOC Ltd procurement notices for ports, freight rail, and engineering services; typically Grade 7-9 CIDB requirement"
+      },
+      {
+        "name": "Anglo American eSourcing",
+        "url": "https://suppliers.angloamerican.com",
+        "description": "Anglo American's supplier and sourcing portal; covers engineering, maintenance, and fabrication services for SA platinum, iron ore, and coal operations"
+      },
+      {
+        "name": "Tender Alerts SA",
+        "url": "https://tenderalerts.co.za",
+        "description": "Subscription-based alert service for engineering services tenders; good for small-to-mid contractors needing filtered daily notifications"
+      },
+      {
+        "name": "ProjectsIQ",
+        "url": "https://projectsiq.co.za",
+        "description": "South African project tracking database; covers upcoming mining, industrial, and infrastructure projects for early-stage business development"
+      }
+    ],
+    "cidb_grades": {
+      "relevant_classes": [
+        {
+          "class_code": "ME",
+          "description": "Mechanical Engineering",
+          "relevance": "Applies to plant fabrication, installation, maintenance, machining, and mechanical construction works; core class for Endeto's scope"
+        },
+        {
+          "class_code": "CE",
+          "description": "Civil Engineering",
+          "relevance": "Applies to structural steelwork, foundations for plant, and civil works associated with industrial maintenance"
+        },
+        {
+          "class_code": "SB",
+          "description": "Specialist Boilers",
+          "relevance": "Specialist class for pressure vessel and boiler fabrication and repair; required for PER-regulated work"
+        },
+        {
+          "class_code": "SC",
+          "description": "Specialist Construction Works",
+          "relevance": "Covers specialist industrial installation and shutdown works"
+        }
+      ],
+      "grade_value_thresholds": [
+        {"grade": 1, "max_contract_value_ZAR": 200000},
+        {"grade": 2, "max_contract_value_ZAR": 650000},
+        {"grade": 3, "max_contract_value_ZAR": 2000000},
+        {"grade": 4, "max_contract_value_ZAR": 4000000},
+        {"grade": 5, "max_contract_value_ZAR": 6500000},
+        {"grade": 6, "max_contract_value_ZAR": 13000000},
+        {"grade": 7, "max_contract_value_ZAR": 40000000},
+        {"grade": 8, "max_contract_value_ZAR": 130000000},
+        {"grade": 9, "max_contract_value_ZAR": "unlimited"}
+      ],
+      "recommended_target_grades": "Grade 5ME to Grade 7ME for typical mining maintenance and fabrication scopes; Grade 8-9 for large shutdown and EPCM sub-contracts",
+      "registration_note": "Contractors must register separately for each class; annual financial assessment required; CIDB grade determines which government and SOE tenders a contractor can bid on"
+    },
+    "major_procurement_programmes": [
+      {
+        "client": "Anglo American (including Anglo American Platinum and Kumba Iron Ore)",
+        "programme": "Long-term maintenance contracts (LTMCs) and annual shutdown packages for mines at Rustenburg, Sishen, Kolomela, and Mafube",
+        "contact_portal": "https://suppliers.angloamerican.com"
+      },
+      {
+        "client": "Sibanye-Stillwater",
+        "programme": "Multi-year maintenance and engineering contracts at gold and platinum operations (Kloof, Driefontein, Beatrix, Rustenburg)",
+        "contact_portal": "https://www.sibanyestillwater.com/suppliers"
+      },
+      {
+        "client": "Impala Platinum (Implats)",
+        "programme": "Scheduled shutdown and maintenance contracts at Rustenburg and Marula operations",
+        "contact_portal": "https://www.implats.co.za/supply"
+      },
+      {
+        "client": "Glencore Coal SA",
+        "programme": "Annual maintenance and fabrication contracts at Mpumalanga collieries (Tweefontein, Goedgevonden, Rietspruit)",
+        "contact_portal": "https://www.glencore.com/south-africa/supplier-information"
+      },
+      {
+        "client": "Exxaro Resources",
+        "programme": "Plant maintenance and shutdown services at Grootegeluk (Lephalale) and Mpumalanga operations",
+        "contact_portal": "https://exxaro.com/suppliers"
+      },
+      {
+        "client": "Eskom (Generation Division)",
+        "programme": "Outage and maintenance contracts at power stations; Medupi, Kusile, Tutuka; steel fabrication and pressure vessel repair scope",
+        "contact_portal": "https://www.eskom.co.za/procurement"
+      },
+      {
+        "client": "South32 (Hillside Aluminium and Samancor Chrome)",
+        "programme": "Furnace and plant maintenance engineering contracts; smelter rebuilds; structural fabrication",
+        "contact_portal": "https://www.south32.net/suppliers"
+      },
+      {
+        "client": "African Rainbow Minerals (ARM)",
+        "programme": "Maintenance and engineering services at Khumani Iron Ore, Two Rivers Platinum, and Nkomati Nickel",
+        "contact_portal": "https://www.arm.co.za/suppliers"
+      }
+    ]
+  },
+  "maintenance_signals": [
+    {
+      "signal_type": "JSE SENS Production Reports",
+      "description": "JSE-listed mining companies publish quarterly and interim production reports via the SENS newsfeed. These often include references to planned maintenance stoppages, reduced production guidance, or shutdown windows.",
+      "monitoring_source": "https://www.jse.co.za/current/company-announcements",
+      "commodities_most_affected": ["platinum", "gold", "iron ore", "coal"],
+      "lead_time": "1-3 months before shutdown"
+    },
+    {
+      "signal_type": "Stats SA Mining Production and Sales Release",
+      "description": "Monthly report by Statistics South Africa covering mine-level production by commodity. Declines in specific commodities month-on-month indicate shutdowns or equipment failures.",
+      "monitoring_source": "https://www.statssa.gov.za/?page_id=1854&PPN=P2041",
+      "monitoring_frequency": "Monthly (released approx. 6 weeks after reference month)",
+      "lead_time": "Lagging indicator; use for post-event analysis and future planning"
+    },
+    {
+      "signal_type": "Mining Weekly and Engineering News Project Tracker",
+      "description": "Trade press publishes planned shutdown schedules, plant upgrades, and capital project announcements for major operations.",
+      "monitoring_source": "https://www.miningweekly.com / https://www.engineeringnews.co.za",
+      "lead_time": "1-6 months"
+    },
+    {
+      "signal_type": "Mine Health and Safety Council (MHSC) Incident Reports",
+      "description": "MHSC publishes reportable equipment failures, structural incidents, and Section 54/55 stoppages under the MHSA. Stoppages signal urgent repair and maintenance opportunities.",
+      "monitoring_source": "https://www.mhsc.org.za/incidents",
+      "lead_time": "Immediate to 2 weeks (reactive opportunity)"
+    },
+    {
+      "signal_type": "Department of Mineral and Petroleum Resources (DMPR) Notices",
+      "description": "DMPR issues Section 54 work stoppages following safety incidents; these force immediate maintenance and remediation work.",
+      "monitoring_source": "https://www.dmr.gov.za",
+      "lead_time": "Immediate"
+    },
+    {
+      "signal_type": "Annual Shutdown Season Patterns by Commodity",
+      "description": "Predictable annual patterns based on commodity and operation type.",
+      "patterns": [
+        {
+          "commodity": "Coal (Mpumalanga collieries)",
+          "typical_shutdown_window": "December–January (holiday season); additional Q2 planned maintenance",
+          "driver": "Holiday staffing and OEM availability"
+        },
+        {
+          "commodity": "Platinum Group Metals (Rustenburg/Limpopo)",
+          "typical_shutdown_window": "Annual smelter 'blow' every 6-12 months; major plant maintenance Q1 and Q3",
+          "driver": "Smelter furnace lining life and converter maintenance cycles"
+        },
+        {
+          "commodity": "Chrome / Ferrochrome Smelters",
+          "typical_shutdown_window": "Furnace rebuilds every 5-7 years; annual refractory repairs Q4",
+          "driver": "Furnace lining wear and electrode replacement schedules"
+        },
+        {
+          "commodity": "Iron Ore (Northern Cape)",
+          "typical_shutdown_window": "October–November (Transnet rail maintenance corridor shutdown)",
+          "driver": "Transnet Ore Export Channel annual maintenance on the Sishen-Saldanha line"
+        },
+        {
+          "commodity": "Gold (deep-level mines)",
+          "typical_shutdown_window": "December–January; also Q2 for winder and hoisting equipment overhauls",
+          "driver": "Labour cycle and shaft equipment certification requirements"
+        }
+      ],
+      "monitoring_source": "Cross-reference SENS announcements with commodity-specific trade press"
+    },
+    {
+      "signal_type": "Supplier Tender Portals Opening New RFQs",
+      "description": "Mining houses post Request for Quotations (RFQs) for maintenance services 4-8 weeks before planned shutdown. Monitor procurement portals for RFQ openings in fabrication, machining, and repairs categories.",
+      "monitoring_source": "Anglo American eSourcing, Sibanye Suppliers Portal, Exxaro Procurement Portal",
+      "lead_time": "4-8 weeks before shutdown"
+    },
+    {
+      "signal_type": "LinkedIn / Company News Announcements",
+      "description": "Operations managers and procurement staff post shutdown preparation notices, contractor onboarding calls, and plant upgrade announcements on LinkedIn and company news sections.",
+      "monitoring_source": "https://www.linkedin.com (follow target mining operations and procurement personnel)",
+      "lead_time": "2-8 weeks"
+    }
+  ],
+  "oem_intelligence": {
+    "most_valuable_oem_relationships": [
+      {
+        "oem_brand": "Caterpillar (CAT)",
+        "value_driver": "Dominant haul truck, excavator, and dozer brand in SA open-cast coal and iron ore mining; high-value engine and drivetrain rebuilds",
+        "service_categories": ["engine overhauls", "undercarriage rebuilds", "hydraulic cylinder repair", "GET (Ground Engaging Tools) supply"],
+        "local_dealer": "Barloworld Equipment (Vereeniging, Kathu, Witbank)"
+      },
+      {
+        "oem_brand": "Komatsu",
+        "value_driver": "Second-largest haul truck and LHD brand; extensive fleet at Exxaro, Glencore, and Anglo American Kumba; service contracts high-value",
+        "service_categories": ["PC and HD series excavator and truck components", "transmission and hydraulic rebuilds", "structural crack repairs"],
+        "local_dealer": "Komatsu South Africa (Kempton Park)"
+      },
+      {
+        "oem_brand": "Sandvik",
+        "value_driver": "Dominant underground drill rig and LHD brand across platinum and gold; parts supply for jumbos, production drills, and raise borers",
+        "service_categories": ["drill string and bit supply", "percussion mechanism overhaul", "LHD hydraulic and driveline rebuilds"],
+        "local_office": "Sandvik Mining and Rock Solutions SA (Kempton Park)"
+      },
+      {
+        "oem_brand": "Epiroc (formerly Atlas Copco)",
+        "value_driver": "Alternative underground equipment supplier to Sandvik; active in platinum and chrome mines; ROC drill maintenance contracts",
+        "service_categories": ["drill rig components", "compressor maintenance", "automation kit retrofits"],
+        "local_office": "Epiroc South Africa (Spartan, Kempton Park)"
+      },
+      {
+        "oem_brand": "Metso Outotec",
+        "value_driver": "Process plant OEM for crushers, mills, screens, and flotation; critical to platinum, iron ore, and chrome concentrators",
+        "service_categories": ["crusher liner supply and fitting", "mill liner change-outs", "screen panel and bearing replacement", "flotation cell maintenance"],
+        "local_office": "Metso Outotec SA (Johannesburg)"
+      },
+      {
+        "oem_brand": "FLSmidth",
+        "value_driver": "Cement and mineral processing plant OEM; active in iron ore (Kumba) and platinum concentrators; mill and flotation expertise",
+        "service_categories": ["PERI mill maintenance", "thickener mechanism repairs", "cyclone cluster overhauls"],
+        "local_office": "FLSmidth South Africa (Johannesburg)"
+      },
+      {
+        "oem_brand": "Weir Minerals (WARMAN)",
+        "value_driver": "Dominant slurry pump and mill lining brand in SA mineral processing; high-frequency replacement and repair scope",
+        "service_categories": ["pump impeller and casing supply", "rubber lining installation", "hydrocyclone supply and maintenance"],
+        "local_office": "Weir Minerals Africa (Alrode, Johannesburg)"
+      },
+      {
+        "oem_brand": "Joy Global / Komatsu Mining (longwall equipment)",
+        "value_driver": "Dominant in underground coal longwall mining (Mpumalanga); shearer, AFC, and powered roof support maintenance highly specialised",
+        "service_categories": ["shearer component rebuild", "AFC chain and flight bar replacement", "hydraulic prop certification"],
+        "local_office": "Komatsu Mining SA (Middelburg)"
+      }
+    ],
+    "equipment_by_commodity": {
+      "coal": {
+        "dominant_brands": ["Caterpillar (surface mining)", "Komatsu (surface)", "Joy/Komatsu Mining (underground longwall)", "Sandvik (continuous miners)", "Bell Equipment (ADTs)"],
+        "key_maintenance_items": ["haul truck body and structure repairs", "conveyor structure fabrication and maintenance", "crusher and screen maintenance", "longwall component overhauls"]
+      },
+      "chrome": {
+        "dominant_brands": ["Sandvik (underground drill rigs and LHDs)", "Epiroc", "Metso Outotec (crushing)", "Tenova Pyromet (smelters)"],
+        "key_maintenance_items": ["LHD chassis and body repairs", "drill rig percussion overhauls", "furnace and smelter structural maintenance", "chrome ore bins and transfer points"]
+      },
+      "iron_ore": {
+        "dominant_brands": ["Caterpillar (massive haul trucks at Sishen/Kolomela)", "Liebherr", "Metso Outotec (primary crushing)", "FLSmidth (concentrating)", "Transnet rail wagon maintenance"],
+        "key_maintenance_items": ["truck structure and body fabrication", "primary crusher jaw and cone maintenance", "stockpile conveyor structure and drive maintenance", "rail wagon bogie repairs"]
+      },
+      "platinum": {
+        "dominant_brands": ["Sandvik (underground)", "Epiroc", "Metso Outotec (concentrators)", "Weir Minerals (pumps)", "ABB/Siemens (electrical drives)"],
+        "key_maintenance_items": ["smelter furnace and converter maintenance", "concentrator mill liner change-outs", "pump casing and impeller replacement", "shaft steelwork and guide rail maintenance"]
+      }
+    },
+    "oem_tender_opportunity_sources": [
+      {
+        "channel": "OEM-Authorised Service Partner Programmes",
+        "description": "CAT, Komatsu, Sandvik, and Weir run authorised service provider schemes; registration gives access to component supply and service work referrals from the OEM's account managers",
+        "action": "Apply for authorised service partner status with target OEMs"
+      },
+      {
+        "channel": "Mining House Supplier Days",
+        "description": "Anglo American, Sibanye, and Glencore run annual supplier engagement days where engineering contractors are briefed on upcoming maintenance scope and OEM service requirements",
+        "action": "Register as a preferred supplier and attend supplier days"
+      },
+      {
+        "channel": "eTenders and CIDB Portal",
+        "description": "Publicly tendered OEM repair and maintenance contracts above CIDB thresholds appear on etenders.gov.za and the CIDB portal for SOE-owned mines and Eskom",
+        "action": "Monitor ME and SB categories on etenders.gov.za daily"
+      }
+    ]
+  },
+  "regulatory_requirements": {
+    "pressure_equipment_regulations": {
+      "legislation": "Pressure Equipment Regulations (PER), GNR 734 of 2009 under the Occupational Health and Safety Act (Act 85 of 1993)",
+      "key_requirements": [
+        "All pressure equipment manufactured, repaired, or maintained must conform to SANS 347:2000 (Categorisation and conformity assessment criteria for pressure equipment)",
+        "Manufacturers and repair contractors must hold a valid Approved Inspection Authority (AIA) registration or work under an AIA",
+        "Welding on pressure vessels must comply with ISO 3834 quality requirements for fusion welding",
+        "Imported pressure equipment bearing the ASME stamp (ASME VIII Division 1) is accepted as meeting PER requirements provided full ASME Code of Construction compliance is demonstrated",
+        "Competent Persons (CPs) for pressure equipment must be certified by the SAQCC CP certification body under the SAIW",
+        "Inspectors of Pressurised Equipment (IPEs) must be certified by SAQCC IPE"
+      ],
+      "recommended_certifications": ["ISO 3834-2 (Company Quality Certification via SAIW)", "SAQCC CP and IPE personnel certification", "ASME Section IX (Welding and Brazing Qualifications)"],
+      "regulator": "Department of Employment and Labour (via Inspection and Enforcement Services)"
+    },
+    "welding_certifications": {
+      "primary_standard": "ISO 3834 — Quality requirements for fusion welding of metallic materials",
+      "asme_relevance": "ASME Section IX applies to welding procedure qualifications (WPSs and PQRs) and welder performance qualifications (WPQs) for pressure-containing components",
+      "local_certification_body": "SAIW (South African Institute of Welding) — https://www.saiw.co.za",
+      "requirements": [
+        "Welding Procedure Specifications (WPS) must be qualified per ISO 15614 or ASME IX",
+        "Welders must hold current Welder Qualification Test (WQT) certificates issued by SAIW or TÜV Rheinland South Africa",
+        "NDT inspectors must be qualified to ASNT Level II or PCN Level 2 (per SANS 10227)",
+        "All welding records must be retained per ISO 3834-2 documentation requirements"
+      ]
+    },
+    "sacpcmp_registration": {
+      "legislation": "Construction Industry Development Board Act (Act 38 of 2000) and Project and Construction Management Professions Act (Act 48 of 2000)",
+      "body": "South African Council for the Project and Construction Management Professions (SACPCMP) — https://sacpcmp.org.za",
+      "requirements": [
+        "Construction Health and Safety Officers (CHSOs) on construction sites must be registered with SACPCMP; unregistered CHSOs cannot lawfully practise",
+        "Construction Health and Safety Managers (CHSMs) responsible for project OHS files must hold SACPCMP Professional registration (Pr.CHSM)",
+        "Project Managers on CIDB-registered contracts above Grade 5 are expected to hold Pr.PM (Professional Project Manager) registration",
+        "Registration requires prescribed qualifications (relevant degree or diploma), documented experience, and a professional examination"
+      ]
+    },
+    "ohs_act_obligations": {
+      "legislation": "Occupational Health and Safety Act (Act 85 of 1993), with the Construction Regulations 2014 and General Machinery Regulations applying to onsite work",
+      "key_contractor_obligations": [
+        "Section 37(2): Written agreement required between the client (mandator) and the contractor outlining OHS responsibilities before work commences",
+        "Construction Regulations Regulation 5: Principal contractor must prepare a detailed Health and Safety Plan (HSP) before commencing work on a construction site",
+        "Construction Regulations Regulation 6: Baseline risk assessment required for all construction activities",
+        "Onsite maintenance at mines is also subject to the Mine Health and Safety Act (Act 29 of 1996) when conducted on a mine site — contractors must comply with the mine's Section 11 Occupational Health and Safety Management System (OHSMS)",
+        "COID Act (Act 130 of 1993): All employees must be registered with the Compensation Fund (or an approved mutual association); letter of good standing required before site access is granted by most mining clients",
+        "Machinery operators must hold a valid Certificate of Competence issued under the Driven Machinery Regulations (DMR)"
+      ],
+      "recommended_certifications": [
+        "ISO 45001 Occupational Health and Safety Management System (replaces OHSAS 18001)",
+        "NOSA NOSCAR or equivalent 5-Star safety rating (widely required by mining house clients as a prequalification criterion)",
+        "ISO 9001 Quality Management System",
+        "ISO 14001 Environmental Management System"
+      ]
+    },
+    "additional_requirements": [
+      {
+        "requirement": "CIDB Registration",
+        "description": "Required for all contractors on government and SOE projects; Endeto should target Grade 5ME and Grade 6ME as minimum for mining maintenance contracts; upgrade path to Grade 7+ for major shutdown contracts"
+      },
+      {
+        "requirement": "BEE / B-BBEE Compliance",
+        "description": "Mining Charter III (2018) and Broad-Based Black Economic Empowerment require mining house suppliers to hold a valid B-BBEE Level 4 or better certificate; Level 1-2 provides procurement recognition points for mining clients"
+      },
+      {
+        "requirement": "ECSA Registration",
+        "description": "Engineers signing off on designs or structural calculations must be registered with the Engineering Council of South Africa (ECSA) as Professional Engineers (Pr.Eng)"
+      },
+      {
+        "requirement": "MHSA Section 11 Compliance",
+        "description": "When working on a mine as a contractor, Endeto must comply with Mine Health and Safety Act (Act 29 of 1996) Section 11 requirements including appointment documentation and compliance with the mine's risk management system"
+      }
+    ]
+  }
+}

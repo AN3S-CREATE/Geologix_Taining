@@ -1,0 +1,115 @@
+﻿{
+  "section": "1 — COMPETITOR LIST",
+  "description": "Top 10 South African regional and specialist ISPs and managed Wi-Fi providers in the commercial, community, and managed hotspot space. Excludes major national carriers and large national ISPs (Vox, Afrihost, RSAWeb). Excludes non-profits and software-only vendors.",
+  "generated": "2026-06-25",
+  "prompt_compliance_note": "Prompt requires 8-10 regional/specialist providers. All 10 entries are regional WISPs, managed hotspot specialists, or enterprise fixed-wireless operators — NOT major national carriers.",
+  "competitors": [
+    {
+      "rank": 1,
+      "name": "Herotel Business",
+      "website": "https://herotelbusiness.com",
+      "service_focus": "WISP / Fibre / Managed Wi-Fi / Enterprise",
+      "geographic_coverage": "National — rural and peri-urban SA; 2,000+ wireless towers, 200+ fibre POPs",
+      "notable": "SA largest rural/peri-urban WISP. May 2026: ICASA approved licence transfer to Maziv (Vumatel subsidiary), integrating Herotel into SA largest FTTH group. Herotel Business division offers fully managed Wi-Fi: design, deployment, SLA maintenance, hardware provision. Direct Bioniq competitor in enterprise and commercial estate segments.",
+      "threat_level_to_bioniq": "HIGH — national scale, large tower footprint, integrated managed Wi-Fi division, post-merger financial backing.",
+      "competitive_watch_url": "https://herotelbusiness.com"
+    },
+    {
+      "rank": 2,
+      "name": "Skyrove",
+      "website": "https://www.skyrove.com",
+      "service_focus": "Managed hotspot / Public Wi-Fi / Event Wi-Fi / Revenue-sharing Wi-Fi",
+      "geographic_coverage": "National — cafes, restaurants, small businesses, events",
+      "notable": "Self-described as SA largest independent Wi-Fi hotspot network. Core model: businesses share their internet via Skyrove-managed hotspot and earn revenue from prepaid Wi-Fi vouchers sold to guests. Covers major events (Rocking the Daisies). Direct competitor in the monetised public hotspot niche overlapping with Bioniq public Wi-Fi offering.",
+      "threat_level_to_bioniq": "HIGH — direct overlap in managed public hotspot model; established brand and network footprint.",
+      "competitive_watch_url": "https://www.skyrove.com"
+    },
+    {
+      "rank": 3,
+      "name": "Letaba Networks",
+      "website": "https://letaba.net",
+      "service_focus": "WISP / Fibre / Hotspot / Point-to-Point Wireless / Enterprise",
+      "geographic_coverage": "North-Eastern SA — Vhembe, Mopani, Ehlanzeni Districts (Messina north to Lydenburg south)",
+      "notable": "Premier ISP in Limpopo/Mpumalanga corridor. Offers custom point-to-point wireless links, hotspot setup for lodges, restaurants, hospitality venues, enterprise wireless, fibre, VoIP. Operates in same north-eastern regional niche as Bioniq. ICASA-licensed WISP.",
+      "threat_level_to_bioniq": "HIGH (regional) — direct geographic and market overlap, especially in hospitality and lodge Wi-Fi.",
+      "competitive_watch_url": "https://letaba.net"
+    },
+    {
+      "rank": 4,
+      "name": "Comsol Networks",
+      "website": "https://www.comsol.co.za",
+      "service_focus": "WISP / Fixed Wireless / Enterprise managed connectivity",
+      "geographic_coverage": "National — Gauteng-strong, with regional coverage across multiple provinces",
+      "notable": "Fixed wireless and enterprise connectivity provider. Offers dedicated point-to-point wireless links, managed enterprise connectivity, SLA-backed uptime for commercial clients. Competes alongside Herotel, Rocketnet, DK Wireless in the WAPA-registered WISP sector. Strong commercial estate and business park presence in Gauteng.",
+      "threat_level_to_bioniq": "MEDIUM — competes in enterprise fixed-wireless but less active in managed public hotspot space.",
+      "competitive_watch_url": "https://www.comsol.co.za"
+    },
+    {
+      "rank": 5,
+      "name": "Rocketnet",
+      "website": "https://www.rocketnet.co.za",
+      "service_focus": "WISP / Fibre / Business connectivity / SME",
+      "geographic_coverage": "Gauteng and surrounding regions",
+      "notable": "Regional WISP serving SMEs and commercial estates with fixed wireless and fibre. Known for competitive pricing in Gauteng small-business market. WAPA-registered. Competes in commercial connectivity niche for office parks and business estates — overlaps with Bioniq commercial enterprise Wi-Fi.",
+      "threat_level_to_bioniq": "MEDIUM — regional but strong in SME commercial niche.",
+      "competitive_watch_url": "https://www.rocketnet.co.za"
+    },
+    {
+      "rank": 6,
+      "name": "DKConnect (DK Wireless Internet)",
+      "website": "https://www.dkconnect.co.za",
+      "service_focus": "WISP / Fibre-to-Business / Managed wireless / Business packages",
+      "geographic_coverage": "Western Cape West Coast — Vredenburg, Langebaan, Moorreesburg, Malmesbury and surrounding farming communities",
+      "notable": "Regional WISP with 10+ years on West Coast. Offers WTTB (Wireless-to-the-Business) and FTTB (Fibre-to-the-Business) with uncapped, unshaped internet — no contention ratios or throttling tiers. Tailored business packages, dedicated installation teams, fast-response local support. WAPA-registered, ICASA-licensed. Strong in farming estates, coastal resorts, small commercial businesses.",
+      "threat_level_to_bioniq": "MEDIUM (regional) — competes in rural and coastal commercial business Wi-Fi niche.",
+      "competitive_watch_url": "https://www.dkconnect.co.za"
+    },
+    {
+      "rank": 7,
+      "name": "Wispernet",
+      "website": "https://www.wispernet.co.za",
+      "service_focus": "WISP / Fibre / Managed hotspot / VoIP / Business and Residential",
+      "geographic_coverage": "Southern and Eastern Cape — Garden Route (Swellendam to Plettenberg Bay), Klein Karoo (Oudtshoorn, George, Uniondale, Prince Albert, Ladismith, Karoo)",
+      "notable": "Multi-service regional ISP in Southern Cape. Explicitly offers managed hotspot services on request alongside fibre, wireless, VoIP, VPN, wireless network design, domain hosting. Head office in George. One of few regional WISPs with a stated hotspot product for commercial hospitality clients (guest Wi-Fi for B&Bs, guesthouses, small hotels). ICASA-licensed.",
+      "threat_level_to_bioniq": "MEDIUM (regional) — managed hotspot offering directly competes in hospitality Wi-Fi in Southern Cape.",
+      "competitive_watch_url": "https://www.wispernet.co.za"
+    },
+    {
+      "rank": 8,
+      "name": "iSpot",
+      "website": "https://www.ispot.co.za",
+      "service_focus": "Managed hotspot / Captive portal / Hospitality Wi-Fi / Campus Wi-Fi",
+      "geographic_coverage": "National — Durban KZN headquartered; services hotels, B&Bs, coffee shops, campuses nationwide",
+      "notable": "Specialist managed hotspot provider. Offers Hotspot-in-a-Box: centralized management, captive portal, prepaid voucher billing, SMS/credit card monetisation, bandwidth controls per user, professional installation. ICASA-licensed (Licence 0120/CECN/JUL/10). Based at La Lucia Ridge, Durban. Competes directly with Bioniq core managed hotspot and captive portal product.",
+      "threat_level_to_bioniq": "HIGH — direct feature-for-feature competitor in managed hospitality and venue hotspot space.",
+      "competitive_watch_url": "https://www.ispot.co.za"
+    },
+    {
+      "rank": 9,
+      "name": "Empwisp",
+      "website": "https://www.empwisp.co.za",
+      "service_focus": "WISP / Fixed wireless / Business SLA connectivity / Residential",
+      "geographic_coverage": "KwaZulu-Natal — uMhlathuze municipality (Empangeni, Felixton, Esikhawini, Ngwelezane, Richards Bay area)",
+      "notable": "Regional KZN WISP in Empangeni-Richards Bay industrial corridor. Business packages include SLA-backed uptime, wireless towers on high-speed fibre backhauls, loadshedding-resilient infrastructure (noted by customers). Competes in local SME and commercial business market in one of KZN key industrial hubs.",
+      "threat_level_to_bioniq": "MEDIUM (regional, KZN) — strong local brand in an industrial commercial area.",
+      "competitive_watch_url": "https://www.empwisp.co.za"
+    },
+    {
+      "rank": 10,
+      "name": "NetCom Wireless",
+      "website": "https://www.netcomwireless.co.za",
+      "service_focus": "WISP / Fibre / Business wireless / Residential",
+      "geographic_coverage": "Western Cape — Overberg region (Hermanus, Caledon, Bredasdorp, L Agulhas, Swellendam, Riviersonderend)",
+      "notable": "ICASA-licensed ECS and ECNS provider. Founded 2009 in Overberg. Offers wireless internet, fibre, and VoIP to residential and business clients. Known for strong local support and loadshedding resilience through generator-backed towers. Competes in rural/coastal commercial market: wine farms, agri-businesses, small estates.",
+      "threat_level_to_bioniq": "LOW-MEDIUM (niche regional) — limited to Overberg but strong ICASA-compliant brand in agricultural commercial niche.",
+      "competitive_watch_url": "https://www.netcomwireless.co.za"
+    }
+  ],
+  "removed_from_previous_version": [
+    { "name": "RSAWeb", "reason": "Major national carrier — excluded by prompt. Not regional or specialist." },
+    { "name": "Vox Telecom", "reason": "Major national enterprise carrier — excluded by prompt. Large corporate B2B portfolio." },
+    { "name": "Afrihost Business", "reason": "Major national carrier — excluded by prompt. MyBroadband ISP of the Year (national consumer/SME scale)." },
+    { "name": "Project Isizwe", "reason": "Non-profit organisation — not a commercial competitor. Belongs in connectivity_opportunities." },
+    { "name": "Powerlynx", "reason": "Software/platform vendor — not an ISP. Provides hotspot management software. Not a direct competitor." }
+  ]
+}

@@ -1,0 +1,166 @@
+﻿{
+    "total_chunks":  72,
+    "company":  "Vcom",
+    "total_docs":  1,
+    "documents":  [
+                      {
+                          "sections":  [
+                                           {
+                                               "section":  "bbbee_transformation",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__bbbee_transformation_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__bbbee_transformation_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "competitive_landscape",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__competitive_landscape_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__competitive_landscape_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "executive_summary",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__executive_summary_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__executive_summary_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "financial",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__financial_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__financial_p2.json"
+                                                         ],
+                                               "parts":  2
+                                           },
+                                           {
+                                               "section":  "market_segments",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__market_segments.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "opportunities",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__opportunities_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__opportunities_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__opportunities_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__opportunities_p4.json"
+                                                         ],
+                                               "parts":  4
+                                           },
+                                           {
+                                               "section":  "pricing",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__pricing.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "recommendations",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p4.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p5.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p6.json",
+                                                             "doc1_Vcom_in_South_Africa20260__recommendations_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "regulatory",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p10.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p11.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p12.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p13.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p14.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p15.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p16.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p17.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p18.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p19.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p20.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p21.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p22.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p23.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p24.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p4.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p5.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p6.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p7.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p8.json",
+                                                             "doc1_Vcom_in_South_Africa20260__regulatory_p9.json"
+                                                         ],
+                                               "parts":  24
+                                           },
+                                           {
+                                               "section":  "service_offerings",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__service_offerings.json"
+                                                         ],
+                                               "parts":  1
+                                           },
+                                           {
+                                               "section":  "technology",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p10.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p11.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p12.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p13.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p4.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p5.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p6.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p7.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p8.json",
+                                                             "doc1_Vcom_in_South_Africa20260__technology_p9.json"
+                                                         ],
+                                               "parts":  13
+                                           },
+                                           {
+                                               "section":  "tender_landscape",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p4.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p5.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p6.json",
+                                                             "doc1_Vcom_in_South_Africa20260__tender_landscape_p7.json"
+                                                         ],
+                                               "parts":  7
+                                           },
+                                           {
+                                               "section":  "threats_risks",
+                                               "files":  [
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p1.json",
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p2.json",
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p3.json",
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p4.json",
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p5.json",
+                                                             "doc1_Vcom_in_South_Africa20260__threats_risks_p6.json"
+                                                         ],
+                                               "parts":  6
+                                           }
+                                       ],
+                          "doc_key":  "doc1_Vcom_in_South_Africa20260",
+                          "chunk_count":  72,
+                          "source_doc":  "Competitive and Market Intelligence for Vcom in South Africa_20260713111203.docx"
+                      }
+                  ],
+    "generated":  "2026-07-13",
+    "ai_usage":  "Read this manifest to find which chunk files contain specific sections (e.g. competitive_landscape, regulatory, opportunities). Then read those specific files."
+}

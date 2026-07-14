@@ -1,0 +1,231 @@
+﻿{
+    "_section":  "competitors",
+    "_company":  "Veralogix Rentals",
+    "_source":  "market_intelligence.json",
+    "data":  [
+                 {
+                     "company_name":  "Trollope Group",
+                     "website":  "https://trollopegroup.co.za",
+                     "fleet_focus":  [
+                                         "Excavators 70â€“260t",
+                                         "Rigid dump trucks 60â€“150t",
+                                         "Articulated dump trucks 20/40/60t",
+                                         "Front-end loaders 20â€“100t",
+                                         "Dozers 40/80/100t",
+                                         "Drill rigs (23t TH and 25t DTH)",
+                                         "Crushing and screening plants (mobile jaw, impact, cone, double roll, scalper screens)",
+                                         "Support equipment (graders, TLBs, water bowsers, service/diesel trucks)"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Mpumalanga (coal)",
+                                                  "Northern Cape (manganese, iron ore)",
+                                                  "North West (platinum, Bushveld Igneous Complex)",
+                                                  "Limpopo (platinum, northern limb Bushveld)",
+                                                  "KwaZulu-Natal (lithium)",
+                                                  "Botswana",
+                                                  "Namibia (uranium)",
+                                                  "DRC (copper)",
+                                                  "Guinea (bauxite)"
+                                              ],
+                     "approximate_fleet_size":  "680+ units confirmed: 75+ excavators, 180+ rigid dump trucks, 150+ ADTs, 35+ front-end loaders, 55+ dozers, 20+ drill rigs, 15+ crushing/screening units, 150+ support equipment",
+                     "recent_developments":  "Strict first-life replacement policy on all primary equipment. Engineering News reported continued growth in diverse mining services (March 2025). Expanding into uranium (Namibia), lithium (KwaZulu-Natal), bauxite (Guinea), copper (DRC). Established 1975 â€” one of Africa\u0027s largest mining contractor fleets. Strong institutional track record across coal, platinum, manganese, iron ore."
+                 },
+                 {
+                     "company_name":  "Strata Mining Services",
+                     "website":  "https://stratams.co.za",
+                     "fleet_focus":  [
+                                         "Articulated dump trucks 18tâ€“60t",
+                                         "Heavy equipment up to 90t",
+                                         "Hydraulic excavators",
+                                         "Front-end loaders",
+                                         "Wheel loaders",
+                                         "Bulldozers and track equipment",
+                                         "Graders",
+                                         "Crushing, screening and washing equipment",
+                                         "Lowbed trailers"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Northern Cape (specified)",
+                                                  "Nationwide South Africa"
+                                              ],
+                     "approximate_fleet_size":  "Not publicly disclosed â€” mid-sized specialist; fleet described as \u0027low- to medium-hour machines from well-known OEMs\u0027",
+                     "recent_developments":  "Expanded into mine rehabilitation services (progressive and final closure). Added lowbed transportation as standalone service. Cape Town-based HQ (+27 21 023 1422). Focus on end-to-end opencast solutions. No public pricing â€” quotes only.",
+                     "contact":  {
+                                     "phone":  "+27 21 023 1422",
+                                     "email":  "info@stratams.co.za"
+                                 }
+                 },
+                 {
+                     "company_name":  "Black Mining",
+                     "website":  "https://www.blackmining.co.za",
+                     "fleet_focus":  [
+                                         "Excavators: 20t, 30t, 35t, 40t, 50t, 75t, 87t, 120t",
+                                         "Rigid dump trucks",
+                                         "Articulated dump trucks (Volvo A40G, Bell B40)",
+                                         "Tipper trucks (various sizes)",
+                                         "Water tankers (various sizes)",
+                                         "Graders",
+                                         "Dozers",
+                                         "Rollers",
+                                         "TLBs",
+                                         "Front-end loaders",
+                                         "Screens and crushers"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Johannesburg-based (124 10th Road, Kew, 2090)",
+                                                  "Nationwide delivery with 24/7 support"
+                                              ],
+                     "approximate_fleet_size":  "Not publicly disclosed â€” fleet spans 20t to 120t excavators across 8 size classes",
+                     "recent_developments":  "Pricing on hourly or contracted agreement basis â€” specific rates not disclosed. Operates with dedicated operators included. Rapid-response service teams. Focus on low-hour, site-ready fleet.",
+                     "contact":  {
+                                     "phone":  "+27 76 227 9901",
+                                     "email":  "info@blackmining.co.za"
+                                 }
+                 },
+                 {
+                     "company_name":  "JCI Mining",
+                     "website":  "https://jcimining.co.za",
+                     "fleet_focus":  [
+                                         "ADTs 30â€“40t",
+                                         "Rigid dump trucks 60t",
+                                         "Dozers (various sizes)",
+                                         "Graders (various sizes)",
+                                         "TLBs",
+                                         "Diesel and water bowsers",
+                                         "Diesel water pumps",
+                                         "Slurry pumps",
+                                         "Submersible pumps"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Mpumalanga (HQ: Aerorand, Middelburg, 1055)",
+                                                  "Coalfields of South Africa"
+                                              ],
+                     "approximate_fleet_size":  "Described as \u0027large fleet\u0027 â€” specific number not publicly disclosed",
+                     "recent_developments":  "Established 2007. Integrated opencast services beyond hire: load and haul, drilling and blasting, crushing and screening, dewatering, mine planning and geological services. Fully qualified engineering maintenance team on site. Contact: 013 246 1826 / info@jcimining.co.za"
+                 },
+                 {
+                     "company_name":  "Amandla Awethu Projects SA",
+                     "website":  "https://www.amandlawethuprojects.co.za",
+                     "fleet_focus":  [
+                                         "Excavators 20tâ€“120t (including long-reach models)",
+                                         "Mini excavators 1.5t, 2.5t, 5t",
+                                         "ADTs 20tâ€“50t",
+                                         "Wheeled loaders (CAT 938, 950, 966, 972)",
+                                         "Track bulldozers D5â€“D10",
+                                         "Motor graders",
+                                         "Single drum and padfoot compaction rollers",
+                                         "TLBs (2x4 and 4x4)",
+                                         "Skid steer loaders",
+                                         "Mobile scalpers/screeners",
+                                         "Jaw crushers",
+                                         "Triple deck and inclined tracked screens",
+                                         "Rigid dump trucks",
+                                         "Back tipper trucks 6mÂ³â€“30mÂ³",
+                                         "Side tipper trucks (34t)",
+                                         "Water tankers 10,000Lâ€“35,000L",
+                                         "Diesel tankers 10,000Lâ€“35,000L",
+                                         "Lowbed trailers 1â€“200t",
+                                         "Mobile cranes, tower cranes, crawler cranes",
+                                         "Telehandlers",
+                                         "Cherry pickers",
+                                         "Forklifts 5t, 8t",
+                                         "Drill rigs",
+                                         "Asphalt pavers",
+                                         "Concrete truck mixers",
+                                         "Mobile generators",
+                                         "Mobile lighting plants"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Gauteng (primary base)",
+                                                  "Nationwide South Africa (24/7 transport)"
+                                              ],
+                     "approximate_fleet_size":  "28 state-of-the-art machines (confirmed). Broadest equipment category range of any mid-tier competitor.",
+                     "recent_developments":  "New and low-hour fleet from leading OEMs. All equipment includes operators; fuel, VAT, accommodation and transport excluded. Attachments available: buckets, hammer breakers, greedy boards, teeth, load cells, reinforced blades. Strong B-BBEE positioning."
+                 },
+                 {
+                     "company_name":  "Barloworld Equipment (CAT Dealer)",
+                     "website":  "https://barloworld-equipment.com",
+                     "fleet_focus":  [
+                                         "CAT excavators",
+                                         "CAT dozers",
+                                         "CAT wheel loaders",
+                                         "CAT haul trucks",
+                                         "CAT graders",
+                                         "CAT power systems and generators"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Nationwide South Africa",
+                                                  "Sub-Saharan Africa"
+                                              ],
+                     "approximate_fleet_size":  "Institutional fleet â€” exact rental count not publicly disclosed. Largest multi-franchise heavy equipment provider in South Africa.",
+                     "recent_developments":  "Rental arm at rent.cat.com/barloworld-equipment. Minimum 1-month contracts. OEM service and parts advantage. Long-term rental options with tested and maintained CAT machines."
+                 },
+                 {
+                     "company_name":  "Eqstra Contract Mining (eXtract Group)",
+                     "website":  "https://eqstra-online.co.za",
+                     "fleet_focus":  [
+                                         "Contract mining fleet (heavy earthmoving)",
+                                         "Construction and mining equipment",
+                                         "Long-term lease equipment for mining and construction"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "South Africa (primary)",
+                                                  "Rest of Africa",
+                                                  "United Kingdom",
+                                                  "Ireland"
+                                              ],
+                     "approximate_fleet_size":  "Institutional scale â€” post R7.8bn recapitalisation by enX. Industrial Equipment and Fleet Management divisions acquired by enX; Contract Mining retained as eXtract Group.",
+                     "recent_developments":  "Core focus: distribution, long-term lease and rental of mobile capital equipment for construction and mining. Separately listed entity post-transaction. Strong institutional client relationships."
+                 },
+                 {
+                     "company_name":  "Rham Equipment",
+                     "website":  "https://rhamequipment.co.za",
+                     "fleet_focus":  [
+                                         "Underground load haul dumpers (LHDs) â€” battery: 7t (25HDB), 7.5t (30HDBF flameproof), 10t (30HDX)",
+                                         "Underground battery dump truck â€” 32t payload (DT32)",
+                                         "Face drilling rigs",
+                                         "Long hole drill rigs",
+                                         "Roofbolters",
+                                         "Specialised underground mobile mining equipment"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "Gauteng headquarters (15km north of OR Tambo Airport, Midrand)",
+                                                  "Platinum operations (Bushveld Igneous Complex)",
+                                                  "Gold operations (Witwatersrand)",
+                                                  "Chrome operations (Limpopo)",
+                                                  "Coal underground mines (Mpumalanga)"
+                                              ],
+                     "approximate_fleet_size":  "10+ battery LHDs operational with more under construction. 4 factories totalling 10,500sqm under roof and 35,000sqm open land. Established 1980.",
+                     "recent_developments":  "Battery-electric underground machines actively replacing diesel. 10 battery LHDs deployed across platinum, gold and chrome. Exhibitor at Electra Mining Africa 2026. B-BBEE Level 3 certified. Expanding into underground battery truck (DT32) for platinum and gold.",
+                     "competitive_note":  "Primarily underground mining specialist â€” limited direct competition with Veralogix on surface/opencast. Strongest in platinum, gold, chrome underground fleets."
+                 },
+                 {
+                     "company_name":  "Buraaq Mining Services",
+                     "website":  "https://www.buraaqmining.co.za",
+                     "fleet_focus":  [
+                                         "Mining equipment rental",
+                                         "Earthmoving equipment",
+                                         "Opencast mining support equipment"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "South Africa"
+                                              ],
+                     "approximate_fleet_size":  "Not publicly disclosed â€” small-to-mid-sized",
+                     "recent_developments":  "Equipment rental focused; competes on short-to-medium term hire market."
+                 },
+                 {
+                     "company_name":  "Scribante Group (Mining Plant Hire)",
+                     "website":  "https://www.scribantegroup.co.za",
+                     "fleet_focus":  [
+                                         "Mining plant hire",
+                                         "Earthmoving equipment",
+                                         "Opencast mining support"
+                                     ],
+                     "geographic_footprint":  [
+                                                  "South Africa"
+                                              ],
+                     "approximate_fleet_size":  "Not publicly disclosed",
+                     "recent_developments":  "Active mining plant hire division in opencast contract mining sector."
+                 }
+             ]
+}
