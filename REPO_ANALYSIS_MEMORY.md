@@ -56,3 +56,4 @@ Phase 3: Company-context learning process for Geologix AI — process definition
 - [2026-07-14] Reviewed source docs, scripts, modelfiles, `.index`, and training data for first-person Andries build specification. Recorded data-format and hardening gaps.
 - [2026-07-14] Built company-context process doc + ingest script; generated `data/company_context/` pack (31 companies, 7 XPORT + 30 ROUTE templates). No model training run.
 - [2026-07-14] Committed `81bc6c9` and pushed branch `main-geologix-training-scaffold` to origin (AN3S-CREATE/Geologix_Taining) and veralogix (VeralogixCatalyst/geologix_taining). Nested company-pack `.git` renamed to `.git_nested_disabled` so files track in parent repo.
+- [2026-07-14] Removed nested company-pack `.index/` and blocked `_research_archive/` pharma docs from tracked tree; pushed cleanup to both remotes.
