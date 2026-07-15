@@ -57,3 +57,7 @@ Phase 3: Company-context learning process for Geologix AI — process definition
 - [2026-07-14] Built company-context process doc + ingest script; generated `data/company_context/` pack (31 companies, 7 XPORT + 30 ROUTE templates). No model training run.
 - [2026-07-14] Committed `81bc6c9` and pushed branch `main-geologix-training-scaffold` to origin (AN3S-CREATE/Geologix_Taining) and veralogix (VeralogixCatalyst/geologix_taining). Nested company-pack `.git` renamed to `.git_nested_disabled` so files track in parent repo.
 - [2026-07-14] Removed nested company-pack `.index/` and blocked `_research_archive/` pharma docs from tracked tree; pushed cleanup to both remotes.
+- [2026-07-14] Merged `main-geologix-training-scaffold` into `main` on both remotes at `a0000ea` (Veralogix used `--force-with-lease` for unrelated history).
+- [2026-07-14] Restored local working tree with `git reset --hard a0000ea`; local `main` clean and matches both remotes.
+- [2026-07-14] Fixed stale `main-geologix-training-scaffold` (behind main by 2 merge commits, not conflicted). Fast-forwarded to `a0000ea` and pushed to both remotes; GitHub compare now `identical`.
+- [2026-07-14] Verified identical on both remotes; deleted merged `main-geologix-training-scaffold` locally and on origin + veralogix. Only `main` remains at `a0000ea`.
